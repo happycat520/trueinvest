@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Markets Dashboard | CrystalWell Analytics</title>
+<meta name="description" content="Insider trading activity, dividend and earnings dates, and technical price-streak alerts across the DJIA and S&P 500.">
+<link rel="stylesheet" href="css/styles.css">
+<link rel="stylesheet" href="css/dashboard.css">
+</head>
+<body>
+
+<nav class="site-nav">
+  <div class="container">
+    <a href="index.html" class="brand">
+      <span class="facet-mark">
+        <svg width="26" height="26" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <polygon points="16,2 29,11 16,15" fill="#3577c9"/>
+          <polygon points="16,2 3,11 16,15" fill="#245fa8"/>
+          <polygon points="3,11 16,15 16,30" fill="#173a68"/>
+          <polygon points="29,11 16,15 16,30" fill="#0d1b32"/>
+          <line x1="16" y1="2" x2="16" y2="30" stroke="#e4d3ab" stroke-width="0.6" opacity="0.7"/>
+        </svg>
+      </span>
+      CrystalWell
+    </a>
+    <button class="nav-toggle" aria-label="Toggle navigation" aria-expanded="false">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
+    </button>
+    <div class="nav-links">
+      <a href="research.html">Research</a>
+      <a href="dashboard.html" class="active">Dashboard</a>
+      <a href="index.html#philosophy">Philosophy</a>
+      <a href="index.html#process">Process</a>
+      <a href="index.html#about">About</a>
+    </div>
+    <div class="nav-cta">
+      <a href="index.html#newsletter-contact" class="btn btn-primary btn-sm">Join the newsletter</a>
+    </div>
+  </div>
+</nav>
+
+<header class="dash-header">
+  <div class="container">
+    <div class="dash-header-row">
+      <div>
+        <span class="eyebrow">Markets dashboard</span>
+        <h1>DJIA &amp; S&amp;P 500 · 482 tickers</h1>
+        <p>Open-market insider activity, dividend &amp; earnings dates, and multi-day price-streak alerts. Refreshed weekday mornings by an automated pipeline — see the note at the bottom of this page.</p>
+      </div>
+      <div class="dash-updated">
+        <div><span class="dot"></span>Updated</div>
+        <div id="dash-updated-time" style="margin-top:2px; color:#fff; font-size:14px;">Loading…</div>
+      </div>
+    </div>
+    <div class="dash-tabs">
+      <button class="dash-tab active" data-tab="insider">Insider Trading <span class="tab-count" id="insider-tab-count">—</span></button>
+      <button class="dash-tab" data-tab="keydates">Key Dates <span class="tab-count tc-red" id="keydates-tab-count">—</span></button>
+      <button class="dash-tab" data-tab="movement">Price Movement <span class="tab-count tc-red" id="movement-down-count">—</span><span class="tab-count tc-green" id="movement-up-count">—</span></button>
+    </div>
+  </div>
+</header>
+
+<main class="dash-body">
+  <div class="container">
+
+    <!-- ================= INSIDER TRADING ================= -->
+    <div class="dash-panel active" id="panel-insider">
+
+      <div class="stat-row">
+        <div class="stat-card">
+          <div class="stat-label">Total filings (30d)</div>
+          <div class="stat-value" id="s-total">—</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-label">Insider buys</div>
+          <div class="stat-value up" id="s-buys">—</div>
+          <div class="stat-sub" id="s-ceo-cfo">CEO/CFO: —</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-label">Insider sales</div>
+          <div class="stat-value down" id="s-sells">—</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-label">Stocks with buys</div>
+          <div class="stat-value" id="s-stocks">—</div>
+          <div class="stat-sub">unique tickers</div>
+        </div>
+      </div>
+
+      <div class="dash-section">
+        <div class="dash-section-head">
+          <div>
+            <h2>Insider buys — last 30 days</h2>
+            <span class="hint">CEO &amp; CFO purchases are the strongest signal · Source: SEC EDGAR Form 4</span>
+          </div>
+        </div>
+        <div class="data-table-wrap">
+          <table class="data-table">
+            <thead><tr><th>Ticker</th><th>Company</th><th>Insider</th><th>Role</th><th>Shares bought</th><th>Value</th><th>Date</th><th>Filing</th></tr></thead>
+            <tbody id="buys-body"><tr><td colspan="8" class="dash-loading">Fetching filings…</td></tr></tbody>
+          </table>
+        </div>
+      </div>
+
+      <div class="dash-section">
+        <div class="dash-section-head">
+          <div>
+            <h2>Insider sales — last 30 days</h2>
+            <span class="hint">Includes shares remaining · Source: SEC EDGAR Form 4</span>
+          </div>
+          <input class="table-search" id="sells-search" type="text" placeholder="Filter by ticker…" aria-label="Filter insider sales by ticker">
+        </div>
+        <div class="data-table-wrap">
+          <table class="data-table">
+            <thead><tr><th>Ticker</th><th>Company</th><th>Insider</th><th>Role</th><th>Shares sold</th><th>Shares remaining</th><th>Option expiry</th><th>Date</th><th>Filing</th></tr></thead>
+            <tbody id="sells-body"><tr><td colspan="9" class="dash-loading">Fetching filings…</td></tr></tbody>
+          </table>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- ================= KEY DATES ================= -->
+    <div class="dash-panel" id="panel-keydates">
+
+      <div class="stat-row">
+        <div class="stat-card">
+          <div class="stat-label">Stocks paying dividends</div>
+          <div class="stat-value" id="kd-paying">—</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-label">Ex-dates this month</div>
+          <div class="stat-value amber" id="kd-upcoming">—</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-label">🔥 Squeeze candidates</div>
+          <div class="stat-value down" id="kd-squeeze">—</div>
+          <div class="stat-sub">short ratio ≥ 5</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-label">Earnings this month</div>
+          <div class="stat-value" id="kd-earnings">—</div>
+        </div>
+      </div>
+
+      <div class="dash-section">
+        <div class="dash-section-head">
+          <div>
+            <h2 id="div-table-title">Dividend dates</h2>
+            <span class="hint" id="div-table-hint">Sorted by soonest ex-dividend date · Yield calculated from price · Source: Yahoo Finance</span>
+          </div>
+          <input class="table-search" id="dividends-search" type="text" placeholder="Filter by ticker…" aria-label="Filter dividends by ticker">
+        </div>
+        <div class="data-table-wrap">
+          <table class="data-table">
+            <thead><tr><th>Ticker</th><th>Company</th><th>Ex-date</th><th>Annual div</th><th>Yield</th><th>Price</th></tr></thead>
+            <tbody id="dividends-body"><tr><td colspan="6" class="dash-loading">Loading…</td></tr></tbody>
+          </table>
+        </div>
+      </div>
+
+      <div class="dash-section">
+        <div class="dash-section-head">
+          <div>
+            <h2>Upcoming earnings</h2>
+            <span class="hint">Sorted by short ratio · 🔥 = short ratio ≥ 5 · Source: Yahoo Finance</span>
+          </div>
+          <input class="table-search" id="earnings-search" type="text" placeholder="Filter by ticker…" aria-label="Filter earnings by ticker">
+        </div>
+        <div class="data-table-wrap">
+          <table class="data-table">
+            <thead><tr><th>Ticker</th><th>Company</th><th>Earnings date</th><th>Short ratio</th><th>Short % float</th><th>Squeeze?</th></tr></thead>
+            <tbody id="earnings-body"><tr><td colspan="6" class="dash-loading">Loading…</td></tr></tbody>
+          </table>
+        </div>
+      </div>
+
+      <p class="dash-source-note" id="keydates-updated"></p>
+    </div>
+
+    <!-- ================= PRICE MOVEMENT ================= -->
+    <div class="dash-panel" id="panel-movement">
+
+      <div class="stat-row stat-row-5">
+        <div class="stat-card"><div class="stat-label">Down 3 days straight</div><div class="stat-value down" id="pm-down">—</div></div>
+        <div class="stat-card"><div class="stat-label">Breakdown signals</div><div class="stat-value down" id="pm-breakdown">—</div><div class="stat-sub">heavy vol + down streak</div></div>
+        <div class="stat-card"><div class="stat-label">Bottom signals</div><div class="stat-value amber" id="pm-bottom">—</div><div class="stat-sub">oversold + light vol</div></div>
+        <div class="stat-card"><div class="stat-label">Up 3 days straight</div><div class="stat-value up" id="pm-up">—</div></div>
+        <div class="stat-card"><div class="stat-label">Peak signals</div><div class="stat-value amber" id="pm-peak">—</div><div class="stat-sub">overbought + heavy vol</div></div>
+      </div>
+
+      <div class="signal-legend">
+        <span style="font-family:var(--font-mono); font-size:11px; color:var(--ink-faint); text-transform:uppercase; letter-spacing:0.05em;">Signal guide</span>
+        <span class="legend-item"><span class="signal-chip sig-red">🔴 Breakdown</span> heavy vol + down = institutional selling</span>
+        <span class="legend-item"><span class="signal-chip sig-green">🟢 Strong Bottom</span> RSI &lt;30 + light vol + below 200d MA</span>
+        <span class="legend-item"><span class="signal-chip sig-amber">🟡 Near Bottom</span> RSI &lt;30 + light vol</span>
+        <span class="legend-item"><span class="signal-chip sig-amber">⚠️ Possible Bottom</span> light vol only — confirm with RSI</span>
+        <span class="legend-item"><span class="signal-chip sig-red">🔴 Strong Peak</span> RSI &gt;70 + heavy vol + above 200d MA</span>
+        <span class="legend-item"><span class="signal-chip sig-green">📈 Momentum</span> heavy vol up — not yet overbought</span>
+      </div>
+
+      <div class="dash-section">
+        <div class="dash-section-head">
+          <h2>📉 Down 3 consecutive days</h2>
+          <span class="hint">RSI · 200-day MA · volume character · signal strength — sorted by conviction</span>
+        </div>
+        <div class="data-table-wrap">
+          <table class="data-table">
+            <thead><tr><th>Ticker</th><th>Company</th><th>Price</th><th>Day 1</th><th>Day 2</th><th>Day 3</th><th>Total</th><th>RSI (14)</th><th>vs 200d MA</th><th>Volume</th><th>Signal</th></tr></thead>
+            <tbody id="down-body"><tr><td colspan="11" class="dash-loading">Loading…</td></tr></tbody>
+          </table>
+        </div>
+      </div>
+
+      <div class="dash-section">
+        <div class="dash-section-head">
+          <h2>📈 Up 3 consecutive days</h2>
+          <span class="hint">RSI · 200-day MA · volume character · signal strength — sorted by conviction</span>
+        </div>
+        <div class="data-table-wrap">
+          <table class="data-table">
+            <thead><tr><th>Ticker</th><th>Company</th><th>Price</th><th>Day 1</th><th>Day 2</th><th>Day 3</th><th>Total</th><th>RSI (14)</th><th>vs 200d MA</th><th>Volume</th><th>Signal</th></tr></thead>
+            <tbody id="up-body"><tr><td colspan="11" class="dash-loading">Loading…</td></tr></tbody>
+          </table>
+        </div>
+      </div>
+
+      <p class="dash-source-note" id="movement-updated"></p>
+    </div>
+
+  </div>
+</main>
+
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-bottom" style="margin-top:0; border-top:none; padding-top:0;">
+      <span>© 2026 CrystalWell Analytics LLC. All rights reserved.</span>
+      <span>Data from the samuelstocks pipeline (SEC EDGAR + Yahoo Finance) — see data/dashboard/README.md.</span>
+    </div>
+  </div>
+</footer>
+
+<script src="js/main.js"></script>
+<script src="js/dashboard.js"></script>
+</body>
+</html>

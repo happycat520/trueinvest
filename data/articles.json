@@ -1,0 +1,24 @@
+[
+  {
+    "slug": "my-investment-framework",
+    "title": "My Investment Framework",
+    "date": "2026-07-17",
+    "deck": "A consistent, repeatable way of evaluating opportunities \u2014 built on ignoring headlines, demanding a margin of safety, and thinking in probabilities rather than predictions.",
+    "tags": [
+      "Framework",
+      "Philosophy"
+    ],
+    "url": "research/my-investment-framework.html"
+  },
+  {
+    "slug": "when-insider-buying-actually-matters",
+    "title": "When Insider Buying Actually Matters",
+    "date": "2026-07-17",
+    "deck": "Most insider transactions tell you very little. Here's how to tell the difference between routine noise and the small number of signals genuinely worth studying.",
+    "tags": [
+      "Insider Activity",
+      "Signals"
+    ],
+    "url": "research/when-insider-buying-actually-matters.html"
+  }
+]
