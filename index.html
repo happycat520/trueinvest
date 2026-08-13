@@ -9,7 +9,7 @@
 </head>
 <body>
 
-<a class="skip-link" href="#main" style="position:absolute;left:-999px;top:0;background:#fff;padding:10px;z-index:200;">Skip to content</a>
+<a class="skip-link" href="#main">Skip to content</a>
 
 <nav class="site-nav" id="top">
   <div class="container">
@@ -48,7 +48,7 @@
     <div class="container hero-grid">
       <div>
         <span class="eyebrow">Independent investment research</span>
-        <h1>Look where the market has<br><em>stopped looking.</em></h1>
+        <h1>Look where the market has <em>stopped looking.</em></h1>
         <p class="lede">Evidence-driven analysis of overlooked, misunderstood, and out-of-favor companies — built to help thoughtful investors make better decisions with their own capital.</p>
         <div class="hero-actions">
           <a href="index.html#newsletter-contact" class="btn btn-primary">Join the newsletter</a>
@@ -202,28 +202,28 @@
   </section>
 
   <!-- DASHBOARD PREVIEW -->
-  <section class="section on-dark" style="background:var(--navy-950);">
-    <div class="container" style="display:grid; grid-template-columns: 1.1fr 1fr; gap:50px; align-items:center;">
+  <section class="section on-dark dashboard-preview">
+    <div class="container dashboard-preview-grid">
       <div class="reveal">
         <span class="eyebrow">Markets dashboard</span>
-        <h2 style="color:#fff; margin-top:14px; font-size:clamp(24px,3vw,34px);">DJIA insider activity, dividends &amp; technical alerts — in one view.</h2>
-        <p style="margin-top:16px; color:rgba(229,238,250,0.72); font-size:15.5px; line-height:1.65; max-width:52ch;">Track open-market insider buying and selling, upcoming ex-dividend dates, earnings with elevated short interest, and multi-day price streaks across all 30 Dow components.</p>
-        <a href="dashboard.html" class="btn btn-primary" style="margin-top:26px;">Open the dashboard</a>
+        <h2 class="dashboard-preview-title">DJIA insider activity, dividends &amp; technical alerts — in one view.</h2>
+        <p class="dashboard-preview-desc">Track open-market insider buying and selling, upcoming ex-dividend dates, earnings with elevated short interest, and multi-day price streaks across all 30 Dow components.</p>
+        <a href="dashboard.html" class="btn btn-primary dashboard-preview-cta">Open the dashboard</a>
       </div>
-      <div class="reveal" style="border:1px solid var(--line-dark); background:rgba(255,255,255,0.03); padding:22px;">
-        <div style="font-family:var(--font-mono); font-size:11px; letter-spacing:0.06em; text-transform:uppercase; color:var(--blue-400); margin-bottom:14px;">Live snapshot</div>
-        <div style="display:grid; grid-template-columns:repeat(3,1fr); gap:1px; background:var(--line-dark);">
-          <div style="background:var(--navy-900); padding:16px;">
-            <div style="font-family:var(--font-mono); font-size:22px; color:#fff;">14</div>
-            <div style="font-size:11px; color:rgba(229,238,250,0.55); margin-top:4px;">Insider buys (30d)</div>
+      <div class="reveal snapshot-card">
+        <div class="snapshot-label">Live snapshot</div>
+        <div class="snapshot-grid">
+          <div class="snapshot-cell">
+            <div class="snapshot-value">14</div>
+            <div class="snapshot-sub">Insider buys (30d)</div>
           </div>
-          <div style="background:var(--navy-900); padding:16px;">
-            <div style="font-family:var(--font-mono); font-size:22px; color:var(--blue-400);">8</div>
-            <div style="font-size:11px; color:rgba(229,238,250,0.55); margin-top:4px;">Upcoming ex-dividends</div>
+          <div class="snapshot-cell">
+            <div class="snapshot-value snapshot-value-blue">8</div>
+            <div class="snapshot-sub">Upcoming ex-dividends</div>
           </div>
-          <div style="background:var(--navy-900); padding:16px;">
-            <div style="font-family:var(--font-mono); font-size:22px; color:var(--brass-soft);">3</div>
-            <div style="font-size:11px; color:rgba(229,238,250,0.55); margin-top:4px;">🔥 Squeeze candidates</div>
+          <div class="snapshot-cell">
+            <div class="snapshot-value snapshot-value-brass">3</div>
+            <div class="snapshot-sub">🔥 Squeeze candidates</div>
           </div>
         </div>
       </div>
