@@ -89,12 +89,14 @@ ARTICLE_TEMPLATE = """<!DOCTYPE html>
   </div>
 </header>
 
+<div class="container">
 <article class="article-body">
 {body_html}
 </article>
 
 <div class="article-footer">
   <p class="article-disclaimer">This article is independent commentary published for educational purposes only and does not constitute personalized investment advice or a recommendation to buy or sell any security. Investing involves risk, including loss of principal.</p>
+</div>
 </div>
 
 <footer class="site-footer">
