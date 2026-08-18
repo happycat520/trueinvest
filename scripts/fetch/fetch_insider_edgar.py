@@ -48,6 +48,7 @@ import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, date
 from zoneinfo import ZoneInfo
 from pathlib import Path
+from typing import Optional
 
 import requests
 
@@ -167,9 +168,63 @@ def get_recent_form4_filings(cik: str, cutoff: date) -> list:
 # ---------------------------------------------------------------------------
 
 def build_document_url(cik: str, accession_number: str, primary_document: str) -> str:
-    cik_int = str(int(cik))  # strip leading zeros for the Archives path
+    """Returns the URL for the RAW XML data file (not the rendered HTML view).
+
+    IMPORTANT: submissions.json's primaryDocument field for ownership forms
+    (3/4/5) is typically a path like "xslF345X06/ownership.xml" - this is
+    SEC's HTML-rendering endpoint for that document (confirmed by live
+    diagnostic evidence: fetching that exact path returns status=200,
+    content-type=text/html, and a real "SEC FORM 4" HTML page, NOT XML -
+    this is what the earlier "mismatched tag" parse errors actually were).
+    The real raw XML data lives at the SAME accession folder's ROOT, using
+    only the basename (last path segment) - the "xslF345X0N/" subfolder is
+    stripped here for exactly that reason.
+    """
+    cik_int = str(int(cik))
     accession_no_dashes = accession_number.replace("-", "")
-    return f"https://www.sec.gov/Archives/edgar/data/{cik_int}/{accession_no_dashes}/{primary_document}"
+    filename = primary_document.rsplit("/", 1)[-1]  # strip any "xslF345X0N/" (or other) subfolder prefix
+    return f"https://www.sec.gov/Archives/edgar/data/{cik_int}/{accession_no_dashes}/{filename}"
+
+
+def build_index_json_url(cik: str, accession_number: str) -> str:
+    """Fallback: SEC's machine-readable directory listing for one accession.
+    Used only if the primary (stripped-path) URL guess in build_document_url
+    fails to parse - lets us find the real raw-XML filename directly instead
+    of guessing, for the edge case where it doesn't match the basename
+    heuristic above."""
+    cik_int = str(int(cik))
+    accession_no_dashes = accession_number.replace("-", "")
+    return f"https://www.sec.gov/Archives/edgar/data/{cik_int}/{accession_no_dashes}/index.json"
+
+
+def find_raw_xml_via_index(cik: str, accession_number: str) -> Optional[str]:
+    """Fallback lookup: fetches the accession's index.json and finds the
+    top-level .xml file (i.e. not inside a subfolder like xslF345X0N/),
+    which is the raw ownership-document XML. Returns a full URL, or None
+    if nothing suitable was found."""
+    try:
+        resp = _get(build_index_json_url(cik, accession_number))
+    except requests.HTTPError:
+        return None
+
+    try:
+        data = resp.json()
+    except ValueError:
+        return None
+
+    items = data.get("directory", {}).get("item", [])
+    xml_candidates = [
+        item["name"] for item in items
+        if item.get("name", "").lower().endswith(".xml") and item.get("type") != "folder.gif"
+    ]
+    if not xml_candidates:
+        return None
+
+    cik_int = str(int(cik))
+    accession_no_dashes = accession_number.replace("-", "")
+    # Prefer a name that doesn't look like an index/metadata file
+    chosen = next((n for n in xml_candidates if "index" not in n.lower()), xml_candidates[0])
+    return f"https://www.sec.gov/Archives/edgar/data/{cik_int}/{accession_no_dashes}/{chosen}"
 
 
 def build_filing_index_url(cik: str, accession_number: str) -> str:
@@ -305,6 +360,34 @@ MAX_DIAGNOSTIC_DUMPS = 3
 _diagnostic_dumps_done = 0
 
 
+def _fetch_and_parse(doc_url: str, ticker: str, company: str, cik: str, accession_number: str):
+    """Fetches one document URL and attempts to parse it as Form 4 XML.
+    Returns (transactions_list, success_bool). On failure, prints diagnostics
+    (for the first few failures only, see MAX_DIAGNOSTIC_DUMPS) so the actual
+    response content is visible rather than just the parse error message."""
+    global _diagnostic_dumps_done
+
+    try:
+        resp = _get(doc_url)
+    except requests.HTTPError as e:
+        print(f"  {ticker}: failed to fetch {doc_url} - {e}")
+        return [], False
+
+    try:
+        transactions = parse_form4_xml(resp.content, ticker, company, cik, accession_number)
+        return transactions, True
+    except ET.ParseError as e:
+        print(f"  {ticker}: XML parse error on {doc_url} - {e}")
+        if _diagnostic_dumps_done < MAX_DIAGNOSTIC_DUMPS:
+            _diagnostic_dumps_done += 1
+            content_type = resp.headers.get("Content-Type", "unknown")
+            body_preview = resp.text[:400].replace("\n", " ")
+            print(f"    DIAGNOSTIC #{_diagnostic_dumps_done}: status={resp.status_code}, "
+                  f"content-type={content_type}")
+            print(f"    DIAGNOSTIC #{_diagnostic_dumps_done} body preview: {body_preview!r}")
+        return [], False
+
+
 def fetch_ticker_insider_activity(ticker: str, cik: str, cutoff: date) -> tuple:
     """Returns (buys, sells, parse_attempts, parse_failures) for one ticker,
     in the same record shape as the original insider.json plus counters used
@@ -321,30 +404,20 @@ def fetch_ticker_insider_activity(ticker: str, cik: str, cutoff: date) -> tuple:
 
     for f in filings:
         doc_url = build_document_url(cik, f["accessionNumber"], f["primaryDocument"])
-        try:
-            resp = _get(doc_url)
-        except requests.HTTPError as e:
-            print(f"  {ticker}: failed to fetch {doc_url} - {e}")
-            continue
-
+        transactions, success = _fetch_and_parse(doc_url, ticker, company, cik, f["accessionNumber"])
         parse_attempts += 1
-        try:
-            transactions = parse_form4_xml(resp.content, ticker, company, cik, f["accessionNumber"])
-        except ET.ParseError as e:
-            parse_failures += 1
-            print(f"  {ticker}: XML parse error on {doc_url} - {e}")
 
-            # Dump real diagnostics for the first few failures - this is what
-            # actually tells us whether SEC is serving a block/rate-limit page
-            # instead of the real document, rather than guessing from the
-            # error message alone.
-            if _diagnostic_dumps_done < MAX_DIAGNOSTIC_DUMPS:
-                _diagnostic_dumps_done += 1
-                content_type = resp.headers.get("Content-Type", "unknown")
-                body_preview = resp.text[:400].replace("\n", " ")
-                print(f"    DIAGNOSTIC #{_diagnostic_dumps_done}: status={resp.status_code}, "
-                      f"content-type={content_type}")
-                print(f"    DIAGNOSTIC #{_diagnostic_dumps_done} body preview: {body_preview!r}")
+        if not success:
+            # Primary guess (strip the xslF345X0N/ subfolder, keep the basename)
+            # didn't work - fall back to asking SEC directly via index.json
+            # rather than giving up on this filing.
+            fallback_url = find_raw_xml_via_index(cik, f["accessionNumber"])
+            if fallback_url and fallback_url != doc_url:
+                print(f"  {ticker}: retrying via index.json fallback -> {fallback_url}")
+                transactions, success = _fetch_and_parse(fallback_url, ticker, company, cik, f["accessionNumber"])
+
+        if not success:
+            parse_failures += 1
             continue
 
         for t in transactions:
