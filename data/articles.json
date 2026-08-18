@@ -1,24 +1,24 @@
 [
   {
-    "slug": "my-investment-framework",
-    "title": "My Investment Framework",
-    "date": "2026-07-17",
-    "deck": "A consistent, repeatable way of evaluating opportunities \u2014 built on ignoring headlines, demanding a margin of safety, and thinking in probabilities rather than predictions.",
-    "tags": [
-      "Framework",
-      "Philosophy"
-    ],
-    "url": "research/my-investment-framework.html"
-  },
-  {
     "slug": "when-insider-buying-actually-matters",
     "title": "When Insider Buying Actually Matters",
-    "date": "2026-07-17",
-    "deck": "Most insider transactions tell you very little. Here's how to tell the difference between routine noise and the small number of signals genuinely worth studying.",
+    "date": "2026-07-24",
+    "deck": "Insider buying can be a valuable investment signal\u2014but only when interpreted in context.",
     "tags": [
       "Insider Activity",
       "Signals"
     ],
     "url": "research/when-insider-buying-actually-matters.html"
+  },
+  {
+    "slug": "my-investment-framework",
+    "title": "The CrystalWell Investment Framework",
+    "date": "2026-07-17",
+    "deck": "At CrystalWell Analytics, our investment research begins with a simple premise: the most interesting opportunities often emerge when there is a meaningful gap between what the market expects and what the underlying business is likely to deliver.",
+    "tags": [
+      "Framework",
+      "Philosophy"
+    ],
+    "url": "research/my-investment-framework.html"
   }
 ]
