@@ -58,7 +58,7 @@ PST = ZoneInfo("America/Los_Angeles")
 
 # --- EDIT THIS before running for real. SEC will throttle/reject requests
 # without a descriptive User-Agent identifying a real contact.
-USER_AGENT = "CrystalWellAnalytics/1.0 (contact: replace-with-real-email@crystalwellanalytics.com)"
+USER_AGENT = "CrystalWellAnalytics/1.0 (contact: info@crystalwellanalytics.com)"
 
 HEADERS = {"User-Agent": USER_AGENT}
 
