@@ -1,0 +1,359 @@
+{
+  "digest_date": "2026-08-17",
+  "data_freshness": {
+    "insider": "Aug 17, 2026 01:00 AM PST",
+    "key_dates": "Aug 17, 2026 01:06 AM PST",
+    "price_movement": "Aug 17, 2026 01:12 AM PST"
+  },
+  "signal_count": 6,
+  "signals": [
+    {
+      "rule_id": "buying_ahead_of_catalyst",
+      "label": "Buying Ahead of a Catalyst",
+      "ticker": "ATO",
+      "company": "Atmos Energy",
+      "facts": [
+        "1 insider buy(s) in the trailing 7 days ($50,278 combined)",
+        "Dividend Ex Date scheduled 2026-08-24 (7 days out)"
+      ]
+    },
+    {
+      "rule_id": "cluster_sell_ahead_of_catalyst",
+      "label": "Cluster Sell Ahead of a Catalyst",
+      "ticker": "KLAC",
+      "company": "KLA Corp",
+      "facts": [
+        "5 distinct insiders sold in the trailing 7 days ($31,081,706 combined)",
+        "Dividend Ex Date scheduled 2026-08-17 (0 days out)"
+      ]
+    },
+    {
+      "rule_id": "cluster_sell_ahead_of_catalyst",
+      "label": "Cluster Sell Ahead of a Catalyst",
+      "ticker": "PSX",
+      "company": "Phillips 66",
+      "facts": [
+        "4 distinct insiders sold in the trailing 7 days ($20,780,335 combined)",
+        "Dividend Ex Date scheduled 2026-08-18 (1 days out)"
+      ]
+    },
+    {
+      "rule_id": "cluster_sell_ahead_of_catalyst",
+      "label": "Cluster Sell Ahead of a Catalyst",
+      "ticker": "REGN",
+      "company": "Regeneron",
+      "facts": [
+        "2 distinct insiders sold in the trailing 7 days ($960,000 combined)",
+        "Dividend Ex Date scheduled 2026-08-18 (1 days out)"
+      ]
+    },
+    {
+      "rule_id": "cluster_sell_ahead_of_catalyst",
+      "label": "Cluster Sell Ahead of a Catalyst",
+      "ticker": "SNA",
+      "company": "Snap-on",
+      "facts": [
+        "2 distinct insiders sold in the trailing 7 days ($4,036,159 combined)",
+        "Dividend Ex Date scheduled 2026-08-19 (2 days out)"
+      ]
+    },
+    {
+      "rule_id": "cluster_sell_ahead_of_catalyst",
+      "label": "Cluster Sell Ahead of a Catalyst",
+      "ticker": "VRSN",
+      "company": "VeriSign",
+      "facts": [
+        "2 distinct insiders sold in the trailing 7 days ($1,109,724 combined)",
+        "Dividend Ex Date scheduled 2026-08-19 (2 days out)"
+      ]
+    }
+  ],
+  "summary": {
+    "latest_event_date": "2026-08-13",
+    "total_events_on_latest_date": 2,
+    "largest_transaction": {
+      "ticker": "SNA",
+      "insider_name": "PAGLIARI ALDO JOHN",
+      "role": "Chief Financial Officer",
+      "transaction_type": "sell",
+      "value_usd": 2235898.0
+    },
+    "upcoming_this_week": [
+      {
+        "ticker": "COF",
+        "catalyst_type": "dividend_ex_date",
+        "catalyst_date": "2026-08-17"
+      },
+      {
+        "ticker": "COP",
+        "catalyst_type": "dividend_ex_date",
+        "catalyst_date": "2026-08-17"
+      },
+      {
+        "ticker": "GEN",
+        "catalyst_type": "dividend_ex_date",
+        "catalyst_date": "2026-08-17"
+      },
+      {
+        "ticker": "KLAC",
+        "catalyst_type": "dividend_ex_date",
+        "catalyst_date": "2026-08-17"
+      },
+      {
+        "ticker": "ROK",
+        "catalyst_type": "dividend_ex_date",
+        "catalyst_date": "2026-08-17"
+      },
+      {
+        "ticker": "SO",
+        "catalyst_type": "dividend_ex_date",
+        "catalyst_date": "2026-08-17"
+      },
+      {
+        "ticker": "TECH",
+        "catalyst_type": "dividend_ex_date",
+        "catalyst_date": "2026-08-17"
+      },
+      {
+        "ticker": "UDR",
+        "catalyst_type": "dividend_ex_date",
+        "catalyst_date": "2026-08-17"
+      },
+      {
+        "ticker": "UPS",
+        "catalyst_type": "dividend_ex_date",
+        "catalyst_date": "2026-08-17"
+      },
+      {
+        "ticker": "XOM",
+        "catalyst_type": "dividend_ex_date",
+        "catalyst_date": "2026-08-17"
+      },
+      {
+        "ticker": "BG",
+        "catalyst_type": "dividend_ex_date",
+        "catalyst_date": "2026-08-18"
+      },
+      {
+        "ticker": "CTSH",
+        "catalyst_type": "dividend_ex_date",
+        "catalyst_date": "2026-08-18"
+      },
+      {
+        "ticker": "EVRG",
+        "catalyst_type": "dividend_ex_date",
+        "catalyst_date": "2026-08-18"
+      },
+      {
+        "ticker": "PSX",
+        "catalyst_type": "dividend_ex_date",
+        "catalyst_date": "2026-08-18"
+      },
+      {
+        "ticker": "REGN",
+        "catalyst_type": "dividend_ex_date",
+        "catalyst_date": "2026-08-18"
+      },
+      {
+        "ticker": "WAB",
+        "catalyst_type": "dividend_ex_date",
+        "catalyst_date": "2026-08-18"
+      },
+      {
+        "ticker": "ADM",
+        "catalyst_type": "dividend_ex_date",
+        "catalyst_date": "2026-08-19"
+      },
+      {
+        "ticker": "AFL",
+        "catalyst_type": "dividend_ex_date",
+        "catalyst_date": "2026-08-19"
+      },
+      {
+        "ticker": "CVX",
+        "catalyst_type": "dividend_ex_date",
+        "catalyst_date": "2026-08-19"
+      },
+      {
+        "ticker": "ED",
+        "catalyst_type": "dividend_ex_date",
+        "catalyst_date": "2026-08-19"
+      },
+      {
+        "ticker": "EQIX",
+        "catalyst_type": "dividend_ex_date",
+        "catalyst_date": "2026-08-19"
+      },
+      {
+        "ticker": "HAS",
+        "catalyst_type": "dividend_ex_date",
+        "catalyst_date": "2026-08-19"
+      },
+      {
+        "ticker": "L",
+        "catalyst_type": "dividend_ex_date",
+        "catalyst_date": "2026-08-19"
+      },
+      {
+        "ticker": "MKTX",
+        "catalyst_type": "dividend_ex_date",
+        "catalyst_date": "2026-08-19"
+      },
+      {
+        "ticker": "MPC",
+        "catalyst_type": "dividend_ex_date",
+        "catalyst_date": "2026-08-19"
+      },
+      {
+        "ticker": "SNA",
+        "catalyst_type": "dividend_ex_date",
+        "catalyst_date": "2026-08-19"
+      },
+      {
+        "ticker": "VRSN",
+        "catalyst_type": "dividend_ex_date",
+        "catalyst_date": "2026-08-19"
+      },
+      {
+        "ticker": "AMAT",
+        "catalyst_type": "dividend_ex_date",
+        "catalyst_date": "2026-08-20"
+      },
+      {
+        "ticker": "CNP",
+        "catalyst_type": "dividend_ex_date",
+        "catalyst_date": "2026-08-20"
+      },
+      {
+        "ticker": "LKQ",
+        "catalyst_type": "dividend_ex_date",
+        "catalyst_date": "2026-08-20"
+      },
+      {
+        "ticker": "MAR",
+        "catalyst_type": "dividend_ex_date",
+        "catalyst_date": "2026-08-20"
+      },
+      {
+        "ticker": "MSFT",
+        "catalyst_type": "dividend_ex_date",
+        "catalyst_date": "2026-08-20"
+      },
+      {
+        "ticker": "RMD",
+        "catalyst_type": "dividend_ex_date",
+        "catalyst_date": "2026-08-20"
+      },
+      {
+        "ticker": "SBAC",
+        "catalyst_type": "dividend_ex_date",
+        "catalyst_date": "2026-08-20"
+      },
+      {
+        "ticker": "AMGN",
+        "catalyst_type": "dividend_ex_date",
+        "catalyst_date": "2026-08-21"
+      },
+      {
+        "ticker": "BBWI",
+        "catalyst_type": "dividend_ex_date",
+        "catalyst_date": "2026-08-21"
+      },
+      {
+        "ticker": "CMI",
+        "catalyst_type": "dividend_ex_date",
+        "catalyst_date": "2026-08-21"
+      },
+      {
+        "ticker": "HLT",
+        "catalyst_type": "dividend_ex_date",
+        "catalyst_date": "2026-08-21"
+      },
+      {
+        "ticker": "J",
+        "catalyst_type": "dividend_ex_date",
+        "catalyst_date": "2026-08-21"
+      },
+      {
+        "ticker": "SHW",
+        "catalyst_type": "dividend_ex_date",
+        "catalyst_date": "2026-08-21"
+      },
+      {
+        "ticker": "TEL",
+        "catalyst_type": "dividend_ex_date",
+        "catalyst_date": "2026-08-21"
+      },
+      {
+        "ticker": "VTRS",
+        "catalyst_type": "dividend_ex_date",
+        "catalyst_date": "2026-08-21"
+      },
+      {
+        "ticker": "WMT",
+        "catalyst_type": "dividend_ex_date",
+        "catalyst_date": "2026-08-21"
+      },
+      {
+        "ticker": "ATO",
+        "catalyst_type": "dividend_ex_date",
+        "catalyst_date": "2026-08-24"
+      },
+      {
+        "ticker": "LYB",
+        "catalyst_type": "dividend_ex_date",
+        "catalyst_date": "2026-08-24"
+      },
+      {
+        "ticker": "MAS",
+        "catalyst_type": "dividend_ex_date",
+        "catalyst_date": "2026-08-24"
+      },
+      {
+        "ticker": "MCHP",
+        "catalyst_type": "dividend_ex_date",
+        "catalyst_date": "2026-08-24"
+      },
+      {
+        "ticker": "PAYC",
+        "catalyst_type": "dividend_ex_date",
+        "catalyst_date": "2026-08-24"
+      },
+      {
+        "ticker": "TSCO",
+        "catalyst_type": "dividend_ex_date",
+        "catalyst_date": "2026-08-24"
+      }
+    ],
+    "notable_streaks": [
+      {
+        "ticker": "WTW",
+        "direction": "down",
+        "total_move_pct": -3.18,
+        "signal_name": "Breakdown",
+        "signal_strength": 3
+      },
+      {
+        "ticker": "ROL",
+        "direction": "down",
+        "total_move_pct": -2.2,
+        "signal_name": "Strong Bottom",
+        "signal_strength": 3
+      },
+      {
+        "ticker": "PYPL",
+        "direction": "up",
+        "total_move_pct": 4.45,
+        "signal_name": "Strong Peak",
+        "signal_strength": 3
+      },
+      {
+        "ticker": "FOXA",
+        "direction": "up",
+        "total_move_pct": 10.76,
+        "signal_name": "Near Peak",
+        "signal_strength": 2
+      }
+    ]
+  }
+}

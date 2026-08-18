@@ -1,0 +1,58 @@
+CRYSTALWELL ANALYTICS — DAILY DIGEST
+Monday, August 17, 2026
+
+CROSS-SIGNAL COMBINATIONS
+----------------------------------------
+ATO — Buying Ahead of a Catalyst (Atmos Energy)
+  - 1 insider buy(s) in the trailing 7 days ($50,278 combined)
+  - Dividend Ex Date scheduled 2026-08-24 (7 days out)
+
+KLAC — Cluster Sell Ahead of a Catalyst (KLA Corp)
+  - 5 distinct insiders sold in the trailing 7 days ($31,081,706 combined)
+  - Dividend Ex Date scheduled 2026-08-17 (0 days out)
+
+PSX — Cluster Sell Ahead of a Catalyst (Phillips 66)
+  - 4 distinct insiders sold in the trailing 7 days ($20,780,335 combined)
+  - Dividend Ex Date scheduled 2026-08-18 (1 days out)
+
+REGN — Cluster Sell Ahead of a Catalyst (Regeneron)
+  - 2 distinct insiders sold in the trailing 7 days ($960,000 combined)
+  - Dividend Ex Date scheduled 2026-08-18 (1 days out)
+
+SNA — Cluster Sell Ahead of a Catalyst (Snap-on)
+  - 2 distinct insiders sold in the trailing 7 days ($4,036,159 combined)
+  - Dividend Ex Date scheduled 2026-08-19 (2 days out)
+
+VRSN — Cluster Sell Ahead of a Catalyst (VeriSign)
+  - 2 distinct insiders sold in the trailing 7 days ($1,109,724 combined)
+  - Dividend Ex Date scheduled 2026-08-19 (2 days out)
+
+LATEST INSIDER ACTIVITY
+----------------------------------------
+2 insider transaction(s) dated 2026-08-13 (most recent available in the data).
+Largest: SNA — PAGLIARI ALDO JOHN (Chief Financial Officer), sell $2,235,898.
+
+UPCOMING KEY DATES (7 DAYS)
+----------------------------------------
+COF dividend ex date on 2026-08-17
+COP dividend ex date on 2026-08-17
+GEN dividend ex date on 2026-08-17
+KLAC dividend ex date on 2026-08-17
+ROK dividend ex date on 2026-08-17
+SO dividend ex date on 2026-08-17
+TECH dividend ex date on 2026-08-17
+UDR dividend ex date on 2026-08-17
+UPS dividend ex date on 2026-08-17
+XOM dividend ex date on 2026-08-17
+
+NOTABLE PRICE STREAKS
+----------------------------------------
+WTW — Willis Towers Watson: DOWN -3.18% (Breakdown)
+ROL — Rollins: DOWN -2.20% (Strong Bottom)
+PYPL — PayPal: UP +4.45% (Strong Peak)
+FOXA — Fox Corp A: UP +10.76% (Near Peak)
+
+----------------------------------------
+Data as of — Insider: Aug 17, 2026 01:00 AM PST · Key Dates: Aug 17, 2026 01:06 AM PST · Price Movement: Aug 17, 2026 01:12 AM PST
+
+CrystalWell Analytics delivers signals derived from public SEC filings and market data. This email is informational only and is not investment advice or a recommendation to buy or sell any security. CrystalWell is not a registered investment adviser.

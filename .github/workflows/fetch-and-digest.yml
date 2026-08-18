@@ -1,0 +1,52 @@
+name: Fetch Data + Daily Digest
+
+# Now that trueinvest has its own fetchers, this workflow no longer depends
+# on copying data/dashboard/*.json in from the separate samuelstocks repo -
+# it fetches directly from SEC EDGAR (insider) and Yahoo Finance (key dates,
+# price movement), then generates the digest from what it just fetched.
+on:
+  schedule:
+    - cron: "0 13 * * 1-5"   # 13:00 UTC, Mon-Fri
+  workflow_dispatch: {}
+
+jobs:
+  fetch-and-generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests yfinance pandas numpy
+
+      - name: Fetch insider data (SEC EDGAR direct)
+        run: python scripts/fetch/fetch_insider_edgar.py
+
+      - name: Fetch key dates (Yahoo Finance)
+        run: python scripts/fetch/fetch_key_dates.py
+
+      - name: Fetch price movement (Yahoo Finance)
+        run: python scripts/fetch/fetch_price_movement.py
+
+      - name: Generate digest
+        run: python scripts/digest/generate_digest.py
+
+      - name: Commit data + digest
+        run: |
+          git config user.name "crystalwell-bot"
+          git config user.email "bot@crystalwellanalytics.com"
+          git add data/dashboard/ data/digest/ data/cache/
+          git diff --staged --quiet || git commit -m "Data refresh + digest: $(date -u +%Y-%m-%d)"
+          git push
+
+      # --- SEND STEP: not yet wired up - see scripts/digest/DESIGN.md section 7 ---
+      # - name: Send digest email
+      #   env:
+      #     SENDER_GMAIL: ${{ secrets.SENDER_GMAIL }}
+      #     SENDER_GMAIL_APP_PASS: ${{ secrets.SENDER_GMAIL_APP_PASS }}
+      #   run: python scripts/digest/send_digest_email.py
