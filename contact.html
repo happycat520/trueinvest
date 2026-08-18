@@ -57,9 +57,10 @@
         <div class="panel panel-blue">
           <h3>Clear research, delivered thoughtfully.</h3>
           <p class="desc">Company analysis, decision frameworks, and lessons from managing real capital — without daily noise or promotional hype.</p>
-          <form id="newsletter-form">
+          <form id="newsletter-form" action="https://formspree.io/f/xjgndovp" method="POST">
+            <input type="hidden" name="form-type" value="Newsletter signup">
             <div class="field-row">
-              <input class="text-input" type="email" placeholder="you@email.com" required aria-label="Email address">
+              <input class="text-input" type="email" name="Email address" placeholder="you@email.com" required aria-label="Email address">
               <button class="btn btn-primary" type="submit">Join the newsletter</button>
             </div>
             <p class="fine-print">By subscribing, you agree to receive email from CrystalWell. Unsubscribe anytime.</p>
@@ -69,13 +70,14 @@
         <div class="panel panel-paper" id="message">
           <h3>Start a conversation.</h3>
           <p class="desc">Use this form for general questions, feedback, media inquiries, or potential collaborations. Please do not send trade instructions or sensitive financial information.</p>
-          <form id="contact-form">
+          <form id="contact-form" action="https://formspree.io/f/xjgndovp" method="POST">
+            <input type="hidden" name="form-type" value="Contact form">
             <div class="field-row">
-              <input class="text-input" type="text" placeholder="Your name" required aria-label="Your name">
-              <input class="text-input" type="email" placeholder="you@email.com" required aria-label="Email address">
+              <input class="text-input" type="text" name="Your name" placeholder="Your name" required aria-label="Your name">
+              <input class="text-input" type="email" name="Email address" placeholder="you@email.com" required aria-label="Email address">
             </div>
             <div class="field-row">
-              <textarea class="text-input" placeholder="Your message" required aria-label="Message"></textarea>
+              <textarea class="text-input" name="Message" placeholder="Your message" required aria-label="Message"></textarea>
             </div>
             <div class="field-row" style="margin-top:14px;">
               <button class="btn btn-primary" type="submit">Send message</button>

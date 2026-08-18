@@ -37,31 +37,55 @@
     revealEls.forEach(function (el) { el.classList.add("in"); });
   }
 
-  // Newsletter form (static demo — no backend wired up)
-  var newsletterForm = document.querySelector("#newsletter-form");
-  if (newsletterForm) {
-    newsletterForm.addEventListener("submit", function (e) {
+  // Newsletter + contact forms — submit to Formspree, same endpoint as
+  // crystalwell-site (tehochess/crystalwell-site), so both sites' submissions
+  // land in the same inbox.
+  function wireForm(form, successText) {
+    if (!form) return;
+    form.addEventListener("submit", function (e) {
       e.preventDefault();
-      var note = newsletterForm.querySelector(".form-note");
-      if (note) {
-        note.textContent = "Thanks — you're on the list. Check your inbox to confirm.";
-        note.classList.add("visible");
+      var note = form.querySelector(".form-note");
+      var button = form.querySelector('button[type="submit"]');
+      var originalText = button ? button.textContent : null;
+
+      if (button) {
+        button.disabled = true;
+        button.textContent = "Sending...";
       }
-      newsletterForm.reset();
+      if (note) {
+        note.textContent = "";
+        note.classList.remove("visible");
+      }
+
+      fetch(form.action, {
+        method: "POST",
+        body: new FormData(form),
+        headers: { Accept: "application/json" },
+      })
+        .then(function (response) {
+          if (note) {
+            note.textContent = response.ok
+              ? successText
+              : "Something went wrong. Please try again or email us directly.";
+            note.classList.add("visible");
+          }
+          if (response.ok) form.reset();
+        })
+        .catch(function () {
+          if (note) {
+            note.textContent = "Something went wrong. Please try again or email us directly.";
+            note.classList.add("visible");
+          }
+        })
+        .finally(function () {
+          if (button) {
+            button.disabled = false;
+            button.textContent = originalText;
+          }
+        });
     });
   }
 
-  // Contact form (static demo — no backend wired up)
-  var contactForm = document.querySelector("#contact-form");
-  if (contactForm) {
-    contactForm.addEventListener("submit", function (e) {
-      e.preventDefault();
-      var note = contactForm.querySelector(".form-note");
-      if (note) {
-        note.textContent = "Message received — we'll get back to you shortly.";
-        note.classList.add("visible");
-      }
-      contactForm.reset();
-    });
-  }
+  wireForm(document.querySelector("#newsletter-form"), "Thanks — you're on the list. Check your inbox to confirm.");
+  wireForm(document.querySelector("#contact-form"), "Message received — we'll get back to you shortly.");
 })();
