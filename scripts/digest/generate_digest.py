@@ -27,6 +27,15 @@ from dataclasses import dataclass, field
 from datetime import date, datetime, timedelta
 from pathlib import Path
 from typing import Optional
+from zoneinfo import ZoneInfo
+
+# The fetch scripts (fetch_insider_edgar.py, fetch_key_dates.py,
+# fetch_price_movement.py) all timestamp their output in PST, since this
+# is fundamentally a US-market pipeline. The digest should use the same
+# clock for its default "today" - otherwise, on a GitHub Actions runner
+# (which runs in UTC), a late-evening Pacific run could label the digest
+# one calendar day ahead of the data it's actually summarizing.
+PST = ZoneInfo("America/Los_Angeles")
 
 
 # ---------------------------------------------------------------------------
@@ -618,7 +627,7 @@ def main():
     args = parser.parse_args()
 
     digest_date = (
-        datetime.strptime(args.date, "%Y-%m-%d").date() if args.date else date.today()
+        datetime.strptime(args.date, "%Y-%m-%d").date() if args.date else datetime.now(PST).date()
     )
     data_dir = Path(args.data_dir)
     out_dir = Path(args.out_dir)
