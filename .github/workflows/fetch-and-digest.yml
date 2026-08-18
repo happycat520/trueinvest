@@ -9,6 +9,13 @@ on:
     - cron: "0 13 * * 1-5"   # 13:00 UTC, Mon-Fri
   workflow_dispatch: {}
 
+# Required so the final "Commit data + digest" step can push back to the
+# repo. Without this, the default GITHUB_TOKEN is often read-only and the
+# push fails with a 403 ("Permission ... denied to github-actions[bot]"),
+# even though every earlier step (fetch, generate) succeeds fine.
+permissions:
+  contents: write
+
 jobs:
   fetch-and-generate:
     runs-on: ubuntu-latest
