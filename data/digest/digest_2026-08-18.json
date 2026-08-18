@@ -1,0 +1,23 @@
+{
+  "digest_date": "2026-08-18",
+  "data_freshness": {
+    "insider": "Aug 18, 2026 11:03 AM PST",
+    "key_dates": "Aug 18, 2026 11:03 AM PST",
+    "price_movement": "Aug 18, 2026 11:03 AM PST"
+  },
+  "signal_count": 0,
+  "signals": [],
+  "summary": {
+    "latest_event_date": null,
+    "total_events_on_latest_date": 0,
+    "largest_transaction": null,
+    "upcoming_this_week": [
+      {
+        "ticker": "MSFT",
+        "catalyst_type": "dividend_ex_date",
+        "catalyst_date": "2026-08-20"
+      }
+    ],
+    "notable_streaks": []
+  }
+}
