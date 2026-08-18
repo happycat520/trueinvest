@@ -1,16 +1,93 @@
 {
   "digest_date": "2026-08-18",
   "data_freshness": {
-    "insider": "Aug 18, 2026 11:47 AM PST",
-    "key_dates": "Aug 18, 2026 11:54 AM PST",
-    "price_movement": "Aug 18, 2026 12:00 PM PST"
+    "insider": "Aug 18, 2026 01:43 PM PST",
+    "key_dates": "Aug 18, 2026 01:53 PM PST",
+    "price_movement": "Aug 18, 2026 01:59 PM PST"
   },
-  "signal_count": 0,
-  "signals": [],
+  "signal_count": 7,
+  "signals": [
+    {
+      "rule_id": "buying_ahead_of_catalyst",
+      "label": "Buying Ahead of a Catalyst",
+      "ticker": "ATO",
+      "company": "Atmos Energy",
+      "facts": [
+        "1 insider buy(s) in the trailing 7 days ($50,278 combined)",
+        "Dividend Ex Date scheduled 2026-08-24 (6 days out)"
+      ]
+    },
+    {
+      "rule_id": "buying_ahead_of_catalyst",
+      "label": "Buying Ahead of a Catalyst",
+      "ticker": "CNP",
+      "company": "CenterPoint Energy",
+      "facts": [
+        "1 insider buy(s) in the trailing 7 days ($40,700 combined)",
+        "Dividend Ex Date scheduled 2026-08-20 (2 days out)"
+      ]
+    },
+    {
+      "rule_id": "cluster_sell_ahead_of_catalyst",
+      "label": "Cluster Sell Ahead of a Catalyst",
+      "ticker": "EXPE",
+      "company": "Expedia",
+      "facts": [
+        "2 distinct insiders sold in the trailing 7 days ($2,636,195 combined)",
+        "Dividend Ex Date scheduled 2026-08-27 (9 days out)"
+      ]
+    },
+    {
+      "rule_id": "cluster_sell_ahead_of_catalyst",
+      "label": "Cluster Sell Ahead of a Catalyst",
+      "ticker": "LH",
+      "company": "Labcorp",
+      "facts": [
+        "2 distinct insiders sold in the trailing 7 days ($2,449,867 combined)",
+        "Dividend Ex Date scheduled 2026-08-28 (10 days out)"
+      ]
+    },
+    {
+      "rule_id": "cluster_sell_ahead_of_catalyst",
+      "label": "Cluster Sell Ahead of a Catalyst",
+      "ticker": "MPC",
+      "company": "Marathon Petroleum",
+      "facts": [
+        "2 distinct insiders sold in the trailing 7 days ($2,928,099 combined)",
+        "Dividend Ex Date scheduled 2026-08-19 (1 days out)"
+      ]
+    },
+    {
+      "rule_id": "cluster_sell_ahead_of_catalyst",
+      "label": "Cluster Sell Ahead of a Catalyst",
+      "ticker": "PSX",
+      "company": "Phillips 66",
+      "facts": [
+        "2 distinct insiders sold in the trailing 7 days ($18,108,120 combined)",
+        "Dividend Ex Date scheduled 2026-08-18 (0 days out)"
+      ]
+    },
+    {
+      "rule_id": "cluster_sell_ahead_of_catalyst",
+      "label": "Cluster Sell Ahead of a Catalyst",
+      "ticker": "SNA",
+      "company": "Snap-on",
+      "facts": [
+        "2 distinct insiders sold in the trailing 7 days ($4,036,153 combined)",
+        "Dividend Ex Date scheduled 2026-08-19 (1 days out)"
+      ]
+    }
+  ],
   "summary": {
-    "latest_event_date": null,
-    "total_events_on_latest_date": 0,
-    "largest_transaction": null,
+    "latest_event_date": "2026-08-18",
+    "total_events_on_latest_date": 1,
+    "largest_transaction": {
+      "ticker": "SYK",
+      "insider_name": "King Debra",
+      "role": "See Remarks",
+      "transaction_type": "sell",
+      "value_usd": 277787.0
+    },
     "upcoming_this_week": [
       {
         "ticker": "BG",
@@ -298,6 +375,28 @@
         "catalyst_date": "2026-08-25"
       }
     ],
-    "notable_streaks": []
+    "notable_streaks": [
+      {
+        "ticker": "AVGO",
+        "direction": "down",
+        "total_move_pct": -9.25,
+        "signal_name": "Breakdown",
+        "signal_strength": 3
+      },
+      {
+        "ticker": "META",
+        "direction": "down",
+        "total_move_pct": -8.85,
+        "signal_name": "Breakdown",
+        "signal_strength": 3
+      },
+      {
+        "ticker": "HD",
+        "direction": "down",
+        "total_move_pct": -1.24,
+        "signal_name": "Breakdown",
+        "signal_strength": 3
+      }
+    ]
   }
 }
