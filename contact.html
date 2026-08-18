@@ -3,11 +3,13 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Research &amp; Blog | CrystalWell Analytics</title>
-<meta name="description" content="Company analysis, decision frameworks, and lessons from managing real capital, from CrystalWell Analytics.">
+<title>Contact &amp; Newsletter | CrystalWell Analytics</title>
+<meta name="description" content="Join the CrystalWell Analytics newsletter, or get in touch with a question, comment, or collaboration idea.">
 <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
+
+<a class="skip-link" href="#main">Skip to content</a>
 
 <nav class="site-nav">
   <div class="container">
@@ -28,33 +30,63 @@
     </button>
     <div class="nav-links">
       <a href="framework.html">Framework</a>
-      <a href="research.html" class="active">Research</a>
+      <a href="research.html">Research</a>
       <a href="dashboard.html">Dashboard</a>
-      <a href="contact.html">Contact</a>
+      <a href="contact.html" class="active">Contact</a>
     </div>
     <div class="nav-cta">
-      <a href="contact.html" class="btn btn-primary btn-sm">Join the newsletter</a>
+      <a href="#newsletter" class="btn btn-primary btn-sm">Join the newsletter</a>
     </div>
   </div>
 </nav>
 
-<header class="hero" style="padding:76px 0 60px;">
-  <div class="container">
-    <span class="eyebrow">Research &amp; Blog</span>
-    <h1 style="font-size:clamp(32px,4.4vw,48px); margin-top:16px;">Company analysis, written plainly.</h1>
-    <p class="lede">Decision frameworks, individual company theses, and lessons from managing real capital — without daily noise or promotional hype.</p>
-  </div>
-</header>
+<main id="main">
 
-<main class="section" style="padding-top:64px;">
-  <div class="container">
-    <div class="research-filters" id="filter-bar">
-      <button class="filter-chip active" data-tag="all">All</button>
+  <header class="hero" style="padding:76px 0 40px;">
+    <div class="container">
+      <span class="eyebrow">Newsletter &amp; contact</span>
+      <h1 style="font-size:clamp(32px,4.4vw,48px); margin-top:16px;">Stay connected.</h1>
+      <p class="lede">Receive thoughtful investment research, or contact CrystalWell with a question, comment, or collaboration idea.</p>
     </div>
-    <div class="research-grid" id="research-grid">
-      <p class="dash-loading" style="grid-column:1/-1;">Loading articles…</p>
+  </header>
+
+  <!-- NEWSLETTER & CONTACT -->
+  <section class="section" id="newsletter" style="padding-top:20px;">
+    <div class="container">
+      <div class="split-panel reveal">
+        <div class="panel panel-blue">
+          <h3>Clear research, delivered thoughtfully.</h3>
+          <p class="desc">Company analysis, decision frameworks, and lessons from managing real capital — without daily noise or promotional hype.</p>
+          <form id="newsletter-form">
+            <div class="field-row">
+              <input class="text-input" type="email" placeholder="you@email.com" required aria-label="Email address">
+              <button class="btn btn-primary" type="submit">Join the newsletter</button>
+            </div>
+            <p class="fine-print">By subscribing, you agree to receive email from CrystalWell. Unsubscribe anytime.</p>
+            <p class="form-note" aria-live="polite"></p>
+          </form>
+        </div>
+        <div class="panel panel-paper" id="message">
+          <h3>Start a conversation.</h3>
+          <p class="desc">Use this form for general questions, feedback, media inquiries, or potential collaborations. Please do not send trade instructions or sensitive financial information.</p>
+          <form id="contact-form">
+            <div class="field-row">
+              <input class="text-input" type="text" placeholder="Your name" required aria-label="Your name">
+              <input class="text-input" type="email" placeholder="you@email.com" required aria-label="Email address">
+            </div>
+            <div class="field-row">
+              <textarea class="text-input" placeholder="Your message" required aria-label="Message"></textarea>
+            </div>
+            <div class="field-row" style="margin-top:14px;">
+              <button class="btn btn-primary" type="submit">Send message</button>
+            </div>
+            <p class="form-note" aria-live="polite"></p>
+          </form>
+        </div>
+      </div>
     </div>
-  </div>
+  </section>
+
 </main>
 
 <footer class="site-footer">
@@ -100,6 +132,5 @@
 </footer>
 
 <script src="js/main.js"></script>
-<script src="js/research.js"></script>
 </body>
 </html>
