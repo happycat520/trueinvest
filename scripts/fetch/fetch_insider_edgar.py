@@ -298,15 +298,26 @@ def parse_form4_xml(xml_bytes: bytes, ticker: str, company: str, cik: str, acces
     return transactions
 
 
+# How many parse failures to dump full diagnostics for. Printing this for
+# every single failure would flood the log (we saw 1,555 of them in one run);
+# a handful is enough to see the actual response content and diagnose it.
+MAX_DIAGNOSTIC_DUMPS = 3
+_diagnostic_dumps_done = 0
+
+
 def fetch_ticker_insider_activity(ticker: str, cik: str, cutoff: date) -> tuple:
-    """Returns (buys, sells) for one ticker, in the same record shape as
-    the original insider.json."""
+    """Returns (buys, sells, parse_attempts, parse_failures) for one ticker,
+    in the same record shape as the original insider.json plus counters used
+    by main() to detect a systemic failure (see NOTES at the bottom)."""
+    global _diagnostic_dumps_done
     company = COMPANY_NAMES.get(ticker, ticker)
     buys, sells = [], []
+    parse_attempts = 0
+    parse_failures = 0
 
     filings = get_recent_form4_filings(cik, cutoff)
     if not filings:
-        return buys, sells
+        return buys, sells, parse_attempts, parse_failures
 
     for f in filings:
         doc_url = build_document_url(cik, f["accessionNumber"], f["primaryDocument"])
@@ -316,10 +327,24 @@ def fetch_ticker_insider_activity(ticker: str, cik: str, cutoff: date) -> tuple:
             print(f"  {ticker}: failed to fetch {doc_url} - {e}")
             continue
 
+        parse_attempts += 1
         try:
             transactions = parse_form4_xml(resp.content, ticker, company, cik, f["accessionNumber"])
         except ET.ParseError as e:
+            parse_failures += 1
             print(f"  {ticker}: XML parse error on {doc_url} - {e}")
+
+            # Dump real diagnostics for the first few failures - this is what
+            # actually tells us whether SEC is serving a block/rate-limit page
+            # instead of the real document, rather than guessing from the
+            # error message alone.
+            if _diagnostic_dumps_done < MAX_DIAGNOSTIC_DUMPS:
+                _diagnostic_dumps_done += 1
+                content_type = resp.headers.get("Content-Type", "unknown")
+                body_preview = resp.text[:400].replace("\n", " ")
+                print(f"    DIAGNOSTIC #{_diagnostic_dumps_done}: status={resp.status_code}, "
+                      f"content-type={content_type}")
+                print(f"    DIAGNOSTIC #{_diagnostic_dumps_done} body preview: {body_preview!r}")
             continue
 
         for t in transactions:
@@ -348,7 +373,7 @@ def fetch_ticker_insider_activity(ticker: str, cik: str, cutoff: date) -> tuple:
                     "value": int(t["value"]),
                 })
 
-    return buys, sells
+    return buys, sells, parse_attempts, parse_failures
 
 
 # ---------------------------------------------------------------------------
@@ -361,6 +386,8 @@ def main():
 
     all_buys, all_sells = [], []
     missing_cik = []
+    total_parse_attempts = 0
+    total_parse_failures = 0
 
     for ticker in SP500_TICKERS:
         cik = cik_map.get(ticker.replace("-", "."))  # SEC's map uses e.g. "BRK.B"; tickers.py uses "BRK-B"
@@ -370,7 +397,9 @@ def main():
             missing_cik.append(ticker)
             continue
 
-        buys, sells = fetch_ticker_insider_activity(ticker, cik, cutoff)
+        buys, sells, parse_attempts, parse_failures = fetch_ticker_insider_activity(ticker, cik, cutoff)
+        total_parse_attempts += parse_attempts
+        total_parse_failures += parse_failures
         if buys or sells:
             print(f"  {ticker}: {len(buys)} buys, {len(sells)} sells")
         all_buys.extend(buys)
@@ -378,6 +407,38 @@ def main():
 
     if missing_cik:
         print(f"WARNING: no CIK found for {len(missing_cik)} tickers: {missing_cik}")
+
+    # --- Hard failure detection ---
+    # Without this, "genuinely no insider activity today" and "every single
+    # fetch failed" produce the exact same output shape (0 buys, 0 sells) and
+    # the same exit code 0 - so a systemic failure silently overwrites good
+    # data with an empty file and GitHub Actions still shows green. This
+    # block distinguishes the two cases and refuses to write/commit on a
+    # systemic failure, so the last known-good insider.json stays in place
+    # instead of being clobbered by a broken run.
+    CIK_FAILURE_THRESHOLD = 0.5   # >50% of tickers missing a CIK -> the map itself is likely broken
+    PARSE_FAILURE_THRESHOLD = 0.5  # >50% of fetched documents failing to parse -> systemic (e.g. blocked/rate-limited), not per-file noise
+
+    cik_failure_rate = len(missing_cik) / len(SP500_TICKERS) if SP500_TICKERS else 0
+    parse_failure_rate = (total_parse_failures / total_parse_attempts) if total_parse_attempts else 0
+
+    if cik_failure_rate > CIK_FAILURE_THRESHOLD:
+        print(f"FATAL: {len(missing_cik)}/{len(SP500_TICKERS)} tickers had no CIK "
+              f"({cik_failure_rate:.0%}) - the ticker->CIK map itself is likely broken "
+              f"(bad download, changed SEC file format, etc). Not writing insider.json - "
+              f"leaving the last known-good file in place.")
+        raise SystemExit(1)
+
+    if total_parse_attempts > 0 and parse_failure_rate > PARSE_FAILURE_THRESHOLD:
+        print(f"FATAL: {total_parse_failures}/{total_parse_attempts} document fetches "
+              f"failed to parse ({parse_failure_rate:.0%}). This many failures across "
+              f"genuinely different filings almost always means SEC is serving a "
+              f"block/rate-limit page instead of real documents (check the DIAGNOSTIC "
+              f"dumps above for the actual response content/status/content-type), not "
+              f"that {total_parse_failures} individual documents are independently "
+              f"malformed. Not writing insider.json - leaving the last known-good file "
+              f"in place.")
+        raise SystemExit(1)
 
     def sort_key(x):
         r = x.get("role")
@@ -402,6 +463,8 @@ def main():
     }, indent=2))
 
     print(f"Done: {len(all_buys)} buys, {len(all_sells)} sells -> {out_path}")
+    print(f"  (parse attempts: {total_parse_attempts}, failures: {total_parse_failures}, "
+          f"failure rate: {parse_failure_rate:.0%})")
 
 
 if __name__ == "__main__":
