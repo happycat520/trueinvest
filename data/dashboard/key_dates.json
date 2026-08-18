@@ -1,8 +1,197 @@
 {
-  "updated": "Aug 18, 2026 11:03 AM PST",
-  "updated_iso": "2026-08-18T11:03:38.961991-07:00",
+  "updated": "Aug 18, 2026 11:54 AM PST",
+  "updated_iso": "2026-08-18T11:54:05.457572-07:00",
   "hasUpcoming": true,
   "dividends": [
+    {
+      "ticker": "BG",
+      "company": "Bunge",
+      "exDate": "2026-08-18",
+      "exStatus": "upcoming",
+      "dividendRate": 2.88,
+      "dividendYield": 2.51,
+      "price": 114.81
+    },
+    {
+      "ticker": "CTSH",
+      "company": "Cognizant",
+      "exDate": "2026-08-18",
+      "exStatus": "upcoming",
+      "dividendRate": 1.32,
+      "dividendYield": 2.26,
+      "price": 58.4
+    },
+    {
+      "ticker": "EVRG",
+      "company": "Evergy",
+      "exDate": "2026-08-18",
+      "exStatus": "upcoming",
+      "dividendRate": 2.78,
+      "dividendYield": 3.33,
+      "price": 83.53
+    },
+    {
+      "ticker": "PSX",
+      "company": "Phillips 66",
+      "exDate": "2026-08-18",
+      "exStatus": "upcoming",
+      "dividendRate": 5.08,
+      "dividendYield": 2.1,
+      "price": 241.5
+    },
+    {
+      "ticker": "REGN",
+      "company": "Regeneron",
+      "exDate": "2026-08-18",
+      "exStatus": "upcoming",
+      "dividendRate": 3.76,
+      "dividendYield": 0.46,
+      "price": 816.17
+    },
+    {
+      "ticker": "WAB",
+      "company": "Wabtec",
+      "exDate": "2026-08-18",
+      "exStatus": "upcoming",
+      "dividendRate": 1.24,
+      "dividendYield": 0.42,
+      "price": 294.74
+    },
+    {
+      "ticker": "ADM",
+      "company": "Archer-Daniels-Midland",
+      "exDate": "2026-08-19",
+      "exStatus": "upcoming",
+      "dividendRate": 2.08,
+      "dividendYield": 2.52,
+      "price": 82.68
+    },
+    {
+      "ticker": "AFL",
+      "company": "Aflac",
+      "exDate": "2026-08-19",
+      "exStatus": "upcoming",
+      "dividendRate": 2.44,
+      "dividendYield": 2.0,
+      "price": 121.86
+    },
+    {
+      "ticker": "CVX",
+      "company": "Chevron",
+      "exDate": "2026-08-19",
+      "exStatus": "upcoming",
+      "dividendRate": 7.12,
+      "dividendYield": 3.47,
+      "price": 205.38
+    },
+    {
+      "ticker": "ED",
+      "company": "Consolidated Edison",
+      "exDate": "2026-08-19",
+      "exStatus": "upcoming",
+      "dividendRate": 3.51,
+      "dividendYield": 3.22,
+      "price": 108.89
+    },
+    {
+      "ticker": "EQIX",
+      "company": "Equinix",
+      "exDate": "2026-08-19",
+      "exStatus": "upcoming",
+      "dividendRate": 20.64,
+      "dividendYield": 1.9,
+      "price": 1088.49
+    },
+    {
+      "ticker": "HAS",
+      "company": "Hasbro",
+      "exDate": "2026-08-19",
+      "exStatus": "upcoming",
+      "dividendRate": 2.8,
+      "dividendYield": 2.93,
+      "price": 95.43
+    },
+    {
+      "ticker": "L",
+      "company": "Loews",
+      "exDate": "2026-08-19",
+      "exStatus": "upcoming",
+      "dividendRate": 0.25,
+      "dividendYield": 0.22,
+      "price": 112.77
+    },
+    {
+      "ticker": "MKTX",
+      "company": "MarketAxess",
+      "exDate": "2026-08-19",
+      "exStatus": "upcoming",
+      "dividendRate": 3.12,
+      "dividendYield": 1.92,
+      "price": 162.59
+    },
+    {
+      "ticker": "MPC",
+      "company": "Marathon Petroleum",
+      "exDate": "2026-08-19",
+      "exStatus": "upcoming",
+      "dividendRate": 4.0,
+      "dividendYield": 1.1,
+      "price": 363.73
+    },
+    {
+      "ticker": "SNA",
+      "company": "Snap-on",
+      "exDate": "2026-08-19",
+      "exStatus": "upcoming",
+      "dividendRate": 9.76,
+      "dividendYield": 2.45,
+      "price": 399.1
+    },
+    {
+      "ticker": "VRSN",
+      "company": "VeriSign",
+      "exDate": "2026-08-19",
+      "exStatus": "upcoming",
+      "dividendRate": 3.24,
+      "dividendYield": 1.16,
+      "price": 279.56
+    },
+    {
+      "ticker": "AMAT",
+      "company": "Applied Materials",
+      "exDate": "2026-08-20",
+      "exStatus": "upcoming",
+      "dividendRate": 2.12,
+      "dividendYield": 0.42,
+      "price": 509.08
+    },
+    {
+      "ticker": "CNP",
+      "company": "CenterPoint Energy",
+      "exDate": "2026-08-20",
+      "exStatus": "upcoming",
+      "dividendRate": 0.96,
+      "dividendYield": 2.36,
+      "price": 40.7
+    },
+    {
+      "ticker": "LKQ",
+      "company": "LKQ Corp",
+      "exDate": "2026-08-20",
+      "exStatus": "upcoming",
+      "dividendRate": 1.2,
+      "dividendYield": 4.75,
+      "price": 25.25
+    },
+    {
+      "ticker": "MAR",
+      "company": "Marriott",
+      "exDate": "2026-08-20",
+      "exStatus": "upcoming",
+      "dividendRate": 2.92,
+      "dividendYield": 0.81,
+      "price": 359.83
+    },
     {
       "ticker": "MSFT",
       "company": "Microsoft",
@@ -10,7 +199,2194 @@
       "exStatus": "upcoming",
       "dividendRate": 3.64,
       "dividendYield": 0.76,
-      "price": 482.08
+      "price": 482.11
+    },
+    {
+      "ticker": "RMD",
+      "company": "ResMed",
+      "exDate": "2026-08-20",
+      "exStatus": "upcoming",
+      "dividendRate": 2.64,
+      "dividendYield": 1.2,
+      "price": 220.78
+    },
+    {
+      "ticker": "SBAC",
+      "company": "SBA Communications",
+      "exDate": "2026-08-20",
+      "exStatus": "upcoming",
+      "dividendRate": 5.0,
+      "dividendYield": 2.73,
+      "price": 183.28
+    },
+    {
+      "ticker": "AMGN",
+      "company": "Amgen",
+      "exDate": "2026-08-21",
+      "exStatus": "upcoming",
+      "dividendRate": 10.08,
+      "dividendYield": 2.37,
+      "price": 425.93
+    },
+    {
+      "ticker": "BBWI",
+      "company": "Bath & Body Works",
+      "exDate": "2026-08-21",
+      "exStatus": "upcoming",
+      "dividendRate": 0.8,
+      "dividendYield": 3.96,
+      "price": 20.2
+    },
+    {
+      "ticker": "CMI",
+      "company": "Cummins",
+      "exDate": "2026-08-21",
+      "exStatus": "upcoming",
+      "dividendRate": 8.8,
+      "dividendYield": 1.42,
+      "price": 621.65
+    },
+    {
+      "ticker": "HLT",
+      "company": "Hilton",
+      "exDate": "2026-08-21",
+      "exStatus": "upcoming",
+      "dividendRate": 0.6,
+      "dividendYield": 0.18,
+      "price": 329.71
+    },
+    {
+      "ticker": "J",
+      "company": "Jacobs Solutions",
+      "exDate": "2026-08-21",
+      "exStatus": "upcoming",
+      "dividendRate": 1.44,
+      "dividendYield": 1.0,
+      "price": 144.06
+    },
+    {
+      "ticker": "SHW",
+      "company": "Sherwin-Williams",
+      "exDate": "2026-08-21",
+      "exStatus": "upcoming",
+      "dividendRate": 3.2,
+      "dividendYield": 0.92,
+      "price": 347.67
+    },
+    {
+      "ticker": "TEL",
+      "company": "TE Connectivity",
+      "exDate": "2026-08-21",
+      "exStatus": "upcoming",
+      "dividendRate": 2.98,
+      "dividendYield": 1.43,
+      "price": 207.86
+    },
+    {
+      "ticker": "VTRS",
+      "company": "Viatris",
+      "exDate": "2026-08-21",
+      "exStatus": "upcoming",
+      "dividendRate": 0.48,
+      "dividendYield": 2.93,
+      "price": 16.38
+    },
+    {
+      "ticker": "WMT",
+      "company": "Walmart",
+      "exDate": "2026-08-21",
+      "exStatus": "upcoming",
+      "dividendRate": 0.99,
+      "dividendYield": 0.86,
+      "price": 115.59
+    },
+    {
+      "ticker": "ATO",
+      "company": "Atmos Energy",
+      "exDate": "2026-08-24",
+      "exStatus": "upcoming",
+      "dividendRate": 4.0,
+      "dividendYield": 2.34,
+      "price": 170.87
+    },
+    {
+      "ticker": "LYB",
+      "company": "LyondellBasell",
+      "exDate": "2026-08-24",
+      "exStatus": "upcoming",
+      "dividendRate": 2.76,
+      "dividendYield": 4.26,
+      "price": 64.82
+    },
+    {
+      "ticker": "MAS",
+      "company": "Masco",
+      "exDate": "2026-08-24",
+      "exStatus": "upcoming",
+      "dividendRate": 1.28,
+      "dividendYield": 1.73,
+      "price": 73.88
+    },
+    {
+      "ticker": "MCHP",
+      "company": "Microchip Technology",
+      "exDate": "2026-08-24",
+      "exStatus": "upcoming",
+      "dividendRate": 1.82,
+      "dividendYield": 2.37,
+      "price": 76.88
+    },
+    {
+      "ticker": "MMM",
+      "company": "3M",
+      "exDate": "2026-08-24",
+      "exStatus": "upcoming",
+      "dividendRate": 3.12,
+      "dividendYield": 1.72,
+      "price": 180.95
+    },
+    {
+      "ticker": "PAYC",
+      "company": "Paycom",
+      "exDate": "2026-08-24",
+      "exStatus": "upcoming",
+      "dividendRate": 1.5,
+      "dividendYield": 0.69,
+      "price": 218.04
+    },
+    {
+      "ticker": "TECH",
+      "company": "Bio-Techne",
+      "exDate": "2026-08-24",
+      "exStatus": "upcoming",
+      "dividendRate": 0.32,
+      "dividendYield": 0.44,
+      "price": 72.34
+    },
+    {
+      "ticker": "TSCO",
+      "company": "Tractor Supply",
+      "exDate": "2026-08-24",
+      "exStatus": "upcoming",
+      "dividendRate": 0.96,
+      "dividendYield": 2.73,
+      "price": 35.16
+    },
+    {
+      "ticker": "CDW",
+      "company": "CDW Corp",
+      "exDate": "2026-08-25",
+      "exStatus": "upcoming",
+      "dividendRate": 2.52,
+      "dividendYield": 1.85,
+      "price": 136.31
+    },
+    {
+      "ticker": "JNJ",
+      "company": "Johnson & Johnson",
+      "exDate": "2026-08-25",
+      "exStatus": "upcoming",
+      "dividendRate": 5.36,
+      "dividendYield": 1.98,
+      "price": 270.5
+    },
+    {
+      "ticker": "PRU",
+      "company": "Prudential Financial",
+      "exDate": "2026-08-25",
+      "exStatus": "upcoming",
+      "dividendRate": 5.6,
+      "dividendYield": 4.47,
+      "price": 125.26
+    },
+    {
+      "ticker": "SPGI",
+      "company": "S&P Global",
+      "exDate": "2026-08-26",
+      "exStatus": "upcoming",
+      "dividendRate": 3.88,
+      "dividendYield": 0.92,
+      "price": 421.65
+    },
+    {
+      "ticker": "EXPE",
+      "company": "Expedia",
+      "exDate": "2026-08-27",
+      "exStatus": "upcoming",
+      "dividendRate": 1.92,
+      "dividendYield": 0.59,
+      "price": 324.02
+    },
+    {
+      "ticker": "XYL",
+      "company": "Xylem",
+      "exDate": "2026-08-27",
+      "exStatus": "upcoming",
+      "dividendRate": 1.72,
+      "dividendYield": 1.51,
+      "price": 114.22
+    },
+    {
+      "ticker": "BAX",
+      "company": "Baxter",
+      "exDate": "2026-08-28",
+      "exStatus": "upcoming",
+      "dividendRate": 0.04,
+      "dividendYield": 0.15,
+      "price": 25.94
+    },
+    {
+      "ticker": "EBAY",
+      "company": "eBay",
+      "exDate": "2026-08-28",
+      "exStatus": "upcoming",
+      "dividendRate": 1.24,
+      "dividendYield": 1.21,
+      "price": 102.77
+    },
+    {
+      "ticker": "HII",
+      "company": "Huntington Ingalls",
+      "exDate": "2026-08-28",
+      "exStatus": "upcoming",
+      "dividendRate": 5.52,
+      "dividendYield": 1.72,
+      "price": 320.11
+    },
+    {
+      "ticker": "LH",
+      "company": "Labcorp",
+      "exDate": "2026-08-28",
+      "exStatus": "upcoming",
+      "dividendRate": 2.88,
+      "dividendYield": 0.88,
+      "price": 326.19
+    },
+    {
+      "ticker": "NEE",
+      "company": "NextEra Energy",
+      "exDate": "2026-08-28",
+      "exStatus": "upcoming",
+      "dividendRate": 2.49,
+      "dividendYield": 2.88,
+      "price": 86.59
+    },
+    {
+      "ticker": "TAP",
+      "company": "Molson Coors",
+      "exDate": "2026-08-28",
+      "exStatus": "upcoming",
+      "dividendRate": 1.92,
+      "dividendYield": 4.62,
+      "price": 41.55
+    },
+    {
+      "ticker": "TMUS",
+      "company": "T-Mobile",
+      "exDate": "2026-08-28",
+      "exStatus": "upcoming",
+      "dividendRate": 4.08,
+      "dividendYield": 2.22,
+      "price": 183.48
+    },
+    {
+      "ticker": "AIZ",
+      "company": "Assurant",
+      "exDate": "2026-08-31",
+      "exStatus": "upcoming",
+      "dividendRate": 3.52,
+      "dividendYield": 1.25,
+      "price": 280.67
+    },
+    {
+      "ticker": "ALL",
+      "company": "Allstate",
+      "exDate": "2026-08-31",
+      "exStatus": "upcoming",
+      "dividendRate": 4.32,
+      "dividendYield": 1.65,
+      "price": 262.27
+    },
+    {
+      "ticker": "CBOE",
+      "company": "Cboe Global Markets",
+      "exDate": "2026-08-31",
+      "exStatus": "upcoming",
+      "dividendRate": 3.44,
+      "dividendYield": 1.17,
+      "price": 294.84
+    },
+    {
+      "ticker": "CSX",
+      "company": "CSX Corp",
+      "exDate": "2026-08-31",
+      "exStatus": "upcoming",
+      "dividendRate": 0.56,
+      "dividendYield": 1.11,
+      "price": 50.34
+    },
+    {
+      "ticker": "DD",
+      "company": "DuPont",
+      "exDate": "2026-08-31",
+      "exStatus": "upcoming",
+      "dividendRate": 2.4,
+      "dividendYield": 1.72,
+      "price": 139.32
+    },
+    {
+      "ticker": "DOV",
+      "company": "Dover",
+      "exDate": "2026-08-31",
+      "exStatus": "upcoming",
+      "dividendRate": 2.1,
+      "dividendYield": 1.03,
+      "price": 203.6
+    },
+    {
+      "ticker": "DOW",
+      "company": "Dow Inc",
+      "exDate": "2026-08-31",
+      "exStatus": "upcoming",
+      "dividendRate": 1.4,
+      "dividendYield": 4.49,
+      "price": 31.17
+    },
+    {
+      "ticker": "FDS",
+      "company": "FactSet Research",
+      "exDate": "2026-08-31",
+      "exStatus": "upcoming",
+      "dividendRate": 4.64,
+      "dividendYield": 1.61,
+      "price": 287.68
+    },
+    {
+      "ticker": "GLW",
+      "company": "Corning",
+      "exDate": "2026-08-31",
+      "exStatus": "upcoming",
+      "dividendRate": 1.12,
+      "dividendYield": 0.7,
+      "price": 159.74
+    },
+    {
+      "ticker": "HUBB",
+      "company": "Hubbell",
+      "exDate": "2026-08-31",
+      "exStatus": "upcoming",
+      "dividendRate": 5.68,
+      "dividendYield": 1.17,
+      "price": 486.58
+    },
+    {
+      "ticker": "NWL",
+      "company": "Newell Brands",
+      "exDate": "2026-08-31",
+      "exStatus": "upcoming",
+      "dividendRate": 0.28,
+      "dividendYield": 4.67,
+      "price": 6.0
+    },
+    {
+      "ticker": "UNP",
+      "company": "Union Pacific",
+      "exDate": "2026-08-31",
+      "exStatus": "upcoming",
+      "dividendRate": 5.68,
+      "dividendYield": 1.9,
+      "price": 299.65
+    },
+    {
+      "ticker": "BALL",
+      "company": "Ball Corp",
+      "exDate": "2026-09-01",
+      "exStatus": "upcoming",
+      "dividendRate": 0.8,
+      "dividendYield": 1.3,
+      "price": 61.62
+    },
+    {
+      "ticker": "BWA",
+      "company": "BorgWarner",
+      "exDate": "2026-09-01",
+      "exStatus": "upcoming",
+      "dividendRate": 0.68,
+      "dividendYield": 1.0,
+      "price": 68.31
+    },
+    {
+      "ticker": "CTVA",
+      "company": "Corteva",
+      "exDate": "2026-09-01",
+      "exStatus": "upcoming",
+      "dividendRate": 0.72,
+      "dividendYield": 0.92,
+      "price": 78.03
+    },
+    {
+      "ticker": "GS",
+      "company": "Goldman Sachs",
+      "exDate": "2026-09-01",
+      "exStatus": "upcoming",
+      "dividendRate": 20.0,
+      "dividendYield": 1.93,
+      "price": 1037.23
+    },
+    {
+      "ticker": "HIG",
+      "company": "Hartford Financial",
+      "exDate": "2026-09-01",
+      "exStatus": "upcoming",
+      "dividendRate": 2.4,
+      "dividendYield": 1.73,
+      "price": 138.65
+    },
+    {
+      "ticker": "KEY",
+      "company": "KeyCorp",
+      "exDate": "2026-09-01",
+      "exStatus": "upcoming",
+      "dividendRate": 0.82,
+      "dividendYield": 3.59,
+      "price": 22.84
+    },
+    {
+      "ticker": "LMT",
+      "company": "Lockheed Martin",
+      "exDate": "2026-09-01",
+      "exStatus": "upcoming",
+      "dividendRate": 13.8,
+      "dividendYield": 2.27,
+      "price": 609.08
+    },
+    {
+      "ticker": "MCD",
+      "company": "McDonald's",
+      "exDate": "2026-09-01",
+      "exStatus": "upcoming",
+      "dividendRate": 7.44,
+      "dividendYield": 2.77,
+      "price": 268.63
+    },
+    {
+      "ticker": "MCK",
+      "company": "McKesson",
+      "exDate": "2026-09-01",
+      "exStatus": "upcoming",
+      "dividendRate": 3.76,
+      "dividendYield": 0.43,
+      "price": 874.07
+    },
+    {
+      "ticker": "MLM",
+      "company": "Martin Marietta",
+      "exDate": "2026-09-01",
+      "exStatus": "upcoming",
+      "dividendRate": 3.36,
+      "dividendYield": 0.64,
+      "price": 524.88
+    },
+    {
+      "ticker": "NKE",
+      "company": "Nike",
+      "exDate": "2026-09-01",
+      "exStatus": "upcoming",
+      "dividendRate": 1.64,
+      "dividendYield": 4.05,
+      "price": 40.46
+    },
+    {
+      "ticker": "RF",
+      "company": "Regions Financial",
+      "exDate": "2026-09-01",
+      "exStatus": "upcoming",
+      "dividendRate": 1.1,
+      "dividendYield": 3.47,
+      "price": 31.71
+    },
+    {
+      "ticker": "TSN",
+      "company": "Tyson Foods",
+      "exDate": "2026-09-01",
+      "exStatus": "upcoming",
+      "dividendRate": 2.04,
+      "dividendYield": 3.49,
+      "price": 58.47
+    },
+    {
+      "ticker": "UHS",
+      "company": "Universal Health Services",
+      "exDate": "2026-09-01",
+      "exStatus": "upcoming",
+      "dividendRate": 0.8,
+      "dividendYield": 0.46,
+      "price": 174.65
+    },
+    {
+      "ticker": "AVY",
+      "company": "Avery Dennison",
+      "exDate": "2026-09-02",
+      "exStatus": "upcoming",
+      "dividendRate": 4.0,
+      "dividendYield": 2.24,
+      "price": 178.27
+    },
+    {
+      "ticker": "FOX",
+      "company": "Fox Corp B",
+      "exDate": "2026-09-02",
+      "exStatus": "upcoming",
+      "dividendRate": 0.58,
+      "dividendYield": 0.93,
+      "price": 62.1
+    },
+    {
+      "ticker": "FOXA",
+      "company": "Fox Corp A",
+      "exDate": "2026-09-02",
+      "exStatus": "upcoming",
+      "dividendRate": 0.58,
+      "dividendYield": 0.83,
+      "price": 69.98
+    },
+    {
+      "ticker": "ODFL",
+      "company": "Old Dominion Freight",
+      "exDate": "2026-09-02",
+      "exStatus": "upcoming",
+      "dividendRate": 1.16,
+      "dividendYield": 0.56,
+      "price": 207.88
+    },
+    {
+      "ticker": "SLB",
+      "company": "SLB (Schlumberger)",
+      "exDate": "2026-09-02",
+      "exStatus": "upcoming",
+      "dividendRate": 1.18,
+      "dividendYield": 2.21,
+      "price": 53.3
+    },
+    {
+      "ticker": "BF-B",
+      "company": "Brown-Forman",
+      "exDate": "2026-09-03",
+      "exStatus": "upcoming",
+      "dividendRate": 0.92,
+      "dividendYield": 3.33,
+      "price": 27.61
+    },
+    {
+      "ticker": "BR",
+      "company": "Broadridge",
+      "exDate": "2026-09-03",
+      "exStatus": "upcoming",
+      "dividendRate": 4.36,
+      "dividendYield": 2.55,
+      "price": 171.28
+    },
+    {
+      "ticker": "LIN",
+      "company": "Linde",
+      "exDate": "2026-09-03",
+      "exStatus": "upcoming",
+      "dividendRate": 6.4,
+      "dividendYield": 1.33,
+      "price": 480.09
+    },
+    {
+      "ticker": "LUV",
+      "company": "Southwest Airlines",
+      "exDate": "2026-09-03",
+      "exStatus": "upcoming",
+      "dividendRate": 0.72,
+      "dividendYield": 1.69,
+      "price": 42.64
+    },
+    {
+      "ticker": "NEM",
+      "company": "Newmont",
+      "exDate": "2026-09-03",
+      "exStatus": "upcoming",
+      "dividendRate": 1.04,
+      "dividendYield": 0.89,
+      "price": 116.8
+    },
+    {
+      "ticker": "PFG",
+      "company": "Principal Financial",
+      "exDate": "2026-09-03",
+      "exStatus": "upcoming",
+      "dividendRate": 3.36,
+      "dividendYield": 2.96,
+      "price": 113.51
+    },
+    {
+      "ticker": "QCOM",
+      "company": "Qualcomm",
+      "exDate": "2026-09-03",
+      "exStatus": "upcoming",
+      "dividendRate": 3.68,
+      "dividendYield": 2.3,
+      "price": 159.66
+    },
+    {
+      "ticker": "AMCR",
+      "company": "Amcor",
+      "exDate": "2026-09-04",
+      "exStatus": "upcoming",
+      "dividendRate": 2.6,
+      "dividendYield": 5.64,
+      "price": 46.1
+    },
+    {
+      "ticker": "BAC",
+      "company": "Bank of America",
+      "exDate": "2026-09-04",
+      "exStatus": "upcoming",
+      "dividendRate": 1.28,
+      "dividendYield": 2.0,
+      "price": 64.07
+    },
+    {
+      "ticker": "CHRW",
+      "company": "C.H. Robinson",
+      "exDate": "2026-09-04",
+      "exStatus": "upcoming",
+      "dividendRate": 2.52,
+      "dividendYield": 1.73,
+      "price": 145.87
+    },
+    {
+      "ticker": "D",
+      "company": "Dominion Energy",
+      "exDate": "2026-09-04",
+      "exStatus": "upcoming",
+      "dividendRate": 2.67,
+      "dividendYield": 3.87,
+      "price": 68.93
+    },
+    {
+      "ticker": "EXC",
+      "company": "Exelon",
+      "exDate": "2026-09-04",
+      "exStatus": "upcoming",
+      "dividendRate": 1.68,
+      "dividendYield": 3.69,
+      "price": 45.5
+    },
+    {
+      "ticker": "GM",
+      "company": "General Motors",
+      "exDate": "2026-09-04",
+      "exStatus": "upcoming",
+      "dividendRate": 0.72,
+      "dividendYield": 0.86,
+      "price": 84.17
+    },
+    {
+      "ticker": "GOOG",
+      "company": "Alphabet C",
+      "exDate": "2026-09-04",
+      "exStatus": "upcoming",
+      "dividendRate": 0.88,
+      "dividendYield": 0.26,
+      "price": 340.6
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet A",
+      "exDate": "2026-09-04",
+      "exStatus": "upcoming",
+      "dividendRate": 0.88,
+      "dividendYield": 0.26,
+      "price": 342.95
+    },
+    {
+      "ticker": "GPC",
+      "company": "Genuine Parts",
+      "exDate": "2026-09-04",
+      "exStatus": "upcoming",
+      "dividendRate": 4.25,
+      "dividendYield": 3.2,
+      "price": 133.01
+    },
+    {
+      "ticker": "KHC",
+      "company": "Kraft Heinz",
+      "exDate": "2026-09-04",
+      "exStatus": "upcoming",
+      "dividendRate": 1.6,
+      "dividendYield": 6.42,
+      "price": 24.92
+    },
+    {
+      "ticker": "KIM",
+      "company": "Kimco Realty",
+      "exDate": "2026-09-04",
+      "exStatus": "upcoming",
+      "dividendRate": 1.12,
+      "dividendYield": 4.61,
+      "price": 24.27
+    },
+    {
+      "ticker": "KMB",
+      "company": "Kimberly-Clark",
+      "exDate": "2026-09-04",
+      "exStatus": "upcoming",
+      "dividendRate": 5.12,
+      "dividendYield": 4.72,
+      "price": 108.53
+    },
+    {
+      "ticker": "LHX",
+      "company": "L3Harris Technologies",
+      "exDate": "2026-09-04",
+      "exStatus": "upcoming",
+      "dividendRate": 5.0,
+      "dividendYield": 1.77,
+      "price": 282.45
+    },
+    {
+      "ticker": "NTRS",
+      "company": "Northern Trust",
+      "exDate": "2026-09-04",
+      "exStatus": "upcoming",
+      "dividendRate": 3.28,
+      "dividendYield": 1.72,
+      "price": 191.0
+    },
+    {
+      "ticker": "PEP",
+      "company": "PepsiCo",
+      "exDate": "2026-09-04",
+      "exStatus": "upcoming",
+      "dividendRate": 5.92,
+      "dividendYield": 4.21,
+      "price": 140.48
+    },
+    {
+      "ticker": "PYPL",
+      "company": "PayPal",
+      "exDate": "2026-09-04",
+      "exStatus": "upcoming",
+      "dividendRate": 0.56,
+      "dividendYield": 0.92,
+      "price": 60.68
+    },
+    {
+      "ticker": "STE",
+      "company": "Steris",
+      "exDate": "2026-09-04",
+      "exStatus": "upcoming",
+      "dividendRate": 2.58,
+      "dividendYield": 1.11,
+      "price": 233.33
+    },
+    {
+      "ticker": "TPR",
+      "company": "Tapestry",
+      "exDate": "2026-09-04",
+      "exStatus": "upcoming",
+      "dividendRate": 1.85,
+      "dividendYield": 1.38,
+      "price": 133.92
+    },
+    {
+      "ticker": "TT",
+      "company": "Trane Technologies",
+      "exDate": "2026-09-04",
+      "exStatus": "upcoming",
+      "dividendRate": 4.2,
+      "dividendYield": 0.91,
+      "price": 462.58
+    },
+    {
+      "ticker": "WY",
+      "company": "Weyerhaeuser",
+      "exDate": "2026-09-04",
+      "exStatus": "upcoming",
+      "dividendRate": 0.84,
+      "dividendYield": 3.56,
+      "price": 23.57
+    },
+    {
+      "ticker": "AEE",
+      "company": "Ameren",
+      "exDate": "2026-09-08",
+      "exStatus": "upcoming",
+      "dividendRate": 3.0,
+      "dividendYield": 2.74,
+      "price": 109.52
+    },
+    {
+      "ticker": "AJG",
+      "company": "Arthur J. Gallagher",
+      "exDate": "2026-09-08",
+      "exStatus": "upcoming",
+      "dividendRate": 2.8,
+      "dividendYield": 1.11,
+      "price": 251.34
+    },
+    {
+      "ticker": "BLK",
+      "company": "BlackRock",
+      "exDate": "2026-09-08",
+      "exStatus": "upcoming",
+      "dividendRate": 22.92,
+      "dividendYield": 1.97,
+      "price": 1160.82
+    },
+    {
+      "ticker": "CI",
+      "company": "Cigna",
+      "exDate": "2026-09-08",
+      "exStatus": "upcoming",
+      "dividendRate": 6.24,
+      "dividendYield": 2.22,
+      "price": 280.49
+    },
+    {
+      "ticker": "SWK",
+      "company": "Stanley Black & Decker",
+      "exDate": "2026-09-08",
+      "exStatus": "upcoming",
+      "dividendRate": 3.36,
+      "dividendYield": 3.41,
+      "price": 98.63
+    },
+    {
+      "ticker": "WDC",
+      "company": "Western Digital",
+      "exDate": "2026-09-08",
+      "exStatus": "upcoming",
+      "dividendRate": 0.6,
+      "dividendYield": 0.12,
+      "price": 496.21
+    },
+    {
+      "ticker": "BDX",
+      "company": "Becton Dickinson",
+      "exDate": "2026-09-09",
+      "exStatus": "upcoming",
+      "dividendRate": 4.2,
+      "dividendYield": 2.3,
+      "price": 182.72
+    },
+    {
+      "ticker": "CME",
+      "company": "CME Group",
+      "exDate": "2026-09-09",
+      "exStatus": "upcoming",
+      "dividendRate": 5.2,
+      "dividendYield": 1.91,
+      "price": 272.12
+    },
+    {
+      "ticker": "EG",
+      "company": "Everest Group",
+      "exDate": "2026-09-09",
+      "exStatus": "upcoming",
+      "dividendRate": 8.0,
+      "dividendYield": 2.16,
+      "price": 369.85
+    },
+    {
+      "ticker": "HPQ",
+      "company": "HP Inc",
+      "exDate": "2026-09-09",
+      "exStatus": "upcoming",
+      "dividendRate": 1.2,
+      "dividendYield": 3.98,
+      "price": 30.16
+    },
+    {
+      "ticker": "NWS",
+      "company": "News Corp B",
+      "exDate": "2026-09-09",
+      "exStatus": "upcoming",
+      "dividendRate": 0.2,
+      "dividendYield": 0.59,
+      "price": 33.66
+    },
+    {
+      "ticker": "NWSA",
+      "company": "News Corp A",
+      "exDate": "2026-09-09",
+      "exStatus": "upcoming",
+      "dividendRate": 0.2,
+      "dividendYield": 0.68,
+      "price": 29.55
+    },
+    {
+      "ticker": "PEG",
+      "company": "Public Service Enterprise",
+      "exDate": "2026-09-09",
+      "exStatus": "upcoming",
+      "dividendRate": 2.68,
+      "dividendYield": 3.54,
+      "price": 75.77
+    },
+    {
+      "ticker": "SPG",
+      "company": "Simon Property",
+      "exDate": "2026-09-09",
+      "exStatus": "upcoming",
+      "dividendRate": 8.9,
+      "dividendYield": 4.02,
+      "price": 221.5
+    },
+    {
+      "ticker": "OXY",
+      "company": "Occidental Petroleum",
+      "exDate": "2026-09-10",
+      "exStatus": "upcoming",
+      "dividendRate": 1.12,
+      "dividendYield": 1.88,
+      "price": 59.7
+    },
+    {
+      "ticker": "TRV",
+      "company": "Travelers",
+      "exDate": "2026-09-10",
+      "exStatus": "upcoming",
+      "dividendRate": 5.0,
+      "dividendYield": 1.36,
+      "price": 367.12
+    },
+    {
+      "ticker": "VFC",
+      "company": "VF Corp",
+      "exDate": "2026-09-10",
+      "exStatus": "upcoming",
+      "dividendRate": 0.36,
+      "dividendYield": 2.5,
+      "price": 14.41
+    },
+    {
+      "ticker": "ADP",
+      "company": "Automatic Data Processing",
+      "exDate": "2026-09-11",
+      "exStatus": "upcoming",
+      "dividendRate": 6.8,
+      "dividendYield": 2.51,
+      "price": 270.9
+    },
+    {
+      "ticker": "ALB",
+      "company": "Albemarle",
+      "exDate": "2026-09-11",
+      "exStatus": "upcoming",
+      "dividendRate": 1.64,
+      "dividendYield": 1.24,
+      "price": 132.2
+    },
+    {
+      "ticker": "BKNG",
+      "company": "Booking Holdings",
+      "exDate": "2026-09-11",
+      "exStatus": "upcoming",
+      "dividendRate": 1.68,
+      "dividendYield": 0.8,
+      "price": 210.14
+    },
+    {
+      "ticker": "CB",
+      "company": "Chubb",
+      "exDate": "2026-09-11",
+      "exStatus": "upcoming",
+      "dividendRate": 4.08,
+      "dividendYield": 1.18,
+      "price": 345.42
+    },
+    {
+      "ticker": "FIS",
+      "company": "Fidelity National Info",
+      "exDate": "2026-09-11",
+      "exStatus": "upcoming",
+      "dividendRate": 1.76,
+      "dividendYield": 4.24,
+      "price": 41.51
+    },
+    {
+      "ticker": "GPN",
+      "company": "Global Payments",
+      "exDate": "2026-09-11",
+      "exStatus": "upcoming",
+      "dividendRate": 1.0,
+      "dividendYield": 1.09,
+      "price": 91.48
+    },
+    {
+      "ticker": "GRMN",
+      "company": "Garmin",
+      "exDate": "2026-09-11",
+      "exStatus": "upcoming",
+      "dividendRate": 4.2,
+      "dividendYield": 1.41,
+      "price": 298.32
+    },
+    {
+      "ticker": "NDAQ",
+      "company": "Nasdaq",
+      "exDate": "2026-09-11",
+      "exStatus": "upcoming",
+      "dividendRate": 1.16,
+      "dividendYield": 1.19,
+      "price": 97.56
+    },
+    {
+      "ticker": "REG",
+      "company": "Regency Centers",
+      "exDate": "2026-09-11",
+      "exStatus": "upcoming",
+      "dividendRate": 3.02,
+      "dividendYield": 3.97,
+      "price": 76.13
+    },
+    {
+      "ticker": "WMB",
+      "company": "Williams Companies",
+      "exDate": "2026-09-11",
+      "exStatus": "upcoming",
+      "dividendRate": 2.1,
+      "dividendYield": 2.79,
+      "price": 75.21
+    },
+    {
+      "ticker": "UNH",
+      "company": "UnitedHealth",
+      "exDate": "2026-09-14",
+      "exStatus": "upcoming",
+      "dividendRate": 9.28,
+      "dividendYield": 2.35,
+      "price": 395.66
+    },
+    {
+      "ticker": "AME",
+      "company": "AMETEK",
+      "exDate": "2026-09-15",
+      "exStatus": "upcoming",
+      "dividendRate": 1.36,
+      "dividendYield": 0.54,
+      "price": 250.09
+    },
+    {
+      "ticker": "CCI",
+      "company": "Crown Castle",
+      "exDate": "2026-09-15",
+      "exStatus": "upcoming",
+      "dividendRate": 4.25,
+      "dividendYield": 5.71,
+      "price": 74.48
+    },
+    {
+      "ticker": "DLR",
+      "company": "Digital Realty",
+      "exDate": "2026-09-15",
+      "exStatus": "upcoming",
+      "dividendRate": 4.88,
+      "dividendYield": 2.48,
+      "price": 196.49
+    },
+    {
+      "ticker": "DPZ",
+      "company": "Domino's Pizza",
+      "exDate": "2026-09-15",
+      "exStatus": "upcoming",
+      "dividendRate": 7.96,
+      "dividendYield": 2.35,
+      "price": 339.42
+    },
+    {
+      "ticker": "DVN",
+      "company": "Devon Energy",
+      "exDate": "2026-09-15",
+      "exStatus": "upcoming",
+      "dividendRate": 1.28,
+      "dividendYield": 2.67,
+      "price": 47.92
+    },
+    {
+      "ticker": "ECL",
+      "company": "Ecolab",
+      "exDate": "2026-09-15",
+      "exStatus": "upcoming",
+      "dividendRate": 2.92,
+      "dividendYield": 1.04,
+      "price": 280.69
+    },
+    {
+      "ticker": "EMN",
+      "company": "Eastman Chemical",
+      "exDate": "2026-09-15",
+      "exStatus": "upcoming",
+      "dividendRate": 3.36,
+      "dividendYield": 4.58,
+      "price": 73.34
+    },
+    {
+      "ticker": "GILD",
+      "company": "Gilead Sciences",
+      "exDate": "2026-09-15",
+      "exStatus": "upcoming",
+      "dividendRate": 3.28,
+      "dividendYield": 2.29,
+      "price": 143.26
+    },
+    {
+      "ticker": "IRM",
+      "company": "Iron Mountain",
+      "exDate": "2026-09-15",
+      "exStatus": "upcoming",
+      "dividendRate": 3.46,
+      "dividendYield": 2.72,
+      "price": 127.14
+    },
+    {
+      "ticker": "KO",
+      "company": "Coca-Cola",
+      "exDate": "2026-09-15",
+      "exStatus": "upcoming",
+      "dividendRate": 2.12,
+      "dividendYield": 2.38,
+      "price": 88.92
+    },
+    {
+      "ticker": "LDOS",
+      "company": "Leidos",
+      "exDate": "2026-09-15",
+      "exStatus": "upcoming",
+      "dividendRate": 1.72,
+      "dividendYield": 1.19,
+      "price": 144.59
+    },
+    {
+      "ticker": "MRK",
+      "company": "Merck",
+      "exDate": "2026-09-15",
+      "exStatus": "upcoming",
+      "dividendRate": 3.4,
+      "dividendYield": 2.51,
+      "price": 135.32
+    },
+    {
+      "ticker": "PSA",
+      "company": "Public Storage",
+      "exDate": "2026-09-15",
+      "exStatus": "upcoming",
+      "dividendRate": 12.0,
+      "dividendYield": 3.68,
+      "price": 326.21
+    },
+    {
+      "ticker": "TMO",
+      "company": "Thermo Fisher",
+      "exDate": "2026-09-15",
+      "exStatus": "upcoming",
+      "dividendRate": 1.88,
+      "dividendYield": 0.32,
+      "price": 589.86
+    },
+    {
+      "ticker": "TROW",
+      "company": "T. Rowe Price",
+      "exDate": "2026-09-15",
+      "exStatus": "upcoming",
+      "dividendRate": 5.2,
+      "dividendYield": 4.68,
+      "price": 111.19
+    },
+    {
+      "ticker": "UDR",
+      "company": "UDR Inc",
+      "exDate": "2026-09-15",
+      "exStatus": "upcoming",
+      "dividendRate": 1.73,
+      "dividendYield": 4.64,
+      "price": 37.3
+    },
+    {
+      "ticker": "VRSK",
+      "company": "Verisk Analytics",
+      "exDate": "2026-09-15",
+      "exStatus": "upcoming",
+      "dividendRate": 2.0,
+      "dividendYield": 1.1,
+      "price": 182.62
+    },
+    {
+      "ticker": "XEL",
+      "company": "Xcel Energy",
+      "exDate": "2026-09-15",
+      "exStatus": "upcoming",
+      "dividendRate": 2.37,
+      "dividendYield": 2.99,
+      "price": 79.34
+    },
+    {
+      "ticker": "AIG",
+      "company": "AIG",
+      "exDate": "2026-09-16",
+      "exStatus": "upcoming",
+      "dividendRate": 2.0,
+      "dividendYield": 2.62,
+      "price": 76.28
+    },
+    {
+      "ticker": "HCA",
+      "company": "HCA Healthcare",
+      "exDate": "2026-09-16",
+      "exStatus": "upcoming",
+      "dividendRate": 3.12,
+      "dividendYield": 0.75,
+      "price": 414.4
+    },
+    {
+      "ticker": "ICE",
+      "company": "Intercontinental Exchange",
+      "exDate": "2026-09-16",
+      "exStatus": "upcoming",
+      "dividendRate": 2.08,
+      "dividendYield": 1.32,
+      "price": 157.65
+    },
+    {
+      "ticker": "HBAN",
+      "company": "Huntington Bancshares",
+      "exDate": "2026-09-17",
+      "exStatus": "upcoming",
+      "dividendRate": 0.62,
+      "dividendYield": 3.5,
+      "price": 17.71
+    },
+    {
+      "ticker": "IFF",
+      "company": "Intl Flavors & Fragrances",
+      "exDate": "2026-09-18",
+      "exStatus": "upcoming",
+      "dividendRate": 1.6,
+      "dividendYield": 1.96,
+      "price": 81.53
+    },
+    {
+      "ticker": "OMC",
+      "company": "Omnicom",
+      "exDate": "2026-09-18",
+      "exStatus": "upcoming",
+      "dividendRate": 3.2,
+      "dividendYield": 3.68,
+      "price": 86.86
+    },
+    {
+      "ticker": "DTE",
+      "company": "DTE Energy",
+      "exDate": "2026-09-21",
+      "exStatus": "upcoming",
+      "dividendRate": 4.66,
+      "dividendYield": 3.32,
+      "price": 140.36
+    },
+    {
+      "ticker": "APH",
+      "company": "Amphenol",
+      "exDate": "2026-09-22",
+      "exStatus": "upcoming",
+      "dividendRate": 1.0,
+      "dividendYield": 0.63,
+      "price": 159.37
+    },
+    {
+      "ticker": "STX",
+      "company": "Seagate Technology",
+      "exDate": "2026-09-24",
+      "exStatus": "upcoming",
+      "dividendRate": 2.96,
+      "dividendYield": 0.33,
+      "price": 904.56
+    },
+    {
+      "ticker": "FMC",
+      "company": "FMC Corp",
+      "exDate": "2026-09-30",
+      "exStatus": "upcoming",
+      "dividendRate": 0.32,
+      "dividendYield": 3.18,
+      "price": 10.07
+    },
+    {
+      "ticker": "ITW",
+      "company": "Illinois Tool Works",
+      "exDate": "2026-09-30",
+      "exStatus": "upcoming",
+      "dividendRate": 6.88,
+      "dividendYield": 2.41,
+      "price": 285.14
+    },
+    {
+      "ticker": "SYK",
+      "company": "Stryker",
+      "exDate": "2026-09-30",
+      "exStatus": "upcoming",
+      "dividendRate": 3.52,
+      "dividendYield": 1.05,
+      "price": 335.39
+    },
+    {
+      "ticker": "APD",
+      "company": "Air Products",
+      "exDate": "2026-10-01",
+      "exStatus": "upcoming",
+      "dividendRate": 7.24,
+      "dividendYield": 2.38,
+      "price": 304.03
+    },
+    {
+      "ticker": "CAH",
+      "company": "Cardinal Health",
+      "exDate": "2026-10-01",
+      "exStatus": "upcoming",
+      "dividendRate": 2.06,
+      "dividendYield": 0.88,
+      "price": 235.28
+    },
+    {
+      "ticker": "FRT",
+      "company": "Federal Realty",
+      "exDate": "2026-10-01",
+      "exStatus": "upcoming",
+      "dividendRate": 4.64,
+      "dividendYield": 3.95,
+      "price": 117.56
+    },
+    {
+      "ticker": "PGR",
+      "company": "Progressive",
+      "exDate": "2026-10-01",
+      "exStatus": "upcoming",
+      "dividendRate": 0.4,
+      "dividendYield": 0.19,
+      "price": 206.74
+    },
+    {
+      "ticker": "STT",
+      "company": "State Street",
+      "exDate": "2026-10-01",
+      "exStatus": "upcoming",
+      "dividendRate": 3.68,
+      "dividendYield": 1.91,
+      "price": 192.2
+    },
+    {
+      "ticker": "CSCO",
+      "company": "Cisco",
+      "exDate": "2026-10-02",
+      "exStatus": "upcoming",
+      "dividendRate": 1.68,
+      "dividendYield": 1.5,
+      "price": 112.0
+    },
+    {
+      "ticker": "ROP",
+      "company": "Roper Technologies",
+      "exDate": "2026-10-02",
+      "exStatus": "upcoming",
+      "dividendRate": 3.64,
+      "dividendYield": 0.91,
+      "price": 398.88
+    },
+    {
+      "ticker": "RSG",
+      "company": "Republic Services",
+      "exDate": "2026-10-02",
+      "exStatus": "upcoming",
+      "dividendRate": 2.68,
+      "dividendYield": 1.23,
+      "price": 217.97
+    },
+    {
+      "ticker": "GL",
+      "company": "Globe Life",
+      "exDate": "2026-10-05",
+      "exStatus": "upcoming",
+      "dividendRate": 1.32,
+      "dividendYield": 0.74,
+      "price": 179.32
+    },
+    {
+      "ticker": "DGX",
+      "company": "Quest Diagnostics",
+      "exDate": "2026-10-06",
+      "exStatus": "upcoming",
+      "dividendRate": 3.44,
+      "dividendYield": 1.45,
+      "price": 236.69
+    },
+    {
+      "ticker": "CMCSA",
+      "company": "Comcast",
+      "exDate": "2026-10-07",
+      "exStatus": "upcoming",
+      "dividendRate": 1.32,
+      "dividendYield": 5.05,
+      "price": 26.14
+    },
+    {
+      "ticker": "GD",
+      "company": "General Dynamics",
+      "exDate": "2026-10-09",
+      "exStatus": "upcoming",
+      "dividendRate": 6.36,
+      "dividendYield": 1.61,
+      "price": 394.2
+    },
+    {
+      "ticker": "EOG",
+      "company": "EOG Resources",
+      "exDate": "2026-10-16",
+      "exStatus": "upcoming",
+      "dividendRate": 4.08,
+      "dividendYield": 2.75,
+      "price": 148.55
+    },
+    {
+      "ticker": "NI",
+      "company": "NiSource",
+      "exDate": "2026-10-30",
+      "exStatus": "upcoming",
+      "dividendRate": 1.2,
+      "dividendYield": 2.85,
+      "price": 42.12
+    },
+    {
+      "ticker": "TDG",
+      "company": "TransDigm",
+      "exDate": "2025-09-02",
+      "exStatus": "recent",
+      "dividendRate": 0.0,
+      "dividendYield": 0.0,
+      "price": 1237.91
+    },
+    {
+      "ticker": "VNO",
+      "company": "Vornado Realty",
+      "exDate": "2025-12-18",
+      "exStatus": "recent",
+      "dividendRate": 0.74,
+      "dividendYield": 1.96,
+      "price": 37.76
+    },
+    {
+      "ticker": "XRAY",
+      "company": "Dentsply Sirona",
+      "exDate": "2025-12-26",
+      "exStatus": "recent",
+      "dividendRate": 0.64,
+      "dividendYield": 5.75,
+      "price": 11.12
+    },
+    {
+      "ticker": "WHR",
+      "company": "Whirlpool",
+      "exDate": "2026-02-27",
+      "exStatus": "recent",
+      "dividendRate": 4.45,
+      "dividendYield": 11.21,
+      "price": 39.68
+    },
+    {
+      "ticker": "PH",
+      "company": "Parker Hannifin",
+      "exDate": "2026-05-08",
+      "exStatus": "recent",
+      "dividendRate": 8.0,
+      "dividendYield": 0.77,
+      "price": 1042.35
+    },
+    {
+      "ticker": "ES",
+      "company": "Eversource Energy",
+      "exDate": "2026-05-18",
+      "exStatus": "recent",
+      "dividendRate": 3.15,
+      "dividendYield": 4.36,
+      "price": 72.3
+    },
+    {
+      "ticker": "MOS",
+      "company": "Mosaic",
+      "exDate": "2026-05-21",
+      "exStatus": "recent",
+      "dividendRate": 0.88,
+      "dividendYield": 4.15,
+      "price": 21.18
+    },
+    {
+      "ticker": "TER",
+      "company": "Teradyne",
+      "exDate": "2026-05-21",
+      "exStatus": "recent",
+      "dividendRate": 0.52,
+      "dividendYield": 0.13,
+      "price": 398.71
+    },
+    {
+      "ticker": "EFX",
+      "company": "Equifax",
+      "exDate": "2026-05-22",
+      "exStatus": "recent",
+      "dividendRate": 2.24,
+      "dividendYield": 1.23,
+      "price": 181.73
+    },
+    {
+      "ticker": "SWKS",
+      "company": "Skyworks Solutions",
+      "exDate": "2026-05-26",
+      "exStatus": "recent",
+      "dividendRate": 2.84,
+      "dividendYield": 4.19,
+      "price": 67.76
+    },
+    {
+      "ticker": "EA",
+      "company": "Electronic Arts",
+      "exDate": "2026-05-27",
+      "exStatus": "recent",
+      "dividendRate": 0.76,
+      "dividendYield": 0.36,
+      "price": 209.7
+    },
+    {
+      "ticker": "YUM",
+      "company": "Yum! Brands",
+      "exDate": "2026-05-27",
+      "exStatus": "recent",
+      "dividendRate": 3.0,
+      "dividendYield": 2.05,
+      "price": 146.09
+    },
+    {
+      "ticker": "EL",
+      "company": "Estee Lauder",
+      "exDate": "2026-05-29",
+      "exStatus": "recent",
+      "dividendRate": 1.4,
+      "dividendYield": 1.65,
+      "price": 84.65
+    },
+    {
+      "ticker": "EXPD",
+      "company": "Expeditors Intl",
+      "exDate": "2026-06-01",
+      "exStatus": "recent",
+      "dividendRate": 1.62,
+      "dividendYield": 0.87,
+      "price": 187.04
+    },
+    {
+      "ticker": "JKHY",
+      "company": "Jack Henry & Associates",
+      "exDate": "2026-06-01",
+      "exStatus": "recent",
+      "dividendRate": 2.38,
+      "dividendYield": 1.54,
+      "price": 154.82
+    },
+    {
+      "ticker": "MTB",
+      "company": "M&T Bank",
+      "exDate": "2026-06-01",
+      "exStatus": "recent",
+      "dividendRate": 6.0,
+      "dividendYield": 2.38,
+      "price": 252.42
+    },
+    {
+      "ticker": "NOC",
+      "company": "Northrop Grumman",
+      "exDate": "2026-06-01",
+      "exStatus": "recent",
+      "dividendRate": 9.4,
+      "dividendYield": 1.59,
+      "price": 592.86
+    },
+    {
+      "ticker": "ADI",
+      "company": "Analog Devices",
+      "exDate": "2026-06-02",
+      "exStatus": "recent",
+      "dividendRate": 4.4,
+      "dividendYield": 1.18,
+      "price": 372.56
+    },
+    {
+      "ticker": "HAL",
+      "company": "Halliburton",
+      "exDate": "2026-06-03",
+      "exStatus": "recent",
+      "dividendRate": 0.68,
+      "dividendYield": 1.96,
+      "price": 34.66
+    },
+    {
+      "ticker": "RCL",
+      "company": "Royal Caribbean",
+      "exDate": "2026-06-03",
+      "exStatus": "recent",
+      "dividendRate": 5.0,
+      "dividendYield": 1.67,
+      "price": 300.2
+    },
+    {
+      "ticker": "HD",
+      "company": "Home Depot",
+      "exDate": "2026-06-04",
+      "exStatus": "recent",
+      "dividendRate": 9.32,
+      "dividendYield": 2.75,
+      "price": 338.44
+    },
+    {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "exDate": "2026-06-04",
+      "exStatus": "recent",
+      "dividendRate": 1.0,
+      "dividendYield": 0.45,
+      "price": 220.04
+    },
+    {
+      "ticker": "WM",
+      "company": "Waste Management",
+      "exDate": "2026-06-05",
+      "exStatus": "recent",
+      "dividendRate": 3.54,
+      "dividendYield": 1.57,
+      "price": 225.09
+    },
+    {
+      "ticker": "ROST",
+      "company": "Ross Stores",
+      "exDate": "2026-06-09",
+      "exStatus": "recent",
+      "dividendRate": 1.78,
+      "dividendYield": 0.75,
+      "price": 237.84
+    },
+    {
+      "ticker": "PPL",
+      "company": "PPL Corp",
+      "exDate": "2026-06-10",
+      "exStatus": "recent",
+      "dividendRate": 1.14,
+      "dividendYield": 3.19,
+      "price": 35.72
+    },
+    {
+      "ticker": "CRM",
+      "company": "Salesforce",
+      "exDate": "2026-06-11",
+      "exStatus": "recent",
+      "dividendRate": 1.76,
+      "dividendYield": 0.89,
+      "price": 197.96
+    },
+    {
+      "ticker": "AMT",
+      "company": "American Tower",
+      "exDate": "2026-06-12",
+      "exStatus": "recent",
+      "dividendRate": 6.98,
+      "dividendYield": 4.01,
+      "price": 173.98
+    },
+    {
+      "ticker": "ALLE",
+      "company": "Allegion",
+      "exDate": "2026-06-15",
+      "exStatus": "recent",
+      "dividendRate": 2.12,
+      "dividendYield": 1.32,
+      "price": 161.11
+    },
+    {
+      "ticker": "EXR",
+      "company": "Extra Space Storage",
+      "exDate": "2026-06-15",
+      "exStatus": "recent",
+      "dividendRate": 6.48,
+      "dividendYield": 4.37,
+      "price": 148.26
+    },
+    {
+      "ticker": "JCI",
+      "company": "Johnson Controls",
+      "exDate": "2026-06-15",
+      "exStatus": "recent",
+      "dividendRate": 1.6,
+      "dividendYield": 1.07,
+      "price": 149.46
+    },
+    {
+      "ticker": "META",
+      "company": "Meta",
+      "exDate": "2026-06-15",
+      "exStatus": "recent",
+      "dividendRate": 2.1,
+      "dividendYield": 0.38,
+      "price": 546.07
+    },
+    {
+      "ticker": "MO",
+      "company": "Altria",
+      "exDate": "2026-06-15",
+      "exStatus": "recent",
+      "dividendRate": 4.24,
+      "dividendYield": 6.53,
+      "price": 64.89
+    },
+    {
+      "ticker": "PKG",
+      "company": "Packaging Corp",
+      "exDate": "2026-06-15",
+      "exStatus": "recent",
+      "dividendRate": 6.0,
+      "dividendYield": 2.38,
+      "price": 252.02
+    },
+    {
+      "ticker": "HPE",
+      "company": "HP Enterprise",
+      "exDate": "2026-06-16",
+      "exStatus": "recent",
+      "dividendRate": 0.57,
+      "dividendYield": 1.03,
+      "price": 55.55
+    },
+    {
+      "ticker": "PHM",
+      "company": "PulteGroup",
+      "exDate": "2026-06-16",
+      "exStatus": "recent",
+      "dividendRate": 1.04,
+      "dividendYield": 0.82,
+      "price": 127.06
+    },
+    {
+      "ticker": "PLD",
+      "company": "Prologis",
+      "exDate": "2026-06-16",
+      "exStatus": "recent",
+      "dividendRate": 4.28,
+      "dividendYield": 3.05,
+      "price": 140.15
+    },
+    {
+      "ticker": "LRCX",
+      "company": "Lam Research",
+      "exDate": "2026-06-17",
+      "exStatus": "recent",
+      "dividendRate": 1.04,
+      "dividendYield": 0.32,
+      "price": 324.67
+    },
+    {
+      "ticker": "MSI",
+      "company": "Motorola Solutions",
+      "exDate": "2026-06-17",
+      "exStatus": "recent",
+      "dividendRate": 4.84,
+      "dividendYield": 1.02,
+      "price": 472.35
+    },
+    {
+      "ticker": "BBY",
+      "company": "Best Buy",
+      "exDate": "2026-06-18",
+      "exStatus": "recent",
+      "dividendRate": 3.84,
+      "dividendYield": 4.37,
+      "price": 87.82
+    },
+    {
+      "ticker": "VICI",
+      "company": "VICI Properties",
+      "exDate": "2026-06-18",
+      "exStatus": "recent",
+      "dividendRate": 1.8,
+      "dividendYield": 6.91,
+      "price": 26.06
+    },
+    {
+      "ticker": "AVGO",
+      "company": "Broadcom",
+      "exDate": "2026-06-22",
+      "exStatus": "recent",
+      "dividendRate": 2.6,
+      "dividendYield": 0.69,
+      "price": 379.37
+    },
+    {
+      "ticker": "FDX",
+      "company": "FedEx",
+      "exDate": "2026-06-22",
+      "exStatus": "recent",
+      "dividendRate": 4.88,
+      "dividendYield": 1.48,
+      "price": 330.02
+    },
+    {
+      "ticker": "FTV",
+      "company": "Fortive",
+      "exDate": "2026-06-22",
+      "exStatus": "recent",
+      "dividendRate": 0.24,
+      "dividendYield": 0.4,
+      "price": 59.81
+    },
+    {
+      "ticker": "CINF",
+      "company": "Cincinnati Financial",
+      "exDate": "2026-06-23",
+      "exStatus": "recent",
+      "dividendRate": 3.76,
+      "dividendYield": 2.19,
+      "price": 171.71
+    },
+    {
+      "ticker": "WRB",
+      "company": "W.R. Berkley",
+      "exDate": "2026-06-23",
+      "exStatus": "recent",
+      "dividendRate": 0.4,
+      "dividendYield": 0.57,
+      "price": 70.41
+    },
+    {
+      "ticker": "NXPI",
+      "company": "NXP Semiconductors",
+      "exDate": "2026-06-24",
+      "exStatus": "recent",
+      "dividendRate": 4.06,
+      "dividendYield": 1.8,
+      "price": 225.84
+    },
+    {
+      "ticker": "INVH",
+      "company": "Invitation Homes",
+      "exDate": "2026-06-25",
+      "exStatus": "recent",
+      "dividendRate": 1.2,
+      "dividendYield": 4.01,
+      "price": 29.9
+    },
+    {
+      "ticker": "PM",
+      "company": "Philip Morris",
+      "exDate": "2026-06-25",
+      "exStatus": "recent",
+      "dividendRate": 5.88,
+      "dividendYield": 3.13,
+      "price": 187.57
+    },
+    {
+      "ticker": "SRE",
+      "company": "Sempra",
+      "exDate": "2026-06-25",
+      "exStatus": "recent",
+      "dividendRate": 2.63,
+      "dividendYield": 3.02,
+      "price": 86.99
+    },
+    {
+      "ticker": "ZBH",
+      "company": "Zimmer Biomet",
+      "exDate": "2026-06-25",
+      "exStatus": "recent",
+      "dividendRate": 0.96,
+      "dividendYield": 0.96,
+      "price": 99.72
+    },
+    {
+      "ticker": "DHR",
+      "company": "Danaher",
+      "exDate": "2026-06-26",
+      "exStatus": "recent",
+      "dividendRate": 1.6,
+      "dividendYield": 0.8,
+      "price": 201.03
+    },
+    {
+      "ticker": "HUM",
+      "company": "Humana",
+      "exDate": "2026-06-26",
+      "exStatus": "recent",
+      "dividendRate": 3.54,
+      "dividendYield": 0.92,
+      "price": 383.66
+    },
+    {
+      "ticker": "KDP",
+      "company": "Keurig Dr Pepper",
+      "exDate": "2026-06-26",
+      "exStatus": "recent",
+      "dividendRate": 0.92,
+      "dividendYield": 2.98,
+      "price": 30.9
+    },
+    {
+      "ticker": "MDT",
+      "company": "Medtronic",
+      "exDate": "2026-06-26",
+      "exStatus": "recent",
+      "dividendRate": 2.88,
+      "dividendYield": 3.11,
+      "price": 92.66
+    },
+    {
+      "ticker": "RL",
+      "company": "Ralph Lauren",
+      "exDate": "2026-06-26",
+      "exStatus": "recent",
+      "dividendRate": 3.74,
+      "dividendYield": 0.99,
+      "price": 378.55
+    },
+    {
+      "ticker": "BEN",
+      "company": "Franklin Resources",
+      "exDate": "2026-06-29",
+      "exStatus": "recent",
+      "dividendRate": 1.32,
+      "dividendYield": 3.88,
+      "price": 34.03
+    },
+    {
+      "ticker": "EQR",
+      "company": "Equity Residential",
+      "exDate": "2026-06-29",
+      "exStatus": "recent",
+      "dividendRate": 2.81,
+      "dividendYield": 4.41,
+      "price": 63.66
+    },
+    {
+      "ticker": "A",
+      "company": "Agilent Technologies",
+      "exDate": "2026-06-30",
+      "exStatus": "recent",
+      "dividendRate": 1.02,
+      "dividendYield": 0.68,
+      "price": 148.94
+    },
+    {
+      "ticker": "ARE",
+      "company": "Alexandria Real Estate",
+      "exDate": "2026-06-30",
+      "exStatus": "recent",
+      "dividendRate": 2.88,
+      "dividendYield": 6.22,
+      "price": 46.31
+    },
+    {
+      "ticker": "AVB",
+      "company": "AvalonBay",
+      "exDate": "2026-06-30",
+      "exStatus": "recent",
+      "dividendRate": 7.12,
+      "dividendYield": 3.87,
+      "price": 184.06
+    },
+    {
+      "ticker": "CPT",
+      "company": "Camden Property",
+      "exDate": "2026-06-30",
+      "exStatus": "recent",
+      "dividendRate": 4.24,
+      "dividendYield": 3.92,
+      "price": 108.09
+    },
+    {
+      "ticker": "DE",
+      "company": "Deere & Co",
+      "exDate": "2026-06-30",
+      "exStatus": "recent",
+      "dividendRate": 6.48,
+      "dividendYield": 1.09,
+      "price": 593.09
+    },
+    {
+      "ticker": "DIS",
+      "company": "Disney",
+      "exDate": "2026-06-30",
+      "exStatus": "recent",
+      "dividendRate": 1.5,
+      "dividendYield": 1.43,
+      "price": 104.69
+    },
+    {
+      "ticker": "ESS",
+      "company": "Essex Property",
+      "exDate": "2026-06-30",
+      "exStatus": "recent",
+      "dividendRate": 10.36,
+      "dividendYield": 3.61,
+      "price": 286.66
+    },
+    {
+      "ticker": "FITB",
+      "company": "Fifth Third Bancorp",
+      "exDate": "2026-06-30",
+      "exStatus": "recent",
+      "dividendRate": 1.6,
+      "dividendYield": 2.79,
+      "price": 57.4
+    },
+    {
+      "ticker": "HST",
+      "company": "Host Hotels",
+      "exDate": "2026-06-30",
+      "exStatus": "recent",
+      "dividendRate": 0.8,
+      "dividendYield": 3.47,
+      "price": 23.05
+    },
+    {
+      "ticker": "MDLZ",
+      "company": "Mondelez",
+      "exDate": "2026-06-30",
+      "exStatus": "recent",
+      "dividendRate": 2.0,
+      "dividendYield": 3.18,
+      "price": 62.92
+    },
+    {
+      "ticker": "MPWR",
+      "company": "Monolithic Power",
+      "exDate": "2026-06-30",
+      "exStatus": "recent",
+      "dividendRate": 8.0,
+      "dividendYield": 0.61,
+      "price": 1318.14
+    },
+    {
+      "ticker": "NUE",
+      "company": "Nucor",
+      "exDate": "2026-06-30",
+      "exStatus": "recent",
+      "dividendRate": 2.24,
+      "dividendYield": 0.85,
+      "price": 265.03
+    },
+    {
+      "ticker": "PCG",
+      "company": "PG&E",
+      "exDate": "2026-06-30",
+      "exStatus": "recent",
+      "dividendRate": 0.2,
+      "dividendYield": 1.12,
+      "price": 17.8
+    },
+    {
+      "ticker": "USB",
+      "company": "U.S. Bancorp",
+      "exDate": "2026-06-30",
+      "exStatus": "recent",
+      "dividendRate": 2.08,
+      "dividendYield": 3.21,
+      "price": 64.73
+    },
+    {
+      "ticker": "VTR",
+      "company": "Ventas",
+      "exDate": "2026-06-30",
+      "exStatus": "recent",
+      "dividendRate": 2.0,
+      "dividendYield": 2.18,
+      "price": 91.73
+    },
+    {
+      "ticker": "WTW",
+      "company": "Willis Towers Watson",
+      "exDate": "2026-06-30",
+      "exStatus": "recent",
+      "dividendRate": 3.84,
+      "dividendYield": 1.16,
+      "price": 332.25
+    },
+    {
+      "ticker": "PWR",
+      "company": "Quanta Services",
+      "exDate": "2026-07-01",
+      "exStatus": "recent",
+      "dividendRate": 0.44,
+      "dividendYield": 0.06,
+      "price": 693.38
+    },
+    {
+      "ticker": "RJF",
+      "company": "Raymond James",
+      "exDate": "2026-07-01",
+      "exStatus": "recent",
+      "dividendRate": 2.16,
+      "dividendYield": 1.2,
+      "price": 180.53
+    },
+    {
+      "ticker": "AXP",
+      "company": "American Express",
+      "exDate": "2026-07-02",
+      "exStatus": "recent",
+      "dividendRate": 3.8,
+      "dividendYield": 1.12,
+      "price": 338.43
+    },
+    {
+      "ticker": "BMY",
+      "company": "Bristol-Myers Squibb",
+      "exDate": "2026-07-02",
+      "exStatus": "recent",
+      "dividendRate": 2.52,
+      "dividendYield": 3.8,
+      "price": 66.3
+    },
+    {
+      "ticker": "CPB",
+      "company": "Campbell Soup",
+      "exDate": "2026-07-02",
+      "exStatus": "recent",
+      "dividendRate": 1.56,
+      "dividendYield": 6.83,
+      "price": 22.84
+    },
+    {
+      "ticker": "SYY",
+      "company": "Sysco",
+      "exDate": "2026-07-02",
+      "exStatus": "recent",
+      "dividendRate": 2.2,
+      "dividendYield": 2.66,
+      "price": 82.58
+    },
+    {
+      "ticker": "GE",
+      "company": "GE Aerospace",
+      "exDate": "2026-07-06",
+      "exStatus": "recent",
+      "dividendRate": 1.88,
+      "dividendYield": 0.5,
+      "price": 373.47
+    },
+    {
+      "ticker": "IEX",
+      "company": "IDEX Corp",
+      "exDate": "2026-07-06",
+      "exStatus": "recent",
+      "dividendRate": 2.92,
+      "dividendYield": 1.24,
+      "price": 234.56
     },
     {
       "ticker": "JPM",
@@ -18,8 +2394,656 @@
       "exDate": "2026-07-06",
       "exStatus": "recent",
       "dividendRate": 6.0,
+      "dividendYield": 1.65,
+      "price": 362.6
+    },
+    {
+      "ticker": "MKC",
+      "company": "McCormick",
+      "exDate": "2026-07-06",
+      "exStatus": "recent",
+      "dividendRate": 1.92,
+      "dividendYield": 3.44,
+      "price": 55.83
+    },
+    {
+      "ticker": "MU",
+      "company": "Micron Technology",
+      "exDate": "2026-07-06",
+      "exStatus": "recent",
+      "dividendRate": 0.53,
+      "dividendYield": 0.06,
+      "price": 934.0
+    },
+    {
+      "ticker": "DG",
+      "company": "Dollar General",
+      "exDate": "2026-07-07",
+      "exStatus": "recent",
+      "dividendRate": 2.36,
+      "dividendYield": 1.94,
+      "price": 121.75
+    },
+    {
+      "ticker": "EIX",
+      "company": "Edison International",
+      "exDate": "2026-07-07",
+      "exStatus": "recent",
+      "dividendRate": 3.51,
+      "dividendYield": 4.75,
+      "price": 73.94
+    },
+    {
+      "ticker": "ACN",
+      "company": "Accenture",
+      "exDate": "2026-07-09",
+      "exStatus": "recent",
+      "dividendRate": 6.52,
+      "dividendYield": 3.72,
+      "price": 175.49
+    },
+    {
+      "ticker": "DAL",
+      "company": "Delta Air Lines",
+      "exDate": "2026-07-09",
+      "exStatus": "recent",
+      "dividendRate": 0.78,
+      "dividendYield": 0.9,
+      "price": 86.35
+    },
+    {
+      "ticker": "INTU",
+      "company": "Intuit",
+      "exDate": "2026-07-09",
+      "exStatus": "recent",
+      "dividendRate": 4.8,
+      "dividendYield": 1.36,
+      "price": 353.96
+    },
+    {
+      "ticker": "MA",
+      "company": "Mastercard",
+      "exDate": "2026-07-09",
+      "exStatus": "recent",
+      "dividendRate": 3.48,
+      "dividendYield": 0.6,
+      "price": 576.02
+    },
+    {
+      "ticker": "AAP",
+      "company": "Advance Auto Parts",
+      "exDate": "2026-07-10",
+      "exStatus": "recent",
+      "dividendRate": 1.0,
+      "dividendYield": 1.72,
+      "price": 58.25
+    },
+    {
+      "ticker": "DRI",
+      "company": "Darden Restaurants",
+      "exDate": "2026-07-10",
+      "exStatus": "recent",
+      "dividendRate": 6.12,
+      "dividendYield": 2.76,
+      "price": 221.65
+    },
+    {
+      "ticker": "GIS",
+      "company": "General Mills",
+      "exDate": "2026-07-10",
+      "exStatus": "recent",
+      "dividendRate": 2.44,
+      "dividendYield": 6.36,
+      "price": 38.37
+    },
+    {
+      "ticker": "LEN",
+      "company": "Lennar",
+      "exDate": "2026-07-10",
+      "exStatus": "recent",
+      "dividendRate": 2.0,
+      "dividendYield": 2.34,
+      "price": 85.49
+    },
+    {
+      "ticker": "NTAP",
+      "company": "NetApp",
+      "exDate": "2026-07-10",
+      "exStatus": "recent",
+      "dividendRate": 2.08,
+      "dividendYield": 1.02,
+      "price": 204.72
+    },
+    {
+      "ticker": "ORCL",
+      "company": "Oracle",
+      "exDate": "2026-07-10",
+      "exStatus": "recent",
+      "dividendRate": 2.0,
+      "dividendYield": 1.39,
+      "price": 144.14
+    },
+    {
+      "ticker": "T",
+      "company": "AT&T",
+      "exDate": "2026-07-10",
+      "exStatus": "recent",
+      "dividendRate": 1.11,
+      "dividendYield": 4.43,
+      "price": 25.07
+    },
+    {
+      "ticker": "VZ",
+      "company": "Verizon",
+      "exDate": "2026-07-10",
+      "exStatus": "recent",
+      "dividendRate": 2.83,
+      "dividendYield": 5.8,
+      "price": 48.8
+    },
+    {
+      "ticker": "HRL",
+      "company": "Hormel Foods",
+      "exDate": "2026-07-13",
+      "exStatus": "recent",
+      "dividendRate": 1.17,
+      "dividendYield": 4.8,
+      "price": 24.39
+    },
+    {
+      "ticker": "ABBV",
+      "company": "AbbVie",
+      "exDate": "2026-07-15",
+      "exStatus": "recent",
+      "dividendRate": 6.92,
+      "dividendYield": 2.69,
+      "price": 257.3
+    },
+    {
+      "ticker": "ABT",
+      "company": "Abbott",
+      "exDate": "2026-07-15",
+      "exStatus": "recent",
+      "dividendRate": 2.52,
+      "dividendYield": 2.23,
+      "price": 113.02
+    },
+    {
+      "ticker": "FCX",
+      "company": "Freeport-McMoRan",
+      "exDate": "2026-07-15",
+      "exStatus": "recent",
+      "dividendRate": 0.6,
+      "dividendYield": 0.9,
+      "price": 66.36
+    },
+    {
+      "ticker": "MAA",
+      "company": "Mid-America Apartment",
+      "exDate": "2026-07-15",
+      "exStatus": "recent",
+      "dividendRate": 6.12,
+      "dividendYield": 4.66,
+      "price": 131.23
+    },
+    {
+      "ticker": "CAT",
+      "company": "Caterpillar",
+      "exDate": "2026-07-20",
+      "exStatus": "recent",
+      "dividendRate": 6.52,
+      "dividendYield": 0.78,
+      "price": 840.51
+    },
+    {
+      "ticker": "CL",
+      "company": "Colgate-Palmolive",
+      "exDate": "2026-07-20",
+      "exStatus": "recent",
+      "dividendRate": 2.12,
+      "dividendYield": 2.31,
+      "price": 91.78
+    },
+    {
+      "ticker": "PNC",
+      "company": "PNC Financial",
+      "exDate": "2026-07-20",
+      "exStatus": "recent",
+      "dividendRate": 8.0,
+      "dividendYield": 3.14,
+      "price": 255.05
+    },
+    {
+      "ticker": "ZTS",
+      "company": "Zoetis",
+      "exDate": "2026-07-20",
+      "exStatus": "recent",
+      "dividendRate": 2.12,
+      "dividendYield": 2.86,
+      "price": 74.2
+    },
+    {
+      "ticker": "CARR",
+      "company": "Carrier Global",
+      "exDate": "2026-07-21",
+      "exStatus": "recent",
+      "dividendRate": 0.96,
+      "dividendYield": 1.57,
+      "price": 61.15
+    },
+    {
+      "ticker": "APA",
+      "company": "APA Corp",
+      "exDate": "2026-07-22",
+      "exStatus": "recent",
+      "dividendRate": 1.0,
+      "dividendYield": 2.38,
+      "price": 42.08
+    },
+    {
+      "ticker": "LOW",
+      "company": "Lowe's",
+      "exDate": "2026-07-22",
+      "exStatus": "recent",
+      "dividendRate": 5.0,
+      "dividendYield": 2.31,
+      "price": 216.79
+    },
+    {
+      "ticker": "CVS",
+      "company": "CVS Health",
+      "exDate": "2026-07-23",
+      "exStatus": "recent",
+      "dividendRate": 2.66,
+      "dividendYield": 2.8,
+      "price": 94.9
+    },
+    {
+      "ticker": "COST",
+      "company": "Costco",
+      "exDate": "2026-07-24",
+      "exStatus": "recent",
+      "dividendRate": 5.88,
+      "dividendYield": 0.61,
+      "price": 964.28
+    },
+    {
+      "ticker": "GEHC",
+      "company": "GE HealthCare",
+      "exDate": "2026-07-24",
+      "exStatus": "recent",
+      "dividendRate": 0.14,
+      "dividendYield": 0.19,
+      "price": 73.07
+    },
+    {
+      "ticker": "PFE",
+      "company": "Pfizer",
+      "exDate": "2026-07-24",
+      "exStatus": "recent",
+      "dividendRate": 1.72,
+      "dividendYield": 6.32,
+      "price": 27.22
+    },
+    {
+      "ticker": "PG",
+      "company": "Procter & Gamble",
+      "exDate": "2026-07-24",
+      "exStatus": "recent",
+      "dividendRate": 4.35,
+      "dividendYield": 3.03,
+      "price": 143.61
+    },
+    {
+      "ticker": "PNR",
+      "company": "Pentair",
+      "exDate": "2026-07-24",
+      "exStatus": "recent",
+      "dividendRate": 1.06,
       "dividendYield": 1.66,
-      "price": 361.29
+      "price": 63.92
+    },
+    {
+      "ticker": "CE",
+      "company": "Celanese",
+      "exDate": "2026-07-28",
+      "exStatus": "recent",
+      "dividendRate": 0.12,
+      "dividendYield": 0.27,
+      "price": 44.56
+    },
+    {
+      "ticker": "FAST",
+      "company": "Fastenal",
+      "exDate": "2026-07-28",
+      "exStatus": "recent",
+      "dividendRate": 0.96,
+      "dividendYield": 1.87,
+      "price": 51.47
+    },
+    {
+      "ticker": "PAYX",
+      "company": "Paychex",
+      "exDate": "2026-07-28",
+      "exStatus": "recent",
+      "dividendRate": 4.76,
+      "dividendYield": 3.93,
+      "price": 121.19
+    },
+    {
+      "ticker": "WST",
+      "company": "West Pharmaceutical",
+      "exDate": "2026-07-29",
+      "exStatus": "recent",
+      "dividendRate": 0.88,
+      "dividendYield": 0.25,
+      "price": 346.47
+    },
+    {
+      "ticker": "CAG",
+      "company": "Conagra Brands",
+      "exDate": "2026-07-30",
+      "exStatus": "recent",
+      "dividendRate": 1.23,
+      "dividendYield": 7.84,
+      "price": 15.69
+    },
+    {
+      "ticker": "CFG",
+      "company": "Citizens Financial",
+      "exDate": "2026-07-30",
+      "exStatus": "recent",
+      "dividendRate": 1.84,
+      "dividendYield": 2.5,
+      "price": 73.66
+    },
+    {
+      "ticker": "STZ",
+      "company": "Constellation Brands",
+      "exDate": "2026-07-30",
+      "exStatus": "recent",
+      "dividendRate": 4.12,
+      "dividendYield": 3.13,
+      "price": 131.59
+    },
+    {
+      "ticker": "AES",
+      "company": "AES Corp",
+      "exDate": "2026-07-31",
+      "exStatus": "recent",
+      "dividendRate": 0.7,
+      "dividendYield": 4.75,
+      "price": 14.74
+    },
+    {
+      "ticker": "AOS",
+      "company": "A.O. Smith",
+      "exDate": "2026-07-31",
+      "exStatus": "recent",
+      "dividendRate": 1.44,
+      "dividendYield": 2.36,
+      "price": 61.12
+    },
+    {
+      "ticker": "LNT",
+      "company": "Alliant Energy",
+      "exDate": "2026-07-31",
+      "exStatus": "recent",
+      "dividendRate": 2.14,
+      "dividendYield": 3.05,
+      "price": 70.26
+    },
+    {
+      "ticker": "MS",
+      "company": "Morgan Stanley",
+      "exDate": "2026-07-31",
+      "exStatus": "recent",
+      "dividendRate": 4.6,
+      "dividendYield": 2.12,
+      "price": 216.92
+    },
+    {
+      "ticker": "O",
+      "company": "Realty Income",
+      "exDate": "2026-07-31",
+      "exStatus": "recent",
+      "dividendRate": 3.25,
+      "dividendYield": 5.21,
+      "price": 62.34
+    },
+    {
+      "ticker": "TRGP",
+      "company": "Targa Resources",
+      "exDate": "2026-07-31",
+      "exStatus": "recent",
+      "dividendRate": 5.0,
+      "dividendYield": 1.68,
+      "price": 297.97
+    },
+    {
+      "ticker": "TXN",
+      "company": "Texas Instruments",
+      "exDate": "2026-07-31",
+      "exStatus": "recent",
+      "dividendRate": 5.68,
+      "dividendYield": 2.1,
+      "price": 270.95
+    },
+    {
+      "ticker": "VLO",
+      "company": "Valero Energy",
+      "exDate": "2026-07-31",
+      "exStatus": "recent",
+      "dividendRate": 4.8,
+      "dividendYield": 1.38,
+      "price": 348.47
+    },
+    {
+      "ticker": "AMP",
+      "company": "Ameriprise Financial",
+      "exDate": "2026-08-03",
+      "exStatus": "recent",
+      "dividendRate": 6.8,
+      "dividendYield": 1.2,
+      "price": 566.21
+    },
+    {
+      "ticker": "AON",
+      "company": "Aon",
+      "exDate": "2026-08-03",
+      "exStatus": "recent",
+      "dividendRate": 3.28,
+      "dividendYield": 0.95,
+      "price": 345.7
+    },
+    {
+      "ticker": "BX",
+      "company": "Blackstone",
+      "exDate": "2026-08-03",
+      "exStatus": "recent",
+      "dividendRate": 5.23,
+      "dividendYield": 3.71,
+      "price": 140.94
+    },
+    {
+      "ticker": "C",
+      "company": "Citigroup",
+      "exDate": "2026-08-03",
+      "exStatus": "recent",
+      "dividendRate": 2.68,
+      "dividendYield": 1.95,
+      "price": 137.58
+    },
+    {
+      "ticker": "KMI",
+      "company": "Kinder Morgan",
+      "exDate": "2026-08-03",
+      "exStatus": "recent",
+      "dividendRate": 1.18,
+      "dividendYield": 3.59,
+      "price": 32.83
+    },
+    {
+      "ticker": "NRG",
+      "company": "NRG Energy",
+      "exDate": "2026-08-03",
+      "exStatus": "recent",
+      "dividendRate": 1.9,
+      "dividendYield": 1.63,
+      "price": 116.56
+    },
+    {
+      "ticker": "OKE",
+      "company": "ONEOK",
+      "exDate": "2026-08-03",
+      "exStatus": "recent",
+      "dividendRate": 4.28,
+      "dividendYield": 4.4,
+      "price": 97.28
+    },
+    {
+      "ticker": "PNW",
+      "company": "Pinnacle West",
+      "exDate": "2026-08-03",
+      "exStatus": "recent",
+      "dividendRate": 3.64,
+      "dividendYield": 3.63,
+      "price": 100.31
+    },
+    {
+      "ticker": "LVS",
+      "company": "Las Vegas Sands",
+      "exDate": "2026-08-04",
+      "exStatus": "recent",
+      "dividendRate": 1.2,
+      "dividendYield": 2.63,
+      "price": 45.7
+    },
+    {
+      "ticker": "MET",
+      "company": "MetLife",
+      "exDate": "2026-08-04",
+      "exStatus": "recent",
+      "dividendRate": 2.37,
+      "dividendYield": 2.44,
+      "price": 97.33
+    },
+    {
+      "ticker": "EQT",
+      "company": "EQT Corp",
+      "exDate": "2026-08-05",
+      "exStatus": "recent",
+      "dividendRate": 0.66,
+      "dividendYield": 1.24,
+      "price": 53.03
+    },
+    {
+      "ticker": "SYF",
+      "company": "Synchrony Financial",
+      "exDate": "2026-08-05",
+      "exStatus": "recent",
+      "dividendRate": 1.36,
+      "dividendYield": 1.67,
+      "price": 81.39
+    },
+    {
+      "ticker": "DHI",
+      "company": "D.R. Horton",
+      "exDate": "2026-08-06",
+      "exStatus": "recent",
+      "dividendRate": 1.8,
+      "dividendYield": 1.23,
+      "price": 146.58
+    },
+    {
+      "ticker": "BKR",
+      "company": "Baker Hughes",
+      "exDate": "2026-08-07",
+      "exStatus": "recent",
+      "dividendRate": 0.92,
+      "dividendYield": 1.42,
+      "price": 64.61
+    },
+    {
+      "ticker": "CCL",
+      "company": "Carnival",
+      "exDate": "2026-08-07",
+      "exStatus": "recent",
+      "dividendRate": 0.45,
+      "dividendYield": 1.65,
+      "price": 27.34
+    },
+    {
+      "ticker": "CMS",
+      "company": "CMS Energy",
+      "exDate": "2026-08-07",
+      "exStatus": "recent",
+      "dividendRate": 2.28,
+      "dividendYield": 3.2,
+      "price": 71.33
+    },
+    {
+      "ticker": "ETN",
+      "company": "Eaton",
+      "exDate": "2026-08-07",
+      "exStatus": "recent",
+      "dividendRate": 4.4,
+      "dividendYield": 1.02,
+      "price": 431.11
+    },
+    {
+      "ticker": "FE",
+      "company": "FirstEnergy",
+      "exDate": "2026-08-07",
+      "exStatus": "recent",
+      "dividendRate": 1.86,
+      "dividendYield": 3.93,
+      "price": 47.32
+    },
+    {
+      "ticker": "HWM",
+      "company": "Howmet Aerospace",
+      "exDate": "2026-08-07",
+      "exStatus": "recent",
+      "dividendRate": 0.56,
+      "dividendYield": 0.19,
+      "price": 288.56
+    },
+    {
+      "ticker": "JBHT",
+      "company": "J.B. Hunt Transport",
+      "exDate": "2026-08-07",
+      "exStatus": "recent",
+      "dividendRate": 1.8,
+      "dividendYield": 0.65,
+      "price": 275.77
+    },
+    {
+      "ticker": "LW",
+      "company": "Lamb Weston",
+      "exDate": "2026-08-07",
+      "exStatus": "recent",
+      "dividendRate": 1.52,
+      "dividendYield": 2.89,
+      "price": 52.59
+    },
+    {
+      "ticker": "NSC",
+      "company": "Norfolk Southern",
+      "exDate": "2026-08-07",
+      "exStatus": "recent",
+      "dividendRate": 5.4,
+      "dividendYield": 1.59,
+      "price": 340.64
+    },
+    {
+      "ticker": "WFC",
+      "company": "Wells Fargo",
+      "exDate": "2026-08-07",
+      "exStatus": "recent",
+      "dividendRate": 2.0,
+      "dividendYield": 2.29,
+      "price": 87.42
     },
     {
       "ticker": "AAPL",
@@ -28,16 +3052,3967 @@
       "exStatus": "recent",
       "dividendRate": 1.08,
       "dividendYield": 0.35,
-      "price": 309.96
+      "price": 310.88
+    },
+    {
+      "ticker": "AEP",
+      "company": "American Electric Power",
+      "exDate": "2026-08-10",
+      "exStatus": "recent",
+      "dividendRate": 3.8,
+      "dividendYield": 3.01,
+      "price": 126.27
+    },
+    {
+      "ticker": "GWW",
+      "company": "W.W. Grainger",
+      "exDate": "2026-08-10",
+      "exStatus": "recent",
+      "dividendRate": 9.96,
+      "dividendYield": 0.76,
+      "price": 1313.88
+    },
+    {
+      "ticker": "IBM",
+      "company": "IBM",
+      "exDate": "2026-08-10",
+      "exStatus": "recent",
+      "dividendRate": 6.76,
+      "dividendYield": 2.89,
+      "price": 233.79
+    },
+    {
+      "ticker": "PPG",
+      "company": "PPG Industries",
+      "exDate": "2026-08-10",
+      "exStatus": "recent",
+      "dividendRate": 2.96,
+      "dividendYield": 2.62,
+      "price": 112.88
+    },
+    {
+      "ticker": "ROL",
+      "company": "Rollins",
+      "exDate": "2026-08-10",
+      "exStatus": "recent",
+      "dividendRate": 0.73,
+      "dividendYield": 2.0,
+      "price": 36.54
+    },
+    {
+      "ticker": "AWK",
+      "company": "American Water Works",
+      "exDate": "2026-08-11",
+      "exStatus": "recent",
+      "dividendRate": 3.58,
+      "dividendYield": 2.62,
+      "price": 136.67
+    },
+    {
+      "ticker": "F",
+      "company": "Ford",
+      "exDate": "2026-08-11",
+      "exStatus": "recent",
+      "dividendRate": 0.6,
+      "dividendYield": 4.31,
+      "price": 13.94
+    },
+    {
+      "ticker": "V",
+      "company": "Visa",
+      "exDate": "2026-08-11",
+      "exStatus": "recent",
+      "dividendRate": 2.68,
+      "dividendYield": 0.73,
+      "price": 365.52
+    },
+    {
+      "ticker": "BRO",
+      "company": "Brown & Brown",
+      "exDate": "2026-08-12",
+      "exStatus": "recent",
+      "dividendRate": 0.66,
+      "dividendYield": 0.94,
+      "price": 70.21
+    },
+    {
+      "ticker": "CLX",
+      "company": "Clorox",
+      "exDate": "2026-08-12",
+      "exStatus": "recent",
+      "dividendRate": 5.0,
+      "dividendYield": 4.71,
+      "price": 106.25
+    },
+    {
+      "ticker": "PCAR",
+      "company": "PACCAR",
+      "exDate": "2026-08-12",
+      "exStatus": "recent",
+      "dividendRate": 1.4,
+      "dividendYield": 1.09,
+      "price": 128.64
+    },
+    {
+      "ticker": "TGT",
+      "company": "Target",
+      "exDate": "2026-08-12",
+      "exStatus": "recent",
+      "dividendRate": 4.64,
+      "dividendYield": 3.02,
+      "price": 153.46
+    },
+    {
+      "ticker": "URI",
+      "company": "United Rentals",
+      "exDate": "2026-08-12",
+      "exStatus": "recent",
+      "dividendRate": 7.88,
+      "dividendYield": 0.7,
+      "price": 1125.2
+    },
+    {
+      "ticker": "WELL",
+      "company": "Welltower",
+      "exDate": "2026-08-12",
+      "exStatus": "recent",
+      "dividendRate": 3.4,
+      "dividendYield": 1.44,
+      "price": 236.09
+    },
+    {
+      "ticker": "ETR",
+      "company": "Entergy",
+      "exDate": "2026-08-13",
+      "exStatus": "recent",
+      "dividendRate": 2.56,
+      "dividendYield": 2.36,
+      "price": 108.41
+    },
+    {
+      "ticker": "FANG",
+      "company": "Diamondback Energy",
+      "exDate": "2026-08-13",
+      "exStatus": "recent",
+      "dividendRate": 4.4,
+      "dividendYield": 2.1,
+      "price": 209.83
+    },
+    {
+      "ticker": "IR",
+      "company": "Ingersoll Rand",
+      "exDate": "2026-08-13",
+      "exStatus": "recent",
+      "dividendRate": 0.08,
+      "dividendYield": 0.1,
+      "price": 80.92
+    },
+    {
+      "ticker": "POOL",
+      "company": "Pool Corp",
+      "exDate": "2026-08-13",
+      "exStatus": "recent",
+      "dividendRate": 5.2,
+      "dividendYield": 2.75,
+      "price": 188.93
+    },
+    {
+      "ticker": "TJX",
+      "company": "TJX Companies",
+      "exDate": "2026-08-13",
+      "exStatus": "recent",
+      "dividendRate": 1.92,
+      "dividendYield": 1.27,
+      "price": 151.72
+    },
+    {
+      "ticker": "VMC",
+      "company": "Vulcan Materials",
+      "exDate": "2026-08-13",
+      "exStatus": "recent",
+      "dividendRate": 2.08,
+      "dividendYield": 0.77,
+      "price": 271.88
+    },
+    {
+      "ticker": "ZION",
+      "company": "Zions Bancorporation",
+      "exDate": "2026-08-13",
+      "exStatus": "recent",
+      "dividendRate": 1.92,
+      "dividendYield": 2.7,
+      "price": 71.22
+    },
+    {
+      "ticker": "CF",
+      "company": "CF Industries",
+      "exDate": "2026-08-14",
+      "exStatus": "recent",
+      "dividendRate": 2.4,
+      "dividendYield": 2.0,
+      "price": 120.04
+    },
+    {
+      "ticker": "CHD",
+      "company": "Church & Dwight",
+      "exDate": "2026-08-14",
+      "exStatus": "recent",
+      "dividendRate": 1.23,
+      "dividendYield": 1.24,
+      "price": 99.19
+    },
+    {
+      "ticker": "CTAS",
+      "company": "Cintas",
+      "exDate": "2026-08-14",
+      "exStatus": "recent",
+      "dividendRate": 2.08,
+      "dividendYield": 1.04,
+      "price": 200.03
+    },
+    {
+      "ticker": "DUK",
+      "company": "Duke Energy",
+      "exDate": "2026-08-14",
+      "exStatus": "recent",
+      "dividendRate": 4.34,
+      "dividendYield": 3.5,
+      "price": 124.15
+    },
+    {
+      "ticker": "EMR",
+      "company": "Emerson Electric",
+      "exDate": "2026-08-14",
+      "exStatus": "recent",
+      "dividendRate": 2.22,
+      "dividendYield": 1.4,
+      "price": 158.75
+    },
+    {
+      "ticker": "HON",
+      "company": "Honeywell",
+      "exDate": "2026-08-14",
+      "exStatus": "recent",
+      "dividendRate": 2.8,
+      "dividendYield": 1.23,
+      "price": 228.16
+    },
+    {
+      "ticker": "HSY",
+      "company": "Hershey",
+      "exDate": "2026-08-14",
+      "exStatus": "recent",
+      "dividendRate": 5.81,
+      "dividendYield": 3.17,
+      "price": 183.43
+    },
+    {
+      "ticker": "IP",
+      "company": "International Paper",
+      "exDate": "2026-08-14",
+      "exStatus": "recent",
+      "dividendRate": 1.85,
+      "dividendYield": 4.59,
+      "price": 40.27
+    },
+    {
+      "ticker": "IVZ",
+      "company": "Invesco",
+      "exDate": "2026-08-14",
+      "exStatus": "recent",
+      "dividendRate": 0.86,
+      "dividendYield": 2.64,
+      "price": 32.55
+    },
+    {
+      "ticker": "KR",
+      "company": "Kroger",
+      "exDate": "2026-08-14",
+      "exStatus": "recent",
+      "dividendRate": 1.44,
+      "dividendYield": 2.54,
+      "price": 56.77
+    },
+    {
+      "ticker": "LLY",
+      "company": "Eli Lilly",
+      "exDate": "2026-08-14",
+      "exStatus": "recent",
+      "dividendRate": 6.92,
+      "dividendYield": 0.57,
+      "price": 1220.28
+    },
+    {
+      "ticker": "MCO",
+      "company": "Moody's",
+      "exDate": "2026-08-14",
+      "exStatus": "recent",
+      "dividendRate": 4.12,
+      "dividendYield": 0.84,
+      "price": 488.72
+    },
+    {
+      "ticker": "MSCI",
+      "company": "MSCI Inc",
+      "exDate": "2026-08-14",
+      "exStatus": "recent",
+      "dividendRate": 8.2,
+      "dividendYield": 1.45,
+      "price": 564.62
+    },
+    {
+      "ticker": "RTX",
+      "company": "RTX Corp",
+      "exDate": "2026-08-14",
+      "exStatus": "recent",
+      "dividendRate": 2.92,
+      "dividendYield": 1.3,
+      "price": 224.53
+    },
+    {
+      "ticker": "SBUX",
+      "company": "Starbucks",
+      "exDate": "2026-08-14",
+      "exStatus": "recent",
+      "dividendRate": 2.48,
+      "dividendYield": 2.31,
+      "price": 107.14
+    },
+    {
+      "ticker": "SCHW",
+      "company": "Charles Schwab",
+      "exDate": "2026-08-14",
+      "exStatus": "recent",
+      "dividendRate": 1.28,
+      "dividendYield": 1.15,
+      "price": 111.69
+    },
+    {
+      "ticker": "SJM",
+      "company": "J.M. Smucker",
+      "exDate": "2026-08-14",
+      "exStatus": "recent",
+      "dividendRate": 4.48,
+      "dividendYield": 3.75,
+      "price": 119.56
+    },
+    {
+      "ticker": "TFC",
+      "company": "Truist Financial",
+      "exDate": "2026-08-14",
+      "exStatus": "recent",
+      "dividendRate": 2.08,
+      "dividendYield": 3.96,
+      "price": 52.53
+    },
+    {
+      "ticker": "TFX",
+      "company": "Teleflex",
+      "exDate": "2026-08-14",
+      "exStatus": "recent",
+      "dividendRate": 1.36,
+      "dividendYield": 1.03,
+      "price": 132.57
+    },
+    {
+      "ticker": "WEC",
+      "company": "WEC Energy",
+      "exDate": "2026-08-14",
+      "exStatus": "recent",
+      "dividendRate": 3.81,
+      "dividendYield": 3.44,
+      "price": 110.78
+    },
+    {
+      "ticker": "WYNN",
+      "company": "Wynn Resorts",
+      "exDate": "2026-08-14",
+      "exStatus": "recent",
+      "dividendRate": 1.0,
+      "dividendYield": 0.98,
+      "price": 102.08
+    },
+    {
+      "ticker": "COF",
+      "company": "Capital One",
+      "exDate": "2026-08-17",
+      "exStatus": "recent",
+      "dividendRate": 3.2,
+      "dividendYield": 1.44,
+      "price": 222.7
+    },
+    {
+      "ticker": "COP",
+      "company": "ConocoPhillips",
+      "exDate": "2026-08-17",
+      "exStatus": "recent",
+      "dividendRate": 3.36,
+      "dividendYield": 2.59,
+      "price": 129.82
+    },
+    {
+      "ticker": "GEN",
+      "company": "Gen Digital",
+      "exDate": "2026-08-17",
+      "exStatus": "recent",
+      "dividendRate": 0.5,
+      "dividendYield": 1.8,
+      "price": 27.85
+    },
+    {
+      "ticker": "KLAC",
+      "company": "KLA Corp",
+      "exDate": "2026-08-17",
+      "exStatus": "recent",
+      "dividendRate": 0.92,
+      "dividendYield": 0.48,
+      "price": 193.49
+    },
+    {
+      "ticker": "ROK",
+      "company": "Rockwell Automation",
+      "exDate": "2026-08-17",
+      "exStatus": "recent",
+      "dividendRate": 5.52,
+      "dividendYield": 1.27,
+      "price": 435.19
+    },
+    {
+      "ticker": "SO",
+      "company": "Southern Company",
+      "exDate": "2026-08-17",
+      "exStatus": "recent",
+      "dividendRate": 3.04,
+      "dividendYield": 3.3,
+      "price": 92.17
+    },
+    {
+      "ticker": "UPS",
+      "company": "UPS",
+      "exDate": "2026-08-17",
+      "exStatus": "recent",
+      "dividendRate": 6.56,
+      "dividendYield": 6.43,
+      "price": 101.94
+    },
+    {
+      "ticker": "XOM",
+      "company": "ExxonMobil",
+      "exDate": "2026-08-17",
+      "exStatus": "recent",
+      "dividendRate": 4.12,
+      "dividendYield": 2.5,
+      "price": 165.13
+    },
+    {
+      "ticker": "AAL",
+      "company": "American Airlines",
+      "exDate": "Suspended",
+      "exStatus": "suspended",
+      "dividendRate": 0.0,
+      "dividendYield": 0.0,
+      "price": 14.12
+    },
+    {
+      "ticker": "ADBE",
+      "company": "Adobe",
+      "exDate": "Suspended",
+      "exStatus": "suspended",
+      "dividendRate": 0.0,
+      "dividendYield": 0.0,
+      "price": 265.42
+    },
+    {
+      "ticker": "ADSK",
+      "company": "Autodesk",
+      "exDate": "Suspended",
+      "exStatus": "suspended",
+      "dividendRate": 0.0,
+      "dividendYield": 0.0,
+      "price": 250.71
+    },
+    {
+      "ticker": "ALK",
+      "company": "Alaska Air",
+      "exDate": "Suspended",
+      "exStatus": "suspended",
+      "dividendRate": 0.0,
+      "dividendYield": 0.0,
+      "price": 42.7
+    },
+    {
+      "ticker": "AMD",
+      "company": "AMD",
+      "exDate": "Suspended",
+      "exStatus": "suspended",
+      "dividendRate": 0.0,
+      "dividendYield": 0.0,
+      "price": 480.65
+    },
+    {
+      "ticker": "APTV",
+      "company": "Aptiv",
+      "exDate": "Suspended",
+      "exStatus": "suspended",
+      "dividendRate": 0.0,
+      "dividendYield": 0.0,
+      "price": 49.34
+    },
+    {
+      "ticker": "BA",
+      "company": "Boeing",
+      "exDate": "Suspended",
+      "exStatus": "suspended",
+      "dividendRate": 0.0,
+      "dividendYield": 0.0,
+      "price": 223.97
+    },
+    {
+      "ticker": "CBRE",
+      "company": "CBRE Group",
+      "exDate": "Suspended",
+      "exStatus": "suspended",
+      "dividendRate": 0.0,
+      "dividendYield": 0.0,
+      "price": 148.86
+    },
+    {
+      "ticker": "COO",
+      "company": "Cooper Companies",
+      "exDate": "Suspended",
+      "exStatus": "suspended",
+      "dividendRate": 0.0,
+      "dividendYield": 0.0,
+      "price": 76.47
+    },
+    {
+      "ticker": "DXC",
+      "company": "DXC Technology",
+      "exDate": "Suspended",
+      "exStatus": "suspended",
+      "dividendRate": 0.0,
+      "dividendYield": 0.0,
+      "price": 10.51
+    },
+    {
+      "ticker": "INTC",
+      "company": "Intel",
+      "exDate": "Suspended",
+      "exStatus": "suspended",
+      "dividendRate": 0.0,
+      "dividendYield": 0.0,
+      "price": 95.87
+    },
+    {
+      "ticker": "IT",
+      "company": "Gartner",
+      "exDate": "Suspended",
+      "exStatus": "suspended",
+      "dividendRate": 0.0,
+      "dividendYield": 0.0,
+      "price": 185.6
+    },
+    {
+      "ticker": "MGM",
+      "company": "MGM Resorts",
+      "exDate": "Suspended",
+      "exStatus": "suspended",
+      "dividendRate": 0.0,
+      "dividendYield": 0.0,
+      "price": 43.55
+    },
+    {
+      "ticker": "TYL",
+      "company": "Tyler Technologies",
+      "exDate": "Suspended",
+      "exStatus": "suspended",
+      "dividendRate": 0.0,
+      "dividendYield": 0.0,
+      "price": 336.5
+    },
+    {
+      "ticker": "UAL",
+      "company": "United Airlines",
+      "exDate": "Suspended",
+      "exStatus": "suspended",
+      "dividendRate": 0.0,
+      "dividendYield": 0.0,
+      "price": 119.14
+    },
+    {
+      "ticker": "WAT",
+      "company": "Waters Corp",
+      "exDate": "Suspended",
+      "exStatus": "suspended",
+      "dividendRate": 0.0,
+      "dividendYield": 0.0,
+      "price": 404.11
+    },
+    {
+      "ticker": "AKAM",
+      "company": "Akamai",
+      "exDate": "N/A",
+      "exStatus": "none",
+      "dividendRate": 0.0,
+      "dividendYield": 0.0,
+      "price": 116.75
+    },
+    {
+      "ticker": "ALGN",
+      "company": "Align Technology",
+      "exDate": "N/A",
+      "exStatus": "none",
+      "dividendRate": 0.0,
+      "dividendYield": 0.0,
+      "price": 169.01
+    },
+    {
+      "ticker": "AMZN",
+      "company": "Amazon",
+      "exDate": "N/A",
+      "exStatus": "none",
+      "dividendRate": 0.0,
+      "dividendYield": 0.0,
+      "price": 260.43
+    },
+    {
+      "ticker": "ANET",
+      "company": "Arista Networks",
+      "exDate": "N/A",
+      "exStatus": "none",
+      "dividendRate": 0.0,
+      "dividendYield": 0.0,
+      "price": 194.3
+    },
+    {
+      "ticker": "AZO",
+      "company": "AutoZone",
+      "exDate": "N/A",
+      "exStatus": "none",
+      "dividendRate": 0.0,
+      "dividendYield": 0.0,
+      "price": 3112.32
+    },
+    {
+      "ticker": "BIIB",
+      "company": "Biogen",
+      "exDate": "N/A",
+      "exStatus": "none",
+      "dividendRate": 0.0,
+      "dividendYield": 0.0,
+      "price": 213.29
+    },
+    {
+      "ticker": "BK",
+      "company": "BNY Mellon",
+      "exDate": "N/A",
+      "exStatus": "none",
+      "dividendRate": 0.0,
+      "dividendYield": 0.0,
+      "price": 0.0
+    },
+    {
+      "ticker": "BRK-B",
+      "company": "Berkshire Hathaway",
+      "exDate": "N/A",
+      "exStatus": "none",
+      "dividendRate": 0.0,
+      "dividendYield": 0.0,
+      "price": 502.9
+    },
+    {
+      "ticker": "BSX",
+      "company": "Boston Scientific",
+      "exDate": "N/A",
+      "exStatus": "none",
+      "dividendRate": 0.0,
+      "dividendYield": 0.0,
+      "price": 51.27
+    },
+    {
+      "ticker": "CDNS",
+      "company": "Cadence Design",
+      "exDate": "N/A",
+      "exStatus": "none",
+      "dividendRate": 0.0,
+      "dividendYield": 0.0,
+      "price": 317.68
+    },
+    {
+      "ticker": "CHTR",
+      "company": "Charter Communications",
+      "exDate": "N/A",
+      "exStatus": "none",
+      "dividendRate": 0.0,
+      "dividendYield": 0.0,
+      "price": 151.34
+    },
+    {
+      "ticker": "CMA",
+      "company": "Comerica",
+      "exDate": "N/A",
+      "exStatus": "none",
+      "dividendRate": 0.0,
+      "dividendYield": 0.0,
+      "price": 0.0
+    },
+    {
+      "ticker": "CMG",
+      "company": "Chipotle",
+      "exDate": "N/A",
+      "exStatus": "none",
+      "dividendRate": 0.0,
+      "dividendYield": 0.0,
+      "price": 33.56
+    },
+    {
+      "ticker": "CNC",
+      "company": "Centene",
+      "exDate": "N/A",
+      "exStatus": "none",
+      "dividendRate": 0.0,
+      "dividendYield": 0.0,
+      "price": 65.58
+    },
+    {
+      "ticker": "CPRT",
+      "company": "Copart",
+      "exDate": "N/A",
+      "exStatus": "none",
+      "dividendRate": 0.0,
+      "dividendYield": 0.0,
+      "price": 32.15
+    },
+    {
+      "ticker": "CRL",
+      "company": "Charles River Labs",
+      "exDate": "N/A",
+      "exStatus": "none",
+      "dividendRate": 0.0,
+      "dividendYield": 0.0,
+      "price": 282.23
+    },
+    {
+      "ticker": "CSGP",
+      "company": "CoStar Group",
+      "exDate": "N/A",
+      "exStatus": "none",
+      "dividendRate": 0.0,
+      "dividendYield": 0.0,
+      "price": 32.05
+    },
+    {
+      "ticker": "CTLT",
+      "company": "Catalent",
+      "exDate": "N/A",
+      "exStatus": "none",
+      "dividendRate": 0.0,
+      "dividendYield": 0.0,
+      "price": 0.0
+    },
+    {
+      "ticker": "CTRA",
+      "company": "Coterra Energy",
+      "exDate": "N/A",
+      "exStatus": "none",
+      "dividendRate": 0.0,
+      "dividendYield": 0.0,
+      "price": 0.0
+    },
+    {
+      "ticker": "CZR",
+      "company": "Caesars Entertainment",
+      "exDate": "N/A",
+      "exStatus": "none",
+      "dividendRate": 0.0,
+      "dividendYield": 0.0,
+      "price": 29.62
+    },
+    {
+      "ticker": "DFS",
+      "company": "Discover Financial",
+      "exDate": "N/A",
+      "exStatus": "none",
+      "dividendRate": 0.0,
+      "dividendYield": 0.0,
+      "price": 0.0
+    },
+    {
+      "ticker": "DISH",
+      "company": "Dish Network",
+      "exDate": "N/A",
+      "exStatus": "none",
+      "dividendRate": 0.0,
+      "dividendYield": 0.0,
+      "price": 0.0
+    },
+    {
+      "ticker": "DLTR",
+      "company": "Dollar Tree",
+      "exDate": "N/A",
+      "exStatus": "none",
+      "dividendRate": 0.0,
+      "dividendYield": 0.0,
+      "price": 130.83
+    },
+    {
+      "ticker": "DRE",
+      "company": "Duke Realty",
+      "exDate": "N/A",
+      "exStatus": "none",
+      "dividendRate": 0.0,
+      "dividendYield": 0.0,
+      "price": 0.0
+    },
+    {
+      "ticker": "DVA",
+      "company": "DaVita",
+      "exDate": "N/A",
+      "exStatus": "none",
+      "dividendRate": 0.0,
+      "dividendYield": 0.0,
+      "price": 177.63
+    },
+    {
+      "ticker": "DXCM",
+      "company": "Dexcom",
+      "exDate": "N/A",
+      "exStatus": "none",
+      "dividendRate": 0.0,
+      "dividendYield": 0.0,
+      "price": 90.64
+    },
+    {
+      "ticker": "ENPH",
+      "company": "Enphase Energy",
+      "exDate": "N/A",
+      "exStatus": "none",
+      "dividendRate": 0.0,
+      "dividendYield": 0.0,
+      "price": 37.49
+    },
+    {
+      "ticker": "EPAM",
+      "company": "EPAM Systems",
+      "exDate": "N/A",
+      "exStatus": "none",
+      "dividendRate": 0.0,
+      "dividendYield": 0.0,
+      "price": 101.85
+    },
+    {
+      "ticker": "ETSY",
+      "company": "Etsy",
+      "exDate": "N/A",
+      "exStatus": "none",
+      "dividendRate": 0.0,
+      "dividendYield": 0.0,
+      "price": 80.18
+    },
+    {
+      "ticker": "EW",
+      "company": "Edwards Lifesciences",
+      "exDate": "N/A",
+      "exStatus": "none",
+      "dividendRate": 0.0,
+      "dividendYield": 0.0,
+      "price": 91.43
+    },
+    {
+      "ticker": "FFIV",
+      "company": "F5 Networks",
+      "exDate": "N/A",
+      "exStatus": "none",
+      "dividendRate": 0.0,
+      "dividendYield": 0.0,
+      "price": 397.27
+    },
+    {
+      "ticker": "FISV",
+      "company": "Fiserv",
+      "exDate": "N/A",
+      "exStatus": "none",
+      "dividendRate": 0.0,
+      "dividendYield": 0.0,
+      "price": 52.45
+    },
+    {
+      "ticker": "FLT",
+      "company": "Fleetcor Technologies",
+      "exDate": "N/A",
+      "exStatus": "none",
+      "dividendRate": 0.0,
+      "dividendYield": 0.0,
+      "price": 0.0
+    },
+    {
+      "ticker": "FTNT",
+      "company": "Fortinet",
+      "exDate": "N/A",
+      "exStatus": "none",
+      "dividendRate": 0.0,
+      "dividendYield": 0.0,
+      "price": 158.05
+    },
+    {
+      "ticker": "HES",
+      "company": "Hess Corp",
+      "exDate": "N/A",
+      "exStatus": "none",
+      "dividendRate": 0.0,
+      "dividendYield": 0.0,
+      "price": 0.0
+    },
+    {
+      "ticker": "HOLX",
+      "company": "Hologic",
+      "exDate": "N/A",
+      "exStatus": "none",
+      "dividendRate": 0.0,
+      "dividendYield": 0.0,
+      "price": 0.0
+    },
+    {
+      "ticker": "HSIC",
+      "company": "Henry Schein",
+      "exDate": "N/A",
+      "exStatus": "none",
+      "dividendRate": 0.0,
+      "dividendYield": 0.0,
+      "price": 89.06
+    },
+    {
+      "ticker": "IDXX",
+      "company": "IDEXX Laboratories",
+      "exDate": "N/A",
+      "exStatus": "none",
+      "dividendRate": 0.0,
+      "dividendYield": 0.0,
+      "price": 556.01
+    },
+    {
+      "ticker": "ILMN",
+      "company": "Illumina",
+      "exDate": "N/A",
+      "exStatus": "none",
+      "dividendRate": 0.0,
+      "dividendYield": 0.0,
+      "price": 188.69
+    },
+    {
+      "ticker": "INCY",
+      "company": "Incyte",
+      "exDate": "N/A",
+      "exStatus": "none",
+      "dividendRate": 0.0,
+      "dividendYield": 0.0,
+      "price": 123.8
+    },
+    {
+      "ticker": "IPG",
+      "company": "Interpublic Group",
+      "exDate": "N/A",
+      "exStatus": "none",
+      "dividendRate": 0.0,
+      "dividendYield": 0.0,
+      "price": 0.0
+    },
+    {
+      "ticker": "IQV",
+      "company": "IQVIA",
+      "exDate": "N/A",
+      "exStatus": "none",
+      "dividendRate": 0.0,
+      "dividendYield": 0.0,
+      "price": 242.68
+    },
+    {
+      "ticker": "ISRG",
+      "company": "Intuitive Surgical",
+      "exDate": "N/A",
+      "exStatus": "none",
+      "dividendRate": 0.0,
+      "dividendYield": 0.0,
+      "price": 396.5
+    },
+    {
+      "ticker": "JNPR",
+      "company": "Juniper Networks",
+      "exDate": "N/A",
+      "exStatus": "none",
+      "dividendRate": 0.0,
+      "dividendYield": 0.0,
+      "price": 0.0
+    },
+    {
+      "ticker": "K",
+      "company": "Kellanova",
+      "exDate": "N/A",
+      "exStatus": "none",
+      "dividendRate": 0.0,
+      "dividendYield": 0.0,
+      "price": 0.0
+    },
+    {
+      "ticker": "KEYS",
+      "company": "Keysight Technologies",
+      "exDate": "N/A",
+      "exStatus": "none",
+      "dividendRate": 0.0,
+      "dividendYield": 0.0,
+      "price": 334.93
+    },
+    {
+      "ticker": "KMX",
+      "company": "CarMax",
+      "exDate": "N/A",
+      "exStatus": "none",
+      "dividendRate": 0.0,
+      "dividendYield": 0.0,
+      "price": 57.91
+    },
+    {
+      "ticker": "LULU",
+      "company": "Lululemon",
+      "exDate": "N/A",
+      "exStatus": "none",
+      "dividendRate": 0.0,
+      "dividendYield": 0.0,
+      "price": 119.98
+    },
+    {
+      "ticker": "LYV",
+      "company": "Live Nation",
+      "exDate": "N/A",
+      "exStatus": "none",
+      "dividendRate": 0.0,
+      "dividendYield": 0.0,
+      "price": 181.23
+    },
+    {
+      "ticker": "MHK",
+      "company": "Mohawk Industries",
+      "exDate": "N/A",
+      "exStatus": "none",
+      "dividendRate": 0.0,
+      "dividendYield": 0.0,
+      "price": 134.03
+    },
+    {
+      "ticker": "MMC",
+      "company": "Marsh & McLennan",
+      "exDate": "N/A",
+      "exStatus": "none",
+      "dividendRate": 0.0,
+      "dividendYield": 0.0,
+      "price": 0.0
+    },
+    {
+      "ticker": "MNST",
+      "company": "Monster Beverage",
+      "exDate": "N/A",
+      "exStatus": "none",
+      "dividendRate": 0.0,
+      "dividendYield": 0.0,
+      "price": 47.34
+    },
+    {
+      "ticker": "MOH",
+      "company": "Molina Healthcare",
+      "exDate": "N/A",
+      "exStatus": "none",
+      "dividendRate": 0.0,
+      "dividendYield": 0.0,
+      "price": 206.25
+    },
+    {
+      "ticker": "MRNA",
+      "company": "Moderna",
+      "exDate": "N/A",
+      "exStatus": "none",
+      "dividendRate": 0.0,
+      "dividendYield": 0.0,
+      "price": 63.51
+    },
+    {
+      "ticker": "MRO",
+      "company": "Marathon Oil",
+      "exDate": "N/A",
+      "exStatus": "none",
+      "dividendRate": 0.0,
+      "dividendYield": 0.0,
+      "price": 0.0
+    },
+    {
+      "ticker": "MTD",
+      "company": "Mettler-Toledo",
+      "exDate": "N/A",
+      "exStatus": "none",
+      "dividendRate": 0.0,
+      "dividendYield": 0.0,
+      "price": 1403.65
+    },
+    {
+      "ticker": "NCLH",
+      "company": "Norwegian Cruise Line",
+      "exDate": "N/A",
+      "exStatus": "none",
+      "dividendRate": 0.0,
+      "dividendYield": 0.0,
+      "price": 17.8
+    },
+    {
+      "ticker": "NFLX",
+      "company": "Netflix",
+      "exDate": "N/A",
+      "exStatus": "none",
+      "dividendRate": 0.0,
+      "dividendYield": 0.0,
+      "price": 78.61
+    },
+    {
+      "ticker": "NOW",
+      "company": "ServiceNow",
+      "exDate": "N/A",
+      "exStatus": "none",
+      "dividendRate": 0.0,
+      "dividendYield": 0.0,
+      "price": 121.09
+    },
+    {
+      "ticker": "NVR",
+      "company": "NVR Inc",
+      "exDate": "N/A",
+      "exStatus": "none",
+      "dividendRate": 0.0,
+      "dividendYield": 0.0,
+      "price": 6271.73
+    },
+    {
+      "ticker": "ON",
+      "company": "ON Semiconductor",
+      "exDate": "N/A",
+      "exStatus": "none",
+      "dividendRate": 0.0,
+      "dividendYield": 0.0,
+      "price": 78.5
+    },
+    {
+      "ticker": "ORLY",
+      "company": "O'Reilly Automotive",
+      "exDate": "N/A",
+      "exStatus": "none",
+      "dividendRate": 0.0,
+      "dividendYield": 0.0,
+      "price": 91.64
+    },
+    {
+      "ticker": "PARA",
+      "company": "Paramount Global",
+      "exDate": "N/A",
+      "exStatus": "none",
+      "dividendRate": 0.0,
+      "dividendYield": 0.0,
+      "price": 1.51
+    },
+    {
+      "ticker": "PEAK",
+      "company": "Healthpeak Properties",
+      "exDate": "N/A",
+      "exStatus": "none",
+      "dividendRate": 0.0,
+      "dividendYield": 0.0,
+      "price": 0.0
+    },
+    {
+      "ticker": "PTC",
+      "company": "PTC Inc",
+      "exDate": "N/A",
+      "exStatus": "none",
+      "dividendRate": 0.0,
+      "dividendYield": 0.0,
+      "price": 148.34
+    },
+    {
+      "ticker": "QRVO",
+      "company": "Qorvo",
+      "exDate": "N/A",
+      "exStatus": "none",
+      "dividendRate": 0.0,
+      "dividendYield": 0.0,
+      "price": 96.2
+    },
+    {
+      "ticker": "RE",
+      "company": "Everest Re",
+      "exDate": "N/A",
+      "exStatus": "none",
+      "dividendRate": 0.0,
+      "dividendYield": 0.0,
+      "price": 0.0
+    },
+    {
+      "ticker": "SNPS",
+      "company": "Synopsys",
+      "exDate": "N/A",
+      "exStatus": "none",
+      "dividendRate": 0.0,
+      "dividendYield": 0.0,
+      "price": 407.39
+    },
+    {
+      "ticker": "TDY",
+      "company": "Teledyne Technologies",
+      "exDate": "N/A",
+      "exStatus": "none",
+      "dividendRate": 0.0,
+      "dividendYield": 0.0,
+      "price": 668.73
+    },
+    {
+      "ticker": "TRMB",
+      "company": "Trimble",
+      "exDate": "N/A",
+      "exStatus": "none",
+      "dividendRate": 0.0,
+      "dividendYield": 0.0,
+      "price": 57.27
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "exDate": "N/A",
+      "exStatus": "none",
+      "dividendRate": 0.0,
+      "dividendYield": 0.0,
+      "price": 335.35
+    },
+    {
+      "ticker": "TTWO",
+      "company": "Take-Two Interactive",
+      "exDate": "N/A",
+      "exStatus": "none",
+      "dividendRate": 0.0,
+      "dividendYield": 0.0,
+      "price": 243.79
+    },
+    {
+      "ticker": "VRTX",
+      "company": "Vertex Pharmaceuticals",
+      "exDate": "N/A",
+      "exStatus": "none",
+      "dividendRate": 0.0,
+      "dividendYield": 0.0,
+      "price": 528.22
+    },
+    {
+      "ticker": "WBA",
+      "company": "Walgreens Boots Alliance",
+      "exDate": "N/A",
+      "exStatus": "none",
+      "dividendRate": 0.0,
+      "dividendYield": 0.0,
+      "price": 0.0
+    },
+    {
+      "ticker": "WBD",
+      "company": "Warner Bros Discovery",
+      "exDate": "N/A",
+      "exStatus": "none",
+      "dividendRate": 0.0,
+      "dividendYield": 0.0,
+      "price": 28.48
+    },
+    {
+      "ticker": "WRK",
+      "company": "WestRock",
+      "exDate": "N/A",
+      "exStatus": "none",
+      "dividendRate": 0.0,
+      "dividendYield": 0.0,
+      "price": 0.0
+    },
+    {
+      "ticker": "ZBRA",
+      "company": "Zebra Technologies",
+      "exDate": "N/A",
+      "exStatus": "none",
+      "dividendRate": 0.0,
+      "dividendYield": 0.0,
+      "price": 369.17
     }
   ],
   "earnings": [
+    {
+      "ticker": "KMB",
+      "company": "Kimberly-Clark",
+      "earningsDate": "2026-11-03",
+      "shortRatio": 12.0,
+      "shortPct": 15.1,
+      "squeezeFlag": true
+    },
+    {
+      "ticker": "TROW",
+      "company": "T. Rowe Price",
+      "earningsDate": "2026-10-30",
+      "shortRatio": 12.0,
+      "shortPct": 13.9,
+      "squeezeFlag": true
+    },
+    {
+      "ticker": "LNT",
+      "company": "Alliant Energy",
+      "earningsDate": "N/A",
+      "shortRatio": 11.3,
+      "shortPct": 12.0,
+      "squeezeFlag": true
+    },
+    {
+      "ticker": "RMD",
+      "company": "ResMed",
+      "earningsDate": "2026-10-29",
+      "shortRatio": 11.3,
+      "shortPct": 12.4,
+      "squeezeFlag": true
+    },
+    {
+      "ticker": "LYV",
+      "company": "Live Nation",
+      "earningsDate": "N/A",
+      "shortRatio": 11.1,
+      "shortPct": 15.6,
+      "squeezeFlag": true
+    },
+    {
+      "ticker": "EVRG",
+      "company": "Evergy",
+      "earningsDate": "2026-11-05",
+      "shortRatio": 9.0,
+      "shortPct": 9.5,
+      "squeezeFlag": true
+    },
+    {
+      "ticker": "TAP",
+      "company": "Molson Coors",
+      "earningsDate": "2026-11-03",
+      "shortRatio": 9.0,
+      "shortPct": 25.9,
+      "squeezeFlag": true
+    },
+    {
+      "ticker": "AEE",
+      "company": "Ameren",
+      "earningsDate": "N/A",
+      "shortRatio": 8.8,
+      "shortPct": 5.6,
+      "squeezeFlag": true
+    },
+    {
+      "ticker": "O",
+      "company": "Realty Income",
+      "earningsDate": "2026-11-02",
+      "shortRatio": 8.7,
+      "shortPct": 5.5,
+      "squeezeFlag": true
+    },
+    {
+      "ticker": "IFF",
+      "company": "Intl Flavors & Fragrances",
+      "earningsDate": "2026-11-03",
+      "shortRatio": 8.6,
+      "shortPct": 8.8,
+      "squeezeFlag": true
+    },
+    {
+      "ticker": "PNW",
+      "company": "Pinnacle West",
+      "earningsDate": "2026-11-03",
+      "shortRatio": 8.5,
+      "shortPct": 11.1,
+      "squeezeFlag": true
+    },
+    {
+      "ticker": "IP",
+      "company": "International Paper",
+      "earningsDate": "2026-10-28",
+      "shortRatio": 8.4,
+      "shortPct": 16.5,
+      "squeezeFlag": true
+    },
+    {
+      "ticker": "OKE",
+      "company": "ONEOK",
+      "earningsDate": "2026-10-27",
+      "shortRatio": 8.4,
+      "shortPct": 5.3,
+      "squeezeFlag": true
+    },
+    {
+      "ticker": "UNP",
+      "company": "Union Pacific",
+      "earningsDate": "2026-10-22",
+      "shortRatio": 8.4,
+      "shortPct": 4.9,
+      "squeezeFlag": true
+    },
+    {
+      "ticker": "XEL",
+      "company": "Xcel Energy",
+      "earningsDate": "2026-10-29",
+      "shortRatio": 8.3,
+      "shortPct": 7.7,
+      "squeezeFlag": true
+    },
+    {
+      "ticker": "SNA",
+      "company": "Snap-on",
+      "earningsDate": "2026-10-15",
+      "shortRatio": 8.1,
+      "shortPct": 6.9,
+      "squeezeFlag": true
+    },
+    {
+      "ticker": "FOXA",
+      "company": "Fox Corp A",
+      "earningsDate": "2026-10-29",
+      "shortRatio": 8.0,
+      "shortPct": 26.2,
+      "squeezeFlag": true
+    },
+    {
+      "ticker": "CPB",
+      "company": "Campbell Soup",
+      "earningsDate": "2026-09-03",
+      "shortRatio": 7.8,
+      "shortPct": 31.2,
+      "squeezeFlag": true
+    },
+    {
+      "ticker": "KIM",
+      "company": "Kimco Realty",
+      "earningsDate": "2026-10-29",
+      "shortRatio": 7.8,
+      "shortPct": 5.8,
+      "squeezeFlag": true
+    },
+    {
+      "ticker": "MGM",
+      "company": "MGM Resorts",
+      "earningsDate": "2026-10-28",
+      "shortRatio": 7.8,
+      "shortPct": 16.7,
+      "squeezeFlag": true
+    },
+    {
+      "ticker": "SO",
+      "company": "Southern Company",
+      "earningsDate": "2026-10-29",
+      "shortRatio": 7.6,
+      "shortPct": 3.2,
+      "squeezeFlag": true
+    },
+    {
+      "ticker": "FOX",
+      "company": "Fox Corp B",
+      "earningsDate": "2026-10-29",
+      "shortRatio": 7.4,
+      "shortPct": 8.2,
+      "squeezeFlag": true
+    },
+    {
+      "ticker": "IT",
+      "company": "Gartner",
+      "earningsDate": "2026-11-03",
+      "shortRatio": 7.4,
+      "shortPct": 21.6,
+      "squeezeFlag": true
+    },
+    {
+      "ticker": "OMC",
+      "company": "Omnicom",
+      "earningsDate": "2026-10-20",
+      "shortRatio": 7.4,
+      "shortPct": 9.9,
+      "squeezeFlag": true
+    },
+    {
+      "ticker": "WEC",
+      "company": "WEC Energy",
+      "earningsDate": "2026-10-29",
+      "shortRatio": 7.4,
+      "shortPct": 5.0,
+      "squeezeFlag": true
+    },
+    {
+      "ticker": "TPR",
+      "company": "Tapestry",
+      "earningsDate": "2026-11-05",
+      "shortRatio": 7.3,
+      "shortPct": 9.6,
+      "squeezeFlag": true
+    },
+    {
+      "ticker": "CHTR",
+      "company": "Charter Communications",
+      "earningsDate": "2026-10-30",
+      "shortRatio": 7.2,
+      "shortPct": 50.4,
+      "squeezeFlag": true
+    },
+    {
+      "ticker": "ETR",
+      "company": "Entergy",
+      "earningsDate": "2026-10-29",
+      "shortRatio": 7.2,
+      "shortPct": 4.9,
+      "squeezeFlag": true
+    },
+    {
+      "ticker": "MRNA",
+      "company": "Moderna",
+      "earningsDate": "2026-11-05",
+      "shortRatio": 7.2,
+      "shortPct": 15.2,
+      "squeezeFlag": true
+    },
+    {
+      "ticker": "AEP",
+      "company": "American Electric Power",
+      "earningsDate": "2026-10-29",
+      "shortRatio": 7.1,
+      "shortPct": 5.8,
+      "squeezeFlag": true
+    },
+    {
+      "ticker": "CNP",
+      "company": "CenterPoint Energy",
+      "earningsDate": "2026-10-22",
+      "shortRatio": 7.0,
+      "shortPct": 9.0,
+      "squeezeFlag": true
+    },
+    {
+      "ticker": "TFX",
+      "company": "Teleflex",
+      "earningsDate": "2026-10-29",
+      "shortRatio": 7.0,
+      "shortPct": 10.5,
+      "squeezeFlag": true
+    },
+    {
+      "ticker": "PRU",
+      "company": "Prudential Financial",
+      "earningsDate": "2026-10-28",
+      "shortRatio": 6.9,
+      "shortPct": 4.0,
+      "squeezeFlag": true
+    },
+    {
+      "ticker": "AMCR",
+      "company": "Amcor",
+      "earningsDate": "2026-11-05",
+      "shortRatio": 6.8,
+      "shortPct": 5.8,
+      "squeezeFlag": true
+    },
+    {
+      "ticker": "GEN",
+      "company": "Gen Digital",
+      "earningsDate": "2026-11-05",
+      "shortRatio": 6.8,
+      "shortPct": 6.4,
+      "squeezeFlag": true
+    },
+    {
+      "ticker": "RJF",
+      "company": "Raymond James",
+      "earningsDate": "2026-10-28",
+      "shortRatio": 6.8,
+      "shortPct": 5.3,
+      "squeezeFlag": true
+    },
+    {
+      "ticker": "NSC",
+      "company": "Norfolk Southern",
+      "earningsDate": "2026-10-22",
+      "shortRatio": 6.7,
+      "shortPct": 3.4,
+      "squeezeFlag": true
+    },
+    {
+      "ticker": "AAP",
+      "company": "Advance Auto Parts",
+      "earningsDate": "2026-08-20",
+      "shortRatio": 6.6,
+      "shortPct": 29.7,
+      "squeezeFlag": true
+    },
+    {
+      "ticker": "AFL",
+      "company": "Aflac",
+      "earningsDate": "2026-11-04",
+      "shortRatio": 6.5,
+      "shortPct": 3.2,
+      "squeezeFlag": true
+    },
+    {
+      "ticker": "KHC",
+      "company": "Kraft Heinz",
+      "earningsDate": "2026-10-28",
+      "shortRatio": 6.5,
+      "shortPct": 10.0,
+      "squeezeFlag": true
+    },
+    {
+      "ticker": "MO",
+      "company": "Altria",
+      "earningsDate": "2026-10-29",
+      "shortRatio": 6.5,
+      "shortPct": 3.0,
+      "squeezeFlag": true
+    },
+    {
+      "ticker": "VTR",
+      "company": "Ventas",
+      "earningsDate": "2026-10-28",
+      "shortRatio": 6.4,
+      "shortPct": 5.3,
+      "squeezeFlag": true
+    },
+    {
+      "ticker": "DVA",
+      "company": "DaVita",
+      "earningsDate": "2026-10-28",
+      "shortRatio": 6.3,
+      "shortPct": 13.2,
+      "squeezeFlag": true
+    },
+    {
+      "ticker": "DXC",
+      "company": "DXC Technology",
+      "earningsDate": "2026-10-29",
+      "shortRatio": 6.3,
+      "shortPct": 21.0,
+      "squeezeFlag": true
+    },
+    {
+      "ticker": "D",
+      "company": "Dominion Energy",
+      "earningsDate": "2026-10-30",
+      "shortRatio": 6.2,
+      "shortPct": 3.6,
+      "squeezeFlag": true
+    },
+    {
+      "ticker": "FMC",
+      "company": "FMC Corp",
+      "earningsDate": "2026-10-28",
+      "shortRatio": 6.2,
+      "shortPct": 28.2,
+      "squeezeFlag": true
+    },
+    {
+      "ticker": "PAYX",
+      "company": "Paychex",
+      "earningsDate": "2026-09-29",
+      "shortRatio": 6.1,
+      "shortPct": 6.3,
+      "squeezeFlag": true
+    },
+    {
+      "ticker": "ED",
+      "company": "Consolidated Edison",
+      "earningsDate": "2026-11-05",
+      "shortRatio": 6.0,
+      "shortPct": 4.5,
+      "squeezeFlag": true
+    },
+    {
+      "ticker": "EIX",
+      "company": "Edison International",
+      "earningsDate": "2026-10-27",
+      "shortRatio": 6.0,
+      "shortPct": 5.0,
+      "squeezeFlag": true
+    },
+    {
+      "ticker": "LUV",
+      "company": "Southwest Airlines",
+      "earningsDate": "2026-10-21",
+      "shortRatio": 6.0,
+      "shortPct": 8.9,
+      "squeezeFlag": true
+    },
+    {
+      "ticker": "AOS",
+      "company": "A.O. Smith",
+      "earningsDate": "2026-10-27",
+      "shortRatio": 5.9,
+      "shortPct": 11.1,
+      "squeezeFlag": true
+    },
+    {
+      "ticker": "ROP",
+      "company": "Roper Technologies",
+      "earningsDate": "2026-10-22",
+      "shortRatio": 5.9,
+      "shortPct": 6.2,
+      "squeezeFlag": true
+    },
+    {
+      "ticker": "WELL",
+      "company": "Welltower",
+      "earningsDate": "2026-10-26",
+      "shortRatio": 5.9,
+      "shortPct": 2.8,
+      "squeezeFlag": true
+    },
+    {
+      "ticker": "WTW",
+      "company": "Willis Towers Watson",
+      "earningsDate": "2026-10-29",
+      "shortRatio": 5.9,
+      "shortPct": 4.3,
+      "squeezeFlag": true
+    },
+    {
+      "ticker": "WYNN",
+      "company": "Wynn Resorts",
+      "earningsDate": "2026-11-05",
+      "shortRatio": 5.9,
+      "shortPct": 9.5,
+      "squeezeFlag": true
+    },
+    {
+      "ticker": "BRO",
+      "company": "Brown & Brown",
+      "earningsDate": "2026-10-26",
+      "shortRatio": 5.8,
+      "shortPct": 6.6,
+      "squeezeFlag": true
+    },
+    {
+      "ticker": "CHD",
+      "company": "Church & Dwight",
+      "earningsDate": "2026-10-30",
+      "shortRatio": 5.8,
+      "shortPct": 5.0,
+      "squeezeFlag": true
+    },
+    {
+      "ticker": "CLX",
+      "company": "Clorox",
+      "earningsDate": "2026-11-03",
+      "shortRatio": 5.8,
+      "shortPct": 12.9,
+      "squeezeFlag": true
+    },
+    {
+      "ticker": "J",
+      "company": "Jacobs Solutions",
+      "earningsDate": "N/A",
+      "shortRatio": 5.8,
+      "shortPct": 5.1,
+      "squeezeFlag": true
+    },
+    {
+      "ticker": "AMGN",
+      "company": "Amgen",
+      "earningsDate": "2026-11-03",
+      "shortRatio": 5.7,
+      "shortPct": 2.5,
+      "squeezeFlag": true
+    },
+    {
+      "ticker": "APA",
+      "company": "APA Corp",
+      "earningsDate": "2026-11-04",
+      "shortRatio": 5.7,
+      "shortPct": 11.3,
+      "squeezeFlag": true
+    },
+    {
+      "ticker": "ITW",
+      "company": "Illinois Tool Works",
+      "earningsDate": "2026-10-23",
+      "shortRatio": 5.7,
+      "shortPct": 3.1,
+      "squeezeFlag": true
+    },
+    {
+      "ticker": "NCLH",
+      "company": "Norwegian Cruise Line",
+      "earningsDate": "N/A",
+      "shortRatio": 5.7,
+      "shortPct": 20.7,
+      "squeezeFlag": true
+    },
+    {
+      "ticker": "AKAM",
+      "company": "Akamai",
+      "earningsDate": "2026-11-05",
+      "shortRatio": 5.6,
+      "shortPct": 16.2,
+      "squeezeFlag": true
+    },
+    {
+      "ticker": "BDX",
+      "company": "Becton Dickinson",
+      "earningsDate": "2026-11-05",
+      "shortRatio": 5.6,
+      "shortPct": 4.2,
+      "squeezeFlag": true
+    },
+    {
+      "ticker": "FE",
+      "company": "FirstEnergy",
+      "earningsDate": "2026-10-21",
+      "shortRatio": 5.6,
+      "shortPct": 5.7,
+      "squeezeFlag": true
+    },
+    {
+      "ticker": "QRVO",
+      "company": "Qorvo",
+      "earningsDate": "N/A",
+      "shortRatio": 5.6,
+      "shortPct": 8.4,
+      "squeezeFlag": true
+    },
+    {
+      "ticker": "DE",
+      "company": "Deere & Co",
+      "earningsDate": "2026-08-20",
+      "shortRatio": 5.5,
+      "shortPct": 2.3,
+      "squeezeFlag": true
+    },
+    {
+      "ticker": "EOG",
+      "company": "EOG Resources",
+      "earningsDate": "N/A",
+      "shortRatio": 5.5,
+      "shortPct": 3.5,
+      "squeezeFlag": true
+    },
+    {
+      "ticker": "L",
+      "company": "Loews",
+      "earningsDate": "2026-11-02",
+      "shortRatio": 5.5,
+      "shortPct": 2.6,
+      "squeezeFlag": true
+    },
+    {
+      "ticker": "VMC",
+      "company": "Vulcan Materials",
+      "earningsDate": "2026-10-29",
+      "shortRatio": 5.5,
+      "shortPct": 5.5,
+      "squeezeFlag": true
+    },
+    {
+      "ticker": "BX",
+      "company": "Blackstone",
+      "earningsDate": "2026-10-22",
+      "shortRatio": 5.4,
+      "shortPct": 3.5,
+      "squeezeFlag": true
+    },
+    {
+      "ticker": "EXPE",
+      "company": "Expedia",
+      "earningsDate": "2026-11-05",
+      "shortRatio": 5.4,
+      "shortPct": 8.4,
+      "squeezeFlag": true
+    },
+    {
+      "ticker": "GPN",
+      "company": "Global Payments",
+      "earningsDate": "2026-11-03",
+      "shortRatio": 5.4,
+      "shortPct": 8.0,
+      "squeezeFlag": true
+    },
+    {
+      "ticker": "ADP",
+      "company": "Automatic Data Processing",
+      "earningsDate": "2026-10-28",
+      "shortRatio": 5.3,
+      "shortPct": 3.7,
+      "squeezeFlag": true
+    },
+    {
+      "ticker": "EBAY",
+      "company": "eBay",
+      "earningsDate": "2026-11-04",
+      "shortRatio": 5.3,
+      "shortPct": 3.9,
+      "squeezeFlag": true
+    },
+    {
+      "ticker": "INCY",
+      "company": "Incyte",
+      "earningsDate": "2026-10-27",
+      "shortRatio": 5.3,
+      "shortPct": 8.6,
+      "squeezeFlag": true
+    },
+    {
+      "ticker": "NWS",
+      "company": "News Corp B",
+      "earningsDate": "2026-11-05",
+      "shortRatio": 5.3,
+      "shortPct": 12.7,
+      "squeezeFlag": true
+    },
+    {
+      "ticker": "RF",
+      "company": "Regions Financial",
+      "earningsDate": "2026-10-16",
+      "shortRatio": 5.3,
+      "shortPct": 8.1,
+      "squeezeFlag": true
+    },
+    {
+      "ticker": "RL",
+      "company": "Ralph Lauren",
+      "earningsDate": "2026-11-05",
+      "shortRatio": 5.3,
+      "shortPct": 8.9,
+      "squeezeFlag": true
+    },
+    {
+      "ticker": "ROK",
+      "company": "Rockwell Automation",
+      "earningsDate": "2026-11-05",
+      "shortRatio": 5.3,
+      "shortPct": 4.0,
+      "squeezeFlag": true
+    },
+    {
+      "ticker": "SWKS",
+      "company": "Skyworks Solutions",
+      "earningsDate": "2026-11-03",
+      "shortRatio": 5.3,
+      "shortPct": 33.0,
+      "squeezeFlag": true
+    },
+    {
+      "ticker": "AWK",
+      "company": "American Water Works",
+      "earningsDate": "2026-10-28",
+      "shortRatio": 5.2,
+      "shortPct": 7.8,
+      "squeezeFlag": true
+    },
+    {
+      "ticker": "HPQ",
+      "company": "HP Inc",
+      "earningsDate": "2026-08-26",
+      "shortRatio": 5.2,
+      "shortPct": 9.9,
+      "squeezeFlag": true
+    },
+    {
+      "ticker": "NWL",
+      "company": "Newell Brands",
+      "earningsDate": "2026-10-30",
+      "shortRatio": 5.2,
+      "shortPct": 19.5,
+      "squeezeFlag": true
+    },
+    {
+      "ticker": "PFG",
+      "company": "Principal Financial",
+      "earningsDate": "2026-10-26",
+      "shortRatio": 5.2,
+      "shortPct": 4.5,
+      "squeezeFlag": true
+    },
+    {
+      "ticker": "PPL",
+      "company": "PPL Corp",
+      "earningsDate": "2026-11-04",
+      "shortRatio": 5.2,
+      "shortPct": 5.9,
+      "squeezeFlag": true
+    },
+    {
+      "ticker": "UAL",
+      "company": "United Airlines",
+      "earningsDate": "2026-10-21",
+      "shortRatio": 5.2,
+      "shortPct": 7.3,
+      "squeezeFlag": true
+    },
+    {
+      "ticker": "EPAM",
+      "company": "EPAM Systems",
+      "earningsDate": "2026-11-05",
+      "shortRatio": 5.1,
+      "shortPct": 22.3,
+      "squeezeFlag": true
+    },
+    {
+      "ticker": "MHK",
+      "company": "Mohawk Industries",
+      "earningsDate": "2026-10-29",
+      "shortRatio": 5.1,
+      "shortPct": 11.0,
+      "squeezeFlag": true
+    },
+    {
+      "ticker": "SBUX",
+      "company": "Starbucks",
+      "earningsDate": "2026-10-28",
+      "shortRatio": 5.1,
+      "shortPct": 3.8,
+      "squeezeFlag": true
+    },
+    {
+      "ticker": "WAT",
+      "company": "Waters Corp",
+      "earningsDate": "2026-10-30",
+      "shortRatio": 5.1,
+      "shortPct": 4.2,
+      "squeezeFlag": true
+    },
+    {
+      "ticker": "HRL",
+      "company": "Hormel Foods",
+      "earningsDate": "2026-08-27",
+      "shortRatio": 5.0,
+      "shortPct": 6.6,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "PHM",
+      "company": "PulteGroup",
+      "earningsDate": "2026-10-20",
+      "shortRatio": 5.0,
+      "shortPct": 6.4,
+      "squeezeFlag": true
+    },
+    {
+      "ticker": "SYY",
+      "company": "Sysco",
+      "earningsDate": "2026-11-03",
+      "shortRatio": 5.0,
+      "shortPct": 3.6,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "BAX",
+      "company": "Baxter",
+      "earningsDate": "2026-10-29",
+      "shortRatio": 4.9,
+      "shortPct": 10.0,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "KMX",
+      "company": "CarMax",
+      "earningsDate": "2026-09-29",
+      "shortRatio": 4.9,
+      "shortPct": 11.1,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "NTAP",
+      "company": "NetApp",
+      "earningsDate": "2026-09-02",
+      "shortRatio": 4.9,
+      "shortPct": 7.8,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "WY",
+      "company": "Weyerhaeuser",
+      "earningsDate": "2026-10-29",
+      "shortRatio": 4.9,
+      "shortPct": 4.2,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "BMY",
+      "company": "Bristol-Myers Squibb",
+      "earningsDate": "2026-10-29",
+      "shortRatio": 4.8,
+      "shortPct": 2.6,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "CZR",
+      "company": "Caesars Entertainment",
+      "earningsDate": "2026-10-27",
+      "shortRatio": 4.8,
+      "shortPct": 11.3,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "EMR",
+      "company": "Emerson Electric",
+      "earningsDate": "2026-11-04",
+      "shortRatio": 4.8,
+      "shortPct": 2.2,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "ES",
+      "company": "Eversource Energy",
+      "earningsDate": "2026-11-04",
+      "shortRatio": 4.8,
+      "shortPct": 3.8,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "KDP",
+      "company": "Keurig Dr Pepper",
+      "earningsDate": "2026-10-26",
+      "shortRatio": 4.8,
+      "shortPct": 5.2,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "RCL",
+      "company": "Royal Caribbean",
+      "earningsDate": "2026-10-27",
+      "shortRatio": 4.8,
+      "shortPct": 6.4,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "VTRS",
+      "company": "Viatris",
+      "earningsDate": "2026-11-05",
+      "shortRatio": 4.8,
+      "shortPct": 4.0,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "ADM",
+      "company": "Archer-Daniels-Midland",
+      "earningsDate": "2026-11-03",
+      "shortRatio": 4.7,
+      "shortPct": 4.4,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "APTV",
+      "company": "Aptiv",
+      "earningsDate": "2026-10-29",
+      "shortRatio": 4.7,
+      "shortPct": 7.3,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "HSIC",
+      "company": "Henry Schein",
+      "earningsDate": "2026-11-03",
+      "shortRatio": 4.7,
+      "shortPct": 6.9,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "SYF",
+      "company": "Synchrony Financial",
+      "earningsDate": "2026-10-14",
+      "shortRatio": 4.7,
+      "shortPct": 7.8,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "UPS",
+      "company": "UPS",
+      "earningsDate": "2026-10-27",
+      "shortRatio": 4.7,
+      "shortPct": 3.2,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "XRAY",
+      "company": "Dentsply Sirona",
+      "earningsDate": "2026-11-05",
+      "shortRatio": 4.7,
+      "shortPct": 13.2,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "ZBH",
+      "company": "Zimmer Biomet",
+      "earningsDate": "2026-11-05",
+      "shortRatio": 4.7,
+      "shortPct": 7.7,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "AMP",
+      "company": "Ameriprise Financial",
+      "earningsDate": "2026-10-29",
+      "shortRatio": 4.6,
+      "shortPct": 4.4,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "AVB",
+      "company": "AvalonBay",
+      "earningsDate": "2026-10-28",
+      "shortRatio": 4.6,
+      "shortPct": 3.6,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "BBY",
+      "company": "Best Buy",
+      "earningsDate": "2026-08-27",
+      "shortRatio": 4.6,
+      "shortPct": 8.5,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "CE",
+      "company": "Celanese",
+      "earningsDate": "N/A",
+      "shortRatio": 4.6,
+      "shortPct": 12.3,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "CTSH",
+      "company": "Cognizant",
+      "earningsDate": "2026-10-28",
+      "shortRatio": 4.6,
+      "shortPct": 10.0,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "CTVA",
+      "company": "Corteva",
+      "earningsDate": "N/A",
+      "shortRatio": 4.6,
+      "shortPct": 3.0,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "HST",
+      "company": "Host Hotels",
+      "earningsDate": "2026-11-04",
+      "shortRatio": 4.6,
+      "shortPct": 8.9,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "KMI",
+      "company": "Kinder Morgan",
+      "earningsDate": "2026-10-28",
+      "shortRatio": 4.6,
+      "shortPct": 2.3,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "ODFL",
+      "company": "Old Dominion Freight",
+      "earningsDate": "2026-10-28",
+      "shortRatio": 4.6,
+      "shortPct": 4.6,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "SWK",
+      "company": "Stanley Black & Decker",
+      "earningsDate": "N/A",
+      "shortRatio": 4.6,
+      "shortPct": 6.2,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "BF-B",
+      "company": "Brown-Forman",
+      "earningsDate": "2026-09-02",
+      "shortRatio": 4.5,
+      "shortPct": 12.5,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "CDW",
+      "company": "CDW Corp",
+      "earningsDate": "2026-11-03",
+      "shortRatio": 4.5,
+      "shortPct": 7.6,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "ESS",
+      "company": "Essex Property",
+      "earningsDate": "2026-10-27",
+      "shortRatio": 4.5,
+      "shortPct": 5.5,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "GIS",
+      "company": "General Mills",
+      "earningsDate": "2026-09-23",
+      "shortRatio": 4.5,
+      "shortPct": 12.0,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "HUBB",
+      "company": "Hubbell",
+      "earningsDate": "2026-10-27",
+      "shortRatio": 4.5,
+      "shortPct": 5.9,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "LKQ",
+      "company": "LKQ Corp",
+      "earningsDate": "2026-10-29",
+      "shortRatio": 4.5,
+      "shortPct": 7.0,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "MTD",
+      "company": "Mettler-Toledo",
+      "earningsDate": "N/A",
+      "shortRatio": 4.5,
+      "shortPct": 4.5,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "PKG",
+      "company": "Packaging Corp",
+      "earningsDate": "2026-10-21",
+      "shortRatio": 4.5,
+      "shortPct": 4.3,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "PSA",
+      "company": "Public Storage",
+      "earningsDate": "2026-10-28",
+      "shortRatio": 4.5,
+      "shortPct": 3.9,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "CTAS",
+      "company": "Cintas",
+      "earningsDate": "2026-09-23",
+      "shortRatio": 4.4,
+      "shortPct": 3.8,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "DUK",
+      "company": "Duke Energy",
+      "earningsDate": "2026-11-05",
+      "shortRatio": 4.4,
+      "shortPct": 2.3,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "FTV",
+      "company": "Fortive",
+      "earningsDate": "2026-10-28",
+      "shortRatio": 4.4,
+      "shortPct": 5.8,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "MSI",
+      "company": "Motorola Solutions",
+      "earningsDate": "2026-11-05",
+      "shortRatio": 4.4,
+      "shortPct": 2.7,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "TYL",
+      "company": "Tyler Technologies",
+      "earningsDate": "2026-10-28",
+      "shortRatio": 4.4,
+      "shortPct": 9.9,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "ARE",
+      "company": "Alexandria Real Estate",
+      "earningsDate": "2026-10-26",
+      "shortRatio": 4.3,
+      "shortPct": 5.6,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "BEN",
+      "company": "Franklin Resources",
+      "earningsDate": "N/A",
+      "shortRatio": 4.3,
+      "shortPct": 5.3,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "DRI",
+      "company": "Darden Restaurants",
+      "earningsDate": "2026-09-24",
+      "shortRatio": 4.3,
+      "shortPct": 7.3,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "ENPH",
+      "company": "Enphase Energy",
+      "earningsDate": "2026-10-27",
+      "shortRatio": 4.3,
+      "shortPct": 21.0,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "GPC",
+      "company": "Genuine Parts",
+      "earningsDate": "2026-10-20",
+      "shortRatio": 4.3,
+      "shortPct": 7.2,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "HSY",
+      "company": "Hershey",
+      "earningsDate": "2026-11-05",
+      "shortRatio": 4.3,
+      "shortPct": 6.7,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "SLB",
+      "company": "SLB (Schlumberger)",
+      "earningsDate": "2026-10-23",
+      "shortRatio": 4.3,
+      "shortPct": 4.3,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "STE",
+      "company": "Steris",
+      "earningsDate": "2026-11-04",
+      "shortRatio": 4.3,
+      "shortPct": 3.2,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "TGT",
+      "company": "Target",
+      "earningsDate": "2026-08-19",
+      "shortRatio": 4.3,
+      "shortPct": 3.7,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "DTE",
+      "company": "DTE Energy",
+      "earningsDate": "2026-10-29",
+      "shortRatio": 4.2,
+      "shortPct": 2.9,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "EG",
+      "company": "Everest Group",
+      "earningsDate": "2026-10-28",
+      "shortRatio": 4.2,
+      "shortPct": 4.8,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "ILMN",
+      "company": "Illumina",
+      "earningsDate": "2026-10-29",
+      "shortRatio": 4.2,
+      "shortPct": 8.7,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "PLD",
+      "company": "Prologis",
+      "earningsDate": "2026-10-14",
+      "shortRatio": 4.2,
+      "shortPct": 2.2,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "REGN",
+      "company": "Regeneron",
+      "earningsDate": "2026-10-28",
+      "shortRatio": 4.2,
+      "shortPct": 3.5,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "ROST",
+      "company": "Ross Stores",
+      "earningsDate": "2026-08-20",
+      "shortRatio": 4.2,
+      "shortPct": 3.5,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "TRMB",
+      "company": "Trimble",
+      "earningsDate": "2026-11-04",
+      "shortRatio": 4.2,
+      "shortPct": 5.6,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "VFC",
+      "company": "VF Corp",
+      "earningsDate": "2026-10-26",
+      "shortRatio": 4.2,
+      "shortPct": 8.4,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "ALGN",
+      "company": "Align Technology",
+      "earningsDate": "2026-10-28",
+      "shortRatio": 4.1,
+      "shortPct": 6.8,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "EXPD",
+      "company": "Expeditors Intl",
+      "earningsDate": "2026-11-03",
+      "shortRatio": 4.1,
+      "shortPct": 4.4,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "FANG",
+      "company": "Diamondback Energy",
+      "earningsDate": "2026-11-02",
+      "shortRatio": 4.1,
+      "shortPct": 4.3,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "PAYC",
+      "company": "Paycom",
+      "earningsDate": "2026-11-04",
+      "shortRatio": 4.1,
+      "shortPct": 8.5,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "ADSK",
+      "company": "Autodesk",
+      "earningsDate": "2026-08-27",
+      "shortRatio": 4.0,
+      "shortPct": 4.7,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "BG",
+      "company": "Bunge",
+      "earningsDate": "N/A",
+      "shortRatio": 4.0,
+      "shortPct": 4.4,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "BR",
+      "company": "Broadridge",
+      "earningsDate": "2026-11-03",
+      "shortRatio": 4.0,
+      "shortPct": 4.0,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "CL",
+      "company": "Colgate-Palmolive",
+      "earningsDate": "2026-10-30",
+      "shortRatio": 4.0,
+      "shortPct": 2.5,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "CRL",
+      "company": "Charles River Labs",
+      "earningsDate": "2026-11-04",
+      "shortRatio": 4.0,
+      "shortPct": 8.3,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "DHI",
+      "company": "D.R. Horton",
+      "earningsDate": "2026-10-29",
+      "shortRatio": 4.0,
+      "shortPct": 5.0,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "EA",
+      "company": "Electronic Arts",
+      "earningsDate": "2026-11-03",
+      "shortRatio": 4.0,
+      "shortPct": 4.0,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "EMN",
+      "company": "Eastman Chemical",
+      "earningsDate": "N/A",
+      "shortRatio": 4.0,
+      "shortPct": 6.2,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "FAST",
+      "company": "Fastenal",
+      "earningsDate": "2026-10-14",
+      "shortRatio": 4.0,
+      "shortPct": 3.6,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "IRM",
+      "company": "Iron Mountain",
+      "earningsDate": "2026-11-04",
+      "shortRatio": 4.0,
+      "shortPct": 3.8,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "MOS",
+      "company": "Mosaic",
+      "earningsDate": "2026-11-03",
+      "shortRatio": 4.0,
+      "shortPct": 13.3,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "POOL",
+      "company": "Pool Corp",
+      "earningsDate": "2026-10-22",
+      "shortRatio": 4.0,
+      "shortPct": 11.6,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "REG",
+      "company": "Regency Centers",
+      "earningsDate": "2026-10-28",
+      "shortRatio": 4.0,
+      "shortPct": 4.0,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "SPGI",
+      "company": "S&P Global",
+      "earningsDate": "2026-10-29",
+      "shortRatio": 4.0,
+      "shortPct": 3.0,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "SRE",
+      "company": "Sempra",
+      "earningsDate": "2026-11-04",
+      "shortRatio": 4.0,
+      "shortPct": 2.0,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "AJG",
+      "company": "Arthur J. Gallagher",
+      "earningsDate": "2026-10-29",
+      "shortRatio": 3.9,
+      "shortPct": 2.5,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "BWA",
+      "company": "BorgWarner",
+      "earningsDate": "2026-10-29",
+      "shortRatio": 3.9,
+      "shortPct": 5.0,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "CINF",
+      "company": "Cincinnati Financial",
+      "earningsDate": "2026-10-26",
+      "shortRatio": 3.9,
+      "shortPct": 2.8,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "CPT",
+      "company": "Camden Property",
+      "earningsDate": "N/A",
+      "shortRatio": 3.9,
+      "shortPct": 4.8,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "FDS",
+      "company": "FactSet Research",
+      "earningsDate": "2026-09-17",
+      "shortRatio": 3.9,
+      "shortPct": 12.8,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "GWW",
+      "company": "W.W. Grainger",
+      "earningsDate": "2026-11-04",
+      "shortRatio": 3.9,
+      "shortPct": 2.7,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "JKHY",
+      "company": "Jack Henry & Associates",
+      "earningsDate": "2026-08-18",
+      "shortRatio": 3.9,
+      "shortPct": 7.3,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "MAA",
+      "company": "Mid-America Apartment",
+      "earningsDate": "2026-10-28",
+      "shortRatio": 3.9,
+      "shortPct": 3.9,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "PFE",
+      "company": "Pfizer",
+      "earningsDate": "2026-11-03",
+      "shortRatio": 3.9,
+      "shortPct": 2.8,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "STZ",
+      "company": "Constellation Brands",
+      "earningsDate": "2026-10-05",
+      "shortRatio": 3.9,
+      "shortPct": 6.1,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "TJX",
+      "company": "TJX Companies",
+      "earningsDate": "2026-08-19",
+      "shortRatio": 3.9,
+      "shortPct": 1.8,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "WMB",
+      "company": "Williams Companies",
+      "earningsDate": "2026-11-02",
+      "shortRatio": 3.9,
+      "shortPct": 2.4,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "ACN",
+      "company": "Accenture",
+      "earningsDate": "2026-10-01",
+      "shortRatio": 3.8,
+      "shortPct": 6.0,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "AXP",
+      "company": "American Express",
+      "earningsDate": "2026-10-23",
+      "shortRatio": 3.8,
+      "shortPct": 2.3,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "BIIB",
+      "company": "Biogen",
+      "earningsDate": "2026-10-29",
+      "shortRatio": 3.8,
+      "shortPct": 4.1,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "BKNG",
+      "company": "Booking Holdings",
+      "earningsDate": "2026-10-27",
+      "shortRatio": 3.8,
+      "shortPct": 3.2,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "EFX",
+      "company": "Equifax",
+      "earningsDate": "2026-10-20",
+      "shortRatio": 3.8,
+      "shortPct": 6.9,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "ETSY",
+      "company": "Etsy",
+      "earningsDate": "2026-11-04",
+      "shortRatio": 3.8,
+      "shortPct": 12.4,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "EXR",
+      "company": "Extra Space Storage",
+      "earningsDate": "2026-10-28",
+      "shortRatio": 3.8,
+      "shortPct": 3.0,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "LULU",
+      "company": "Lululemon",
+      "earningsDate": "2026-09-03",
+      "shortRatio": 3.8,
+      "shortPct": 9.1,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "NVR",
+      "company": "NVR Inc",
+      "earningsDate": "2026-10-21",
+      "shortRatio": 3.8,
+      "shortPct": 6.5,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "PTC",
+      "company": "PTC Inc",
+      "earningsDate": "N/A",
+      "shortRatio": 3.8,
+      "shortPct": 10.1,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "TRGP",
+      "company": "Targa Resources",
+      "earningsDate": "2026-11-05",
+      "shortRatio": 3.8,
+      "shortPct": 2.5,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "WAB",
+      "company": "Wabtec",
+      "earningsDate": "2026-10-21",
+      "shortRatio": 3.8,
+      "shortPct": 2.9,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "XYL",
+      "company": "Xylem",
+      "earningsDate": "N/A",
+      "shortRatio": 3.8,
+      "shortPct": 4.3,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "ZBRA",
+      "company": "Zebra Technologies",
+      "earningsDate": "2026-11-03",
+      "shortRatio": 3.8,
+      "shortPct": 6.6,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "ZTS",
+      "company": "Zoetis",
+      "earningsDate": "2026-11-03",
+      "shortRatio": 3.8,
+      "shortPct": 5.9,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "ABBV",
+      "company": "AbbVie",
+      "earningsDate": "2026-10-29",
+      "shortRatio": 3.7,
+      "shortPct": 1.4,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "DAL",
+      "company": "Delta Air Lines",
+      "earningsDate": "2026-10-08",
+      "shortRatio": 3.7,
+      "shortPct": 3.9,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "DXCM",
+      "company": "Dexcom",
+      "earningsDate": "2026-10-29",
+      "shortRatio": 3.7,
+      "shortPct": 5.4,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "GRMN",
+      "company": "Garmin",
+      "earningsDate": "2026-10-28",
+      "shortRatio": 3.7,
+      "shortPct": 2.2,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "HPE",
+      "company": "HP Enterprise",
+      "earningsDate": "2026-09-02",
+      "shortRatio": 3.7,
+      "shortPct": 5.6,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "LLY",
+      "company": "Eli Lilly",
+      "earningsDate": "2026-10-29",
+      "shortRatio": 3.7,
+      "shortPct": 1.0,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "MCK",
+      "company": "McKesson",
+      "earningsDate": "2026-11-04",
+      "shortRatio": 3.7,
+      "shortPct": 3.1,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "MLM",
+      "company": "Martin Marietta",
+      "earningsDate": "N/A",
+      "shortRatio": 3.7,
+      "shortPct": 4.5,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "COO",
+      "company": "Cooper Companies",
+      "earningsDate": "2026-09-09",
+      "shortRatio": 3.6,
+      "shortPct": 4.9,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "EXC",
+      "company": "Exelon",
+      "earningsDate": "N/A",
+      "shortRatio": 3.6,
+      "shortPct": 3.7,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "GE",
+      "company": "GE Aerospace",
+      "earningsDate": "2026-10-20",
+      "shortRatio": 3.6,
+      "shortPct": 1.4,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "GILD",
+      "company": "Gilead Sciences",
+      "earningsDate": "2026-10-29",
+      "shortRatio": 3.6,
+      "shortPct": 2.0,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "IR",
+      "company": "Ingersoll Rand",
+      "earningsDate": "2026-10-29",
+      "shortRatio": 3.6,
+      "shortPct": 4.3,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "LDOS",
+      "company": "Leidos",
+      "earningsDate": "2026-11-03",
+      "shortRatio": 3.6,
+      "shortPct": 4.7,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "LOW",
+      "company": "Lowe's",
+      "earningsDate": "2026-08-19",
+      "shortRatio": 3.6,
+      "shortPct": 2.2,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "PNC",
+      "company": "PNC Financial",
+      "earningsDate": "2026-10-15",
+      "shortRatio": 3.6,
+      "shortPct": 1.8,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "RTX",
+      "company": "RTX Corp",
+      "earningsDate": "2026-10-20",
+      "shortRatio": 3.6,
+      "shortPct": 1.3,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "SJM",
+      "company": "J.M. Smucker",
+      "earningsDate": "2026-08-26",
+      "shortRatio": 3.6,
+      "shortPct": 5.4,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "TRV",
+      "company": "Travelers",
+      "earningsDate": "2026-10-15",
+      "shortRatio": 3.6,
+      "shortPct": 4.0,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "AIZ",
+      "company": "Assurant",
+      "earningsDate": "2026-11-03",
+      "shortRatio": 3.5,
+      "shortPct": 3.2,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "AON",
+      "company": "Aon",
+      "earningsDate": "2026-10-30",
+      "shortRatio": 3.5,
+      "shortPct": 2.3,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "BALL",
+      "company": "Ball Corp",
+      "earningsDate": "2026-11-03",
+      "shortRatio": 3.5,
+      "shortPct": 2.9,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "EQR",
+      "company": "Equity Residential",
+      "earningsDate": "2026-10-21",
+      "shortRatio": 3.5,
+      "shortPct": 3.1,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "PCAR",
+      "company": "PACCAR",
+      "earningsDate": "2026-10-27",
+      "shortRatio": 3.5,
+      "shortPct": 2.7,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "PEG",
+      "company": "Public Service Enterprise",
+      "earningsDate": "2026-11-02",
+      "shortRatio": 3.5,
+      "shortPct": 2.4,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "TFC",
+      "company": "Truist Financial",
+      "earningsDate": "2026-10-16",
+      "shortRatio": 3.5,
+      "shortPct": 2.3,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "ALK",
+      "company": "Alaska Air",
+      "earningsDate": "2026-10-22",
+      "shortRatio": 3.4,
+      "shortPct": 10.8,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "ALLE",
+      "company": "Allegion",
+      "earningsDate": "2026-10-22",
+      "shortRatio": 3.4,
+      "shortPct": 5.6,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "CF",
+      "company": "CF Industries",
+      "earningsDate": "2026-11-04",
+      "shortRatio": 3.4,
+      "shortPct": 6.3,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "DD",
+      "company": "DuPont",
+      "earningsDate": "2026-11-05",
+      "shortRatio": 3.4,
+      "shortPct": 4.4,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "DGX",
+      "company": "Quest Diagnostics",
+      "earningsDate": "2026-10-20",
+      "shortRatio": 3.4,
+      "shortPct": 3.4,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "DLTR",
+      "company": "Dollar Tree",
+      "earningsDate": "2026-08-27",
+      "shortRatio": 3.4,
+      "shortPct": 6.4,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "EL",
+      "company": "Estee Lauder",
+      "earningsDate": "2026-08-19",
+      "shortRatio": 3.4,
+      "shortPct": 3.6,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "HCA",
+      "company": "HCA Healthcare",
+      "earningsDate": "2026-10-23",
+      "shortRatio": 3.4,
+      "shortPct": 4.3,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "KR",
+      "company": "Kroger",
+      "earningsDate": "2026-09-11",
+      "shortRatio": 3.4,
+      "shortPct": 4.2,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "MAS",
+      "company": "Masco",
+      "earningsDate": "2026-10-29",
+      "shortRatio": 3.4,
+      "shortPct": 5.5,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "MCO",
+      "company": "Moody's",
+      "earningsDate": "2026-10-21",
+      "shortRatio": 3.4,
+      "shortPct": 2.1,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "MDLZ",
+      "company": "Mondelez",
+      "earningsDate": "2026-10-27",
+      "shortRatio": 3.4,
+      "shortPct": 2.9,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "MPC",
+      "company": "Marathon Petroleum",
+      "earningsDate": "2026-11-03",
+      "shortRatio": 3.4,
+      "shortPct": 2.8,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "TEL",
+      "company": "TE Connectivity",
+      "earningsDate": "2026-10-28",
+      "shortRatio": 3.4,
+      "shortPct": 3.7,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "TMUS",
+      "company": "T-Mobile",
+      "earningsDate": "2026-10-22",
+      "shortRatio": 3.4,
+      "shortPct": 3.8,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "TTWO",
+      "company": "Take-Two Interactive",
+      "earningsDate": "N/A",
+      "shortRatio": 3.4,
+      "shortPct": 3.8,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "VLO",
+      "company": "Valero Energy",
+      "earningsDate": "2026-10-22",
+      "shortRatio": 3.4,
+      "shortPct": 3.7,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "WM",
+      "company": "Waste Management",
+      "earningsDate": "2026-10-26",
+      "shortRatio": 3.4,
+      "shortPct": 1.6,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "ADBE",
+      "company": "Adobe",
+      "earningsDate": "2026-09-10",
+      "shortRatio": 3.3,
+      "shortPct": 5.5,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "AVY",
+      "company": "Avery Dennison",
+      "earningsDate": "2026-10-21",
+      "shortRatio": 3.3,
+      "shortPct": 4.0,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "COST",
+      "company": "Costco",
+      "earningsDate": "2026-09-24",
+      "shortRatio": 3.3,
+      "shortPct": 1.7,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "CPRT",
+      "company": "Copart",
+      "earningsDate": "2026-09-03",
+      "shortRatio": 3.3,
+      "shortPct": 5.7,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "FIS",
+      "company": "Fidelity National Info",
+      "earningsDate": "2026-11-04",
+      "shortRatio": 3.3,
+      "shortPct": 4.2,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "GEHC",
+      "company": "GE HealthCare",
+      "earningsDate": "2026-10-28",
+      "shortRatio": 3.3,
+      "shortPct": 4.9,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "HWM",
+      "company": "Howmet Aerospace",
+      "earningsDate": "2026-11-05",
+      "shortRatio": 3.3,
+      "shortPct": 1.7,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "IVZ",
+      "company": "Invesco",
+      "earningsDate": "2026-10-27",
+      "shortRatio": 3.3,
+      "shortPct": 5.3,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "LW",
+      "company": "Lamb Weston",
+      "earningsDate": "2026-09-30",
+      "shortRatio": 3.3,
+      "shortPct": 5.4,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "MNST",
+      "company": "Monster Beverage",
+      "earningsDate": "2026-11-05",
+      "shortRatio": 3.3,
+      "shortPct": 2.6,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "SYK",
+      "company": "Stryker",
+      "earningsDate": "2026-10-29",
+      "shortRatio": 3.3,
+      "shortPct": 2.3,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "WDC",
+      "company": "Western Digital",
+      "earningsDate": "2026-11-05",
+      "shortRatio": 3.3,
+      "shortPct": 8.1,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "ATO",
+      "company": "Atmos Energy",
+      "earningsDate": "2026-11-04",
+      "shortRatio": 3.2,
+      "shortPct": 2.3,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "DOW",
+      "company": "Dow Inc",
+      "earningsDate": "2026-10-22",
+      "shortRatio": 3.2,
+      "shortPct": 5.5,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "DPZ",
+      "company": "Domino's Pizza",
+      "earningsDate": "2026-10-13",
+      "shortRatio": 3.2,
+      "shortPct": 10.9,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "EQIX",
+      "company": "Equinix",
+      "earningsDate": "2026-10-28",
+      "shortRatio": 3.2,
+      "shortPct": 2.2,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "IDXX",
+      "company": "IDEXX Laboratories",
+      "earningsDate": "2026-11-02",
+      "shortRatio": 3.2,
+      "shortPct": 2.8,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "JNJ",
+      "company": "Johnson & Johnson",
+      "earningsDate": "2026-10-13",
+      "shortRatio": 3.2,
+      "shortPct": 1.2,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "MAR",
+      "company": "Marriott",
+      "earningsDate": "2026-11-03",
+      "shortRatio": 3.2,
+      "shortPct": 2.0,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "MCHP",
+      "company": "Microchip Technology",
+      "earningsDate": "2026-11-05",
+      "shortRatio": 3.2,
+      "shortPct": 8.9,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "MRK",
+      "company": "Merck",
+      "earningsDate": "2026-10-29",
+      "shortRatio": 3.2,
+      "shortPct": 1.1,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "NTRS",
+      "company": "Northern Trust",
+      "earningsDate": "2026-10-21",
+      "shortRatio": 3.2,
+      "shortPct": 2.1,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "ROL",
+      "company": "Rollins",
+      "earningsDate": "2026-10-28",
+      "shortRatio": 3.2,
+      "shortPct": 6.5,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "WBD",
+      "company": "Warner Bros Discovery",
+      "earningsDate": "2026-11-05",
+      "shortRatio": 3.2,
+      "shortPct": 2.9,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "WMT",
+      "company": "Walmart",
+      "earningsDate": "2026-08-20",
+      "shortRatio": 3.2,
+      "shortPct": 1.6,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "ZION",
+      "company": "Zions Bancorporation",
+      "earningsDate": "2026-10-19",
+      "shortRatio": 3.2,
+      "shortPct": 4.4,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "AME",
+      "company": "AMETEK",
+      "earningsDate": "2026-10-29",
+      "shortRatio": 3.1,
+      "shortPct": 1.6,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "BBWI",
+      "company": "Bath & Body Works",
+      "earningsDate": "2026-08-26",
+      "shortRatio": 3.1,
+      "shortPct": 7.8,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "DG",
+      "company": "Dollar General",
+      "earningsDate": "2026-08-27",
+      "shortRatio": 3.1,
+      "shortPct": 3.9,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "FDX",
+      "company": "FedEx",
+      "earningsDate": "2026-10-28",
+      "shortRatio": 3.1,
+      "shortPct": 2.1,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "GS",
+      "company": "Goldman Sachs",
+      "earningsDate": "2026-10-13",
+      "shortRatio": 3.1,
+      "shortPct": 2.1,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "HD",
+      "company": "Home Depot",
+      "earningsDate": "2026-08-18",
+      "shortRatio": 3.1,
+      "shortPct": 1.4,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "IQV",
+      "company": "IQVIA",
+      "earningsDate": "N/A",
+      "shortRatio": 3.1,
+      "shortPct": 3.2,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "PEP",
+      "company": "PepsiCo",
+      "earningsDate": "2026-10-08",
+      "shortRatio": 3.1,
+      "shortPct": 2.4,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "PG",
+      "company": "Procter & Gamble",
+      "earningsDate": "2026-10-22",
+      "shortRatio": 3.1,
+      "shortPct": 1.2,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "CAH",
+      "company": "Cardinal Health",
+      "earningsDate": "2026-11-05",
+      "shortRatio": 3.0,
+      "shortPct": 3.3,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "CSCO",
+      "company": "Cisco",
+      "earningsDate": "2026-11-12",
+      "shortRatio": 3.0,
+      "shortPct": 1.7,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "DOV",
+      "company": "Dover",
+      "earningsDate": "2026-10-22",
+      "shortRatio": 3.0,
+      "shortPct": 3.4,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "HAL",
+      "company": "Halliburton",
+      "earningsDate": "2026-10-20",
+      "shortRatio": 3.0,
+      "shortPct": 5.8,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "HAS",
+      "company": "Hasbro",
+      "earningsDate": "2026-10-22",
+      "shortRatio": 3.0,
+      "shortPct": 6.0,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "INVH",
+      "company": "Invitation Homes",
+      "earningsDate": "2026-10-28",
+      "shortRatio": 3.0,
+      "shortPct": 2.8,
+      "squeezeFlag": false
+    },
     {
       "ticker": "JPM",
       "company": "JPMorgan Chase",
       "earningsDate": "2026-10-13",
       "shortRatio": 3.0,
       "shortPct": 1.1,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "MET",
+      "company": "MetLife",
+      "earningsDate": "N/A",
+      "shortRatio": 3.0,
+      "shortPct": 1.8,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "NWSA",
+      "company": "News Corp A",
+      "earningsDate": "2026-11-05",
+      "shortRatio": 3.0,
+      "shortPct": 3.3,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "ON",
+      "company": "ON Semiconductor",
+      "earningsDate": "2026-11-02",
+      "shortRatio": 3.0,
+      "shortPct": 10.9,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "PM",
+      "company": "Philip Morris",
+      "earningsDate": "2026-10-21",
+      "shortRatio": 3.0,
+      "shortPct": 1.0,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "PPG",
+      "company": "PPG Industries",
+      "earningsDate": "2026-10-27",
+      "shortRatio": 3.0,
+      "shortPct": 3.2,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "SHW",
+      "company": "Sherwin-Williams",
+      "earningsDate": "2026-10-27",
+      "shortRatio": 3.0,
+      "shortPct": 2.6,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "WST",
+      "company": "West Pharmaceutical",
+      "earningsDate": "2026-10-22",
+      "shortRatio": 3.0,
+      "shortPct": 4.2,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "APD",
+      "company": "Air Products",
+      "earningsDate": "N/A",
+      "shortRatio": 2.9,
+      "shortPct": 1.8,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "AVGO",
+      "company": "Broadcom",
+      "earningsDate": "2026-09-02",
+      "shortRatio": 2.9,
+      "shortPct": 1.3,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "CBOE",
+      "company": "Cboe Global Markets",
+      "earningsDate": "2026-10-30",
+      "shortRatio": 2.9,
+      "shortPct": 3.0,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "CI",
+      "company": "Cigna",
+      "earningsDate": "N/A",
+      "shortRatio": 2.9,
+      "shortPct": 2.0,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "CMI",
+      "company": "Cummins",
+      "earningsDate": "2026-11-05",
+      "shortRatio": 2.9,
+      "shortPct": 2.1,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "COP",
+      "company": "ConocoPhillips",
+      "earningsDate": "2026-11-05",
+      "shortRatio": 2.9,
+      "shortPct": 1.5,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "ETN",
+      "company": "Eaton",
+      "earningsDate": "2026-11-03",
+      "shortRatio": 2.9,
+      "shortPct": 1.8,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "LVS",
+      "company": "Las Vegas Sands",
+      "earningsDate": "2026-10-21",
+      "shortRatio": 2.9,
+      "shortPct": 11.6,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "PSX",
+      "company": "Phillips 66",
+      "earningsDate": "2026-10-29",
+      "shortRatio": 2.9,
+      "shortPct": 2.1,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "RSG",
+      "company": "Republic Services",
+      "earningsDate": "2026-10-29",
+      "shortRatio": 2.9,
+      "shortPct": 2.0,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "TDG",
+      "company": "TransDigm",
+      "earningsDate": "2026-11-05",
+      "shortRatio": 2.9,
+      "shortPct": 2.3,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "TDY",
+      "company": "Teledyne Technologies",
+      "earningsDate": "2026-10-21",
+      "shortRatio": 2.9,
+      "shortPct": 3.1,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "TSCO",
+      "company": "Tractor Supply",
+      "earningsDate": "2026-10-22",
+      "shortRatio": 2.9,
+      "shortPct": 6.4,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "TSN",
+      "company": "Tyson Foods",
+      "earningsDate": "N/A",
+      "shortRatio": 2.9,
+      "shortPct": 3.1,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "UHS",
+      "company": "Universal Health Services",
+      "earningsDate": "2026-10-26",
+      "shortRatio": 2.9,
+      "shortPct": 7.3,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "URI",
+      "company": "United Rentals",
+      "earningsDate": "2026-10-21",
+      "shortRatio": 2.9,
+      "shortPct": 2.6,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "CCI",
+      "company": "Crown Castle",
+      "earningsDate": "2026-10-21",
+      "shortRatio": 2.8,
+      "shortPct": 3.4,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "CNC",
+      "company": "Centene",
+      "earningsDate": "2026-10-27",
+      "shortRatio": 2.8,
+      "shortPct": 3.1,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "INTU",
+      "company": "Intuit",
+      "earningsDate": "2026-08-25",
+      "shortRatio": 2.8,
+      "shortPct": 5.1,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "MA",
+      "company": "Mastercard",
+      "earningsDate": "2026-10-29",
+      "shortRatio": 2.8,
+      "shortPct": 1.0,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "NI",
+      "company": "NiSource",
+      "earningsDate": "2026-10-28",
+      "shortRatio": 2.8,
+      "shortPct": 3.6,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "ORLY",
+      "company": "O'Reilly Automotive",
+      "earningsDate": "2026-10-28",
+      "shortRatio": 2.8,
+      "shortPct": 3.1,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "PH",
+      "company": "Parker Hannifin",
+      "earningsDate": "2026-11-05",
+      "shortRatio": 2.8,
+      "shortPct": 1.2,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "VICI",
+      "company": "VICI Properties",
+      "earningsDate": "2026-10-29",
+      "shortRatio": 2.8,
+      "shortPct": 2.6,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "XOM",
+      "company": "ExxonMobil",
+      "earningsDate": "2026-10-30",
+      "shortRatio": 2.8,
+      "shortPct": 1.1,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "BLK",
+      "company": "BlackRock",
+      "earningsDate": "2026-10-14",
+      "shortRatio": 2.7,
+      "shortPct": 1.4,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "CAG",
+      "company": "Conagra Brands",
+      "earningsDate": "2026-09-30",
+      "shortRatio": 2.7,
+      "shortPct": 11.7,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "CBRE",
+      "company": "CBRE Group",
+      "earningsDate": "2026-10-22",
+      "shortRatio": 2.7,
+      "shortPct": 1.7,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "CSX",
+      "company": "CSX Corp",
+      "earningsDate": "2026-10-22",
+      "shortRatio": 2.7,
+      "shortPct": 2.0,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "GM",
+      "company": "General Motors",
+      "earningsDate": "2026-10-20",
+      "shortRatio": 2.7,
+      "shortPct": 2.3,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "JCI",
+      "company": "Johnson Controls",
+      "earningsDate": "N/A",
+      "shortRatio": 2.7,
+      "shortPct": 2.3,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "LH",
+      "company": "Labcorp",
+      "earningsDate": "2026-11-03",
+      "shortRatio": 2.7,
+      "shortPct": 2.6,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "LHX",
+      "company": "L3Harris Technologies",
+      "earningsDate": "2026-10-29",
+      "shortRatio": 2.7,
+      "shortPct": 2.4,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "MCD",
+      "company": "McDonald's",
+      "earningsDate": "2026-11-05",
+      "shortRatio": 2.7,
+      "shortPct": 1.9,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "MMM",
+      "company": "3M",
+      "earningsDate": "2026-10-20",
+      "shortRatio": 2.7,
+      "shortPct": 1.9,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "PWR",
+      "company": "Quanta Services",
+      "earningsDate": "2026-10-29",
+      "shortRatio": 2.7,
+      "shortPct": 2.4,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "SNPS",
+      "company": "Synopsys",
+      "earningsDate": "2026-08-26",
+      "shortRatio": 2.7,
+      "shortPct": 2.8,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "UNH",
+      "company": "UnitedHealth",
+      "earningsDate": "2026-10-27",
+      "shortRatio": 2.7,
+      "shortPct": 1.9,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "VRTX",
+      "company": "Vertex Pharmaceuticals",
+      "earningsDate": "2026-11-02",
+      "shortRatio": 2.7,
+      "shortPct": 1.8,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "YUM",
+      "company": "Yum! Brands",
+      "earningsDate": "N/A",
+      "shortRatio": 2.7,
+      "shortPct": 3.2,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "A",
+      "company": "Agilent Technologies",
+      "earningsDate": "2026-08-26",
+      "shortRatio": 2.6,
+      "shortPct": 2.3,
       "squeezeFlag": false
     },
     {
@@ -49,11 +7024,1179 @@
       "squeezeFlag": false
     },
     {
+      "ticker": "CARR",
+      "company": "Carrier Global",
+      "earningsDate": "2026-10-27",
+      "shortRatio": 2.6,
+      "shortPct": 2.7,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "CDNS",
+      "company": "Cadence Design",
+      "earningsDate": "2026-10-26",
+      "shortRatio": 2.6,
+      "shortPct": 2.2,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "DVN",
+      "company": "Devon Energy",
+      "earningsDate": "2026-11-04",
+      "shortRatio": 2.6,
+      "shortPct": 2.9,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "FTNT",
+      "company": "Fortinet",
+      "earningsDate": "2026-11-04",
+      "shortRatio": 2.6,
+      "shortPct": 2.4,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "KO",
+      "company": "Coca-Cola",
+      "earningsDate": "2026-10-20",
+      "shortRatio": 2.6,
+      "shortPct": 1.1,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "LIN",
+      "company": "Linde",
+      "earningsDate": "2026-10-30",
+      "shortRatio": 2.6,
+      "shortPct": 1.2,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "NRG",
+      "company": "NRG Energy",
+      "earningsDate": "2026-11-05",
+      "shortRatio": 2.6,
+      "shortPct": 3.9,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "NUE",
+      "company": "Nucor",
+      "earningsDate": "2026-10-26",
+      "shortRatio": 2.6,
+      "shortPct": 2.1,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "PGR",
+      "company": "Progressive",
+      "earningsDate": "2026-10-14",
+      "shortRatio": 2.6,
+      "shortPct": 1.4,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "SBAC",
+      "company": "SBA Communications",
+      "earningsDate": "2026-11-02",
+      "shortRatio": 2.6,
+      "shortPct": 3.6,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "V",
+      "company": "Visa",
+      "earningsDate": "2026-10-27",
+      "shortRatio": 2.6,
+      "shortPct": 1.2,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "AES",
+      "company": "AES Corp",
+      "earningsDate": "2026-11-04",
+      "shortRatio": 2.5,
+      "shortPct": 2.9,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "CVS",
+      "company": "CVS Health",
+      "earningsDate": "2026-10-28",
+      "shortRatio": 2.5,
+      "shortPct": 1.5,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "CVX",
+      "company": "Chevron",
+      "earningsDate": "2026-10-30",
+      "shortRatio": 2.5,
+      "shortPct": 1.0,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "ECL",
+      "company": "Ecolab",
+      "earningsDate": "2026-10-27",
+      "shortRatio": 2.5,
+      "shortPct": 1.3,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "IEX",
+      "company": "IDEX Corp",
+      "earningsDate": "2026-10-28",
+      "shortRatio": 2.5,
+      "shortPct": 2.9,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "JBHT",
+      "company": "J.B. Hunt Transport",
+      "earningsDate": "2026-10-14",
+      "shortRatio": 2.5,
+      "shortPct": 4.3,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "NEM",
+      "company": "Newmont",
+      "earningsDate": "2026-10-22",
+      "shortRatio": 2.5,
+      "shortPct": 2.0,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "TT",
+      "company": "Trane Technologies",
+      "earningsDate": "2026-10-29",
+      "shortRatio": 2.5,
+      "shortPct": 1.4,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "UDR",
+      "company": "UDR Inc",
+      "earningsDate": "2026-10-28",
+      "shortRatio": 2.5,
+      "shortPct": 3.5,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "VZ",
+      "company": "Verizon",
+      "earningsDate": "2026-10-20",
+      "shortRatio": 2.5,
+      "shortPct": 2.0,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "BKR",
+      "company": "Baker Hughes",
+      "earningsDate": "2026-10-22",
+      "shortRatio": 2.4,
+      "shortPct": 2.8,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "CHRW",
+      "company": "C.H. Robinson",
+      "earningsDate": "2026-10-28",
+      "shortRatio": 2.4,
+      "shortPct": 5.4,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "COF",
+      "company": "Capital One",
+      "earningsDate": "2026-10-20",
+      "shortRatio": 2.4,
+      "shortPct": 2.0,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "GOOG",
+      "company": "Alphabet C",
+      "earningsDate": "2026-10-28",
+      "shortRatio": 2.4,
+      "shortPct": 0.0,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet A",
+      "earningsDate": "2026-10-28",
+      "shortRatio": 2.4,
+      "shortPct": 1.2,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "HUM",
+      "company": "Humana",
+      "earningsDate": "N/A",
+      "shortRatio": 2.4,
+      "shortPct": 3.5,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "KEYS",
+      "company": "Keysight Technologies",
+      "earningsDate": "2026-08-18",
+      "shortRatio": 2.4,
+      "shortPct": 2.1,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "LYB",
+      "company": "LyondellBasell",
+      "earningsDate": "2026-10-30",
+      "shortRatio": 2.4,
+      "shortPct": 4.8,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "NKE",
+      "company": "Nike",
+      "earningsDate": "2026-09-29",
+      "shortRatio": 2.4,
+      "shortPct": 6.0,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "QCOM",
+      "company": "Qualcomm",
+      "earningsDate": "2026-10-29",
+      "shortRatio": 2.4,
+      "shortPct": 3.7,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "VRSN",
+      "company": "VeriSign",
+      "earningsDate": "2026-10-22",
+      "shortRatio": 2.4,
+      "shortPct": 2.1,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "ADI",
+      "company": "Analog Devices",
+      "earningsDate": "2026-08-19",
+      "shortRatio": 2.3,
+      "shortPct": 2.2,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "BRK-B",
+      "company": "Berkshire Hathaway",
+      "earningsDate": "2026-11-07",
+      "shortRatio": 2.3,
+      "shortPct": 1.0,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "CRM",
+      "company": "Salesforce",
+      "earningsDate": "2026-08-26",
+      "shortRatio": 2.3,
+      "shortPct": 4.2,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "EQT",
+      "company": "EQT Corp",
+      "earningsDate": "2026-10-20",
+      "shortRatio": 2.3,
+      "shortPct": 3.3,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "MDT",
+      "company": "Medtronic",
+      "earningsDate": "2026-09-01",
+      "shortRatio": 2.3,
+      "shortPct": 1.4,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "NOC",
+      "company": "Northrop Grumman",
+      "earningsDate": "2026-10-20",
+      "shortRatio": 2.3,
+      "shortPct": 1.6,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "AMT",
+      "company": "American Tower",
+      "earningsDate": "2026-10-27",
+      "shortRatio": 2.2,
+      "shortPct": 1.9,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "CAT",
+      "company": "Caterpillar",
+      "earningsDate": "2026-10-29",
+      "shortRatio": 2.2,
+      "shortPct": 1.7,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "CMG",
+      "company": "Chipotle",
+      "earningsDate": "N/A",
+      "shortRatio": 2.2,
+      "shortPct": 3.5,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "HII",
+      "company": "Huntington Ingalls",
+      "earningsDate": "2026-10-29",
+      "shortRatio": 2.2,
+      "shortPct": 3.3,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "HLT",
+      "company": "Hilton",
+      "earningsDate": "2026-10-28",
+      "shortRatio": 2.2,
+      "shortPct": 2.3,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "LMT",
+      "company": "Lockheed Martin",
+      "earningsDate": "2026-10-20",
+      "shortRatio": 2.2,
+      "shortPct": 1.4,
+      "squeezeFlag": false
+    },
+    {
       "ticker": "MSFT",
       "company": "Microsoft",
       "earningsDate": "2026-10-28",
       "shortRatio": 2.2,
       "shortPct": 1.1,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "earningsDate": "2026-08-26",
+      "shortRatio": 2.2,
+      "shortPct": 1.3,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "TMO",
+      "company": "Thermo Fisher",
+      "earningsDate": "2026-10-21",
+      "shortRatio": 2.2,
+      "shortPct": 1.4,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "VRSK",
+      "company": "Verisk Analytics",
+      "earningsDate": "2026-10-28",
+      "shortRatio": 2.2,
+      "shortPct": 3.8,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "AIG",
+      "company": "AIG",
+      "earningsDate": "2026-11-04",
+      "shortRatio": 2.1,
+      "shortPct": 1.6,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "AMZN",
+      "company": "Amazon",
+      "earningsDate": "2026-10-29",
+      "shortRatio": 2.1,
+      "shortPct": 1.0,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "APH",
+      "company": "Amphenol",
+      "earningsDate": "2026-10-28",
+      "shortRatio": 2.1,
+      "shortPct": 1.4,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "CB",
+      "company": "Chubb",
+      "earningsDate": "2026-10-27",
+      "shortRatio": 2.1,
+      "shortPct": 1.1,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "CME",
+      "company": "CME Group",
+      "earningsDate": "2026-10-21",
+      "shortRatio": 2.1,
+      "shortPct": 1.9,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "CSGP",
+      "company": "CoStar Group",
+      "earningsDate": "2026-10-27",
+      "shortRatio": 2.1,
+      "shortPct": 4.1,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "FFIV",
+      "company": "F5 Networks",
+      "earningsDate": "2026-10-26",
+      "shortRatio": 2.1,
+      "shortPct": 3.3,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "HBAN",
+      "company": "Huntington Bancshares",
+      "earningsDate": "2026-10-22",
+      "shortRatio": 2.1,
+      "shortPct": 2.5,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "HON",
+      "company": "Honeywell",
+      "earningsDate": "2026-10-22",
+      "shortRatio": 2.1,
+      "shortPct": 2.7,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "LRCX",
+      "company": "Lam Research",
+      "earningsDate": "2026-10-21",
+      "shortRatio": 2.1,
+      "shortPct": 2.4,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "MPWR",
+      "company": "Monolithic Power",
+      "earningsDate": "2026-10-29",
+      "shortRatio": 2.1,
+      "shortPct": 5.8,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "PYPL",
+      "company": "PayPal",
+      "earningsDate": "2026-10-27",
+      "shortRatio": 2.1,
+      "shortPct": 5.2,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "AZO",
+      "company": "AutoZone",
+      "earningsDate": "2026-09-22",
+      "shortRatio": 2.0,
+      "shortPct": 3.0,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "CCL",
+      "company": "Carnival",
+      "earningsDate": "2026-09-28",
+      "shortRatio": 2.0,
+      "shortPct": 3.0,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "CMCSA",
+      "company": "Comcast",
+      "earningsDate": "2026-10-29",
+      "shortRatio": 2.0,
+      "shortPct": 2.3,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "EW",
+      "company": "Edwards Lifesciences",
+      "earningsDate": "2026-10-29",
+      "shortRatio": 2.0,
+      "shortPct": 2.0,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "GD",
+      "company": "General Dynamics",
+      "earningsDate": "2026-10-28",
+      "shortRatio": 2.0,
+      "shortPct": 1.0,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "NDAQ",
+      "company": "Nasdaq",
+      "earningsDate": "2026-10-22",
+      "shortRatio": 2.0,
+      "shortPct": 2.2,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "NXPI",
+      "company": "NXP Semiconductors",
+      "earningsDate": "2026-10-26",
+      "shortRatio": 2.0,
+      "shortPct": 3.9,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "TXN",
+      "company": "Texas Instruments",
+      "earningsDate": "2026-10-27",
+      "shortRatio": 2.0,
+      "shortPct": 2.0,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "DHR",
+      "company": "Danaher",
+      "earningsDate": "2026-10-20",
+      "shortRatio": 1.9,
+      "shortPct": 1.9,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "KLAC",
+      "company": "KLA Corp",
+      "earningsDate": "2026-10-28",
+      "shortRatio": 1.9,
+      "shortPct": 2.3,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "MOH",
+      "company": "Molina Healthcare",
+      "earningsDate": "2026-10-21",
+      "shortRatio": 1.9,
+      "shortPct": 6.5,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "NFLX",
+      "company": "Netflix",
+      "earningsDate": "2026-10-20",
+      "shortRatio": 1.9,
+      "shortPct": 2.2,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "PNR",
+      "company": "Pentair",
+      "earningsDate": "2026-10-20",
+      "shortRatio": 1.9,
+      "shortPct": 4.8,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "TER",
+      "company": "Teradyne",
+      "earningsDate": "2026-10-21",
+      "shortRatio": 1.9,
+      "shortPct": 5.9,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "ABT",
+      "company": "Abbott",
+      "earningsDate": "2026-10-14",
+      "shortRatio": 1.8,
+      "shortPct": 1.5,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "DIS",
+      "company": "Disney",
+      "earningsDate": "2026-11-12",
+      "shortRatio": 1.8,
+      "shortPct": 1.1,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "FCX",
+      "company": "Freeport-McMoRan",
+      "earningsDate": "2026-10-22",
+      "shortRatio": 1.8,
+      "shortPct": 2.0,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "ICE",
+      "company": "Intercontinental Exchange",
+      "earningsDate": "2026-10-29",
+      "shortRatio": 1.8,
+      "shortPct": 1.6,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "TECH",
+      "company": "Bio-Techne",
+      "earningsDate": "2026-11-09",
+      "shortRatio": 1.8,
+      "shortPct": 6.8,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "IBM",
+      "company": "IBM",
+      "earningsDate": "2026-10-21",
+      "shortRatio": 1.7,
+      "shortPct": 2.6,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "ISRG",
+      "company": "Intuitive Surgical",
+      "earningsDate": "2026-10-20",
+      "shortRatio": 1.7,
+      "shortPct": 1.9,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "ANET",
+      "company": "Arista Networks",
+      "earningsDate": "2026-11-03",
+      "shortRatio": 1.6,
+      "shortPct": 1.2,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "META",
+      "company": "Meta",
+      "earningsDate": "2026-10-28",
+      "shortRatio": 1.6,
+      "shortPct": 1.4,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "MSCI",
+      "company": "MSCI Inc",
+      "earningsDate": "2026-10-20",
+      "shortRatio": 1.6,
+      "shortPct": 2.0,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla",
+      "earningsDate": "2026-10-21",
+      "shortRatio": 1.6,
+      "shortPct": 1.9,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "AMAT",
+      "company": "Applied Materials",
+      "earningsDate": "2026-11-12",
+      "shortRatio": 1.5,
+      "shortPct": 1.8,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "NOW",
+      "company": "ServiceNow",
+      "earningsDate": "2026-10-28",
+      "shortRatio": 1.5,
+      "shortPct": 3.6,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "STX",
+      "company": "Seagate Technology",
+      "earningsDate": "2026-10-27",
+      "shortRatio": 1.5,
+      "shortPct": 4.1,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "T",
+      "company": "AT&T",
+      "earningsDate": "2026-10-21",
+      "shortRatio": 1.5,
+      "shortPct": 1.9,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "MKTX",
+      "company": "MarketAxess",
+      "earningsDate": "N/A",
+      "shortRatio": 1.4,
+      "shortPct": 5.7,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "AMD",
+      "company": "AMD",
+      "earningsDate": "2026-11-03",
+      "shortRatio": 1.3,
+      "shortPct": 2.3,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "ORCL",
+      "company": "Oracle",
+      "earningsDate": "2026-09-10",
+      "shortRatio": 1.3,
+      "shortPct": 2.9,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "GLW",
+      "company": "Corning",
+      "earningsDate": "2026-10-27",
+      "shortRatio": 1.2,
+      "shortPct": 2.4,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "BSX",
+      "company": "Boston Scientific",
+      "earningsDate": "2026-10-28",
+      "shortRatio": 1.1,
+      "shortPct": 1.5,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "INTC",
+      "company": "Intel",
+      "earningsDate": "2026-10-22",
+      "shortRatio": 1.1,
+      "shortPct": 2.5,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "MU",
+      "company": "Micron Technology",
+      "earningsDate": "2026-09-23",
+      "shortRatio": 0.6,
+      "shortPct": 2.6,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "PARA",
+      "company": "Paramount Global",
+      "earningsDate": "N/A",
+      "shortRatio": 0.6,
+      "shortPct": 8.2,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "AAL",
+      "company": "American Airlines",
+      "earningsDate": "2026-10-22",
+      "shortRatio": 0.5,
+      "shortPct": 9.8,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "LEN",
+      "company": "Lennar",
+      "earningsDate": "2026-09-17",
+      "shortRatio": 0.2,
+      "shortPct": 0.3,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "GL",
+      "company": "Globe Life",
+      "earningsDate": "2026-10-21",
+      "shortRatio": 0.1,
+      "shortPct": 0.1,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "MTB",
+      "company": "M&T Bank",
+      "earningsDate": "2026-10-16",
+      "shortRatio": 0.1,
+      "shortPct": 0.1,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "ALB",
+      "company": "Albemarle",
+      "earningsDate": "2026-11-04",
+      "shortRatio": 0.0,
+      "shortPct": 0.1,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "ALL",
+      "company": "Allstate",
+      "earningsDate": "2026-11-04",
+      "shortRatio": 0.0,
+      "shortPct": 0.0,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "BA",
+      "company": "Boeing",
+      "earningsDate": "2026-10-28",
+      "shortRatio": 0.0,
+      "shortPct": 0.0,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "BAC",
+      "company": "Bank of America",
+      "earningsDate": "2026-10-14",
+      "shortRatio": 0.0,
+      "shortPct": 0.0,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "BK",
+      "company": "BNY Mellon",
+      "earningsDate": "N/A",
+      "shortRatio": 0.0,
+      "shortPct": 0.0,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "C",
+      "company": "Citigroup",
+      "earningsDate": "2026-10-13",
+      "shortRatio": 0.0,
+      "shortPct": 0.0,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "CFG",
+      "company": "Citizens Financial",
+      "earningsDate": "2026-10-16",
+      "shortRatio": 0.0,
+      "shortPct": 0.0,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "CMA",
+      "company": "Comerica",
+      "earningsDate": "N/A",
+      "shortRatio": 0.0,
+      "shortPct": 0.0,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "CMS",
+      "company": "CMS Energy",
+      "earningsDate": "2026-10-29",
+      "shortRatio": 0.0,
+      "shortPct": 0.0,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "CTLT",
+      "company": "Catalent",
+      "earningsDate": "N/A",
+      "shortRatio": 0.0,
+      "shortPct": 0.0,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "CTRA",
+      "company": "Coterra Energy",
+      "earningsDate": "N/A",
+      "shortRatio": 0.0,
+      "shortPct": 0.0,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "DFS",
+      "company": "Discover Financial",
+      "earningsDate": "N/A",
+      "shortRatio": 0.0,
+      "shortPct": 0.0,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "DISH",
+      "company": "Dish Network",
+      "earningsDate": "N/A",
+      "shortRatio": 0.0,
+      "shortPct": 0.0,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "DLR",
+      "company": "Digital Realty",
+      "earningsDate": "2026-10-22",
+      "shortRatio": 0.0,
+      "shortPct": 0.0,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "DRE",
+      "company": "Duke Realty",
+      "earningsDate": "N/A",
+      "shortRatio": 0.0,
+      "shortPct": 0.0,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "F",
+      "company": "Ford",
+      "earningsDate": "2026-10-22",
+      "shortRatio": 0.0,
+      "shortPct": 0.0,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "FISV",
+      "company": "Fiserv",
+      "earningsDate": "2026-10-28",
+      "shortRatio": 0.0,
+      "shortPct": 0.0,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "FITB",
+      "company": "Fifth Third Bancorp",
+      "earningsDate": "2026-10-19",
+      "shortRatio": 0.0,
+      "shortPct": 0.0,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "FLT",
+      "company": "Fleetcor Technologies",
+      "earningsDate": "N/A",
+      "shortRatio": 0.0,
+      "shortPct": 0.0,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "FRT",
+      "company": "Federal Realty",
+      "earningsDate": "2026-10-30",
+      "shortRatio": 0.0,
+      "shortPct": 0.0,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "HES",
+      "company": "Hess Corp",
+      "earningsDate": "N/A",
+      "shortRatio": 0.0,
+      "shortPct": 0.0,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "HIG",
+      "company": "Hartford Financial",
+      "earningsDate": "2026-10-29",
+      "shortRatio": 0.0,
+      "shortPct": 0.0,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "HOLX",
+      "company": "Hologic",
+      "earningsDate": "N/A",
+      "shortRatio": 0.0,
+      "shortPct": 0.0,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "IPG",
+      "company": "Interpublic Group",
+      "earningsDate": "N/A",
+      "shortRatio": 0.0,
+      "shortPct": 0.0,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "JNPR",
+      "company": "Juniper Networks",
+      "earningsDate": "N/A",
+      "shortRatio": 0.0,
+      "shortPct": 0.0,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "K",
+      "company": "Kellanova",
+      "earningsDate": "N/A",
+      "shortRatio": 0.0,
+      "shortPct": 0.0,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "KEY",
+      "company": "KeyCorp",
+      "earningsDate": "2026-10-20",
+      "shortRatio": 0.0,
+      "shortPct": 0.0,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "MKC",
+      "company": "McCormick",
+      "earningsDate": "2026-10-06",
+      "shortRatio": 0.0,
+      "shortPct": 0.0,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "MMC",
+      "company": "Marsh & McLennan",
+      "earningsDate": "N/A",
+      "shortRatio": 0.0,
+      "shortPct": 0.0,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "MRO",
+      "company": "Marathon Oil",
+      "earningsDate": "N/A",
+      "shortRatio": 0.0,
+      "shortPct": 0.0,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "MS",
+      "company": "Morgan Stanley",
+      "earningsDate": "2026-10-14",
+      "shortRatio": 0.0,
+      "shortPct": 0.0,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "NEE",
+      "company": "NextEra Energy",
+      "earningsDate": "2026-10-27",
+      "shortRatio": 0.0,
+      "shortPct": 0.0,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "OXY",
+      "company": "Occidental Petroleum",
+      "earningsDate": "N/A",
+      "shortRatio": 0.0,
+      "shortPct": 0.0,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "PCG",
+      "company": "PG&E",
+      "earningsDate": "2026-10-22",
+      "shortRatio": 0.0,
+      "shortPct": 0.0,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "PEAK",
+      "company": "Healthpeak Properties",
+      "earningsDate": "N/A",
+      "shortRatio": 0.0,
+      "shortPct": 0.0,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "RE",
+      "company": "Everest Re",
+      "earningsDate": "N/A",
+      "shortRatio": 0.0,
+      "shortPct": 0.0,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "SCHW",
+      "company": "Charles Schwab",
+      "earningsDate": "2026-10-15",
+      "shortRatio": 0.0,
+      "shortPct": 0.0,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "SPG",
+      "company": "Simon Property",
+      "earningsDate": "2026-11-02",
+      "shortRatio": 0.0,
+      "shortPct": 0.0,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "STT",
+      "company": "State Street",
+      "earningsDate": "2026-10-14",
+      "shortRatio": 0.0,
+      "shortPct": 0.0,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "USB",
+      "company": "U.S. Bancorp",
+      "earningsDate": "2026-10-15",
+      "shortRatio": 0.0,
+      "shortPct": 0.0,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "VNO",
+      "company": "Vornado Realty",
+      "earningsDate": "2026-11-02",
+      "shortRatio": 0.0,
+      "shortPct": 0.0,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "WBA",
+      "company": "Walgreens Boots Alliance",
+      "earningsDate": "N/A",
+      "shortRatio": 0.0,
+      "shortPct": 0.0,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "WFC",
+      "company": "Wells Fargo",
+      "earningsDate": "2026-10-13",
+      "shortRatio": 0.0,
+      "shortPct": 0.0,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "WHR",
+      "company": "Whirlpool",
+      "earningsDate": "2026-10-28",
+      "shortRatio": 0.0,
+      "shortPct": 0.1,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "WRB",
+      "company": "W.R. Berkley",
+      "earningsDate": "2026-10-19",
+      "shortRatio": 0.0,
+      "shortPct": 0.0,
+      "squeezeFlag": false
+    },
+    {
+      "ticker": "WRK",
+      "company": "WestRock",
+      "earningsDate": "N/A",
+      "shortRatio": 0.0,
+      "shortPct": 0.0,
       "squeezeFlag": false
     }
   ]
