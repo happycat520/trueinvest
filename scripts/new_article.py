@@ -103,7 +103,7 @@ ARTICLE_TEMPLATE = """<!DOCTYPE html>
       <a href="../contact.html">Contact</a>
     </div>
     <div class="nav-cta">
-      <a href="../contact.html" class="btn btn-primary btn-sm">Join the newsletter</a>
+      <a href="../contact.html#digest" class="btn btn-primary btn-sm">Get the Daily Digest</a>
     </div>
   </div>
 </nav>

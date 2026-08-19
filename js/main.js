@@ -37,7 +37,7 @@
     revealEls.forEach(function (el) { el.classList.add("in"); });
   }
 
-  // Newsletter + contact forms — submit to Formspree, same endpoint as
+  // Daily Digest + contact forms — submit to Formspree, same endpoint as
   // crystalwell-site (tehochess/crystalwell-site), so both sites' submissions
   // land in the same inbox.
   function wireForm(form, successText) {
@@ -86,6 +86,6 @@
     });
   }
 
-  wireForm(document.querySelector("#newsletter-form"), "Thanks — you're on the list. Check your inbox to confirm.");
+  wireForm(document.querySelector("#digest-form"), "Thanks — you're subscribed. Your first digest arrives the next weekday morning.");
   wireForm(document.querySelector("#contact-form"), "Message received — we'll get back to you shortly.");
 })();
