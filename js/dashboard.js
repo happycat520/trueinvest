@@ -121,9 +121,9 @@
       ? '<tr><td colspan="8" class="dash-empty">No insider buys found.</td></tr>'
       : buys.map(function (b) {
           return "<tr><td><span class=\"ticker-pill\">" + esc(b.ticker) + "</span></td>" +
-            "<td>" + esc(b.company || "—") + "</td>" +
-            "<td>" + esc(b.insider || "—") + "</td>" +
-            "<td>" + roleBadge(b.role) + "</td>" +
+            "<td title=\"" + esc(b.company || "") + "\">" + esc(b.company || "—") + "</td>" +
+            "<td title=\"" + esc(b.insider || "") + "\">" + esc(b.insider || "—") + "</td>" +
+            "<td title=\"" + esc(b.role || "") + "\">" + roleBadge(b.role) + "</td>" +
             '<td class="val-up">' + fmt(b.shares) + "</td>" +
             "<td>" + fmtM(b.value) + "</td>" +
             '<td class="val-muted">' + esc(b.date || "—") + "</td>" +
@@ -134,9 +134,9 @@
       ? '<tr><td colspan="9" class="dash-empty">No insider sales found.</td></tr>'
       : sells.map(function (s) {
           return "<tr><td><span class=\"ticker-pill\">" + esc(s.ticker) + "</span></td>" +
-            "<td>" + esc(s.company || "—") + "</td>" +
-            "<td>" + esc(s.insider || "—") + "</td>" +
-            "<td>" + roleBadge(s.role) + "</td>" +
+            "<td title=\"" + esc(s.company || "") + "\">" + esc(s.company || "—") + "</td>" +
+            "<td title=\"" + esc(s.insider || "") + "\">" + esc(s.insider || "—") + "</td>" +
+            "<td title=\"" + esc(s.role || "") + "\">" + roleBadge(s.role) + "</td>" +
             '<td class="val-down">' + fmt(s.shares_sold) + "</td>" +
             "<td>" + fmt(s.shares_remaining) + "</td>" +
             '<td class="val-muted">' + esc(s.expiry || "—") + "</td>" +
