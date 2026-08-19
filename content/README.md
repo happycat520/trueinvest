@@ -41,6 +41,35 @@ and adds the article to `data/articles.json`. That's the only file the
 Research page and homepage preview read from, so the new article appears
 in both automatically — no other files need to change.
 
+### Valid tags
+
+Tags aren't free text — `scripts/new_article.py` checks every `--tags`
+value against a canonical list (`CANONICAL_TAGS` near the top of the
+script) and refuses to publish with anything outside it. This exists
+because each unique tag string becomes its own filter chip on the
+Research page automatically; without a fixed list, a typo or inconsistent
+capitalization (`"Insider Activity"` vs. `"insider activity"`) would
+silently create a duplicate chip instead of matching the existing one.
+
+Current valid tags, each tied to a dashboard or content type:
+
+| Tag | Ties to |
+|---|---|
+| Insider Activity | Insider Trading dashboard |
+| Price Movement | Price Movement dashboard |
+| Key Dates | Key Dates dashboard |
+| Framework | Methodology pieces |
+| Philosophy | Mindset / principles pieces |
+| Fundamentals | Fundamentals / Cash Flow Quality dashboard (planned) |
+| Valuation | Valuation Screener dashboard (planned) |
+| Risk | Risk dashboard (planned) |
+| Contrarian | Contrarian / Sentiment dashboard (planned) |
+
+To add a genuinely new category — e.g. once a new dashboard actually
+ships — add it to `CANONICAL_TAGS` in `scripts/new_article.py`
+deliberately. That's a one-line edit; it shouldn't be skipped past just
+to get an article published.
+
 ## 3. Re-publishing / edits
 
 Edit the `.docx` file and re-run the same command, passing `--slug` with

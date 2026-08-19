@@ -58,6 +58,26 @@ ROOT = Path(__file__).resolve().parent.parent
 RESEARCH_DIR = ROOT / "research"
 ARTICLES_JSON = ROOT / "data" / "articles.json"
 
+# The full set of tags this site currently recognizes, each tied to a specific
+# dashboard or content type. Keeping this list short and deliberate prevents
+# tag drift (typos, inconsistent capitalization, near-duplicate concepts) from
+# silently fragmenting the filter chips on research.html — each unique tag
+# string becomes its own chip there, generated automatically.
+#
+# To add a genuinely new category (e.g. when a new dashboard ships), add it
+# here deliberately rather than just passing a new --tags value.
+CANONICAL_TAGS = [
+    "Insider Activity",  # Insider Trading dashboard
+    "Price Movement",    # Price Movement dashboard
+    "Key Dates",         # Key Dates dashboard
+    "Framework",         # Methodology pieces
+    "Philosophy",        # Mindset / principles pieces
+    "Fundamentals",      # Wave 3a dashboard (planned)
+    "Valuation",         # Wave 3b dashboard (planned)
+    "Risk",              # Wave 3c dashboard (planned)
+    "Contrarian",        # Wave 3d dashboard (planned)
+]
+
 DISCLAIMER = (
     "CrystalWell Analytics publishes independent investment research and "
     "educational content. This material is provided for informational and "
@@ -230,6 +250,22 @@ def main():
     tags = [t.strip() for t in args.tags.split(",")] if args.tags else (existing["tags"] if existing else None)
     if not tags:
         sys.exit("New article: --tags is required, e.g. --tags \"Framework,Philosophy\"")
+
+    # Only validate tags that were explicitly passed this run — tags carried
+    # forward silently from an existing article (no --tags given) aren't
+    # re-checked, so an older non-canonical tag won't block a routine update.
+    if args.tags:
+        unknown = [t for t in tags if t not in CANONICAL_TAGS]
+        if unknown:
+            sys.exit(
+                "Unrecognized tag(s): " + ", ".join(f'"{t}"' for t in unknown) + "\n\n"
+                "Valid tags are:\n  " + "\n  ".join(CANONICAL_TAGS) + "\n\n"
+                "If this is a genuinely new category (e.g. a new dashboard just shipped), "
+                "add it to CANONICAL_TAGS in this script first — that's a deliberate one-line "
+                "edit, not something to skip past. This check exists to stop typos and near-"
+                "duplicate tags (e.g. \"Insider Activity\" vs \"insider activity\") from silently "
+                "fragmenting the filter chips on research.html."
+            )
 
     iso_date = datetime.strptime(date_disp, "%B %d, %Y").strftime("%Y-%m-%d")
 
