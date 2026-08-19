@@ -1,70 +1,16 @@
 {
-  "updated": "Aug 18, 2026 01:53 PM PST",
-  "updated_iso": "2026-08-18T13:53:03.313096-07:00",
+  "updated": "Aug 19, 2026 08:11 AM PST",
+  "updated_iso": "2026-08-19T08:11:49.252374-07:00",
   "hasUpcoming": true,
   "dividends": [
-    {
-      "ticker": "BG",
-      "company": "Bunge",
-      "exDate": "2026-08-18",
-      "exStatus": "upcoming",
-      "dividendRate": 2.88,
-      "dividendYield": 2.52,
-      "price": 114.36
-    },
-    {
-      "ticker": "CTSH",
-      "company": "Cognizant",
-      "exDate": "2026-08-18",
-      "exStatus": "upcoming",
-      "dividendRate": 1.32,
-      "dividendYield": 2.28,
-      "price": 57.78
-    },
-    {
-      "ticker": "EVRG",
-      "company": "Evergy",
-      "exDate": "2026-08-18",
-      "exStatus": "upcoming",
-      "dividendRate": 2.78,
-      "dividendYield": 3.33,
-      "price": 83.42
-    },
-    {
-      "ticker": "PSX",
-      "company": "Phillips 66",
-      "exDate": "2026-08-18",
-      "exStatus": "upcoming",
-      "dividendRate": 5.08,
-      "dividendYield": 2.09,
-      "price": 243.49
-    },
-    {
-      "ticker": "REGN",
-      "company": "Regeneron",
-      "exDate": "2026-08-18",
-      "exStatus": "upcoming",
-      "dividendRate": 3.76,
-      "dividendYield": 0.46,
-      "price": 810.24
-    },
-    {
-      "ticker": "WAB",
-      "company": "Wabtec",
-      "exDate": "2026-08-18",
-      "exStatus": "upcoming",
-      "dividendRate": 1.24,
-      "dividendYield": 0.42,
-      "price": 294.72
-    },
     {
       "ticker": "ADM",
       "company": "Archer-Daniels-Midland",
       "exDate": "2026-08-19",
       "exStatus": "upcoming",
       "dividendRate": 2.08,
-      "dividendYield": 2.52,
-      "price": 82.45
+      "dividendYield": 2.54,
+      "price": 82.02
     },
     {
       "ticker": "AFL",
@@ -72,8 +18,8 @@
       "exDate": "2026-08-19",
       "exStatus": "upcoming",
       "dividendRate": 2.44,
-      "dividendYield": 2.0,
-      "price": 121.73
+      "dividendYield": 2.05,
+      "price": 118.98
     },
     {
       "ticker": "CVX",
@@ -81,8 +27,8 @@
       "exDate": "2026-08-19",
       "exStatus": "upcoming",
       "dividendRate": 7.12,
-      "dividendYield": 3.46,
-      "price": 205.74
+      "dividendYield": 3.43,
+      "price": 207.38
     },
     {
       "ticker": "ED",
@@ -90,8 +36,8 @@
       "exDate": "2026-08-19",
       "exStatus": "upcoming",
       "dividendRate": 3.51,
-      "dividendYield": 3.22,
-      "price": 109.16
+      "dividendYield": 3.23,
+      "price": 108.76
     },
     {
       "ticker": "EQIX",
@@ -99,8 +45,8 @@
       "exDate": "2026-08-19",
       "exStatus": "upcoming",
       "dividendRate": 20.64,
-      "dividendYield": 1.9,
-      "price": 1085.09
+      "dividendYield": 1.96,
+      "price": 1052.4
     },
     {
       "ticker": "HAS",
@@ -108,8 +54,8 @@
       "exDate": "2026-08-19",
       "exStatus": "upcoming",
       "dividendRate": 2.8,
-      "dividendYield": 2.98,
-      "price": 93.99
+      "dividendYield": 2.97,
+      "price": 94.36
     },
     {
       "ticker": "L",
@@ -118,7 +64,7 @@
       "exStatus": "upcoming",
       "dividendRate": 0.25,
       "dividendYield": 0.22,
-      "price": 112.45
+      "price": 112.21
     },
     {
       "ticker": "MKTX",
@@ -126,8 +72,8 @@
       "exDate": "2026-08-19",
       "exStatus": "upcoming",
       "dividendRate": 3.12,
-      "dividendYield": 1.92,
-      "price": 162.57
+      "dividendYield": 1.93,
+      "price": 162.02
     },
     {
       "ticker": "MPC",
@@ -136,7 +82,7 @@
       "exStatus": "upcoming",
       "dividendRate": 4.0,
       "dividendYield": 1.09,
-      "price": 366.21
+      "price": 365.31
     },
     {
       "ticker": "SNA",
@@ -144,8 +90,8 @@
       "exDate": "2026-08-19",
       "exStatus": "upcoming",
       "dividendRate": 9.76,
-      "dividendYield": 2.47,
-      "price": 395.71
+      "dividendYield": 2.46,
+      "price": 396.4
     },
     {
       "ticker": "VRSN",
@@ -154,7 +100,7 @@
       "exStatus": "upcoming",
       "dividendRate": 3.24,
       "dividendYield": 1.17,
-      "price": 276.74
+      "price": 277.59
     },
     {
       "ticker": "AMAT",
@@ -162,8 +108,8 @@
       "exDate": "2026-08-20",
       "exStatus": "upcoming",
       "dividendRate": 2.12,
-      "dividendYield": 0.41,
-      "price": 514.33
+      "dividendYield": 0.43,
+      "price": 492.36
     },
     {
       "ticker": "CNP",
@@ -171,8 +117,8 @@
       "exDate": "2026-08-20",
       "exStatus": "upcoming",
       "dividendRate": 0.96,
-      "dividendYield": 2.37,
-      "price": 40.54
+      "dividendYield": 2.36,
+      "price": 40.72
     },
     {
       "ticker": "LKQ",
@@ -180,8 +126,8 @@
       "exDate": "2026-08-20",
       "exStatus": "upcoming",
       "dividendRate": 1.2,
-      "dividendYield": 4.77,
-      "price": 25.15
+      "dividendYield": 4.61,
+      "price": 26.03
     },
     {
       "ticker": "MAR",
@@ -189,8 +135,8 @@
       "exDate": "2026-08-20",
       "exStatus": "upcoming",
       "dividendRate": 2.92,
-      "dividendYield": 0.82,
-      "price": 357.33
+      "dividendYield": 0.8,
+      "price": 362.9
     },
     {
       "ticker": "MSFT",
@@ -198,8 +144,8 @@
       "exDate": "2026-08-20",
       "exStatus": "upcoming",
       "dividendRate": 3.64,
-      "dividendYield": 0.76,
-      "price": 481.63
+      "dividendYield": 0.75,
+      "price": 483.83
     },
     {
       "ticker": "RMD",
@@ -207,8 +153,8 @@
       "exDate": "2026-08-20",
       "exStatus": "upcoming",
       "dividendRate": 2.64,
-      "dividendYield": 1.2,
-      "price": 219.98
+      "dividendYield": 1.16,
+      "price": 227.95
     },
     {
       "ticker": "SBAC",
@@ -216,8 +162,8 @@
       "exDate": "2026-08-20",
       "exStatus": "upcoming",
       "dividendRate": 5.0,
-      "dividendYield": 2.76,
-      "price": 181.4
+      "dividendYield": 2.75,
+      "price": 181.84
     },
     {
       "ticker": "AMGN",
@@ -225,8 +171,8 @@
       "exDate": "2026-08-21",
       "exStatus": "upcoming",
       "dividendRate": 10.08,
-      "dividendYield": 2.37,
-      "price": 425.28
+      "dividendYield": 2.29,
+      "price": 440.76
     },
     {
       "ticker": "BBWI",
@@ -234,8 +180,8 @@
       "exDate": "2026-08-21",
       "exStatus": "upcoming",
       "dividendRate": 0.8,
-      "dividendYield": 3.99,
-      "price": 20.04
+      "dividendYield": 3.94,
+      "price": 20.3
     },
     {
       "ticker": "CMI",
@@ -243,8 +189,8 @@
       "exDate": "2026-08-21",
       "exStatus": "upcoming",
       "dividendRate": 8.8,
-      "dividendYield": 1.42,
-      "price": 620.81
+      "dividendYield": 1.45,
+      "price": 608.14
     },
     {
       "ticker": "HLT",
@@ -253,7 +199,7 @@
       "exStatus": "upcoming",
       "dividendRate": 0.6,
       "dividendYield": 0.18,
-      "price": 327.74
+      "price": 333.68
     },
     {
       "ticker": "J",
@@ -261,8 +207,8 @@
       "exDate": "2026-08-21",
       "exStatus": "upcoming",
       "dividendRate": 1.44,
-      "dividendYield": 1.01,
-      "price": 142.86
+      "dividendYield": 0.99,
+      "price": 145.92
     },
     {
       "ticker": "SHW",
@@ -270,8 +216,8 @@
       "exDate": "2026-08-21",
       "exStatus": "upcoming",
       "dividendRate": 3.2,
-      "dividendYield": 0.93,
-      "price": 345.27
+      "dividendYield": 0.9,
+      "price": 354.56
     },
     {
       "ticker": "TEL",
@@ -279,8 +225,8 @@
       "exDate": "2026-08-21",
       "exStatus": "upcoming",
       "dividendRate": 2.98,
-      "dividendYield": 1.45,
-      "price": 204.97
+      "dividendYield": 1.44,
+      "price": 206.4
     },
     {
       "ticker": "VTRS",
@@ -288,8 +234,8 @@
       "exDate": "2026-08-21",
       "exStatus": "upcoming",
       "dividendRate": 0.48,
-      "dividendYield": 2.97,
-      "price": 16.17
+      "dividendYield": 2.91,
+      "price": 16.47
     },
     {
       "ticker": "WMT",
@@ -297,8 +243,8 @@
       "exDate": "2026-08-21",
       "exStatus": "upcoming",
       "dividendRate": 0.99,
-      "dividendYield": 0.86,
-      "price": 115.2
+      "dividendYield": 0.85,
+      "price": 116.58
     },
     {
       "ticker": "ATO",
@@ -306,8 +252,8 @@
       "exDate": "2026-08-24",
       "exStatus": "upcoming",
       "dividendRate": 4.0,
-      "dividendYield": 2.35,
-      "price": 170.51
+      "dividendYield": 2.33,
+      "price": 171.82
     },
     {
       "ticker": "LYB",
@@ -315,8 +261,8 @@
       "exDate": "2026-08-24",
       "exStatus": "upcoming",
       "dividendRate": 2.76,
-      "dividendYield": 4.22,
-      "price": 65.33
+      "dividendYield": 4.08,
+      "price": 67.59
     },
     {
       "ticker": "MAS",
@@ -324,8 +270,8 @@
       "exDate": "2026-08-24",
       "exStatus": "upcoming",
       "dividendRate": 1.28,
-      "dividendYield": 1.74,
-      "price": 73.38
+      "dividendYield": 1.69,
+      "price": 75.77
     },
     {
       "ticker": "MCHP",
@@ -333,8 +279,8 @@
       "exDate": "2026-08-24",
       "exStatus": "upcoming",
       "dividendRate": 1.82,
-      "dividendYield": 2.33,
-      "price": 78.19
+      "dividendYield": 2.32,
+      "price": 78.37
     },
     {
       "ticker": "MMM",
@@ -342,8 +288,8 @@
       "exDate": "2026-08-24",
       "exStatus": "upcoming",
       "dividendRate": 3.12,
-      "dividendYield": 1.72,
-      "price": 180.94
+      "dividendYield": 1.7,
+      "price": 183.09
     },
     {
       "ticker": "PAYC",
@@ -351,8 +297,8 @@
       "exDate": "2026-08-24",
       "exStatus": "upcoming",
       "dividendRate": 1.5,
-      "dividendYield": 0.7,
-      "price": 215.72
+      "dividendYield": 0.68,
+      "price": 221.39
     },
     {
       "ticker": "TECH",
@@ -361,7 +307,7 @@
       "exStatus": "upcoming",
       "dividendRate": 0.32,
       "dividendYield": 0.44,
-      "price": 72.22
+      "price": 72.51
     },
     {
       "ticker": "TSCO",
@@ -369,8 +315,8 @@
       "exDate": "2026-08-24",
       "exStatus": "upcoming",
       "dividendRate": 0.96,
-      "dividendYield": 2.76,
-      "price": 34.72
+      "dividendYield": 2.69,
+      "price": 35.65
     },
     {
       "ticker": "CDW",
@@ -379,7 +325,7 @@
       "exStatus": "upcoming",
       "dividendRate": 2.52,
       "dividendYield": 1.87,
-      "price": 134.97
+      "price": 134.9
     },
     {
       "ticker": "JNJ",
@@ -387,8 +333,8 @@
       "exDate": "2026-08-25",
       "exStatus": "upcoming",
       "dividendRate": 5.36,
-      "dividendYield": 1.98,
-      "price": 271.11
+      "dividendYield": 1.96,
+      "price": 274.04
     },
     {
       "ticker": "PRU",
@@ -396,8 +342,8 @@
       "exDate": "2026-08-25",
       "exStatus": "upcoming",
       "dividendRate": 5.6,
-      "dividendYield": 4.5,
-      "price": 124.54
+      "dividendYield": 4.52,
+      "price": 123.81
     },
     {
       "ticker": "SPGI",
@@ -405,8 +351,8 @@
       "exDate": "2026-08-26",
       "exStatus": "upcoming",
       "dividendRate": 3.88,
-      "dividendYield": 0.93,
-      "price": 418.04
+      "dividendYield": 0.9,
+      "price": 430.96
     },
     {
       "ticker": "EXPE",
@@ -414,8 +360,8 @@
       "exDate": "2026-08-27",
       "exStatus": "upcoming",
       "dividendRate": 1.92,
-      "dividendYield": 0.6,
-      "price": 321.42
+      "dividendYield": 0.58,
+      "price": 331.2
     },
     {
       "ticker": "XYL",
@@ -423,8 +369,8 @@
       "exDate": "2026-08-27",
       "exStatus": "upcoming",
       "dividendRate": 1.72,
-      "dividendYield": 1.51,
-      "price": 113.94
+      "dividendYield": 1.49,
+      "price": 115.69
     },
     {
       "ticker": "BAX",
@@ -433,7 +379,7 @@
       "exStatus": "upcoming",
       "dividendRate": 0.04,
       "dividendYield": 0.15,
-      "price": 25.94
+      "price": 26.52
     },
     {
       "ticker": "EBAY",
@@ -441,8 +387,8 @@
       "exDate": "2026-08-28",
       "exStatus": "upcoming",
       "dividendRate": 1.24,
-      "dividendYield": 1.21,
-      "price": 102.27
+      "dividendYield": 1.19,
+      "price": 104.23
     },
     {
       "ticker": "HII",
@@ -450,8 +396,8 @@
       "exDate": "2026-08-28",
       "exStatus": "upcoming",
       "dividendRate": 5.52,
-      "dividendYield": 1.74,
-      "price": 317.61
+      "dividendYield": 1.76,
+      "price": 313.49
     },
     {
       "ticker": "LH",
@@ -459,8 +405,8 @@
       "exDate": "2026-08-28",
       "exStatus": "upcoming",
       "dividendRate": 2.88,
-      "dividendYield": 0.89,
-      "price": 322.18
+      "dividendYield": 0.88,
+      "price": 327.73
     },
     {
       "ticker": "NEE",
@@ -468,8 +414,8 @@
       "exDate": "2026-08-28",
       "exStatus": "upcoming",
       "dividendRate": 2.49,
-      "dividendYield": 2.89,
-      "price": 86.22
+      "dividendYield": 2.88,
+      "price": 86.41
     },
     {
       "ticker": "TAP",
@@ -477,8 +423,8 @@
       "exDate": "2026-08-28",
       "exStatus": "upcoming",
       "dividendRate": 1.92,
-      "dividendYield": 4.67,
-      "price": 41.13
+      "dividendYield": 4.61,
+      "price": 41.67
     },
     {
       "ticker": "TMUS",
@@ -486,8 +432,8 @@
       "exDate": "2026-08-28",
       "exStatus": "upcoming",
       "dividendRate": 4.08,
-      "dividendYield": 2.23,
-      "price": 182.75
+      "dividendYield": 2.2,
+      "price": 185.13
     },
     {
       "ticker": "AIZ",
@@ -495,8 +441,8 @@
       "exDate": "2026-08-31",
       "exStatus": "upcoming",
       "dividendRate": 3.52,
-      "dividendYield": 1.26,
-      "price": 280.07
+      "dividendYield": 1.25,
+      "price": 281.62
     },
     {
       "ticker": "ALL",
@@ -504,8 +450,8 @@
       "exDate": "2026-08-31",
       "exStatus": "upcoming",
       "dividendRate": 4.32,
-      "dividendYield": 1.65,
-      "price": 261.15
+      "dividendYield": 1.64,
+      "price": 262.81
     },
     {
       "ticker": "CBOE",
@@ -513,8 +459,8 @@
       "exDate": "2026-08-31",
       "exStatus": "upcoming",
       "dividendRate": 3.44,
-      "dividendYield": 1.18,
-      "price": 290.99
+      "dividendYield": 1.17,
+      "price": 293.0
     },
     {
       "ticker": "CSX",
@@ -522,8 +468,8 @@
       "exDate": "2026-08-31",
       "exStatus": "upcoming",
       "dividendRate": 0.56,
-      "dividendYield": 1.11,
-      "price": 50.24
+      "dividendYield": 1.1,
+      "price": 51.12
     },
     {
       "ticker": "DD",
@@ -531,8 +477,8 @@
       "exDate": "2026-08-31",
       "exStatus": "upcoming",
       "dividendRate": 2.4,
-      "dividendYield": 1.73,
-      "price": 138.81
+      "dividendYield": 1.71,
+      "price": 140.35
     },
     {
       "ticker": "DOV",
@@ -540,8 +486,8 @@
       "exDate": "2026-08-31",
       "exStatus": "upcoming",
       "dividendRate": 2.1,
-      "dividendYield": 1.03,
-      "price": 203.06
+      "dividendYield": 1.04,
+      "price": 202.68
     },
     {
       "ticker": "DOW",
@@ -549,8 +495,8 @@
       "exDate": "2026-08-31",
       "exStatus": "upcoming",
       "dividendRate": 1.4,
-      "dividendYield": 4.49,
-      "price": 31.19
+      "dividendYield": 4.37,
+      "price": 32.03
     },
     {
       "ticker": "FDS",
@@ -558,8 +504,8 @@
       "exDate": "2026-08-31",
       "exStatus": "upcoming",
       "dividendRate": 4.64,
-      "dividendYield": 1.63,
-      "price": 285.41
+      "dividendYield": 1.55,
+      "price": 300.25
     },
     {
       "ticker": "GLW",
@@ -567,8 +513,8 @@
       "exDate": "2026-08-31",
       "exStatus": "upcoming",
       "dividendRate": 1.12,
-      "dividendYield": 0.7,
-      "price": 159.9
+      "dividendYield": 0.74,
+      "price": 151.87
     },
     {
       "ticker": "HUBB",
@@ -576,8 +522,8 @@
       "exDate": "2026-08-31",
       "exStatus": "upcoming",
       "dividendRate": 5.68,
-      "dividendYield": 1.17,
-      "price": 483.86
+      "dividendYield": 1.19,
+      "price": 475.72
     },
     {
       "ticker": "NWL",
@@ -585,8 +531,8 @@
       "exDate": "2026-08-31",
       "exStatus": "upcoming",
       "dividendRate": 0.28,
-      "dividendYield": 4.72,
-      "price": 5.93
+      "dividendYield": 4.55,
+      "price": 6.15
     },
     {
       "ticker": "UNP",
@@ -594,8 +540,8 @@
       "exDate": "2026-08-31",
       "exStatus": "upcoming",
       "dividendRate": 5.68,
-      "dividendYield": 1.9,
-      "price": 298.74
+      "dividendYield": 1.86,
+      "price": 305.49
     },
     {
       "ticker": "BALL",
@@ -603,8 +549,8 @@
       "exDate": "2026-09-01",
       "exStatus": "upcoming",
       "dividendRate": 0.8,
-      "dividendYield": 1.3,
-      "price": 61.67
+      "dividendYield": 1.28,
+      "price": 62.62
     },
     {
       "ticker": "BWA",
@@ -612,8 +558,8 @@
       "exDate": "2026-09-01",
       "exStatus": "upcoming",
       "dividendRate": 0.68,
-      "dividendYield": 1.0,
-      "price": 67.95
+      "dividendYield": 1.01,
+      "price": 67.09
     },
     {
       "ticker": "CTVA",
@@ -621,8 +567,8 @@
       "exDate": "2026-09-01",
       "exStatus": "upcoming",
       "dividendRate": 0.72,
-      "dividendYield": 0.92,
-      "price": 77.91
+      "dividendYield": 0.91,
+      "price": 79.01
     },
     {
       "ticker": "GS",
@@ -630,8 +576,8 @@
       "exDate": "2026-09-01",
       "exStatus": "upcoming",
       "dividendRate": 20.0,
-      "dividendYield": 1.92,
-      "price": 1040.47
+      "dividendYield": 1.96,
+      "price": 1022.54
     },
     {
       "ticker": "HIG",
@@ -640,7 +586,7 @@
       "exStatus": "upcoming",
       "dividendRate": 2.4,
       "dividendYield": 1.73,
-      "price": 138.96
+      "price": 138.76
     },
     {
       "ticker": "KEY",
@@ -648,8 +594,8 @@
       "exDate": "2026-09-01",
       "exStatus": "upcoming",
       "dividendRate": 0.82,
-      "dividendYield": 3.6,
-      "price": 22.79
+      "dividendYield": 3.66,
+      "price": 22.39
     },
     {
       "ticker": "LMT",
@@ -657,8 +603,8 @@
       "exDate": "2026-09-01",
       "exStatus": "upcoming",
       "dividendRate": 13.8,
-      "dividendYield": 2.27,
-      "price": 607.17
+      "dividendYield": 2.3,
+      "price": 600.24
     },
     {
       "ticker": "MCD",
@@ -666,8 +612,8 @@
       "exDate": "2026-09-01",
       "exStatus": "upcoming",
       "dividendRate": 7.44,
-      "dividendYield": 2.79,
-      "price": 266.99
+      "dividendYield": 2.75,
+      "price": 270.48
     },
     {
       "ticker": "MCK",
@@ -675,8 +621,8 @@
       "exDate": "2026-09-01",
       "exStatus": "upcoming",
       "dividendRate": 3.76,
-      "dividendYield": 0.43,
-      "price": 869.26
+      "dividendYield": 0.44,
+      "price": 863.99
     },
     {
       "ticker": "MLM",
@@ -684,8 +630,8 @@
       "exDate": "2026-09-01",
       "exStatus": "upcoming",
       "dividendRate": 3.36,
-      "dividendYield": 0.64,
-      "price": 522.81
+      "dividendYield": 0.63,
+      "price": 534.14
     },
     {
       "ticker": "NKE",
@@ -693,8 +639,8 @@
       "exDate": "2026-09-01",
       "exStatus": "upcoming",
       "dividendRate": 1.64,
-      "dividendYield": 4.09,
-      "price": 40.06
+      "dividendYield": 4.0,
+      "price": 41.03
     },
     {
       "ticker": "RF",
@@ -702,8 +648,8 @@
       "exDate": "2026-09-01",
       "exStatus": "upcoming",
       "dividendRate": 1.1,
-      "dividendYield": 3.47,
-      "price": 31.7
+      "dividendYield": 3.53,
+      "price": 31.2
     },
     {
       "ticker": "TSN",
@@ -711,8 +657,8 @@
       "exDate": "2026-09-01",
       "exStatus": "upcoming",
       "dividendRate": 2.04,
-      "dividendYield": 3.52,
-      "price": 57.99
+      "dividendYield": 3.43,
+      "price": 59.55
     },
     {
       "ticker": "UHS",
@@ -720,8 +666,8 @@
       "exDate": "2026-09-01",
       "exStatus": "upcoming",
       "dividendRate": 0.8,
-      "dividendYield": 0.46,
-      "price": 173.09
+      "dividendYield": 0.45,
+      "price": 177.11
     },
     {
       "ticker": "AVY",
@@ -729,8 +675,8 @@
       "exDate": "2026-09-02",
       "exStatus": "upcoming",
       "dividendRate": 4.0,
-      "dividendYield": 2.25,
-      "price": 177.71
+      "dividendYield": 2.18,
+      "price": 183.68
     },
     {
       "ticker": "FOX",
@@ -739,7 +685,7 @@
       "exStatus": "upcoming",
       "dividendRate": 0.58,
       "dividendYield": 0.95,
-      "price": 61.23
+      "price": 60.79
     },
     {
       "ticker": "FOXA",
@@ -747,8 +693,8 @@
       "exDate": "2026-09-02",
       "exStatus": "upcoming",
       "dividendRate": 0.58,
-      "dividendYield": 0.84,
-      "price": 69.03
+      "dividendYield": 0.85,
+      "price": 68.59
     },
     {
       "ticker": "ODFL",
@@ -756,8 +702,8 @@
       "exDate": "2026-09-02",
       "exStatus": "upcoming",
       "dividendRate": 1.16,
-      "dividendYield": 0.56,
-      "price": 208.0
+      "dividendYield": 0.55,
+      "price": 210.2
     },
     {
       "ticker": "SLB",
@@ -765,8 +711,8 @@
       "exDate": "2026-09-02",
       "exStatus": "upcoming",
       "dividendRate": 1.18,
-      "dividendYield": 2.22,
-      "price": 53.21
+      "dividendYield": 2.2,
+      "price": 53.74
     },
     {
       "ticker": "BF-B",
@@ -774,8 +720,8 @@
       "exDate": "2026-09-03",
       "exStatus": "upcoming",
       "dividendRate": 0.92,
-      "dividendYield": 3.39,
-      "price": 27.15
+      "dividendYield": 3.26,
+      "price": 28.21
     },
     {
       "ticker": "BR",
@@ -783,8 +729,8 @@
       "exDate": "2026-09-03",
       "exStatus": "upcoming",
       "dividendRate": 4.36,
-      "dividendYield": 2.57,
-      "price": 169.86
+      "dividendYield": 2.48,
+      "price": 175.55
     },
     {
       "ticker": "LIN",
@@ -792,8 +738,8 @@
       "exDate": "2026-09-03",
       "exStatus": "upcoming",
       "dividendRate": 6.4,
-      "dividendYield": 1.34,
-      "price": 478.7
+      "dividendYield": 1.33,
+      "price": 482.37
     },
     {
       "ticker": "LUV",
@@ -801,8 +747,8 @@
       "exDate": "2026-09-03",
       "exStatus": "upcoming",
       "dividendRate": 0.72,
-      "dividendYield": 1.69,
-      "price": 42.49
+      "dividendYield": 1.7,
+      "price": 42.34
     },
     {
       "ticker": "NEM",
@@ -810,8 +756,8 @@
       "exDate": "2026-09-03",
       "exStatus": "upcoming",
       "dividendRate": 1.04,
-      "dividendYield": 0.9,
-      "price": 115.98
+      "dividendYield": 0.83,
+      "price": 125.72
     },
     {
       "ticker": "PFG",
@@ -819,8 +765,8 @@
       "exDate": "2026-09-03",
       "exStatus": "upcoming",
       "dividendRate": 3.36,
-      "dividendYield": 2.97,
-      "price": 113.14
+      "dividendYield": 2.99,
+      "price": 112.56
     },
     {
       "ticker": "QCOM",
@@ -828,8 +774,8 @@
       "exDate": "2026-09-03",
       "exStatus": "upcoming",
       "dividendRate": 3.68,
-      "dividendYield": 2.3,
-      "price": 160.19
+      "dividendYield": 2.27,
+      "price": 162.13
     },
     {
       "ticker": "AMCR",
@@ -837,8 +783,8 @@
       "exDate": "2026-09-04",
       "exStatus": "upcoming",
       "dividendRate": 2.6,
-      "dividendYield": 5.67,
-      "price": 45.86
+      "dividendYield": 5.5,
+      "price": 47.25
     },
     {
       "ticker": "BAC",
@@ -846,8 +792,8 @@
       "exDate": "2026-09-04",
       "exStatus": "upcoming",
       "dividendRate": 1.28,
-      "dividendYield": 1.99,
-      "price": 64.23
+      "dividendYield": 2.02,
+      "price": 63.49
     },
     {
       "ticker": "CHRW",
@@ -855,8 +801,8 @@
       "exDate": "2026-09-04",
       "exStatus": "upcoming",
       "dividendRate": 2.52,
-      "dividendYield": 1.74,
-      "price": 144.67
+      "dividendYield": 1.73,
+      "price": 146.02
     },
     {
       "ticker": "D",
@@ -864,8 +810,8 @@
       "exDate": "2026-09-04",
       "exStatus": "upcoming",
       "dividendRate": 2.67,
-      "dividendYield": 3.89,
-      "price": 68.61
+      "dividendYield": 3.87,
+      "price": 69.06
     },
     {
       "ticker": "EXC",
@@ -873,8 +819,8 @@
       "exDate": "2026-09-04",
       "exStatus": "upcoming",
       "dividendRate": 1.68,
-      "dividendYield": 3.71,
-      "price": 45.31
+      "dividendYield": 3.68,
+      "price": 45.66
     },
     {
       "ticker": "GM",
@@ -882,8 +828,8 @@
       "exDate": "2026-09-04",
       "exStatus": "upcoming",
       "dividendRate": 0.72,
-      "dividendYield": 0.86,
-      "price": 83.71
+      "dividendYield": 0.84,
+      "price": 85.44
     },
     {
       "ticker": "GOOG",
@@ -892,7 +838,7 @@
       "exStatus": "upcoming",
       "dividendRate": 0.88,
       "dividendYield": 0.26,
-      "price": 341.28
+      "price": 342.01
     },
     {
       "ticker": "GOOGL",
@@ -901,7 +847,7 @@
       "exStatus": "upcoming",
       "dividendRate": 0.88,
       "dividendYield": 0.26,
-      "price": 344.2
+      "price": 345.05
     },
     {
       "ticker": "GPC",
@@ -909,8 +855,8 @@
       "exDate": "2026-09-04",
       "exStatus": "upcoming",
       "dividendRate": 4.25,
-      "dividendYield": 3.22,
-      "price": 131.89
+      "dividendYield": 3.16,
+      "price": 134.47
     },
     {
       "ticker": "KHC",
@@ -918,8 +864,8 @@
       "exDate": "2026-09-04",
       "exStatus": "upcoming",
       "dividendRate": 1.6,
-      "dividendYield": 6.45,
-      "price": 24.82
+      "dividendYield": 6.32,
+      "price": 25.34
     },
     {
       "ticker": "KIM",
@@ -927,8 +873,8 @@
       "exDate": "2026-09-04",
       "exStatus": "upcoming",
       "dividendRate": 1.12,
-      "dividendYield": 4.62,
-      "price": 24.22
+      "dividendYield": 4.61,
+      "price": 24.32
     },
     {
       "ticker": "KMB",
@@ -936,8 +882,8 @@
       "exDate": "2026-09-04",
       "exStatus": "upcoming",
       "dividendRate": 5.12,
-      "dividendYield": 4.75,
-      "price": 107.72
+      "dividendYield": 4.68,
+      "price": 109.47
     },
     {
       "ticker": "LHX",
@@ -946,7 +892,7 @@
       "exStatus": "upcoming",
       "dividendRate": 5.0,
       "dividendYield": 1.79,
-      "price": 279.54
+      "price": 279.7
     },
     {
       "ticker": "NTRS",
@@ -954,8 +900,8 @@
       "exDate": "2026-09-04",
       "exStatus": "upcoming",
       "dividendRate": 3.28,
-      "dividendYield": 1.72,
-      "price": 190.58
+      "dividendYield": 1.74,
+      "price": 188.27
     },
     {
       "ticker": "PEP",
@@ -963,8 +909,8 @@
       "exDate": "2026-09-04",
       "exStatus": "upcoming",
       "dividendRate": 5.92,
-      "dividendYield": 4.22,
-      "price": 140.13
+      "dividendYield": 4.18,
+      "price": 141.68
     },
     {
       "ticker": "PYPL",
@@ -972,8 +918,8 @@
       "exDate": "2026-09-04",
       "exStatus": "upcoming",
       "dividendRate": 0.56,
-      "dividendYield": 0.93,
-      "price": 60.43
+      "dividendYield": 0.91,
+      "price": 61.64
     },
     {
       "ticker": "STE",
@@ -981,8 +927,8 @@
       "exDate": "2026-09-04",
       "exStatus": "upcoming",
       "dividendRate": 2.58,
-      "dividendYield": 1.11,
-      "price": 232.39
+      "dividendYield": 1.09,
+      "price": 236.44
     },
     {
       "ticker": "TPR",
@@ -990,8 +936,8 @@
       "exDate": "2026-09-04",
       "exStatus": "upcoming",
       "dividendRate": 1.85,
-      "dividendYield": 1.4,
-      "price": 132.26
+      "dividendYield": 1.39,
+      "price": 133.33
     },
     {
       "ticker": "TT",
@@ -1000,7 +946,7 @@
       "exStatus": "upcoming",
       "dividendRate": 4.2,
       "dividendYield": 0.91,
-      "price": 463.37
+      "price": 461.3
     },
     {
       "ticker": "WY",
@@ -1008,8 +954,8 @@
       "exDate": "2026-09-04",
       "exStatus": "upcoming",
       "dividendRate": 0.84,
-      "dividendYield": 3.56,
-      "price": 23.61
+      "dividendYield": 3.44,
+      "price": 24.4
     },
     {
       "ticker": "AEE",
@@ -1017,8 +963,8 @@
       "exDate": "2026-09-08",
       "exStatus": "upcoming",
       "dividendRate": 3.0,
-      "dividendYield": 2.74,
-      "price": 109.67
+      "dividendYield": 2.72,
+      "price": 110.26
     },
     {
       "ticker": "AJG",
@@ -1026,8 +972,8 @@
       "exDate": "2026-09-08",
       "exStatus": "upcoming",
       "dividendRate": 2.8,
-      "dividendYield": 1.13,
-      "price": 248.36
+      "dividendYield": 1.09,
+      "price": 257.87
     },
     {
       "ticker": "BLK",
@@ -1035,8 +981,8 @@
       "exDate": "2026-09-08",
       "exStatus": "upcoming",
       "dividendRate": 22.92,
-      "dividendYield": 1.99,
-      "price": 1154.35
+      "dividendYield": 1.95,
+      "price": 1177.67
     },
     {
       "ticker": "CI",
@@ -1044,8 +990,8 @@
       "exDate": "2026-09-08",
       "exStatus": "upcoming",
       "dividendRate": 6.24,
-      "dividendYield": 2.24,
-      "price": 278.5
+      "dividendYield": 2.22,
+      "price": 281.37
     },
     {
       "ticker": "SWK",
@@ -1053,8 +999,8 @@
       "exDate": "2026-09-08",
       "exStatus": "upcoming",
       "dividendRate": 3.36,
-      "dividendYield": 3.41,
-      "price": 98.4
+      "dividendYield": 3.35,
+      "price": 100.28
     },
     {
       "ticker": "WDC",
@@ -1062,8 +1008,8 @@
       "exDate": "2026-09-08",
       "exStatus": "upcoming",
       "dividendRate": 0.6,
-      "dividendYield": 0.12,
-      "price": 496.16
+      "dividendYield": 0.13,
+      "price": 473.5
     },
     {
       "ticker": "BDX",
@@ -1071,8 +1017,8 @@
       "exDate": "2026-09-09",
       "exStatus": "upcoming",
       "dividendRate": 4.2,
-      "dividendYield": 2.32,
-      "price": 180.77
+      "dividendYield": 2.25,
+      "price": 186.63
     },
     {
       "ticker": "CME",
@@ -1080,8 +1026,8 @@
       "exDate": "2026-09-09",
       "exStatus": "upcoming",
       "dividendRate": 5.2,
-      "dividendYield": 1.92,
-      "price": 271.54
+      "dividendYield": 1.91,
+      "price": 271.7
     },
     {
       "ticker": "EG",
@@ -1089,8 +1035,8 @@
       "exDate": "2026-09-09",
       "exStatus": "upcoming",
       "dividendRate": 8.0,
-      "dividendYield": 2.18,
-      "price": 367.38
+      "dividendYield": 2.17,
+      "price": 367.9
     },
     {
       "ticker": "HPQ",
@@ -1098,8 +1044,8 @@
       "exDate": "2026-09-09",
       "exStatus": "upcoming",
       "dividendRate": 1.2,
-      "dividendYield": 4.01,
-      "price": 29.96
+      "dividendYield": 3.95,
+      "price": 30.39
     },
     {
       "ticker": "NWS",
@@ -1108,7 +1054,7 @@
       "exStatus": "upcoming",
       "dividendRate": 0.2,
       "dividendYield": 0.6,
-      "price": 33.49
+      "price": 33.59
     },
     {
       "ticker": "NWSA",
@@ -1117,7 +1063,7 @@
       "exStatus": "upcoming",
       "dividendRate": 0.2,
       "dividendYield": 0.68,
-      "price": 29.39
+      "price": 29.48
     },
     {
       "ticker": "PEG",
@@ -1126,7 +1072,7 @@
       "exStatus": "upcoming",
       "dividendRate": 2.68,
       "dividendYield": 3.54,
-      "price": 75.6
+      "price": 75.75
     },
     {
       "ticker": "SPG",
@@ -1134,8 +1080,8 @@
       "exDate": "2026-09-09",
       "exStatus": "upcoming",
       "dividendRate": 8.9,
-      "dividendYield": 4.03,
-      "price": 220.61
+      "dividendYield": 3.99,
+      "price": 223.01
     },
     {
       "ticker": "OXY",
@@ -1143,8 +1089,8 @@
       "exDate": "2026-09-10",
       "exStatus": "upcoming",
       "dividendRate": 1.12,
-      "dividendYield": 1.87,
-      "price": 59.8
+      "dividendYield": 1.85,
+      "price": 60.69
     },
     {
       "ticker": "TRV",
@@ -1153,7 +1099,7 @@
       "exStatus": "upcoming",
       "dividendRate": 5.0,
       "dividendYield": 1.36,
-      "price": 367.93
+      "price": 366.49
     },
     {
       "ticker": "VFC",
@@ -1161,8 +1107,8 @@
       "exDate": "2026-09-10",
       "exStatus": "upcoming",
       "dividendRate": 0.36,
-      "dividendYield": 2.52,
-      "price": 14.31
+      "dividendYield": 2.49,
+      "price": 14.47
     },
     {
       "ticker": "ADP",
@@ -1170,8 +1116,8 @@
       "exDate": "2026-09-11",
       "exStatus": "upcoming",
       "dividendRate": 6.8,
-      "dividendYield": 2.52,
-      "price": 269.31
+      "dividendYield": 2.44,
+      "price": 278.68
     },
     {
       "ticker": "ALB",
@@ -1179,8 +1125,8 @@
       "exDate": "2026-09-11",
       "exStatus": "upcoming",
       "dividendRate": 1.64,
-      "dividendYield": 1.24,
-      "price": 132.71
+      "dividendYield": 1.21,
+      "price": 135.33
     },
     {
       "ticker": "BKNG",
@@ -1188,8 +1134,8 @@
       "exDate": "2026-09-11",
       "exStatus": "upcoming",
       "dividendRate": 1.68,
-      "dividendYield": 0.81,
-      "price": 208.25
+      "dividendYield": 0.78,
+      "price": 215.65
     },
     {
       "ticker": "CB",
@@ -1198,7 +1144,7 @@
       "exStatus": "upcoming",
       "dividendRate": 4.08,
       "dividendYield": 1.18,
-      "price": 345.29
+      "price": 344.96
     },
     {
       "ticker": "FIS",
@@ -1206,8 +1152,8 @@
       "exDate": "2026-09-11",
       "exStatus": "upcoming",
       "dividendRate": 1.76,
-      "dividendYield": 4.3,
-      "price": 40.95
+      "dividendYield": 4.21,
+      "price": 41.79
     },
     {
       "ticker": "GPN",
@@ -1215,8 +1161,8 @@
       "exDate": "2026-09-11",
       "exStatus": "upcoming",
       "dividendRate": 1.0,
-      "dividendYield": 1.11,
-      "price": 90.37
+      "dividendYield": 1.09,
+      "price": 91.75
     },
     {
       "ticker": "GRMN",
@@ -1224,8 +1170,8 @@
       "exDate": "2026-09-11",
       "exStatus": "upcoming",
       "dividendRate": 4.2,
-      "dividendYield": 1.41,
-      "price": 297.44
+      "dividendYield": 1.38,
+      "price": 304.17
     },
     {
       "ticker": "NDAQ",
@@ -1233,8 +1179,8 @@
       "exDate": "2026-09-11",
       "exStatus": "upcoming",
       "dividendRate": 1.16,
-      "dividendYield": 1.2,
-      "price": 96.71
+      "dividendYield": 1.18,
+      "price": 98.19
     },
     {
       "ticker": "REG",
@@ -1243,7 +1189,7 @@
       "exStatus": "upcoming",
       "dividendRate": 3.02,
       "dividendYield": 3.96,
-      "price": 76.19
+      "price": 76.25
     },
     {
       "ticker": "WMB",
@@ -1251,8 +1197,8 @@
       "exDate": "2026-09-11",
       "exStatus": "upcoming",
       "dividendRate": 2.1,
-      "dividendYield": 2.8,
-      "price": 75.13
+      "dividendYield": 2.85,
+      "price": 73.64
     },
     {
       "ticker": "UNH",
@@ -1261,7 +1207,7 @@
       "exStatus": "upcoming",
       "dividendRate": 9.28,
       "dividendYield": 2.36,
-      "price": 393.93
+      "price": 393.83
     },
     {
       "ticker": "AME",
@@ -1269,8 +1215,8 @@
       "exDate": "2026-09-15",
       "exStatus": "upcoming",
       "dividendRate": 1.36,
-      "dividendYield": 0.54,
-      "price": 249.99
+      "dividendYield": 0.55,
+      "price": 246.04
     },
     {
       "ticker": "CCI",
@@ -1278,8 +1224,8 @@
       "exDate": "2026-09-15",
       "exStatus": "upcoming",
       "dividendRate": 4.25,
-      "dividendYield": 5.74,
-      "price": 74.03
+      "dividendYield": 5.66,
+      "price": 75.06
     },
     {
       "ticker": "DLR",
@@ -1287,8 +1233,8 @@
       "exDate": "2026-09-15",
       "exStatus": "upcoming",
       "dividendRate": 4.88,
-      "dividendYield": 2.5,
-      "price": 195.25
+      "dividendYield": 2.56,
+      "price": 190.28
     },
     {
       "ticker": "DPZ",
@@ -1296,8 +1242,8 @@
       "exDate": "2026-09-15",
       "exStatus": "upcoming",
       "dividendRate": 7.96,
-      "dividendYield": 2.37,
-      "price": 336.25
+      "dividendYield": 2.32,
+      "price": 342.83
     },
     {
       "ticker": "DVN",
@@ -1305,8 +1251,8 @@
       "exDate": "2026-09-15",
       "exStatus": "upcoming",
       "dividendRate": 1.28,
-      "dividendYield": 2.68,
-      "price": 47.83
+      "dividendYield": 2.63,
+      "price": 48.7
     },
     {
       "ticker": "ECL",
@@ -1314,8 +1260,8 @@
       "exDate": "2026-09-15",
       "exStatus": "upcoming",
       "dividendRate": 2.92,
-      "dividendYield": 1.04,
-      "price": 280.0
+      "dividendYield": 1.03,
+      "price": 284.61
     },
     {
       "ticker": "EMN",
@@ -1323,8 +1269,8 @@
       "exDate": "2026-09-15",
       "exStatus": "upcoming",
       "dividendRate": 3.36,
-      "dividendYield": 4.6,
-      "price": 73.0
+      "dividendYield": 4.46,
+      "price": 75.28
     },
     {
       "ticker": "GILD",
@@ -1332,8 +1278,8 @@
       "exDate": "2026-09-15",
       "exStatus": "upcoming",
       "dividendRate": 3.28,
-      "dividendYield": 2.29,
-      "price": 143.44
+      "dividendYield": 2.23,
+      "price": 147.31
     },
     {
       "ticker": "IRM",
@@ -1341,8 +1287,8 @@
       "exDate": "2026-09-15",
       "exStatus": "upcoming",
       "dividendRate": 3.46,
-      "dividendYield": 2.73,
-      "price": 126.67
+      "dividendYield": 2.84,
+      "price": 121.63
     },
     {
       "ticker": "KO",
@@ -1350,8 +1296,8 @@
       "exDate": "2026-09-15",
       "exStatus": "upcoming",
       "dividendRate": 2.12,
-      "dividendYield": 2.39,
-      "price": 88.82
+      "dividendYield": 2.36,
+      "price": 89.79
     },
     {
       "ticker": "LDOS",
@@ -1359,8 +1305,8 @@
       "exDate": "2026-09-15",
       "exStatus": "upcoming",
       "dividendRate": 1.72,
-      "dividendYield": 1.2,
-      "price": 143.48
+      "dividendYield": 1.17,
+      "price": 146.49
     },
     {
       "ticker": "MRK",
@@ -1368,8 +1314,8 @@
       "exDate": "2026-09-15",
       "exStatus": "upcoming",
       "dividendRate": 3.4,
-      "dividendYield": 2.52,
-      "price": 135.17
+      "dividendYield": 2.27,
+      "price": 149.5
     },
     {
       "ticker": "PSA",
@@ -1377,8 +1323,8 @@
       "exDate": "2026-09-15",
       "exStatus": "upcoming",
       "dividendRate": 12.0,
-      "dividendYield": 3.71,
-      "price": 323.1
+      "dividendYield": 3.66,
+      "price": 327.51
     },
     {
       "ticker": "TMO",
@@ -1386,8 +1332,8 @@
       "exDate": "2026-09-15",
       "exStatus": "upcoming",
       "dividendRate": 1.88,
-      "dividendYield": 0.32,
-      "price": 589.04
+      "dividendYield": 0.31,
+      "price": 613.54
     },
     {
       "ticker": "TROW",
@@ -1395,8 +1341,8 @@
       "exDate": "2026-09-15",
       "exStatus": "upcoming",
       "dividendRate": 5.2,
-      "dividendYield": 4.71,
-      "price": 110.32
+      "dividendYield": 4.6,
+      "price": 113.01
     },
     {
       "ticker": "UDR",
@@ -1404,8 +1350,8 @@
       "exDate": "2026-09-15",
       "exStatus": "upcoming",
       "dividendRate": 1.73,
-      "dividendYield": 4.66,
-      "price": 37.09
+      "dividendYield": 4.62,
+      "price": 37.45
     },
     {
       "ticker": "VRSK",
@@ -1413,8 +1359,8 @@
       "exDate": "2026-09-15",
       "exStatus": "upcoming",
       "dividendRate": 2.0,
-      "dividendYield": 1.12,
-      "price": 178.86
+      "dividendYield": 1.09,
+      "price": 184.29
     },
     {
       "ticker": "XEL",
@@ -1422,8 +1368,8 @@
       "exDate": "2026-09-15",
       "exStatus": "upcoming",
       "dividendRate": 2.37,
-      "dividendYield": 2.99,
-      "price": 79.17
+      "dividendYield": 3.0,
+      "price": 79.1
     },
     {
       "ticker": "AIG",
@@ -1431,8 +1377,8 @@
       "exDate": "2026-09-16",
       "exStatus": "upcoming",
       "dividendRate": 2.0,
-      "dividendYield": 2.63,
-      "price": 76.12
+      "dividendYield": 2.62,
+      "price": 76.37
     },
     {
       "ticker": "HCA",
@@ -1440,8 +1386,8 @@
       "exDate": "2026-09-16",
       "exStatus": "upcoming",
       "dividendRate": 3.12,
-      "dividendYield": 0.76,
-      "price": 411.73
+      "dividendYield": 0.74,
+      "price": 420.5
     },
     {
       "ticker": "ICE",
@@ -1449,8 +1395,8 @@
       "exDate": "2026-09-16",
       "exStatus": "upcoming",
       "dividendRate": 2.08,
-      "dividendYield": 1.33,
-      "price": 156.18
+      "dividendYield": 1.31,
+      "price": 158.37
     },
     {
       "ticker": "HBAN",
@@ -1458,8 +1404,8 @@
       "exDate": "2026-09-17",
       "exStatus": "upcoming",
       "dividendRate": 0.62,
-      "dividendYield": 3.51,
-      "price": 17.66
+      "dividendYield": 3.56,
+      "price": 17.43
     },
     {
       "ticker": "IFF",
@@ -1467,8 +1413,8 @@
       "exDate": "2026-09-18",
       "exStatus": "upcoming",
       "dividendRate": 1.6,
-      "dividendYield": 1.98,
-      "price": 81.0
+      "dividendYield": 1.92,
+      "price": 83.42
     },
     {
       "ticker": "OMC",
@@ -1476,8 +1422,8 @@
       "exDate": "2026-09-18",
       "exStatus": "upcoming",
       "dividendRate": 3.2,
-      "dividendYield": 3.71,
-      "price": 86.31
+      "dividendYield": 3.66,
+      "price": 87.53
     },
     {
       "ticker": "DTE",
@@ -1486,7 +1432,7 @@
       "exStatus": "upcoming",
       "dividendRate": 4.66,
       "dividendYield": 3.32,
-      "price": 140.21
+      "price": 140.32
     },
     {
       "ticker": "APH",
@@ -1495,7 +1441,7 @@
       "exStatus": "upcoming",
       "dividendRate": 1.0,
       "dividendYield": 0.63,
-      "price": 159.57
+      "price": 157.74
     },
     {
       "ticker": "STX",
@@ -1503,8 +1449,8 @@
       "exDate": "2026-09-24",
       "exStatus": "upcoming",
       "dividendRate": 2.96,
-      "dividendYield": 0.33,
-      "price": 903.68
+      "dividendYield": 0.35,
+      "price": 847.65
     },
     {
       "ticker": "FMC",
@@ -1512,8 +1458,8 @@
       "exDate": "2026-09-30",
       "exStatus": "upcoming",
       "dividendRate": 0.32,
-      "dividendYield": 3.16,
-      "price": 10.12
+      "dividendYield": 2.92,
+      "price": 10.95
     },
     {
       "ticker": "ITW",
@@ -1521,8 +1467,8 @@
       "exDate": "2026-09-30",
       "exStatus": "upcoming",
       "dividendRate": 6.88,
-      "dividendYield": 2.42,
-      "price": 284.66
+      "dividendYield": 2.39,
+      "price": 288.17
     },
     {
       "ticker": "SYK",
@@ -1530,8 +1476,8 @@
       "exDate": "2026-09-30",
       "exStatus": "upcoming",
       "dividendRate": 3.52,
-      "dividendYield": 1.06,
-      "price": 331.37
+      "dividendYield": 1.04,
+      "price": 338.25
     },
     {
       "ticker": "APD",
@@ -1539,8 +1485,8 @@
       "exDate": "2026-10-01",
       "exStatus": "upcoming",
       "dividendRate": 7.24,
-      "dividendYield": 2.39,
-      "price": 303.23
+      "dividendYield": 2.37,
+      "price": 305.45
     },
     {
       "ticker": "CAH",
@@ -1548,8 +1494,8 @@
       "exDate": "2026-10-01",
       "exStatus": "upcoming",
       "dividendRate": 2.06,
-      "dividendYield": 0.88,
-      "price": 234.98
+      "dividendYield": 0.87,
+      "price": 235.88
     },
     {
       "ticker": "FRT",
@@ -1557,8 +1503,8 @@
       "exDate": "2026-10-01",
       "exStatus": "upcoming",
       "dividendRate": 4.64,
-      "dividendYield": 3.95,
-      "price": 117.48
+      "dividendYield": 3.93,
+      "price": 118.05
     },
     {
       "ticker": "PGR",
@@ -1567,7 +1513,7 @@
       "exStatus": "upcoming",
       "dividendRate": 0.4,
       "dividendYield": 0.19,
-      "price": 207.23
+      "price": 214.11
     },
     {
       "ticker": "STT",
@@ -1575,8 +1521,8 @@
       "exDate": "2026-10-01",
       "exStatus": "upcoming",
       "dividendRate": 3.68,
-      "dividendYield": 1.92,
-      "price": 191.87
+      "dividendYield": 1.95,
+      "price": 188.72
     },
     {
       "ticker": "CSCO",
@@ -1584,8 +1530,8 @@
       "exDate": "2026-10-02",
       "exStatus": "upcoming",
       "dividendRate": 1.68,
-      "dividendYield": 1.51,
-      "price": 111.61
+      "dividendYield": 1.5,
+      "price": 111.96
     },
     {
       "ticker": "ROP",
@@ -1593,8 +1539,8 @@
       "exDate": "2026-10-02",
       "exStatus": "upcoming",
       "dividendRate": 3.64,
-      "dividendYield": 0.92,
-      "price": 394.17
+      "dividendYield": 0.89,
+      "price": 408.79
     },
     {
       "ticker": "RSG",
@@ -1602,8 +1548,8 @@
       "exDate": "2026-10-02",
       "exStatus": "upcoming",
       "dividendRate": 2.68,
-      "dividendYield": 1.24,
-      "price": 216.97
+      "dividendYield": 1.2,
+      "price": 223.72
     },
     {
       "ticker": "GL",
@@ -1611,8 +1557,8 @@
       "exDate": "2026-10-05",
       "exStatus": "upcoming",
       "dividendRate": 1.32,
-      "dividendYield": 0.74,
-      "price": 178.08
+      "dividendYield": 0.75,
+      "price": 175.31
     },
     {
       "ticker": "DGX",
@@ -1620,8 +1566,8 @@
       "exDate": "2026-10-06",
       "exStatus": "upcoming",
       "dividendRate": 3.44,
-      "dividendYield": 1.46,
-      "price": 236.25
+      "dividendYield": 1.42,
+      "price": 241.48
     },
     {
       "ticker": "CMCSA",
@@ -1629,8 +1575,8 @@
       "exDate": "2026-10-07",
       "exStatus": "upcoming",
       "dividendRate": 1.32,
-      "dividendYield": 5.04,
-      "price": 26.2
+      "dividendYield": 4.89,
+      "price": 27.02
     },
     {
       "ticker": "GD",
@@ -1638,8 +1584,8 @@
       "exDate": "2026-10-09",
       "exStatus": "upcoming",
       "dividendRate": 6.36,
-      "dividendYield": 1.62,
-      "price": 393.48
+      "dividendYield": 1.61,
+      "price": 395.36
     },
     {
       "ticker": "EOG",
@@ -1647,8 +1593,8 @@
       "exDate": "2026-10-16",
       "exStatus": "upcoming",
       "dividendRate": 4.08,
-      "dividendYield": 2.74,
-      "price": 148.7
+      "dividendYield": 2.7,
+      "price": 151.17
     },
     {
       "ticker": "NI",
@@ -1656,8 +1602,17 @@
       "exDate": "2026-10-30",
       "exStatus": "upcoming",
       "dividendRate": 1.2,
-      "dividendYield": 2.85,
-      "price": 42.12
+      "dividendYield": 2.87,
+      "price": 41.85
+    },
+    {
+      "ticker": "BG",
+      "company": "Bunge",
+      "exDate": "2026-11-17",
+      "exStatus": "upcoming",
+      "dividendRate": 2.88,
+      "dividendYield": 2.49,
+      "price": 115.46
     },
     {
       "ticker": "TDG",
@@ -1666,7 +1621,7 @@
       "exStatus": "recent",
       "dividendRate": 0.0,
       "dividendYield": 0.0,
-      "price": 1233.78
+      "price": 1230.77
     },
     {
       "ticker": "VNO",
@@ -1674,8 +1629,8 @@
       "exDate": "2025-12-18",
       "exStatus": "recent",
       "dividendRate": 0.74,
-      "dividendYield": 1.96,
-      "price": 37.75
+      "dividendYield": 1.92,
+      "price": 38.49
     },
     {
       "ticker": "XRAY",
@@ -1683,8 +1638,8 @@
       "exDate": "2025-12-26",
       "exStatus": "recent",
       "dividendRate": 0.64,
-      "dividendYield": 5.76,
-      "price": 11.11
+      "dividendYield": 5.61,
+      "price": 11.4
     },
     {
       "ticker": "WHR",
@@ -1692,8 +1647,8 @@
       "exDate": "2026-02-27",
       "exStatus": "recent",
       "dividendRate": 4.45,
-      "dividendYield": 11.33,
-      "price": 39.27
+      "dividendYield": 10.9,
+      "price": 40.84
     },
     {
       "ticker": "PH",
@@ -1701,8 +1656,8 @@
       "exDate": "2026-05-08",
       "exStatus": "recent",
       "dividendRate": 8.0,
-      "dividendYield": 0.77,
-      "price": 1041.85
+      "dividendYield": 0.78,
+      "price": 1027.35
     },
     {
       "ticker": "ES",
@@ -1710,8 +1665,8 @@
       "exDate": "2026-05-18",
       "exStatus": "recent",
       "dividendRate": 3.15,
-      "dividendYield": 4.36,
-      "price": 72.22
+      "dividendYield": 4.35,
+      "price": 72.38
     },
     {
       "ticker": "MOS",
@@ -1719,8 +1674,8 @@
       "exDate": "2026-05-21",
       "exStatus": "recent",
       "dividendRate": 0.88,
-      "dividendYield": 4.16,
-      "price": 21.14
+      "dividendYield": 3.91,
+      "price": 22.5
     },
     {
       "ticker": "TER",
@@ -1728,8 +1683,8 @@
       "exDate": "2026-05-21",
       "exStatus": "recent",
       "dividendRate": 0.52,
-      "dividendYield": 0.13,
-      "price": 404.29
+      "dividendYield": 0.14,
+      "price": 383.01
     },
     {
       "ticker": "EFX",
@@ -1737,8 +1692,8 @@
       "exDate": "2026-05-22",
       "exStatus": "recent",
       "dividendRate": 2.24,
-      "dividendYield": 1.23,
-      "price": 181.84
+      "dividendYield": 1.16,
+      "price": 193.81
     },
     {
       "ticker": "SWKS",
@@ -1746,8 +1701,8 @@
       "exDate": "2026-05-26",
       "exStatus": "recent",
       "dividendRate": 2.84,
-      "dividendYield": 4.21,
-      "price": 67.43
+      "dividendYield": 4.11,
+      "price": 69.09
     },
     {
       "ticker": "EA",
@@ -1764,8 +1719,8 @@
       "exDate": "2026-05-27",
       "exStatus": "recent",
       "dividendRate": 3.0,
-      "dividendYield": 2.07,
-      "price": 144.86
+      "dividendYield": 2.04,
+      "price": 147.36
     },
     {
       "ticker": "EL",
@@ -1773,8 +1728,8 @@
       "exDate": "2026-05-29",
       "exStatus": "recent",
       "dividendRate": 1.4,
-      "dividendYield": 1.66,
-      "price": 84.27
+      "dividendYield": 1.43,
+      "price": 97.6
     },
     {
       "ticker": "EXPD",
@@ -1783,7 +1738,7 @@
       "exStatus": "recent",
       "dividendRate": 1.62,
       "dividendYield": 0.87,
-      "price": 185.95
+      "price": 186.47
     },
     {
       "ticker": "JKHY",
@@ -1791,8 +1746,8 @@
       "exDate": "2026-06-01",
       "exStatus": "recent",
       "dividendRate": 2.38,
-      "dividendYield": 1.55,
-      "price": 153.12
+      "dividendYield": 1.43,
+      "price": 166.55
     },
     {
       "ticker": "MTB",
@@ -1800,8 +1755,8 @@
       "exDate": "2026-06-01",
       "exStatus": "recent",
       "dividendRate": 6.0,
-      "dividendYield": 2.39,
-      "price": 251.5
+      "dividendYield": 2.42,
+      "price": 248.18
     },
     {
       "ticker": "NOC",
@@ -1809,8 +1764,8 @@
       "exDate": "2026-06-01",
       "exStatus": "recent",
       "dividendRate": 9.4,
-      "dividendYield": 1.6,
-      "price": 589.14
+      "dividendYield": 1.59,
+      "price": 589.63
     },
     {
       "ticker": "ADI",
@@ -1818,8 +1773,8 @@
       "exDate": "2026-06-02",
       "exStatus": "recent",
       "dividendRate": 4.4,
-      "dividendYield": 1.17,
-      "price": 376.63
+      "dividendYield": 1.16,
+      "price": 380.37
     },
     {
       "ticker": "HAL",
@@ -1827,8 +1782,8 @@
       "exDate": "2026-06-03",
       "exStatus": "recent",
       "dividendRate": 0.68,
-      "dividendYield": 1.96,
-      "price": 34.66
+      "dividendYield": 1.93,
+      "price": 35.18
     },
     {
       "ticker": "RCL",
@@ -1836,8 +1791,8 @@
       "exDate": "2026-06-03",
       "exStatus": "recent",
       "dividendRate": 5.0,
-      "dividendYield": 1.67,
-      "price": 300.0
+      "dividendYield": 1.65,
+      "price": 302.73
     },
     {
       "ticker": "HD",
@@ -1845,8 +1800,8 @@
       "exDate": "2026-06-04",
       "exStatus": "recent",
       "dividendRate": 9.32,
-      "dividendYield": 2.76,
-      "price": 337.49
+      "dividendYield": 2.68,
+      "price": 347.59
     },
     {
       "ticker": "NVDA",
@@ -1855,7 +1810,7 @@
       "exStatus": "recent",
       "dividendRate": 1.0,
       "dividendYield": 0.46,
-      "price": 219.74
+      "price": 219.2
     },
     {
       "ticker": "WM",
@@ -1863,8 +1818,8 @@
       "exDate": "2026-06-05",
       "exStatus": "recent",
       "dividendRate": 3.54,
-      "dividendYield": 1.58,
-      "price": 223.58
+      "dividendYield": 1.55,
+      "price": 228.09
     },
     {
       "ticker": "ROST",
@@ -1873,7 +1828,7 @@
       "exStatus": "recent",
       "dividendRate": 1.78,
       "dividendYield": 0.75,
-      "price": 236.38
+      "price": 236.02
     },
     {
       "ticker": "PPL",
@@ -1881,8 +1836,8 @@
       "exDate": "2026-06-10",
       "exStatus": "recent",
       "dividendRate": 1.14,
-      "dividendYield": 3.2,
-      "price": 35.62
+      "dividendYield": 3.21,
+      "price": 35.56
     },
     {
       "ticker": "CRM",
@@ -1890,8 +1845,8 @@
       "exDate": "2026-06-11",
       "exStatus": "recent",
       "dividendRate": 1.76,
-      "dividendYield": 0.9,
-      "price": 196.14
+      "dividendYield": 0.86,
+      "price": 205.68
     },
     {
       "ticker": "AMT",
@@ -1899,8 +1854,8 @@
       "exDate": "2026-06-12",
       "exStatus": "recent",
       "dividendRate": 6.98,
-      "dividendYield": 4.05,
-      "price": 172.33
+      "dividendYield": 4.0,
+      "price": 174.6
     },
     {
       "ticker": "ALLE",
@@ -1908,8 +1863,8 @@
       "exDate": "2026-06-15",
       "exStatus": "recent",
       "dividendRate": 2.12,
-      "dividendYield": 1.33,
-      "price": 159.83
+      "dividendYield": 1.29,
+      "price": 163.97
     },
     {
       "ticker": "EXR",
@@ -1917,8 +1872,8 @@
       "exDate": "2026-06-15",
       "exStatus": "recent",
       "dividendRate": 6.48,
-      "dividendYield": 4.41,
-      "price": 146.92
+      "dividendYield": 4.34,
+      "price": 149.19
     },
     {
       "ticker": "JCI",
@@ -1926,8 +1881,8 @@
       "exDate": "2026-06-15",
       "exStatus": "recent",
       "dividendRate": 1.6,
-      "dividendYield": 1.07,
-      "price": 149.68
+      "dividendYield": 1.08,
+      "price": 148.22
     },
     {
       "ticker": "META",
@@ -1935,8 +1890,8 @@
       "exDate": "2026-06-15",
       "exStatus": "recent",
       "dividendRate": 2.1,
-      "dividendYield": 0.39,
-      "price": 543.67
+      "dividendYield": 0.38,
+      "price": 548.36
     },
     {
       "ticker": "MO",
@@ -1944,8 +1899,8 @@
       "exDate": "2026-06-15",
       "exStatus": "recent",
       "dividendRate": 4.24,
-      "dividendYield": 6.5,
-      "price": 65.19
+      "dividendYield": 6.48,
+      "price": 65.42
     },
     {
       "ticker": "PKG",
@@ -1953,8 +1908,8 @@
       "exDate": "2026-06-15",
       "exStatus": "recent",
       "dividendRate": 6.0,
-      "dividendYield": 2.4,
-      "price": 250.3
+      "dividendYield": 2.36,
+      "price": 254.42
     },
     {
       "ticker": "HPE",
@@ -1962,8 +1917,8 @@
       "exDate": "2026-06-16",
       "exStatus": "recent",
       "dividendRate": 0.57,
-      "dividendYield": 1.02,
-      "price": 55.69
+      "dividendYield": 1.08,
+      "price": 52.85
     },
     {
       "ticker": "PHM",
@@ -1971,8 +1926,8 @@
       "exDate": "2026-06-16",
       "exStatus": "recent",
       "dividendRate": 1.04,
-      "dividendYield": 0.83,
-      "price": 126.05
+      "dividendYield": 0.79,
+      "price": 132.31
     },
     {
       "ticker": "PLD",
@@ -1980,8 +1935,8 @@
       "exDate": "2026-06-16",
       "exStatus": "recent",
       "dividendRate": 4.28,
-      "dividendYield": 3.06,
-      "price": 140.02
+      "dividendYield": 3.03,
+      "price": 141.14
     },
     {
       "ticker": "LRCX",
@@ -1989,8 +1944,8 @@
       "exDate": "2026-06-17",
       "exStatus": "recent",
       "dividendRate": 1.04,
-      "dividendYield": 0.32,
-      "price": 327.92
+      "dividendYield": 0.33,
+      "price": 312.01
     },
     {
       "ticker": "MSI",
@@ -1998,8 +1953,8 @@
       "exDate": "2026-06-17",
       "exStatus": "recent",
       "dividendRate": 4.84,
-      "dividendYield": 1.03,
-      "price": 469.5
+      "dividendYield": 1.01,
+      "price": 480.38
     },
     {
       "ticker": "BBY",
@@ -2007,8 +1962,8 @@
       "exDate": "2026-06-18",
       "exStatus": "recent",
       "dividendRate": 3.84,
-      "dividendYield": 4.4,
-      "price": 87.27
+      "dividendYield": 4.28,
+      "price": 89.66
     },
     {
       "ticker": "VICI",
@@ -2016,8 +1971,8 @@
       "exDate": "2026-06-18",
       "exStatus": "recent",
       "dividendRate": 1.8,
-      "dividendYield": 6.95,
-      "price": 25.91
+      "dividendYield": 6.86,
+      "price": 26.22
     },
     {
       "ticker": "AVGO",
@@ -2025,8 +1980,8 @@
       "exDate": "2026-06-22",
       "exStatus": "recent",
       "dividendRate": 2.6,
-      "dividendYield": 0.68,
-      "price": 380.0
+      "dividendYield": 0.72,
+      "price": 360.44
     },
     {
       "ticker": "FDX",
@@ -2034,8 +1989,8 @@
       "exDate": "2026-06-22",
       "exStatus": "recent",
       "dividendRate": 4.88,
-      "dividendYield": 1.49,
-      "price": 328.38
+      "dividendYield": 1.46,
+      "price": 334.52
     },
     {
       "ticker": "FTV",
@@ -2044,7 +1999,7 @@
       "exStatus": "recent",
       "dividendRate": 0.24,
       "dividendYield": 0.4,
-      "price": 59.45
+      "price": 59.98
     },
     {
       "ticker": "CINF",
@@ -2052,8 +2007,8 @@
       "exDate": "2026-06-23",
       "exStatus": "recent",
       "dividendRate": 3.76,
-      "dividendYield": 2.19,
-      "price": 171.35
+      "dividendYield": 2.2,
+      "price": 170.72
     },
     {
       "ticker": "WRB",
@@ -2062,7 +2017,7 @@
       "exStatus": "recent",
       "dividendRate": 0.4,
       "dividendYield": 0.57,
-      "price": 70.17
+      "price": 70.6
     },
     {
       "ticker": "NXPI",
@@ -2071,7 +2026,7 @@
       "exStatus": "recent",
       "dividendRate": 4.06,
       "dividendYield": 1.78,
-      "price": 228.56
+      "price": 228.29
     },
     {
       "ticker": "INVH",
@@ -2079,8 +2034,8 @@
       "exDate": "2026-06-25",
       "exStatus": "recent",
       "dividendRate": 1.2,
-      "dividendYield": 4.04,
-      "price": 29.72
+      "dividendYield": 3.98,
+      "price": 30.14
     },
     {
       "ticker": "PM",
@@ -2088,8 +2043,8 @@
       "exDate": "2026-06-25",
       "exStatus": "recent",
       "dividendRate": 5.88,
-      "dividendYield": 3.13,
-      "price": 187.62
+      "dividendYield": 3.12,
+      "price": 188.5
     },
     {
       "ticker": "SRE",
@@ -2097,8 +2052,8 @@
       "exDate": "2026-06-25",
       "exStatus": "recent",
       "dividendRate": 2.63,
-      "dividendYield": 3.02,
-      "price": 87.18
+      "dividendYield": 3.03,
+      "price": 86.78
     },
     {
       "ticker": "ZBH",
@@ -2106,8 +2061,8 @@
       "exDate": "2026-06-25",
       "exStatus": "recent",
       "dividendRate": 0.96,
-      "dividendYield": 0.97,
-      "price": 99.15
+      "dividendYield": 0.95,
+      "price": 100.77
     },
     {
       "ticker": "DHR",
@@ -2115,8 +2070,8 @@
       "exDate": "2026-06-26",
       "exStatus": "recent",
       "dividendRate": 1.6,
-      "dividendYield": 0.8,
-      "price": 199.58
+      "dividendYield": 0.76,
+      "price": 209.86
     },
     {
       "ticker": "HUM",
@@ -2125,7 +2080,7 @@
       "exStatus": "recent",
       "dividendRate": 3.54,
       "dividendYield": 0.93,
-      "price": 382.0
+      "price": 380.89
     },
     {
       "ticker": "KDP",
@@ -2133,8 +2088,8 @@
       "exDate": "2026-06-26",
       "exStatus": "recent",
       "dividendRate": 0.92,
-      "dividendYield": 2.99,
-      "price": 30.79
+      "dividendYield": 2.98,
+      "price": 30.88
     },
     {
       "ticker": "MDT",
@@ -2142,8 +2097,8 @@
       "exDate": "2026-06-26",
       "exStatus": "recent",
       "dividendRate": 2.88,
-      "dividendYield": 3.13,
-      "price": 92.09
+      "dividendYield": 3.07,
+      "price": 93.78
     },
     {
       "ticker": "RL",
@@ -2151,8 +2106,8 @@
       "exDate": "2026-06-26",
       "exStatus": "recent",
       "dividendRate": 3.74,
-      "dividendYield": 0.99,
-      "price": 378.25
+      "dividendYield": 0.98,
+      "price": 381.74
     },
     {
       "ticker": "BEN",
@@ -2160,8 +2115,8 @@
       "exDate": "2026-06-29",
       "exStatus": "recent",
       "dividendRate": 1.32,
-      "dividendYield": 3.88,
-      "price": 33.99
+      "dividendYield": 3.84,
+      "price": 34.36
     },
     {
       "ticker": "EQR",
@@ -2178,8 +2133,8 @@
       "exDate": "2026-06-30",
       "exStatus": "recent",
       "dividendRate": 1.02,
-      "dividendYield": 0.69,
-      "price": 148.44
+      "dividendYield": 0.66,
+      "price": 154.1
     },
     {
       "ticker": "ARE",
@@ -2187,8 +2142,8 @@
       "exDate": "2026-06-30",
       "exStatus": "recent",
       "dividendRate": 2.88,
-      "dividendYield": 6.28,
-      "price": 45.84
+      "dividendYield": 5.89,
+      "price": 48.89
     },
     {
       "ticker": "AVB",
@@ -2205,8 +2160,8 @@
       "exDate": "2026-06-30",
       "exStatus": "recent",
       "dividendRate": 4.24,
-      "dividendYield": 3.95,
-      "price": 107.28
+      "dividendYield": 3.91,
+      "price": 108.42
     },
     {
       "ticker": "DE",
@@ -2214,8 +2169,8 @@
       "exDate": "2026-06-30",
       "exStatus": "recent",
       "dividendRate": 6.48,
-      "dividendYield": 1.1,
-      "price": 588.72
+      "dividendYield": 1.09,
+      "price": 592.51
     },
     {
       "ticker": "DIS",
@@ -2223,8 +2178,8 @@
       "exDate": "2026-06-30",
       "exStatus": "recent",
       "dividendRate": 1.5,
-      "dividendYield": 1.44,
-      "price": 103.95
+      "dividendYield": 1.4,
+      "price": 106.77
     },
     {
       "ticker": "ESS",
@@ -2232,8 +2187,8 @@
       "exDate": "2026-06-30",
       "exStatus": "recent",
       "dividendRate": 10.36,
-      "dividendYield": 3.65,
-      "price": 283.71
+      "dividendYield": 3.61,
+      "price": 287.07
     },
     {
       "ticker": "FITB",
@@ -2241,8 +2196,8 @@
       "exDate": "2026-06-30",
       "exStatus": "recent",
       "dividendRate": 1.6,
-      "dividendYield": 2.79,
-      "price": 57.29
+      "dividendYield": 2.84,
+      "price": 56.33
     },
     {
       "ticker": "HST",
@@ -2250,8 +2205,8 @@
       "exDate": "2026-06-30",
       "exStatus": "recent",
       "dividendRate": 0.8,
-      "dividendYield": 3.49,
-      "price": 22.92
+      "dividendYield": 3.44,
+      "price": 23.23
     },
     {
       "ticker": "MDLZ",
@@ -2259,8 +2214,8 @@
       "exDate": "2026-06-30",
       "exStatus": "recent",
       "dividendRate": 2.0,
-      "dividendYield": 3.19,
-      "price": 62.66
+      "dividendYield": 3.15,
+      "price": 63.48
     },
     {
       "ticker": "MPWR",
@@ -2268,8 +2223,8 @@
       "exDate": "2026-06-30",
       "exStatus": "recent",
       "dividendRate": 8.0,
-      "dividendYield": 0.6,
-      "price": 1333.18
+      "dividendYield": 0.61,
+      "price": 1310.56
     },
     {
       "ticker": "NUE",
@@ -2278,7 +2233,7 @@
       "exStatus": "recent",
       "dividendRate": 2.24,
       "dividendYield": 0.85,
-      "price": 264.19
+      "price": 263.9
     },
     {
       "ticker": "PCG",
@@ -2287,7 +2242,7 @@
       "exStatus": "recent",
       "dividendRate": 0.2,
       "dividendYield": 1.12,
-      "price": 17.82
+      "price": 17.86
     },
     {
       "ticker": "USB",
@@ -2295,8 +2250,8 @@
       "exDate": "2026-06-30",
       "exStatus": "recent",
       "dividendRate": 2.08,
-      "dividendYield": 3.21,
-      "price": 64.79
+      "dividendYield": 3.27,
+      "price": 63.54
     },
     {
       "ticker": "VTR",
@@ -2304,8 +2259,8 @@
       "exDate": "2026-06-30",
       "exStatus": "recent",
       "dividendRate": 2.0,
-      "dividendYield": 2.19,
-      "price": 91.2
+      "dividendYield": 2.18,
+      "price": 91.67
     },
     {
       "ticker": "WTW",
@@ -2313,8 +2268,8 @@
       "exDate": "2026-06-30",
       "exStatus": "recent",
       "dividendRate": 3.84,
-      "dividendYield": 1.17,
-      "price": 327.9
+      "dividendYield": 1.14,
+      "price": 336.13
     },
     {
       "ticker": "PWR",
@@ -2322,8 +2277,8 @@
       "exDate": "2026-07-01",
       "exStatus": "recent",
       "dividendRate": 0.44,
-      "dividendYield": 0.06,
-      "price": 696.15
+      "dividendYield": 0.07,
+      "price": 669.23
     },
     {
       "ticker": "RJF",
@@ -2332,7 +2287,7 @@
       "exStatus": "recent",
       "dividendRate": 2.16,
       "dividendYield": 1.2,
-      "price": 179.3
+      "price": 180.23
     },
     {
       "ticker": "AXP",
@@ -2340,8 +2295,8 @@
       "exDate": "2026-07-02",
       "exStatus": "recent",
       "dividendRate": 3.8,
-      "dividendYield": 1.12,
-      "price": 338.52
+      "dividendYield": 1.1,
+      "price": 344.43
     },
     {
       "ticker": "BMY",
@@ -2349,8 +2304,8 @@
       "exDate": "2026-07-02",
       "exStatus": "recent",
       "dividendRate": 2.52,
-      "dividendYield": 3.82,
-      "price": 66.05
+      "dividendYield": 3.71,
+      "price": 67.9
     },
     {
       "ticker": "CPB",
@@ -2358,8 +2313,8 @@
       "exDate": "2026-07-02",
       "exStatus": "recent",
       "dividendRate": 1.56,
-      "dividendYield": 6.82,
-      "price": 22.86
+      "dividendYield": 6.72,
+      "price": 23.2
     },
     {
       "ticker": "SYY",
@@ -2367,8 +2322,8 @@
       "exDate": "2026-07-02",
       "exStatus": "recent",
       "dividendRate": 2.2,
-      "dividendYield": 2.68,
-      "price": 81.96
+      "dividendYield": 2.66,
+      "price": 82.62
     },
     {
       "ticker": "GE",
@@ -2376,8 +2331,8 @@
       "exDate": "2026-07-06",
       "exStatus": "recent",
       "dividendRate": 1.88,
-      "dividendYield": 0.5,
-      "price": 375.09
+      "dividendYield": 0.52,
+      "price": 362.27
     },
     {
       "ticker": "IEX",
@@ -2386,7 +2341,7 @@
       "exStatus": "recent",
       "dividendRate": 2.92,
       "dividendYield": 1.25,
-      "price": 234.16
+      "price": 234.29
     },
     {
       "ticker": "JPM",
@@ -2394,8 +2349,8 @@
       "exDate": "2026-07-06",
       "exStatus": "recent",
       "dividendRate": 6.0,
-      "dividendYield": 1.65,
-      "price": 363.25
+      "dividendYield": 1.67,
+      "price": 358.95
     },
     {
       "ticker": "MKC",
@@ -2403,8 +2358,8 @@
       "exDate": "2026-07-06",
       "exStatus": "recent",
       "dividendRate": 1.92,
-      "dividendYield": 3.47,
-      "price": 55.28
+      "dividendYield": 3.44,
+      "price": 55.86
     },
     {
       "ticker": "MU",
@@ -2413,7 +2368,7 @@
       "exStatus": "recent",
       "dividendRate": 0.53,
       "dividendYield": 0.06,
-      "price": 940.76
+      "price": 932.71
     },
     {
       "ticker": "DG",
@@ -2421,8 +2376,8 @@
       "exDate": "2026-07-07",
       "exStatus": "recent",
       "dividendRate": 2.36,
-      "dividendYield": 1.95,
-      "price": 120.84
+      "dividendYield": 1.91,
+      "price": 123.55
     },
     {
       "ticker": "EIX",
@@ -2430,8 +2385,8 @@
       "exDate": "2026-07-07",
       "exStatus": "recent",
       "dividendRate": 3.51,
-      "dividendYield": 4.76,
-      "price": 73.69
+      "dividendYield": 4.75,
+      "price": 73.83
     },
     {
       "ticker": "ACN",
@@ -2439,8 +2394,8 @@
       "exDate": "2026-07-09",
       "exStatus": "recent",
       "dividendRate": 6.52,
-      "dividendYield": 3.77,
-      "price": 172.93
+      "dividendYield": 3.52,
+      "price": 185.3
     },
     {
       "ticker": "DAL",
@@ -2448,8 +2403,8 @@
       "exDate": "2026-07-09",
       "exStatus": "recent",
       "dividendRate": 0.78,
-      "dividendYield": 0.91,
-      "price": 85.7
+      "dividendYield": 0.92,
+      "price": 84.9
     },
     {
       "ticker": "INTU",
@@ -2457,8 +2412,8 @@
       "exDate": "2026-07-09",
       "exStatus": "recent",
       "dividendRate": 4.8,
-      "dividendYield": 1.37,
-      "price": 350.41
+      "dividendYield": 1.32,
+      "price": 364.01
     },
     {
       "ticker": "MA",
@@ -2466,8 +2421,8 @@
       "exDate": "2026-07-09",
       "exStatus": "recent",
       "dividendRate": 3.48,
-      "dividendYield": 0.61,
-      "price": 574.31
+      "dividendYield": 0.6,
+      "price": 581.71
     },
     {
       "ticker": "AAP",
@@ -2475,17 +2430,17 @@
       "exDate": "2026-07-10",
       "exStatus": "recent",
       "dividendRate": 1.0,
-      "dividendYield": 1.76,
-      "price": 56.96
+      "dividendYield": 1.72,
+      "price": 57.99
     },
     {
       "ticker": "DRI",
       "company": "Darden Restaurants",
       "exDate": "2026-07-10",
       "exStatus": "recent",
-      "dividendRate": 6.12,
-      "dividendYield": 2.8,
-      "price": 218.86
+      "dividendRate": 6.48,
+      "dividendYield": 2.88,
+      "price": 224.73
     },
     {
       "ticker": "GIS",
@@ -2493,8 +2448,8 @@
       "exDate": "2026-07-10",
       "exStatus": "recent",
       "dividendRate": 2.44,
-      "dividendYield": 6.41,
-      "price": 38.08
+      "dividendYield": 6.24,
+      "price": 39.09
     },
     {
       "ticker": "LEN",
@@ -2502,8 +2457,8 @@
       "exDate": "2026-07-10",
       "exStatus": "recent",
       "dividendRate": 2.0,
-      "dividendYield": 2.35,
-      "price": 84.94
+      "dividendYield": 2.24,
+      "price": 89.17
     },
     {
       "ticker": "NTAP",
@@ -2511,8 +2466,8 @@
       "exDate": "2026-07-10",
       "exStatus": "recent",
       "dividendRate": 2.08,
-      "dividendYield": 1.02,
-      "price": 204.71
+      "dividendYield": 1.04,
+      "price": 199.33
     },
     {
       "ticker": "ORCL",
@@ -2520,8 +2475,8 @@
       "exDate": "2026-07-10",
       "exStatus": "recent",
       "dividendRate": 2.0,
-      "dividendYield": 1.4,
-      "price": 142.79
+      "dividendYield": 1.41,
+      "price": 141.94
     },
     {
       "ticker": "T",
@@ -2529,8 +2484,8 @@
       "exDate": "2026-07-10",
       "exStatus": "recent",
       "dividendRate": 1.11,
-      "dividendYield": 4.46,
-      "price": 24.9
+      "dividendYield": 4.36,
+      "price": 25.44
     },
     {
       "ticker": "VZ",
@@ -2538,8 +2493,8 @@
       "exDate": "2026-07-10",
       "exStatus": "recent",
       "dividendRate": 2.83,
-      "dividendYield": 5.83,
-      "price": 48.54
+      "dividendYield": 5.72,
+      "price": 49.49
     },
     {
       "ticker": "HRL",
@@ -2547,8 +2502,8 @@
       "exDate": "2026-07-13",
       "exStatus": "recent",
       "dividendRate": 1.17,
-      "dividendYield": 4.81,
-      "price": 24.34
+      "dividendYield": 4.77,
+      "price": 24.52
     },
     {
       "ticker": "ABBV",
@@ -2556,8 +2511,8 @@
       "exDate": "2026-07-15",
       "exStatus": "recent",
       "dividendRate": 6.92,
-      "dividendYield": 2.67,
-      "price": 258.92
+      "dividendYield": 2.62,
+      "price": 263.9
     },
     {
       "ticker": "ABT",
@@ -2565,8 +2520,8 @@
       "exDate": "2026-07-15",
       "exStatus": "recent",
       "dividendRate": 2.52,
-      "dividendYield": 2.24,
-      "price": 112.68
+      "dividendYield": 2.19,
+      "price": 115.01
     },
     {
       "ticker": "FCX",
@@ -2574,8 +2529,8 @@
       "exDate": "2026-07-15",
       "exStatus": "recent",
       "dividendRate": 0.6,
-      "dividendYield": 0.9,
-      "price": 66.32
+      "dividendYield": 0.86,
+      "price": 69.4
     },
     {
       "ticker": "MAA",
@@ -2583,8 +2538,8 @@
       "exDate": "2026-07-15",
       "exStatus": "recent",
       "dividendRate": 6.12,
-      "dividendYield": 4.7,
-      "price": 130.17
+      "dividendYield": 4.64,
+      "price": 131.91
     },
     {
       "ticker": "CAT",
@@ -2592,8 +2547,8 @@
       "exDate": "2026-07-20",
       "exStatus": "recent",
       "dividendRate": 6.52,
-      "dividendYield": 0.78,
-      "price": 840.87
+      "dividendYield": 0.8,
+      "price": 810.55
     },
     {
       "ticker": "CL",
@@ -2601,8 +2556,8 @@
       "exDate": "2026-07-20",
       "exStatus": "recent",
       "dividendRate": 2.12,
-      "dividendYield": 2.32,
-      "price": 91.46
+      "dividendYield": 2.3,
+      "price": 92.03
     },
     {
       "ticker": "PNC",
@@ -2610,8 +2565,8 @@
       "exDate": "2026-07-20",
       "exStatus": "recent",
       "dividendRate": 8.0,
-      "dividendYield": 3.15,
-      "price": 254.28
+      "dividendYield": 3.2,
+      "price": 250.0
     },
     {
       "ticker": "ZTS",
@@ -2619,8 +2574,8 @@
       "exDate": "2026-07-20",
       "exStatus": "recent",
       "dividendRate": 2.12,
-      "dividendYield": 2.87,
-      "price": 73.96
+      "dividendYield": 2.75,
+      "price": 77.03
     },
     {
       "ticker": "CARR",
@@ -2629,7 +2584,7 @@
       "exStatus": "recent",
       "dividendRate": 0.96,
       "dividendYield": 1.56,
-      "price": 61.42
+      "price": 61.63
     },
     {
       "ticker": "APA",
@@ -2637,8 +2592,8 @@
       "exDate": "2026-07-22",
       "exStatus": "recent",
       "dividendRate": 1.0,
-      "dividendYield": 2.36,
-      "price": 42.37
+      "dividendYield": 2.24,
+      "price": 44.55
     },
     {
       "ticker": "LOW",
@@ -2646,8 +2601,8 @@
       "exDate": "2026-07-22",
       "exStatus": "recent",
       "dividendRate": 5.0,
-      "dividendYield": 2.32,
-      "price": 215.64
+      "dividendYield": 2.24,
+      "price": 223.38
     },
     {
       "ticker": "CVS",
@@ -2656,7 +2611,7 @@
       "exStatus": "recent",
       "dividendRate": 2.66,
       "dividendYield": 2.8,
-      "price": 94.91
+      "price": 95.12
     },
     {
       "ticker": "COST",
@@ -2664,8 +2619,8 @@
       "exDate": "2026-07-24",
       "exStatus": "recent",
       "dividendRate": 5.88,
-      "dividendYield": 0.61,
-      "price": 961.35
+      "dividendYield": 0.6,
+      "price": 974.74
     },
     {
       "ticker": "GEHC",
@@ -2674,7 +2629,7 @@
       "exStatus": "recent",
       "dividendRate": 0.14,
       "dividendYield": 0.19,
-      "price": 72.63
+      "price": 74.97
     },
     {
       "ticker": "PFE",
@@ -2682,8 +2637,8 @@
       "exDate": "2026-07-24",
       "exStatus": "recent",
       "dividendRate": 1.72,
-      "dividendYield": 6.31,
-      "price": 27.25
+      "dividendYield": 6.07,
+      "price": 28.36
     },
     {
       "ticker": "PG",
@@ -2691,8 +2646,8 @@
       "exDate": "2026-07-24",
       "exStatus": "recent",
       "dividendRate": 4.35,
-      "dividendYield": 3.03,
-      "price": 143.45
+      "dividendYield": 2.99,
+      "price": 145.41
     },
     {
       "ticker": "PNR",
@@ -2700,8 +2655,8 @@
       "exDate": "2026-07-24",
       "exStatus": "recent",
       "dividendRate": 1.06,
-      "dividendYield": 1.67,
-      "price": 63.55
+      "dividendYield": 1.62,
+      "price": 65.38
     },
     {
       "ticker": "CE",
@@ -2709,8 +2664,8 @@
       "exDate": "2026-07-28",
       "exStatus": "recent",
       "dividendRate": 0.12,
-      "dividendYield": 0.27,
-      "price": 44.65
+      "dividendYield": 0.26,
+      "price": 46.69
     },
     {
       "ticker": "FAST",
@@ -2718,8 +2673,8 @@
       "exDate": "2026-07-28",
       "exStatus": "recent",
       "dividendRate": 0.96,
-      "dividendYield": 1.87,
-      "price": 51.27
+      "dividendYield": 1.85,
+      "price": 52.0
     },
     {
       "ticker": "PAYX",
@@ -2727,8 +2682,8 @@
       "exDate": "2026-07-28",
       "exStatus": "recent",
       "dividendRate": 4.76,
-      "dividendYield": 3.97,
-      "price": 119.93
+      "dividendYield": 3.86,
+      "price": 123.28
     },
     {
       "ticker": "WST",
@@ -2737,7 +2692,7 @@
       "exStatus": "recent",
       "dividendRate": 0.88,
       "dividendYield": 0.25,
-      "price": 346.59
+      "price": 353.1
     },
     {
       "ticker": "CAG",
@@ -2745,8 +2700,8 @@
       "exDate": "2026-07-30",
       "exStatus": "recent",
       "dividendRate": 1.23,
-      "dividendYield": 7.93,
-      "price": 15.52
+      "dividendYield": 7.7,
+      "price": 15.97
     },
     {
       "ticker": "CFG",
@@ -2754,8 +2709,8 @@
       "exDate": "2026-07-30",
       "exStatus": "recent",
       "dividendRate": 1.84,
-      "dividendYield": 2.5,
-      "price": 73.46
+      "dividendYield": 2.55,
+      "price": 72.26
     },
     {
       "ticker": "STZ",
@@ -2763,8 +2718,8 @@
       "exDate": "2026-07-30",
       "exStatus": "recent",
       "dividendRate": 4.12,
-      "dividendYield": 3.15,
-      "price": 131.0
+      "dividendYield": 3.13,
+      "price": 131.44
     },
     {
       "ticker": "AES",
@@ -2773,7 +2728,7 @@
       "exStatus": "recent",
       "dividendRate": 0.7,
       "dividendYield": 4.75,
-      "price": 14.74
+      "price": 14.73
     },
     {
       "ticker": "AOS",
@@ -2781,8 +2736,8 @@
       "exDate": "2026-07-31",
       "exStatus": "recent",
       "dividendRate": 1.44,
-      "dividendYield": 2.37,
-      "price": 60.86
+      "dividendYield": 2.27,
+      "price": 63.47
     },
     {
       "ticker": "LNT",
@@ -2790,8 +2745,8 @@
       "exDate": "2026-07-31",
       "exStatus": "recent",
       "dividendRate": 2.14,
-      "dividendYield": 3.06,
-      "price": 69.98
+      "dividendYield": 3.04,
+      "price": 70.44
     },
     {
       "ticker": "MS",
@@ -2799,8 +2754,8 @@
       "exDate": "2026-07-31",
       "exStatus": "recent",
       "dividendRate": 4.6,
-      "dividendYield": 2.11,
-      "price": 217.55
+      "dividendYield": 2.13,
+      "price": 215.53
     },
     {
       "ticker": "O",
@@ -2808,8 +2763,8 @@
       "exDate": "2026-07-31",
       "exStatus": "recent",
       "dividendRate": 3.25,
-      "dividendYield": 5.22,
-      "price": 62.21
+      "dividendYield": 5.17,
+      "price": 62.92
     },
     {
       "ticker": "TRGP",
@@ -2817,8 +2772,8 @@
       "exDate": "2026-07-31",
       "exStatus": "recent",
       "dividendRate": 5.0,
-      "dividendYield": 1.68,
-      "price": 297.77
+      "dividendYield": 1.7,
+      "price": 293.51
     },
     {
       "ticker": "TXN",
@@ -2826,8 +2781,8 @@
       "exDate": "2026-07-31",
       "exStatus": "recent",
       "dividendRate": 5.68,
-      "dividendYield": 2.09,
-      "price": 272.24
+      "dividendYield": 2.08,
+      "price": 272.49
     },
     {
       "ticker": "VLO",
@@ -2836,7 +2791,7 @@
       "exStatus": "recent",
       "dividendRate": 4.8,
       "dividendYield": 1.37,
-      "price": 350.05
+      "price": 349.26
     },
     {
       "ticker": "AMP",
@@ -2844,8 +2799,8 @@
       "exDate": "2026-08-03",
       "exStatus": "recent",
       "dividendRate": 6.8,
-      "dividendYield": 1.21,
-      "price": 562.12
+      "dividendYield": 1.19,
+      "price": 569.07
     },
     {
       "ticker": "AON",
@@ -2853,8 +2808,8 @@
       "exDate": "2026-08-03",
       "exStatus": "recent",
       "dividendRate": 3.28,
-      "dividendYield": 0.96,
-      "price": 343.2
+      "dividendYield": 0.93,
+      "price": 351.65
     },
     {
       "ticker": "BX",
@@ -2862,8 +2817,8 @@
       "exDate": "2026-08-03",
       "exStatus": "recent",
       "dividendRate": 5.23,
-      "dividendYield": 3.72,
-      "price": 140.59
+      "dividendYield": 3.57,
+      "price": 146.4
     },
     {
       "ticker": "C",
@@ -2871,8 +2826,8 @@
       "exDate": "2026-08-03",
       "exStatus": "recent",
       "dividendRate": 2.68,
-      "dividendYield": 1.95,
-      "price": 137.65
+      "dividendYield": 1.99,
+      "price": 134.69
     },
     {
       "ticker": "KMI",
@@ -2880,8 +2835,8 @@
       "exDate": "2026-08-03",
       "exStatus": "recent",
       "dividendRate": 1.18,
-      "dividendYield": 3.59,
-      "price": 32.87
+      "dividendYield": 3.68,
+      "price": 32.09
     },
     {
       "ticker": "NRG",
@@ -2889,8 +2844,8 @@
       "exDate": "2026-08-03",
       "exStatus": "recent",
       "dividendRate": 1.9,
-      "dividendYield": 1.64,
-      "price": 115.56
+      "dividendYield": 1.62,
+      "price": 117.3
     },
     {
       "ticker": "OKE",
@@ -2898,8 +2853,8 @@
       "exDate": "2026-08-03",
       "exStatus": "recent",
       "dividendRate": 4.28,
-      "dividendYield": 4.41,
-      "price": 97.07
+      "dividendYield": 4.44,
+      "price": 96.34
     },
     {
       "ticker": "PNW",
@@ -2907,8 +2862,8 @@
       "exDate": "2026-08-03",
       "exStatus": "recent",
       "dividendRate": 3.64,
-      "dividendYield": 3.63,
-      "price": 100.15
+      "dividendYield": 3.64,
+      "price": 100.05
     },
     {
       "ticker": "LVS",
@@ -2916,8 +2871,8 @@
       "exDate": "2026-08-04",
       "exStatus": "recent",
       "dividendRate": 1.2,
-      "dividendYield": 2.64,
-      "price": 45.47
+      "dividendYield": 2.61,
+      "price": 45.9
     },
     {
       "ticker": "MET",
@@ -2925,8 +2880,8 @@
       "exDate": "2026-08-04",
       "exStatus": "recent",
       "dividendRate": 2.37,
-      "dividendYield": 2.45,
-      "price": 96.73
+      "dividendYield": 2.47,
+      "price": 95.99
     },
     {
       "ticker": "EQT",
@@ -2934,8 +2889,8 @@
       "exDate": "2026-08-05",
       "exStatus": "recent",
       "dividendRate": 0.66,
-      "dividendYield": 1.24,
-      "price": 53.14
+      "dividendYield": 1.23,
+      "price": 53.51
     },
     {
       "ticker": "SYF",
@@ -2943,8 +2898,8 @@
       "exDate": "2026-08-05",
       "exStatus": "recent",
       "dividendRate": 1.36,
-      "dividendYield": 1.69,
-      "price": 80.58
+      "dividendYield": 1.67,
+      "price": 81.37
     },
     {
       "ticker": "DHI",
@@ -2952,8 +2907,8 @@
       "exDate": "2026-08-06",
       "exStatus": "recent",
       "dividendRate": 1.8,
-      "dividendYield": 1.24,
-      "price": 145.68
+      "dividendYield": 1.17,
+      "price": 153.54
     },
     {
       "ticker": "BKR",
@@ -2962,7 +2917,7 @@
       "exStatus": "recent",
       "dividendRate": 0.92,
       "dividendYield": 1.43,
-      "price": 64.44
+      "price": 64.46
     },
     {
       "ticker": "CCL",
@@ -2970,8 +2925,8 @@
       "exDate": "2026-08-07",
       "exStatus": "recent",
       "dividendRate": 0.45,
-      "dividendYield": 1.65,
-      "price": 27.27
+      "dividendYield": 1.64,
+      "price": 27.5
     },
     {
       "ticker": "CMS",
@@ -2979,8 +2934,8 @@
       "exDate": "2026-08-07",
       "exStatus": "recent",
       "dividendRate": 2.28,
-      "dividendYield": 3.21,
-      "price": 71.06
+      "dividendYield": 3.2,
+      "price": 71.16
     },
     {
       "ticker": "ETN",
@@ -2988,8 +2943,8 @@
       "exDate": "2026-08-07",
       "exStatus": "recent",
       "dividendRate": 4.4,
-      "dividendYield": 1.02,
-      "price": 431.33
+      "dividendYield": 1.04,
+      "price": 424.02
     },
     {
       "ticker": "FE",
@@ -2998,7 +2953,7 @@
       "exStatus": "recent",
       "dividendRate": 1.86,
       "dividendYield": 3.94,
-      "price": 47.26
+      "price": 47.16
     },
     {
       "ticker": "HWM",
@@ -3006,8 +2961,8 @@
       "exDate": "2026-08-07",
       "exStatus": "recent",
       "dividendRate": 0.56,
-      "dividendYield": 0.19,
-      "price": 292.65
+      "dividendYield": 0.2,
+      "price": 286.32
     },
     {
       "ticker": "JBHT",
@@ -3015,8 +2970,8 @@
       "exDate": "2026-08-07",
       "exStatus": "recent",
       "dividendRate": 1.8,
-      "dividendYield": 0.66,
-      "price": 274.19
+      "dividendYield": 0.65,
+      "price": 277.07
     },
     {
       "ticker": "LW",
@@ -3024,8 +2979,8 @@
       "exDate": "2026-08-07",
       "exStatus": "recent",
       "dividendRate": 1.52,
-      "dividendYield": 2.92,
-      "price": 51.98
+      "dividendYield": 2.88,
+      "price": 52.8
     },
     {
       "ticker": "NSC",
@@ -3033,8 +2988,8 @@
       "exDate": "2026-08-07",
       "exStatus": "recent",
       "dividendRate": 5.4,
-      "dividendYield": 1.59,
-      "price": 338.91
+      "dividendYield": 1.54,
+      "price": 350.83
     },
     {
       "ticker": "WFC",
@@ -3042,8 +2997,8 @@
       "exDate": "2026-08-07",
       "exStatus": "recent",
       "dividendRate": 2.0,
-      "dividendYield": 2.29,
-      "price": 87.4
+      "dividendYield": 2.32,
+      "price": 86.31
     },
     {
       "ticker": "AAPL",
@@ -3051,8 +3006,8 @@
       "exDate": "2026-08-10",
       "exStatus": "recent",
       "dividendRate": 1.08,
-      "dividendYield": 0.35,
-      "price": 310.03
+      "dividendYield": 0.34,
+      "price": 318.98
     },
     {
       "ticker": "AEP",
@@ -3061,7 +3016,7 @@
       "exStatus": "recent",
       "dividendRate": 3.8,
       "dividendYield": 3.01,
-      "price": 126.35
+      "price": 126.24
     },
     {
       "ticker": "GWW",
@@ -3069,8 +3024,8 @@
       "exDate": "2026-08-10",
       "exStatus": "recent",
       "dividendRate": 9.96,
-      "dividendYield": 0.76,
-      "price": 1314.12
+      "dividendYield": 0.75,
+      "price": 1324.32
     },
     {
       "ticker": "IBM",
@@ -3078,8 +3033,8 @@
       "exDate": "2026-08-10",
       "exStatus": "recent",
       "dividendRate": 6.76,
-      "dividendYield": 2.91,
-      "price": 232.67
+      "dividendYield": 2.84,
+      "price": 238.03
     },
     {
       "ticker": "PPG",
@@ -3087,8 +3042,8 @@
       "exDate": "2026-08-10",
       "exStatus": "recent",
       "dividendRate": 2.96,
-      "dividendYield": 2.62,
-      "price": 112.81
+      "dividendYield": 2.58,
+      "price": 114.65
     },
     {
       "ticker": "ROL",
@@ -3096,8 +3051,8 @@
       "exDate": "2026-08-10",
       "exStatus": "recent",
       "dividendRate": 0.73,
-      "dividendYield": 2.01,
-      "price": 36.32
+      "dividendYield": 1.98,
+      "price": 36.81
     },
     {
       "ticker": "AWK",
@@ -3105,8 +3060,8 @@
       "exDate": "2026-08-11",
       "exStatus": "recent",
       "dividendRate": 3.58,
-      "dividendYield": 2.63,
-      "price": 136.27
+      "dividendYield": 2.58,
+      "price": 138.61
     },
     {
       "ticker": "F",
@@ -3114,8 +3069,8 @@
       "exDate": "2026-08-11",
       "exStatus": "recent",
       "dividendRate": 0.6,
-      "dividendYield": 4.31,
-      "price": 13.93
+      "dividendYield": 4.2,
+      "price": 14.3
     },
     {
       "ticker": "V",
@@ -3123,8 +3078,8 @@
       "exDate": "2026-08-11",
       "exStatus": "recent",
       "dividendRate": 2.68,
-      "dividendYield": 0.74,
-      "price": 364.25
+      "dividendYield": 0.73,
+      "price": 369.56
     },
     {
       "ticker": "BRO",
@@ -3132,8 +3087,8 @@
       "exDate": "2026-08-12",
       "exStatus": "recent",
       "dividendRate": 0.66,
-      "dividendYield": 0.95,
-      "price": 69.37
+      "dividendYield": 0.92,
+      "price": 71.82
     },
     {
       "ticker": "CLX",
@@ -3141,8 +3096,8 @@
       "exDate": "2026-08-12",
       "exStatus": "recent",
       "dividendRate": 5.0,
-      "dividendYield": 4.74,
-      "price": 105.55
+      "dividendYield": 4.66,
+      "price": 107.2
     },
     {
       "ticker": "PCAR",
@@ -3151,7 +3106,7 @@
       "exStatus": "recent",
       "dividendRate": 1.4,
       "dividendYield": 1.09,
-      "price": 128.02
+      "price": 128.62
     },
     {
       "ticker": "TGT",
@@ -3159,8 +3114,8 @@
       "exDate": "2026-08-12",
       "exStatus": "recent",
       "dividendRate": 4.64,
-      "dividendYield": 3.04,
-      "price": 152.48
+      "dividendYield": 2.87,
+      "price": 161.47
     },
     {
       "ticker": "URI",
@@ -3169,7 +3124,7 @@
       "exStatus": "recent",
       "dividendRate": 7.88,
       "dividendYield": 0.71,
-      "price": 1116.38
+      "price": 1117.26
     },
     {
       "ticker": "WELL",
@@ -3178,7 +3133,7 @@
       "exStatus": "recent",
       "dividendRate": 3.4,
       "dividendYield": 1.44,
-      "price": 235.44
+      "price": 235.63
     },
     {
       "ticker": "ETR",
@@ -3187,7 +3142,7 @@
       "exStatus": "recent",
       "dividendRate": 2.56,
       "dividendYield": 2.37,
-      "price": 108.08
+      "price": 108.21
     },
     {
       "ticker": "FANG",
@@ -3195,8 +3150,8 @@
       "exDate": "2026-08-13",
       "exStatus": "recent",
       "dividendRate": 4.4,
-      "dividendYield": 2.1,
-      "price": 210.02
+      "dividendYield": 2.08,
+      "price": 211.63
     },
     {
       "ticker": "IR",
@@ -3205,7 +3160,7 @@
       "exStatus": "recent",
       "dividendRate": 0.08,
       "dividendYield": 0.1,
-      "price": 80.77
+      "price": 81.82
     },
     {
       "ticker": "POOL",
@@ -3213,8 +3168,8 @@
       "exDate": "2026-08-13",
       "exStatus": "recent",
       "dividendRate": 5.2,
-      "dividendYield": 2.77,
-      "price": 187.5
+      "dividendYield": 2.67,
+      "price": 194.69
     },
     {
       "ticker": "TJX",
@@ -3222,8 +3177,8 @@
       "exDate": "2026-08-13",
       "exStatus": "recent",
       "dividendRate": 1.92,
-      "dividendYield": 1.27,
-      "price": 150.85
+      "dividendYield": 1.29,
+      "price": 148.41
     },
     {
       "ticker": "VMC",
@@ -3231,8 +3186,8 @@
       "exDate": "2026-08-13",
       "exStatus": "recent",
       "dividendRate": 2.08,
-      "dividendYield": 0.77,
-      "price": 271.65
+      "dividendYield": 0.75,
+      "price": 276.43
     },
     {
       "ticker": "ZION",
@@ -3240,8 +3195,8 @@
       "exDate": "2026-08-13",
       "exStatus": "recent",
       "dividendRate": 1.92,
-      "dividendYield": 2.71,
-      "price": 70.93
+      "dividendYield": 2.75,
+      "price": 69.8
     },
     {
       "ticker": "CF",
@@ -3249,8 +3204,8 @@
       "exDate": "2026-08-14",
       "exStatus": "recent",
       "dividendRate": 2.4,
-      "dividendYield": 2.0,
-      "price": 119.72
+      "dividendYield": 1.95,
+      "price": 123.09
     },
     {
       "ticker": "CHD",
@@ -3258,8 +3213,8 @@
       "exDate": "2026-08-14",
       "exStatus": "recent",
       "dividendRate": 1.23,
-      "dividendYield": 1.24,
-      "price": 99.13
+      "dividendYield": 1.22,
+      "price": 100.43
     },
     {
       "ticker": "CTAS",
@@ -3267,8 +3222,8 @@
       "exDate": "2026-08-14",
       "exStatus": "recent",
       "dividendRate": 2.08,
-      "dividendYield": 1.04,
-      "price": 199.45
+      "dividendYield": 1.01,
+      "price": 205.68
     },
     {
       "ticker": "DUK",
@@ -3276,8 +3231,8 @@
       "exDate": "2026-08-14",
       "exStatus": "recent",
       "dividendRate": 4.34,
-      "dividendYield": 3.5,
-      "price": 123.99
+      "dividendYield": 3.49,
+      "price": 124.23
     },
     {
       "ticker": "EMR",
@@ -3285,8 +3240,8 @@
       "exDate": "2026-08-14",
       "exStatus": "recent",
       "dividendRate": 2.22,
-      "dividendYield": 1.41,
-      "price": 157.78
+      "dividendYield": 1.4,
+      "price": 158.92
     },
     {
       "ticker": "HON",
@@ -3294,8 +3249,8 @@
       "exDate": "2026-08-14",
       "exStatus": "recent",
       "dividendRate": 2.8,
-      "dividendYield": 1.23,
-      "price": 227.71
+      "dividendYield": 1.24,
+      "price": 225.14
     },
     {
       "ticker": "HSY",
@@ -3303,8 +3258,8 @@
       "exDate": "2026-08-14",
       "exStatus": "recent",
       "dividendRate": 5.81,
-      "dividendYield": 3.17,
-      "price": 183.45
+      "dividendYield": 3.1,
+      "price": 187.53
     },
     {
       "ticker": "IP",
@@ -3312,8 +3267,8 @@
       "exDate": "2026-08-14",
       "exStatus": "recent",
       "dividendRate": 1.85,
-      "dividendYield": 4.62,
-      "price": 40.05
+      "dividendYield": 4.47,
+      "price": 41.37
     },
     {
       "ticker": "IVZ",
@@ -3321,8 +3276,8 @@
       "exDate": "2026-08-14",
       "exStatus": "recent",
       "dividendRate": 0.86,
-      "dividendYield": 2.66,
-      "price": 32.38
+      "dividendYield": 2.64,
+      "price": 32.6
     },
     {
       "ticker": "KR",
@@ -3330,8 +3285,8 @@
       "exDate": "2026-08-14",
       "exStatus": "recent",
       "dividendRate": 1.44,
-      "dividendYield": 2.56,
-      "price": 56.34
+      "dividendYield": 2.51,
+      "price": 57.45
     },
     {
       "ticker": "LLY",
@@ -3339,8 +3294,8 @@
       "exDate": "2026-08-14",
       "exStatus": "recent",
       "dividendRate": 6.92,
-      "dividendYield": 0.56,
-      "price": 1225.73
+      "dividendYield": 0.54,
+      "price": 1269.96
     },
     {
       "ticker": "MCO",
@@ -3348,8 +3303,8 @@
       "exDate": "2026-08-14",
       "exStatus": "recent",
       "dividendRate": 4.12,
-      "dividendYield": 0.85,
-      "price": 485.79
+      "dividendYield": 0.82,
+      "price": 503.54
     },
     {
       "ticker": "MSCI",
@@ -3357,8 +3312,8 @@
       "exDate": "2026-08-14",
       "exStatus": "recent",
       "dividendRate": 8.2,
-      "dividendYield": 1.46,
-      "price": 562.77
+      "dividendYield": 1.44,
+      "price": 570.0
     },
     {
       "ticker": "RTX",
@@ -3366,8 +3321,8 @@
       "exDate": "2026-08-14",
       "exStatus": "recent",
       "dividendRate": 2.92,
-      "dividendYield": 1.29,
-      "price": 225.49
+      "dividendYield": 1.3,
+      "price": 224.63
     },
     {
       "ticker": "SBUX",
@@ -3375,8 +3330,8 @@
       "exDate": "2026-08-14",
       "exStatus": "recent",
       "dividendRate": 2.48,
-      "dividendYield": 2.34,
-      "price": 106.01
+      "dividendYield": 2.33,
+      "price": 106.5
     },
     {
       "ticker": "SCHW",
@@ -3385,7 +3340,7 @@
       "exStatus": "recent",
       "dividendRate": 1.28,
       "dividendYield": 1.15,
-      "price": 111.68
+      "price": 111.5
     },
     {
       "ticker": "SJM",
@@ -3393,8 +3348,8 @@
       "exDate": "2026-08-14",
       "exStatus": "recent",
       "dividendRate": 4.48,
-      "dividendYield": 3.78,
-      "price": 118.5
+      "dividendYield": 3.71,
+      "price": 120.63
     },
     {
       "ticker": "TFC",
@@ -3402,8 +3357,8 @@
       "exDate": "2026-08-14",
       "exStatus": "recent",
       "dividendRate": 2.08,
-      "dividendYield": 3.97,
-      "price": 52.41
+      "dividendYield": 4.02,
+      "price": 51.76
     },
     {
       "ticker": "TFX",
@@ -3411,8 +3366,8 @@
       "exDate": "2026-08-14",
       "exStatus": "recent",
       "dividendRate": 1.36,
-      "dividendYield": 1.03,
-      "price": 131.92
+      "dividendYield": 1.0,
+      "price": 136.36
     },
     {
       "ticker": "WEC",
@@ -3420,8 +3375,8 @@
       "exDate": "2026-08-14",
       "exStatus": "recent",
       "dividendRate": 3.81,
-      "dividendYield": 3.43,
-      "price": 111.05
+      "dividendYield": 3.44,
+      "price": 110.82
     },
     {
       "ticker": "WYNN",
@@ -3429,8 +3384,8 @@
       "exDate": "2026-08-14",
       "exStatus": "recent",
       "dividendRate": 1.0,
-      "dividendYield": 0.99,
-      "price": 101.29
+      "dividendYield": 1.0,
+      "price": 100.49
     },
     {
       "ticker": "COF",
@@ -3438,8 +3393,8 @@
       "exDate": "2026-08-17",
       "exStatus": "recent",
       "dividendRate": 3.2,
-      "dividendYield": 1.44,
-      "price": 221.47
+      "dividendYield": 1.43,
+      "price": 224.26
     },
     {
       "ticker": "COP",
@@ -3447,8 +3402,8 @@
       "exDate": "2026-08-17",
       "exStatus": "recent",
       "dividendRate": 3.36,
-      "dividendYield": 2.59,
-      "price": 129.72
+      "dividendYield": 2.55,
+      "price": 132.0
     },
     {
       "ticker": "GEN",
@@ -3456,8 +3411,8 @@
       "exDate": "2026-08-17",
       "exStatus": "recent",
       "dividendRate": 0.5,
-      "dividendYield": 1.81,
-      "price": 27.64
+      "dividendYield": 1.78,
+      "price": 28.02
     },
     {
       "ticker": "KLAC",
@@ -3465,8 +3420,8 @@
       "exDate": "2026-08-17",
       "exStatus": "recent",
       "dividendRate": 0.92,
-      "dividendYield": 0.47,
-      "price": 194.79
+      "dividendYield": 0.49,
+      "price": 187.79
     },
     {
       "ticker": "ROK",
@@ -3475,7 +3430,7 @@
       "exStatus": "recent",
       "dividendRate": 5.52,
       "dividendYield": 1.27,
-      "price": 433.67
+      "price": 435.73
     },
     {
       "ticker": "SO",
@@ -3484,7 +3439,7 @@
       "exStatus": "recent",
       "dividendRate": 3.04,
       "dividendYield": 3.3,
-      "price": 92.07
+      "price": 92.19
     },
     {
       "ticker": "UPS",
@@ -3492,8 +3447,8 @@
       "exDate": "2026-08-17",
       "exStatus": "recent",
       "dividendRate": 6.56,
-      "dividendYield": 6.44,
-      "price": 101.93
+      "dividendYield": 6.33,
+      "price": 103.56
     },
     {
       "ticker": "XOM",
@@ -3501,8 +3456,53 @@
       "exDate": "2026-08-17",
       "exStatus": "recent",
       "dividendRate": 4.12,
-      "dividendYield": 2.49,
-      "price": 165.56
+      "dividendYield": 2.46,
+      "price": 167.76
+    },
+    {
+      "ticker": "CTSH",
+      "company": "Cognizant",
+      "exDate": "2026-08-18",
+      "exStatus": "recent",
+      "dividendRate": 1.32,
+      "dividendYield": 2.16,
+      "price": 61.2
+    },
+    {
+      "ticker": "EVRG",
+      "company": "Evergy",
+      "exDate": "2026-08-18",
+      "exStatus": "recent",
+      "dividendRate": 2.78,
+      "dividendYield": 3.31,
+      "price": 83.99
+    },
+    {
+      "ticker": "PSX",
+      "company": "Phillips 66",
+      "exDate": "2026-08-18",
+      "exStatus": "recent",
+      "dividendRate": 5.08,
+      "dividendYield": 2.08,
+      "price": 243.94
+    },
+    {
+      "ticker": "REGN",
+      "company": "Regeneron",
+      "exDate": "2026-08-18",
+      "exStatus": "recent",
+      "dividendRate": 3.76,
+      "dividendYield": 0.45,
+      "price": 836.15
+    },
+    {
+      "ticker": "WAB",
+      "company": "Wabtec",
+      "exDate": "2026-08-18",
+      "exStatus": "recent",
+      "dividendRate": 1.24,
+      "dividendYield": 0.42,
+      "price": 293.19
     },
     {
       "ticker": "AAL",
@@ -3511,7 +3511,7 @@
       "exStatus": "suspended",
       "dividendRate": 0.0,
       "dividendYield": 0.0,
-      "price": 14.05
+      "price": 13.95
     },
     {
       "ticker": "ADBE",
@@ -3520,7 +3520,7 @@
       "exStatus": "suspended",
       "dividendRate": 0.0,
       "dividendYield": 0.0,
-      "price": 263.14
+      "price": 275.0
     },
     {
       "ticker": "ADSK",
@@ -3529,7 +3529,7 @@
       "exStatus": "suspended",
       "dividendRate": 0.0,
       "dividendYield": 0.0,
-      "price": 246.79
+      "price": 256.98
     },
     {
       "ticker": "ALK",
@@ -3538,7 +3538,7 @@
       "exStatus": "suspended",
       "dividendRate": 0.0,
       "dividendYield": 0.0,
-      "price": 42.41
+      "price": 42.36
     },
     {
       "ticker": "AMD",
@@ -3547,7 +3547,7 @@
       "exStatus": "suspended",
       "dividendRate": 0.0,
       "dividendYield": 0.0,
-      "price": 484.39
+      "price": 463.32
     },
     {
       "ticker": "APTV",
@@ -3556,7 +3556,7 @@
       "exStatus": "suspended",
       "dividendRate": 0.0,
       "dividendYield": 0.0,
-      "price": 48.6
+      "price": 49.35
     },
     {
       "ticker": "BA",
@@ -3565,7 +3565,7 @@
       "exStatus": "suspended",
       "dividendRate": 0.0,
       "dividendYield": 0.0,
-      "price": 223.06
+      "price": 222.84
     },
     {
       "ticker": "CBRE",
@@ -3574,7 +3574,7 @@
       "exStatus": "suspended",
       "dividendRate": 0.0,
       "dividendYield": 0.0,
-      "price": 147.3
+      "price": 155.58
     },
     {
       "ticker": "COO",
@@ -3583,7 +3583,7 @@
       "exStatus": "suspended",
       "dividendRate": 0.0,
       "dividendYield": 0.0,
-      "price": 75.76
+      "price": 77.27
     },
     {
       "ticker": "DXC",
@@ -3592,7 +3592,7 @@
       "exStatus": "suspended",
       "dividendRate": 0.0,
       "dividendYield": 0.0,
-      "price": 10.5
+      "price": 11.19
     },
     {
       "ticker": "INTC",
@@ -3601,7 +3601,7 @@
       "exStatus": "suspended",
       "dividendRate": 0.0,
       "dividendYield": 0.0,
-      "price": 96.69
+      "price": 92.84
     },
     {
       "ticker": "IT",
@@ -3610,7 +3610,7 @@
       "exStatus": "suspended",
       "dividendRate": 0.0,
       "dividendYield": 0.0,
-      "price": 182.07
+      "price": 195.4
     },
     {
       "ticker": "MGM",
@@ -3619,7 +3619,7 @@
       "exStatus": "suspended",
       "dividendRate": 0.0,
       "dividendYield": 0.0,
-      "price": 43.32
+      "price": 43.46
     },
     {
       "ticker": "TYL",
@@ -3628,7 +3628,7 @@
       "exStatus": "suspended",
       "dividendRate": 0.0,
       "dividendYield": 0.0,
-      "price": 332.21
+      "price": 354.16
     },
     {
       "ticker": "UAL",
@@ -3637,7 +3637,7 @@
       "exStatus": "suspended",
       "dividendRate": 0.0,
       "dividendYield": 0.0,
-      "price": 118.72
+      "price": 118.45
     },
     {
       "ticker": "WAT",
@@ -3646,7 +3646,7 @@
       "exStatus": "suspended",
       "dividendRate": 0.0,
       "dividendYield": 0.0,
-      "price": 401.25
+      "price": 414.64
     },
     {
       "ticker": "AKAM",
@@ -3655,7 +3655,7 @@
       "exStatus": "none",
       "dividendRate": 0.0,
       "dividendYield": 0.0,
-      "price": 115.2
+      "price": 113.2
     },
     {
       "ticker": "ALGN",
@@ -3664,7 +3664,7 @@
       "exStatus": "none",
       "dividendRate": 0.0,
       "dividendYield": 0.0,
-      "price": 167.91
+      "price": 172.58
     },
     {
       "ticker": "AMZN",
@@ -3673,7 +3673,7 @@
       "exStatus": "none",
       "dividendRate": 0.0,
       "dividendYield": 0.0,
-      "price": 259.45
+      "price": 264.67
     },
     {
       "ticker": "ANET",
@@ -3682,7 +3682,7 @@
       "exStatus": "none",
       "dividendRate": 0.0,
       "dividendYield": 0.0,
-      "price": 193.18
+      "price": 187.37
     },
     {
       "ticker": "AZO",
@@ -3691,7 +3691,7 @@
       "exStatus": "none",
       "dividendRate": 0.0,
       "dividendYield": 0.0,
-      "price": 3073.2
+      "price": 3135.25
     },
     {
       "ticker": "BIIB",
@@ -3700,7 +3700,7 @@
       "exStatus": "none",
       "dividendRate": 0.0,
       "dividendYield": 0.0,
-      "price": 212.55
+      "price": 218.65
     },
     {
       "ticker": "BK",
@@ -3718,7 +3718,7 @@
       "exStatus": "none",
       "dividendRate": 0.0,
       "dividendYield": 0.0,
-      "price": 502.96
+      "price": 505.19
     },
     {
       "ticker": "BSX",
@@ -3727,7 +3727,7 @@
       "exStatus": "none",
       "dividendRate": 0.0,
       "dividendYield": 0.0,
-      "price": 50.47
+      "price": 52.21
     },
     {
       "ticker": "CDNS",
@@ -3736,7 +3736,7 @@
       "exStatus": "none",
       "dividendRate": 0.0,
       "dividendYield": 0.0,
-      "price": 316.52
+      "price": 316.9
     },
     {
       "ticker": "CHTR",
@@ -3745,7 +3745,7 @@
       "exStatus": "none",
       "dividendRate": 0.0,
       "dividendYield": 0.0,
-      "price": 148.35
+      "price": 158.5
     },
     {
       "ticker": "CMA",
@@ -3763,7 +3763,7 @@
       "exStatus": "none",
       "dividendRate": 0.0,
       "dividendYield": 0.0,
-      "price": 33.36
+      "price": 34.73
     },
     {
       "ticker": "CNC",
@@ -3772,7 +3772,7 @@
       "exStatus": "none",
       "dividendRate": 0.0,
       "dividendYield": 0.0,
-      "price": 65.22
+      "price": 64.72
     },
     {
       "ticker": "CPRT",
@@ -3781,7 +3781,7 @@
       "exStatus": "none",
       "dividendRate": 0.0,
       "dividendYield": 0.0,
-      "price": 31.51
+      "price": 33.59
     },
     {
       "ticker": "CRL",
@@ -3790,7 +3790,7 @@
       "exStatus": "none",
       "dividendRate": 0.0,
       "dividendYield": 0.0,
-      "price": 279.19
+      "price": 289.25
     },
     {
       "ticker": "CSGP",
@@ -3799,7 +3799,7 @@
       "exStatus": "none",
       "dividendRate": 0.0,
       "dividendYield": 0.0,
-      "price": 31.38
+      "price": 33.53
     },
     {
       "ticker": "CTLT",
@@ -3826,7 +3826,7 @@
       "exStatus": "none",
       "dividendRate": 0.0,
       "dividendYield": 0.0,
-      "price": 29.63
+      "price": 29.67
     },
     {
       "ticker": "DFS",
@@ -3853,7 +3853,7 @@
       "exStatus": "none",
       "dividendRate": 0.0,
       "dividendYield": 0.0,
-      "price": 130.48
+      "price": 133.98
     },
     {
       "ticker": "DRE",
@@ -3871,7 +3871,7 @@
       "exStatus": "none",
       "dividendRate": 0.0,
       "dividendYield": 0.0,
-      "price": 177.91
+      "price": 179.69
     },
     {
       "ticker": "DXCM",
@@ -3880,7 +3880,7 @@
       "exStatus": "none",
       "dividendRate": 0.0,
       "dividendYield": 0.0,
-      "price": 89.6
+      "price": 90.93
     },
     {
       "ticker": "ENPH",
@@ -3889,7 +3889,7 @@
       "exStatus": "none",
       "dividendRate": 0.0,
       "dividendYield": 0.0,
-      "price": 37.58
+      "price": 38.84
     },
     {
       "ticker": "EPAM",
@@ -3898,7 +3898,7 @@
       "exStatus": "none",
       "dividendRate": 0.0,
       "dividendYield": 0.0,
-      "price": 100.25
+      "price": 108.75
     },
     {
       "ticker": "ETSY",
@@ -3907,7 +3907,7 @@
       "exStatus": "none",
       "dividendRate": 0.0,
       "dividendYield": 0.0,
-      "price": 79.96
+      "price": 81.92
     },
     {
       "ticker": "EW",
@@ -3916,7 +3916,7 @@
       "exStatus": "none",
       "dividendRate": 0.0,
       "dividendYield": 0.0,
-      "price": 90.98
+      "price": 92.95
     },
     {
       "ticker": "FFIV",
@@ -3925,7 +3925,7 @@
       "exStatus": "none",
       "dividendRate": 0.0,
       "dividendYield": 0.0,
-      "price": 393.62
+      "price": 389.65
     },
     {
       "ticker": "FISV",
@@ -3934,7 +3934,7 @@
       "exStatus": "none",
       "dividendRate": 0.0,
       "dividendYield": 0.0,
-      "price": 51.72
+      "price": 52.7
     },
     {
       "ticker": "FLT",
@@ -3952,7 +3952,7 @@
       "exStatus": "none",
       "dividendRate": 0.0,
       "dividendYield": 0.0,
-      "price": 158.01
+      "price": 153.41
     },
     {
       "ticker": "HES",
@@ -3979,7 +3979,7 @@
       "exStatus": "none",
       "dividendRate": 0.0,
       "dividendYield": 0.0,
-      "price": 89.23
+      "price": 90.57
     },
     {
       "ticker": "IDXX",
@@ -3988,7 +3988,7 @@
       "exStatus": "none",
       "dividendRate": 0.0,
       "dividendYield": 0.0,
-      "price": 553.32
+      "price": 571.1
     },
     {
       "ticker": "ILMN",
@@ -3997,7 +3997,7 @@
       "exStatus": "none",
       "dividendRate": 0.0,
       "dividendYield": 0.0,
-      "price": 188.29
+      "price": 200.67
     },
     {
       "ticker": "INCY",
@@ -4006,7 +4006,7 @@
       "exStatus": "none",
       "dividendRate": 0.0,
       "dividendYield": 0.0,
-      "price": 123.47
+      "price": 126.56
     },
     {
       "ticker": "IPG",
@@ -4024,7 +4024,7 @@
       "exStatus": "none",
       "dividendRate": 0.0,
       "dividendYield": 0.0,
-      "price": 240.03
+      "price": 248.21
     },
     {
       "ticker": "ISRG",
@@ -4033,7 +4033,7 @@
       "exStatus": "none",
       "dividendRate": 0.0,
       "dividendYield": 0.0,
-      "price": 391.18
+      "price": 400.44
     },
     {
       "ticker": "JNPR",
@@ -4060,7 +4060,7 @@
       "exStatus": "none",
       "dividendRate": 0.0,
       "dividendYield": 0.0,
-      "price": 341.0
+      "price": 319.17
     },
     {
       "ticker": "KMX",
@@ -4069,7 +4069,7 @@
       "exStatus": "none",
       "dividendRate": 0.0,
       "dividendYield": 0.0,
-      "price": 57.4
+      "price": 59.49
     },
     {
       "ticker": "LULU",
@@ -4078,7 +4078,7 @@
       "exStatus": "none",
       "dividendRate": 0.0,
       "dividendYield": 0.0,
-      "price": 119.01
+      "price": 120.45
     },
     {
       "ticker": "LYV",
@@ -4087,7 +4087,7 @@
       "exStatus": "none",
       "dividendRate": 0.0,
       "dividendYield": 0.0,
-      "price": 179.84
+      "price": 184.01
     },
     {
       "ticker": "MHK",
@@ -4096,7 +4096,7 @@
       "exStatus": "none",
       "dividendRate": 0.0,
       "dividendYield": 0.0,
-      "price": 132.87
+      "price": 136.51
     },
     {
       "ticker": "MMC",
@@ -4114,7 +4114,7 @@
       "exStatus": "none",
       "dividendRate": 0.0,
       "dividendYield": 0.0,
-      "price": 47.38
+      "price": 47.56
     },
     {
       "ticker": "MOH",
@@ -4123,7 +4123,7 @@
       "exStatus": "none",
       "dividendRate": 0.0,
       "dividendYield": 0.0,
-      "price": 203.61
+      "price": 202.9
     },
     {
       "ticker": "MRNA",
@@ -4132,7 +4132,7 @@
       "exStatus": "none",
       "dividendRate": 0.0,
       "dividendYield": 0.0,
-      "price": 62.96
+      "price": 139.62
     },
     {
       "ticker": "MRO",
@@ -4150,7 +4150,7 @@
       "exStatus": "none",
       "dividendRate": 0.0,
       "dividendYield": 0.0,
-      "price": 1399.67
+      "price": 1430.01
     },
     {
       "ticker": "NCLH",
@@ -4159,7 +4159,7 @@
       "exStatus": "none",
       "dividendRate": 0.0,
       "dividendYield": 0.0,
-      "price": 17.61
+      "price": 17.77
     },
     {
       "ticker": "NFLX",
@@ -4168,7 +4168,7 @@
       "exStatus": "none",
       "dividendRate": 0.0,
       "dividendYield": 0.0,
-      "price": 77.77
+      "price": 80.75
     },
     {
       "ticker": "NOW",
@@ -4177,7 +4177,7 @@
       "exStatus": "none",
       "dividendRate": 0.0,
       "dividendYield": 0.0,
-      "price": 119.49
+      "price": 127.51
     },
     {
       "ticker": "NVR",
@@ -4186,7 +4186,7 @@
       "exStatus": "none",
       "dividendRate": 0.0,
       "dividendYield": 0.0,
-      "price": 6248.37
+      "price": 6473.8
     },
     {
       "ticker": "ON",
@@ -4195,7 +4195,7 @@
       "exStatus": "none",
       "dividendRate": 0.0,
       "dividendYield": 0.0,
-      "price": 79.42
+      "price": 78.47
     },
     {
       "ticker": "ORLY",
@@ -4204,7 +4204,7 @@
       "exStatus": "none",
       "dividendRate": 0.0,
       "dividendYield": 0.0,
-      "price": 90.76
+      "price": 91.97
     },
     {
       "ticker": "PARA",
@@ -4213,7 +4213,7 @@
       "exStatus": "none",
       "dividendRate": 0.0,
       "dividendYield": 0.0,
-      "price": 1.36
+      "price": 1.32
     },
     {
       "ticker": "PEAK",
@@ -4231,7 +4231,7 @@
       "exStatus": "none",
       "dividendRate": 0.0,
       "dividendYield": 0.0,
-      "price": 146.48
+      "price": 154.63
     },
     {
       "ticker": "QRVO",
@@ -4240,7 +4240,7 @@
       "exStatus": "none",
       "dividendRate": 0.0,
       "dividendYield": 0.0,
-      "price": 95.7
+      "price": 97.36
     },
     {
       "ticker": "RE",
@@ -4258,7 +4258,7 @@
       "exStatus": "none",
       "dividendRate": 0.0,
       "dividendYield": 0.0,
-      "price": 404.41
+      "price": 405.03
     },
     {
       "ticker": "TDY",
@@ -4267,7 +4267,7 @@
       "exStatus": "none",
       "dividendRate": 0.0,
       "dividendYield": 0.0,
-      "price": 665.0
+      "price": 654.95
     },
     {
       "ticker": "TRMB",
@@ -4276,7 +4276,7 @@
       "exStatus": "none",
       "dividendRate": 0.0,
       "dividendYield": 0.0,
-      "price": 56.99
+      "price": 59.82
     },
     {
       "ticker": "TSLA",
@@ -4285,7 +4285,7 @@
       "exStatus": "none",
       "dividendRate": 0.0,
       "dividendYield": 0.0,
-      "price": 336.87
+      "price": 346.59
     },
     {
       "ticker": "TTWO",
@@ -4294,7 +4294,7 @@
       "exStatus": "none",
       "dividendRate": 0.0,
       "dividendYield": 0.0,
-      "price": 242.4
+      "price": 245.09
     },
     {
       "ticker": "VRTX",
@@ -4303,7 +4303,7 @@
       "exStatus": "none",
       "dividendRate": 0.0,
       "dividendYield": 0.0,
-      "price": 528.19
+      "price": 544.6
     },
     {
       "ticker": "WBA",
@@ -4321,7 +4321,7 @@
       "exStatus": "none",
       "dividendRate": 0.0,
       "dividendYield": 0.0,
-      "price": 28.48
+      "price": 28.52
     },
     {
       "ticker": "WRK",
@@ -4339,7 +4339,7 @@
       "exStatus": "none",
       "dividendRate": 0.0,
       "dividendYield": 0.0,
-      "price": 366.42
+      "price": 366.46
     }
   ],
   "earnings": [
@@ -5778,7 +5778,7 @@
     {
       "ticker": "JKHY",
       "company": "Jack Henry & Associates",
-      "earningsDate": "2026-08-18",
+      "earningsDate": "2026-11-03",
       "shortRatio": 3.9,
       "shortPct": 7.3,
       "squeezeFlag": false
@@ -6546,7 +6546,7 @@
     {
       "ticker": "HD",
       "company": "Home Depot",
-      "earningsDate": "2026-08-18",
+      "earningsDate": "2026-11-17",
       "shortRatio": 3.1,
       "shortPct": 1.4,
       "squeezeFlag": false
@@ -7242,7 +7242,7 @@
     {
       "ticker": "KEYS",
       "company": "Keysight Technologies",
-      "earningsDate": "2026-08-18",
+      "earningsDate": "N/A",
       "shortRatio": 2.4,
       "shortPct": 2.1,
       "squeezeFlag": false

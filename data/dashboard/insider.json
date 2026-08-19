@@ -1,6 +1,6 @@
 {
-  "updated": "Aug 18, 2026 01:43 PM PST",
-  "updated_iso": "2026-08-18T13:43:39.910902-07:00",
+  "updated": "Aug 19, 2026 08:05 AM PST",
+  "updated_iso": "2026-08-19T08:05:35.488117-07:00",
   "source": "SEC EDGAR (direct)",
   "buys": [
     {
@@ -138,6 +138,36 @@
       "company": "Republic Services",
       "insider": "CASCADE INVESTMENT, L.L.C. / GATES WILLIAM H III",
       "role": "10% Owner",
+      "date": "2026-08-17",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1060391/000110465926098392/0001104659-26-098392-index.htm",
+      "shares": 108545,
+      "value": 23296427
+    },
+    {
+      "ticker": "RSG",
+      "company": "Republic Services",
+      "insider": "CASCADE INVESTMENT, L.L.C. / GATES WILLIAM H III",
+      "role": "10% Owner",
+      "date": "2026-08-14",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1060391/000110465926098392/0001104659-26-098392-index.htm",
+      "shares": 99729,
+      "value": 21537265
+    },
+    {
+      "ticker": "RSG",
+      "company": "Republic Services",
+      "insider": "CASCADE INVESTMENT, L.L.C. / GATES WILLIAM H III",
+      "role": "10% Owner",
+      "date": "2026-08-17",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1060391/000110465926098392/0001104659-26-098392-index.htm",
+      "shares": 98155,
+      "value": 21128197
+    },
+    {
+      "ticker": "RSG",
+      "company": "Republic Services",
+      "insider": "CASCADE INVESTMENT, L.L.C. / GATES WILLIAM H III",
+      "role": "10% Owner",
       "date": "2026-08-10",
       "filing_url": "https://www.sec.gov/Archives/edgar/data/1060391/000110465926094887/0001104659-26-094887-index.htm",
       "shares": 88102,
@@ -172,6 +202,16 @@
       "filing_url": "https://www.sec.gov/Archives/edgar/data/1060391/000110465926097181/0001104659-26-097181-index.htm",
       "shares": 69018,
       "value": 14885291
+    },
+    {
+      "ticker": "RSG",
+      "company": "Republic Services",
+      "insider": "CASCADE INVESTMENT, L.L.C. / GATES WILLIAM H III",
+      "role": "10% Owner",
+      "date": "2026-08-14",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1060391/000110465926098392/0001104659-26-098392-index.htm",
+      "shares": 49521,
+      "value": 10660316
     },
     {
       "ticker": "GS",
@@ -644,6 +684,16 @@
       "value": 22085
     },
     {
+      "ticker": "RSG",
+      "company": "Republic Services",
+      "insider": "CASCADE INVESTMENT, L.L.C. / GATES WILLIAM H III",
+      "role": "10% Owner",
+      "date": "2026-08-17",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1060391/000110465926098392/0001104659-26-098392-index.htm",
+      "shares": 100,
+      "value": 21300
+    },
+    {
       "ticker": "BX",
       "company": "Blackstone",
       "insider": "Porat Ruth",
@@ -868,6 +918,18 @@
       "shares_remaining": 16533758,
       "expiry": null,
       "value": 74391541
+    },
+    {
+      "ticker": "CVX",
+      "company": "Chevron",
+      "insider": "Wirth Michael K",
+      "role": "Chairman and CEO",
+      "date": "2026-08-14",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/93410/000009341026000173/0000093410-26-000173-index.htm",
+      "shares_sold": 306789,
+      "shares_remaining": 36619,
+      "expiry": null,
+      "value": 61493799
     },
     {
       "ticker": "ANET",
@@ -1660,6 +1722,18 @@
       "shares_remaining": 583957,
       "expiry": null,
       "value": 2147963
+    },
+    {
+      "ticker": "CVX",
+      "company": "Chevron",
+      "insider": "Wirth Michael K",
+      "role": "Chairman and CEO",
+      "date": "2026-08-14",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/93410/000009341026000173/0000093410-26-000173-index.htm",
+      "shares_sold": 10311,
+      "shares_remaining": 26308,
+      "expiry": null,
+      "value": 2073061
     },
     {
       "ticker": "IRM",
@@ -5598,6 +5672,18 @@
       "value": 1700433
     },
     {
+      "ticker": "META",
+      "company": "Meta",
+      "insider": "LI SUSAN J",
+      "role": "Chief Financial Officer",
+      "date": "2026-08-15",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1326801/000095010326012607/0000950103-26-012607-index.htm",
+      "shares_sold": 2127,
+      "shares_remaining": 15347,
+      "expiry": null,
+      "value": 1467310
+    },
+    {
       "ticker": "UAL",
       "company": "United Airlines",
       "insider": "Leskinen Michael D.",
@@ -6004,6 +6090,18 @@
       "shares_remaining": 34794,
       "expiry": null,
       "value": 416217
+    },
+    {
+      "ticker": "GILD",
+      "company": "Gilead Sciences",
+      "insider": "Dickinson Andrew D",
+      "role": "Chief Financial Officer",
+      "date": "2026-08-17",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/882095/000131020426000024/0001310204-26-000024-index.htm",
+      "shares_sold": 3000,
+      "shares_remaining": 165646,
+      "expiry": null,
+      "value": 415080
     },
     {
       "ticker": "STX",
@@ -7470,6 +7568,18 @@
       "value": 8261223
     },
     {
+      "ticker": "ABBV",
+      "company": "AbbVie",
+      "insider": "Donoghoe Nicholas",
+      "role": "Insider",
+      "date": "2026-08-14",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1551152/000176295126000006/0001762951-26-000006-index.htm",
+      "shares_sold": 32710,
+      "shares_remaining": 74430,
+      "expiry": null,
+      "value": 8177500
+    },
+    {
       "ticker": "APH",
       "company": "Amphenol",
       "insider": "D'AMICO LANCE E",
@@ -7504,6 +7614,18 @@
       "shares_remaining": 52972534,
       "expiry": null,
       "value": 7858337
+    },
+    {
+      "ticker": "AMD",
+      "company": "AMD",
+      "insider": "GRASBY PAUL DARREN",
+      "role": "EVP & CSO",
+      "date": "2026-08-17",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000161/0000002488-26-000161-index.htm",
+      "shares_sold": 15000,
+      "shares_remaining": 117687,
+      "expiry": null,
+      "value": 7723650
     },
     {
       "ticker": "ANET",
@@ -8056,6 +8178,18 @@
       "shares_remaining": 1245679,
       "expiry": null,
       "value": 4000000
+    },
+    {
+      "ticker": "JNJ",
+      "company": "Johnson & Johnson",
+      "insider": "Taubert Jennifer L",
+      "role": "EVP, WWC. Innovative Medicine",
+      "date": "2026-08-17",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/200406/000020040626000175/0000200406-26-000175-index.htm",
+      "shares_sold": 15000,
+      "shares_remaining": 194451,
+      "expiry": null,
+      "value": 3950400
     },
     {
       "ticker": "GOOG",
@@ -8634,6 +8768,18 @@
       "value": 2615675
     },
     {
+      "ticker": "BKNG",
+      "company": "Booking Holdings",
+      "insider": "MILLONES PETER J",
+      "role": "Insider",
+      "date": "2026-08-17",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1075531/000121461226000007/0001214612-26-000007-index.htm",
+      "shares_sold": 12333,
+      "shares_remaining": 403417,
+      "expiry": null,
+      "value": 2537666
+    },
+    {
       "ticker": "WBD",
       "company": "Warner Bros Discovery",
       "insider": "Zeiler Gerhard",
@@ -8872,6 +9018,18 @@
       "shares_remaining": 181145840,
       "expiry": null,
       "value": 2278199
+    },
+    {
+      "ticker": "GILD",
+      "company": "Gilead Sciences",
+      "insider": "Mercier Johanna",
+      "role": "Chief Comm & Corp Aff Officer",
+      "date": "2026-08-17",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/882095/000178213526000028/0001782135-26-000028-index.htm",
+      "shares_sold": 16530,
+      "shares_remaining": 129704,
+      "expiry": null,
+      "value": 2270643
     },
     {
       "ticker": "ZION",
@@ -9114,6 +9272,18 @@
       "value": 1935545
     },
     {
+      "ticker": "BKNG",
+      "company": "Booking Holdings",
+      "insider": "MILLONES PETER J",
+      "role": "Insider",
+      "date": "2026-08-17",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1075531/000121461226000007/0001214612-26-000007-index.htm",
+      "shares_sold": 9325,
+      "shares_remaining": 415750,
+      "expiry": null,
+      "value": 1910792
+    },
+    {
       "ticker": "INCY",
       "company": "Incyte",
       "insider": "CAGNONI PABLO J",
@@ -9196,6 +9366,18 @@
       "shares_remaining": 93633,
       "expiry": null,
       "value": 1807787
+    },
+    {
+      "ticker": "BKNG",
+      "company": "Booking Holdings",
+      "insider": "MILLONES PETER J",
+      "role": "Insider",
+      "date": "2026-08-17",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1075531/000121461226000007/0001214612-26-000007-index.htm",
+      "shares_sold": 8660,
+      "shares_remaining": 392130,
+      "expiry": null,
+      "value": 1801710
     },
     {
       "ticker": "STT",
@@ -9558,6 +9740,18 @@
       "value": 1587000
     },
     {
+      "ticker": "GILD",
+      "company": "Gilead Sciences",
+      "insider": "Mercier Johanna",
+      "role": "Chief Comm & Corp Aff Officer",
+      "date": "2026-08-17",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/882095/000178213526000028/0001782135-26-000028-index.htm",
+      "shares_sold": 11470,
+      "shares_remaining": 118234,
+      "expiry": null,
+      "value": 1583264
+    },
+    {
       "ticker": "ANET",
       "company": "Arista Networks",
       "insider": "BECHTOLSHEIM ANDREAS",
@@ -9604,6 +9798,18 @@
       "shares_remaining": 14714,
       "expiry": null,
       "value": 1541320
+    },
+    {
+      "ticker": "AFL",
+      "company": "Aflac",
+      "insider": "Japan Post Holdings Co., Ltd.",
+      "role": "10% Owner",
+      "date": "2026-08-17",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/4977/000110465926098602/0001104659-26-098602-index.htm",
+      "shares_sold": 12690,
+      "shares_remaining": 50845900,
+      "expiry": null,
+      "value": 1538789
     },
     {
       "ticker": "PGR",
@@ -10470,6 +10676,18 @@
       "value": 1086787
     },
     {
+      "ticker": "BKNG",
+      "company": "Booking Holdings",
+      "insider": "MILLONES PETER J",
+      "role": "Insider",
+      "date": "2026-08-17",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1075531/000121461226000007/0001214612-26-000007-index.htm",
+      "shares_sold": 5174,
+      "shares_remaining": 381937,
+      "expiry": null,
+      "value": 1086543
+    },
+    {
       "ticker": "CRL",
       "company": "Charles River Labs",
       "insider": "Creamer Victoria L",
@@ -10552,6 +10770,18 @@
       "shares_remaining": 1040180,
       "expiry": null,
       "value": 1048340
+    },
+    {
+      "ticker": "BKNG",
+      "company": "Booking Holdings",
+      "insider": "MILLONES PETER J",
+      "role": "Insider",
+      "date": "2026-08-17",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1075531/000121461226000007/0001214612-26-000007-index.htm",
+      "shares_sold": 5019,
+      "shares_remaining": 387111,
+      "expiry": null,
+      "value": 1047596
     },
     {
       "ticker": "NUE",
@@ -10900,6 +11130,18 @@
       "shares_remaining": 24305,
       "expiry": null,
       "value": 956795
+    },
+    {
+      "ticker": "PRU",
+      "company": "Prudential Financial",
+      "insider": "KAPPLER ANN M",
+      "role": "EVP and General Counsel",
+      "date": "2026-08-14",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1137774/000113777426000192/0001137774-26-000192-index.htm",
+      "shares_sold": 7652,
+      "shares_remaining": 14407,
+      "expiry": null,
+      "value": 956576
     },
     {
       "ticker": "LH",
@@ -11524,6 +11766,18 @@
       "shares_remaining": 86694,
       "expiry": null,
       "value": 767655
+    },
+    {
+      "ticker": "BKNG",
+      "company": "Booking Holdings",
+      "insider": "MILLONES PETER J",
+      "role": "Insider",
+      "date": "2026-08-17",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1075531/000121461226000007/0001214612-26-000007-index.htm",
+      "shares_sold": 3632,
+      "shares_remaining": 378305,
+      "expiry": null,
+      "value": 766458
     },
     {
       "ticker": "WMB",
@@ -12282,6 +12536,18 @@
       "value": 616000
     },
     {
+      "ticker": "BKNG",
+      "company": "Booking Holdings",
+      "insider": "MILLONES PETER J",
+      "role": "Insider",
+      "date": "2026-08-17",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1075531/000121461226000007/0001214612-26-000007-index.htm",
+      "shares_sold": 2890,
+      "shares_remaining": 375415,
+      "expiry": null,
+      "value": 613590
+    },
+    {
       "ticker": "AAL",
       "company": "American Airlines",
       "insider": "Owens Angela",
@@ -12642,6 +12908,18 @@
       "value": 543391
     },
     {
+      "ticker": "BKNG",
+      "company": "Booking Holdings",
+      "insider": "MILLONES PETER J",
+      "role": "Insider",
+      "date": "2026-08-17",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1075531/000121461226000007/0001214612-26-000007-index.htm",
+      "shares_sold": 2627,
+      "shares_remaining": 400790,
+      "expiry": null,
+      "value": 542688
+    },
+    {
       "ticker": "MU",
       "company": "Micron Technology",
       "insider": "MEHROTRA SANJAY",
@@ -12978,6 +13256,18 @@
       "value": 495996
     },
     {
+      "ticker": "COF",
+      "company": "Capital One",
+      "insider": "Dean Lia",
+      "role": "Pres, Banking & Prem. Products",
+      "date": "2026-08-17",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/927628/000174127326000017/0001741273-26-000017-index.htm",
+      "shares_sold": 2192,
+      "shares_remaining": 63262,
+      "expiry": null,
+      "value": 494339
+    },
+    {
       "ticker": "AMP",
       "company": "Ameriprise Financial",
       "insider": "Williams William Jerryl",
@@ -13096,6 +13386,18 @@
       "shares_remaining": 1123439,
       "expiry": null,
       "value": 476013
+    },
+    {
+      "ticker": "IFF",
+      "company": "Intl Flavors & Fragrances",
+      "insider": "Teles de Mendonca Ana Paula",
+      "role": "President, Scent",
+      "date": "2026-08-17",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/51253/000122520826007193/0001225208-26-007193-index.htm",
+      "shares_sold": 5718,
+      "shares_remaining": 0,
+      "expiry": null,
+      "value": 475691
     },
     {
       "ticker": "FCX",
@@ -13492,6 +13794,18 @@
       "shares_remaining": 114539,
       "expiry": null,
       "value": 427941
+    },
+    {
+      "ticker": "COF",
+      "company": "Capital One",
+      "insider": "Karam Celia",
+      "role": "Pres, Retail Bank",
+      "date": "2026-08-17",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/927628/000174134426000021/0001741344-26-000021-index.htm",
+      "shares_sold": 1887,
+      "shares_remaining": 59709,
+      "expiry": null,
+      "value": 425556
     },
     {
       "ticker": "PSX",
@@ -14332,6 +14646,18 @@
       "shares_remaining": 201775,
       "expiry": null,
       "value": 310212
+    },
+    {
+      "ticker": "MTB",
+      "company": "M&T Bank",
+      "insider": "Taylor John R.",
+      "role": "EVP and Controller",
+      "date": "2026-08-17",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/36270/000162828026057857/0001628280-26-057857-index.htm",
+      "shares_sold": 1217,
+      "shares_remaining": 3062,
+      "expiry": null,
+      "value": 308923
     },
     {
       "ticker": "SYF",
@@ -16098,6 +16424,18 @@
       "value": 147928
     },
     {
+      "ticker": "AFL",
+      "company": "Aflac",
+      "insider": "Japan Post Holdings Co., Ltd.",
+      "role": "10% Owner",
+      "date": "2026-08-17",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/4977/000110465926098602/0001104659-26-098602-index.htm",
+      "shares_sold": 1210,
+      "shares_remaining": 50844690,
+      "expiry": null,
+      "value": 147753
+    },
+    {
       "ticker": "CSGP",
       "company": "CoStar Group",
       "insider": "Cann Cynthia Cammett",
@@ -16336,6 +16674,18 @@
       "shares_remaining": 23241,
       "expiry": null,
       "value": 138486
+    },
+    {
+      "ticker": "EQIX",
+      "company": "Equinix",
+      "insider": "PAISLEY CHRISTOPHER B",
+      "role": "Director",
+      "date": "2026-08-18",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1101239/000110123926000150/0001101239-26-000150-index.htm",
+      "shares_sold": 125,
+      "shares_remaining": 13734,
+      "expiry": null,
+      "value": 137947
     },
     {
       "ticker": "STX",
@@ -16720,6 +17070,18 @@
       "shares_remaining": 1126519,
       "expiry": null,
       "value": 111760
+    },
+    {
+      "ticker": "SCHW",
+      "company": "Charles Schwab",
+      "insider": "Beatty Jonathan S",
+      "role": "MD, Head of Advisor Services",
+      "date": "2026-08-17",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/316709/000202897726000017/0002028977-26-000017-index.htm",
+      "shares_sold": 1000,
+      "shares_remaining": 10738,
+      "expiry": null,
+      "value": 111330
     },
     {
       "ticker": "HSY",
@@ -17262,6 +17624,18 @@
       "value": 83261
     },
     {
+      "ticker": "BKNG",
+      "company": "Booking Holdings",
+      "insider": "MILLONES PETER J",
+      "role": "Insider",
+      "date": "2026-08-17",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1075531/000121461226000007/0001214612-26-000007-index.htm",
+      "shares_sold": 390,
+      "shares_remaining": 375025,
+      "expiry": null,
+      "value": 83023
+    },
+    {
       "ticker": "CDNS",
       "company": "Cadence Design",
       "insider": "TENG CHIN-CHI",
@@ -17308,6 +17682,18 @@
       "shares_remaining": 110167,
       "expiry": null,
       "value": 79222
+    },
+    {
+      "ticker": "BKNG",
+      "company": "Booking Holdings",
+      "insider": "WITTMAN VANESSA AMES",
+      "role": "Insider",
+      "date": "2026-08-17",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1075531/000122926526000022/0001229265-26-000022-index.htm",
+      "shares_sold": 375,
+      "shares_remaining": 16133,
+      "expiry": null,
+      "value": 79125
     },
     {
       "ticker": "CSCO",
@@ -18040,6 +18426,18 @@
       "shares_remaining": 335137,
       "expiry": null,
       "value": 50702
+    },
+    {
+      "ticker": "KMI",
+      "company": "Kinder Morgan",
+      "insider": "Garthwaite Michael P.",
+      "role": "VP (Pres., Products Pipelines)",
+      "date": "2026-08-17",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1506307/000150630726000113/0001506307-26-000113-index.htm",
+      "shares_sold": 1550,
+      "shares_remaining": 50413,
+      "expiry": null,
+      "value": 50612
     },
     {
       "ticker": "KMI",
@@ -20140,6 +20538,30 @@
       "shares_remaining": 671,
       "expiry": null,
       "value": 333
+    },
+    {
+      "ticker": "COF",
+      "company": "Capital One",
+      "insider": "Dean Lia",
+      "role": "Pres, Banking & Prem. Products",
+      "date": "2026-08-17",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/927628/000174127326000017/0001741273-26-000017-index.htm",
+      "shares_sold": 1,
+      "shares_remaining": 63261,
+      "expiry": null,
+      "value": 225
+    },
+    {
+      "ticker": "COF",
+      "company": "Capital One",
+      "insider": "Karam Celia",
+      "role": "Pres, Retail Bank",
+      "date": "2026-08-17",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/927628/000174134426000021/0001741344-26-000021-index.htm",
+      "shares_sold": 1,
+      "shares_remaining": 59708,
+      "expiry": null,
+      "value": 225
     },
     {
       "ticker": "BAC",
