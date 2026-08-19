@@ -44,6 +44,19 @@
     if (!form) return;
     form.addEventListener("submit", function (e) {
       e.preventDefault();
+
+      // Belt-and-suspenders: required/type="email" should already stop an
+      // empty or malformed address before this handler ever runs, but some
+      // mobile browsers/in-app webviews/autofill tools don't always enforce
+      // that reliably. Explicitly check and let the browser show its own
+      // specific message ("Please fill out this field", "Please include an
+      // '@'...") rather than falling through to a generic network-error
+      // message that doesn't tell the person what's actually wrong.
+      if (!form.checkValidity()) {
+        form.reportValidity();
+        return;
+      }
+
       var note = form.querySelector(".form-note");
       var button = form.querySelector('button[type="submit"]');
       var originalText = button ? button.textContent : null;
@@ -66,14 +79,14 @@
           if (note) {
             note.textContent = response.ok
               ? successText
-              : "Something went wrong. Please try again or email us directly.";
+              : "Something went wrong. Please try again in a moment.";
             note.classList.add("visible");
           }
           if (response.ok) form.reset();
         })
         .catch(function () {
           if (note) {
-            note.textContent = "Something went wrong. Please try again or email us directly.";
+            note.textContent = "Something went wrong. Please try again in a moment.";
             note.classList.add("visible");
           }
         })
@@ -86,6 +99,6 @@
     });
   }
 
-  wireForm(document.querySelector("#digest-form"), "Thanks — you're subscribed. Your first digest arrives the next weekday morning.");
+  wireForm(document.querySelector("#digest-form"), "Thanks — you're subscribed.");
   wireForm(document.querySelector("#contact-form"), "Message received — we'll get back to you shortly.");
 })();
