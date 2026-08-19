@@ -428,6 +428,12 @@ HTML_TEMPLATE = """<!DOCTYPE html>
   .summary-line .mono {{ font-family:var(--font-mono); }}
   .streak-row {{ font-size:13px; padding:6px 0; border-bottom:1px solid var(--cw-border); }}
   .streak-row .ticker {{ font-family:var(--font-mono); font-weight:600; color:var(--cw-navy); }}
+  .dates-table {{ width:100%; border-collapse:collapse; font-size:13px; }}
+  .dates-table th {{ text-align:left; font-family:var(--font-mono); font-size:10.5px; text-transform:uppercase; letter-spacing:0.04em; color:var(--cw-ink-faint); padding:0 10px 8px 0; border-bottom:1px solid var(--cw-border); }}
+  .dates-table td {{ padding:7px 10px 7px 0; border-bottom:1px solid var(--cw-border); }}
+  .dates-table tr:last-child td {{ border-bottom:none; }}
+  .dates-table .ticker {{ font-family:var(--font-mono); font-weight:600; color:var(--cw-navy); }}
+  .dates-table .mono {{ font-family:var(--font-mono); }}
   .footer {{ padding:20px 32px; font-size:11px; color:var(--cw-ink-faint); line-height:1.6; }}
   .footer a {{ color:var(--cw-ink-faint); }}
 </style>
@@ -453,7 +459,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
 
     <div class="section">
       <p class="section-title">Upcoming Key Dates (7 days)</p>
-      <p class="summary-line">{upcoming_line}</p>
+      {upcoming_html}
     </div>
 
     <div class="section">
@@ -518,13 +524,20 @@ def render_html(digest_date: date, signals: list, summary: dict, freshness: dict
         largest_line = ""
 
     if summary["upcoming_this_week"]:
-        items = "; ".join(
-            f"{c.ticker} {c.catalyst_type.replace('_', ' ')} on {c.catalyst_date.isoformat()}"
+        rows = "\n".join(
+            f'<tr><td class="ticker">{c.ticker}</td><td>{c.company}</td>'
+            f'<td>{c.catalyst_type.replace("_", " ").title()}</td>'
+            f'<td class="mono">{c.catalyst_date.isoformat()}</td></tr>'
             for c in summary["upcoming_this_week"][:10]
         )
-        upcoming_line = items
+        upcoming_html = (
+            '<table class="dates-table" cellpadding="0" cellspacing="0">'
+            '<tr><th>Ticker</th><th>Company</th><th>Event</th><th>Date</th></tr>'
+            f"{rows}"
+            "</table>"
+        )
     else:
-        upcoming_line = "No key dates scheduled in the next 7 days."
+        upcoming_html = '<p class="empty-state">No key dates scheduled in the next 7 days.</p>'
 
     if summary["notable_streaks"]:
         streaks_html = "\n".join(
@@ -544,7 +557,7 @@ def render_html(digest_date: date, signals: list, summary: dict, freshness: dict
         signals_html=signals_html,
         events_line=events_line,
         largest_line=largest_line,
-        upcoming_line=upcoming_line,
+        upcoming_html=upcoming_html,
         streaks_html=streaks_html,
         min_strength=RULES_CONFIG["min_streak_signal_strength"],
         insider_updated=freshness.get("insider", "—"),
