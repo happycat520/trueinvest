@@ -387,8 +387,7 @@ def build_raw_summary(digest_date: date, insiders: list, catalysts: list, streak
 DISCLAIMER = (
     "CrystalWell Analytics delivers signals derived from public SEC filings and market "
     "data. This email is informational only and is not investment advice or a "
-    "recommendation to buy or sell any security. CrystalWell is not a registered "
-    "investment adviser."
+    "recommendation to buy or sell any security."
 )
 
 HTML_TEMPLATE = """<!DOCTYPE html>
