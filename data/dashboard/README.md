@@ -4,9 +4,9 @@ The dashboard reads three static JSON files. There is no live API call from
 the browser — `js/dashboard.js` just fetches whatever is currently sitting
 in this folder.
 
-This pipeline is self-contained within this repo — it no longer depends on
-copying data in from the separate [samuelstocks](https://github.com/tehochess/samuelstocks)
-repo. See "How it's generated" below.
+This pipeline is self-contained within this repo — it fetches directly from
+SEC EDGAR and Yahoo Finance rather than depending on an external repo. See
+"How it's generated" below.
 
 - `insider.json` — SEC EDGAR Form 4 filings (open-market insider buys/sells)
 - `key_dates.json` — dividend ex-dates + upcoming earnings with short-interest

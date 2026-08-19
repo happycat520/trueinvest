@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-CrystalWell Daily Digest Generator (v2 - matched to real samuelstocks schema)
+CrystalWell Daily Digest Generator (v2 - matched to the live dashboard schema)
 ==============================================================================
 
 Combines the three live dashboards - Insider Trading, Key Dates, Price Movement -
@@ -8,10 +8,10 @@ into a single daily email that flags cross-signal conjunctions. See DESIGN.md fo
 the full rationale (why this stays factual/conjunction-only rather than making
 buy/sell judgments).
 
-Reads directly from the JSON files produced by the samuelstocks pipeline
-(github.com/tehochess/samuelstocks) - the same files your live dashboards read.
-No guessed schema this time: adapters below are built against the actual field
-names in insider.json / key_dates.json / price_movement.json.
+Reads directly from the JSON files produced by this repo's own fetch pipeline
+(scripts/fetch/) - the same files the live dashboards read. Adapters below are
+built against the actual field names in insider.json / key_dates.json /
+price_movement.json.
 
 USAGE
 -----
@@ -46,7 +46,7 @@ RULES_CONFIG = {
     "cluster_min_insiders": 2,       # distinct insiders required for a "cluster"
     "lookback_days_insider": 7,      # trailing window for insider activity
     "catalyst_window_days": 10,      # upcoming key-date window considered "ahead of a catalyst"
-    "min_streak_signal_strength": 2, # matches the samuelstocks convention (send_email.py) for a "notable" streak
+    "min_streak_signal_strength": 2, # matches the dashboard's own convention for a "notable" streak
 }
 
 
@@ -100,7 +100,7 @@ class Signal:
 
 
 # ---------------------------------------------------------------------------
-# Adapters - matched to the real samuelstocks JSON schema
+# Adapters - matched to the live dashboard JSON schema
 # ---------------------------------------------------------------------------
 
 def _parse_date_safe(value: str) -> Optional[date]:

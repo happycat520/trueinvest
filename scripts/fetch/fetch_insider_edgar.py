@@ -3,11 +3,11 @@
 CrystalWell Insider Fetcher — direct from SEC EDGAR
 =====================================================
 
-Replaces samuelstocks/scripts/fetch_insider.py's yfinance-based approach.
-That script pulled `yf.Ticker(ticker).insider_transactions`, which Yahoo
+Replaces the previous yfinance-based approach used earlier in this project.
+That approach pulled `yf.Ticker(ticker).insider_transactions`, which Yahoo
 Finance's own documentation attributes to a third-party vendor (LSEG Data
-and Analytics / Refinitiv) rather than a direct SEC feed - despite the
-samuelstocks README and email footer both (incorrectly) labeling it
+and Analytics / Refinitiv) rather than a direct SEC feed - despite an
+earlier README and email footer both (incorrectly) labeling it
 "SEC EDGAR Form 4." This script is a direct EDGAR pull: no vendor hop,
 no LSEG lag - just SEC's own submissions API and the raw Form 4 XML.
 
@@ -66,7 +66,7 @@ HEADERS = {"User-Agent": USER_AGENT}
 # Stay comfortably under SEC's 10 req/sec fair-access limit.
 REQUEST_DELAY_SECONDS = 0.15  # ~6.7 req/sec
 
-LOOKBACK_DAYS = 30  # matches samuelstocks' fetch_insider.py convention
+LOOKBACK_DAYS = 30  # matches this project's original fetch_insider.py convention
 
 # Open-market transaction codes we treat as genuine buy/sell conviction signals.
 # Excludes grants (A), option exercises (M), tax withholding (F), gifts (G),
@@ -571,7 +571,7 @@ if __name__ == "__main__":
 #    to run interactively without expecting to wait.
 #
 # 5. CIK ticker-matching: SEC's bulk mapping file uses dot notation for
-#    share classes (e.g. "BRK.B") while samuelstocks' tickers.py uses dash
+#    share classes (e.g. "BRK.B") while this project's tickers.py uses dash
 #    notation ("BRK-B") - handled with a fallback lookup above, but worth
 #    spot-checking dual-class tickers (BRK-B, BF-B, etc.) specifically in
 #    the smoke test.

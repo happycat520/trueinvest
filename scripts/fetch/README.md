@@ -1,9 +1,9 @@
 # CrystalWell Data Fetchers
 
 Gives `trueinvest` its own ability to populate `data/dashboard/*.json` directly,
-rather than depending on copying output from the separate `samuelstocks` repo.
+rather than depending on copying output from an external repo.
 
-## Data provenance (accurate, unlike samuelstocks' README/email footer)
+## Data provenance (accurate, unlike an earlier version of this pipeline)
 
 | File | Fetcher | Actual source |
 |---|---|---|
@@ -11,11 +11,12 @@ rather than depending on copying output from the separate `samuelstocks` repo.
 | `key_dates.json` | `fetch_key_dates.py` | **Yahoo Finance (`yfinance`).** Dividend ex-dates + earnings calendar + short interest, all via `yf.Ticker(...).info` / `.calendar`. |
 | `price_movement.json` | `fetch_price_movement.py` | **Yahoo Finance (`yfinance`).** 1-year daily OHLCV via `yf.Ticker(...).history(period="1y")`, with RSI/MA200/streak detection computed locally. |
 
-`samuelstocks`' own README and email footer both label the insider data as
-"SEC EDGAR Form 4," which isn't accurate for that repo — it's actually sourced
-via `yfinance`, which Yahoo's own documentation attributes to a third-party
-vendor (LSEG Data and Analytics / Refinitiv), not a direct EDGAR pull. This
-repo's `fetch_insider_edgar.py` is what makes that label actually true here.
+An earlier version of this pipeline's README and email footer both labeled
+the insider data as "SEC EDGAR Form 4," which wasn't accurate — it was
+actually sourced via `yfinance`, which Yahoo's own documentation attributes
+to a third-party vendor (LSEG Data and Analytics / Refinitiv), not a direct
+EDGAR pull. This repo's `fetch_insider_edgar.py` is what makes that label
+actually true here.
 
 ## Setup
 
@@ -64,7 +65,7 @@ section:
 - `fetch_key_dates.py` has a real, separately-diagnosed data-quality issue:
   earnings dates from `yfinance`'s `.calendar` were returning `"N/A"` for
   every ticker due to a dict/DataFrame API mismatch in the original
-  samuelstocks code — already fixed in the copy here, but worth confirming
+  code this was based on — already fixed in the copy here, but worth confirming
   against a live run since it hasn't been tested live either (same network
   restriction as above).
 

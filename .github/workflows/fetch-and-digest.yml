@@ -1,7 +1,7 @@
 name: Fetch Data + Daily Digest
 
 # Now that trueinvest has its own fetchers, this workflow no longer depends
-# on copying data/dashboard/*.json in from the separate samuelstocks repo -
+# on copying data/dashboard/*.json in from a separate repo -
 # it fetches directly from SEC EDGAR (insider) and Yahoo Finance (key dates,
 # price movement), then generates the digest from what it just fetched.
 on:
