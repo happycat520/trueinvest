@@ -2,8 +2,11 @@
 
 The dashboard reads three static JSON files. There is no live API call from
 the browser — `js/dashboard.js` just fetches whatever is currently sitting
-in this folder. This is the same pipeline output used by the original
-[samuelstocks](https://github.com/tehochess/samuelstocks) dashboard.
+in this folder.
+
+This pipeline is self-contained within this repo — it no longer depends on
+copying data in from the separate [samuelstocks](https://github.com/tehochess/samuelstocks)
+repo. See "How it's generated" below.
 
 - `insider.json` — SEC EDGAR Form 4 filings (open-market insider buys/sells)
 - `key_dates.json` — dividend ex-dates + upcoming earnings with short-interest
@@ -11,21 +14,39 @@ in this folder. This is the same pipeline output used by the original
 
 ## How it's generated
 
-A GitHub Actions workflow (`.github/workflows/nightly.yml` in the
-samuelstocks repo) runs on weekday mornings and:
+`.github/workflows/fetch-and-digest.yml` runs on a schedule (13:00 UTC,
+Monday–Friday) and:
 
-1. Runs `scripts/fetch_insider.py`, `scripts/fetch_key_dates.py`, and
-   `scripts/fetch_price_movement.py` (Python + `yfinance`) over the ticker
-   universe defined in `scripts/tickers.py` (currently the S&P 500 for
-   insider/key-dates, with a DJIA subset also defined).
-2. Writes the three JSON files above.
-3. Commits them back to the repo.
+1. Runs three fetch scripts in `scripts/fetch/`, over the ticker universe
+   defined in `scripts/fetch/tickers.py` (DJIA + S&P 500, ~482 tickers,
+   single source of truth — edit only that file to add/remove tickers):
+   - `fetch_insider_edgar.py` — **SEC EDGAR submissions API + raw Form 4
+     XML, directly** (stdlib only, no third-party data vendor in the loop).
+     This replaced an earlier version of this pipeline that sourced insider
+     data from yfinance/LSEG while labeling it "SEC EDGAR" — that mislabel
+     is fixed; the data now genuinely comes from EDGAR.
+   - `fetch_key_dates.py` — Yahoo Finance (`yfinance`), for dividend ex-dates
+     and upcoming earnings/short-interest.
+   - `fetch_price_movement.py` — Yahoo Finance (`yfinance`), for price
+     streaks, RSI, 200-day MA, and volume.
+2. Writes the three JSON files above into this folder.
+3. Runs `scripts/digest/generate_digest.py` to build the daily digest email
+   from the same freshly-fetched data.
+4. Commits `data/dashboard/`, `data/digest/`, and `data/cache/` back to the
+   repo.
 
-To keep this site's dashboard current, copy the latest `insider.json`,
-`key_dates.json`, and `price_movement.json` from that pipeline's output into
-this folder (`data/dashboard/`), or point your own deploy step at the same
-repo/workflow. No changes to `dashboard.html`, `dashboard.js`, or
-`dashboard.css` are needed — they're built to match this schema exactly.
+The actual digest **send** step is intentionally commented out in the
+workflow pending the securities-law consult — see
+`scripts/digest/DESIGN.md` section 7. Fetching, JSON generation, and the
+dashboard itself are unaffected by that; only the outbound email is paused.
+
+To run it manually (e.g. to test), use the workflow's `workflow_dispatch`
+trigger from the Actions tab, or run the three fetch scripts + digest
+generator locally with `pip install requests yfinance pandas numpy`.
+
+No changes to `dashboard.html`, `dashboard.js`, or `dashboard.css` are
+needed to keep this current — they're built to match the schema below
+exactly, and the workflow keeps that schema stable.
 
 ## Shape reference
 
