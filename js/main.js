@@ -87,5 +87,6 @@
   }
 
   wireForm(document.querySelector("#digest-form"), "Thanks — you're subscribed. Your first digest arrives the next weekday morning.");
+  wireForm(document.querySelector("#newsletter-form"), "Thanks — you're subscribed. Look for the next issue on Friday.");
   wireForm(document.querySelector("#contact-form"), "Message received — we'll get back to you shortly.");
 })();

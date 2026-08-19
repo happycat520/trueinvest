@@ -44,9 +44,9 @@
 
   <header class="hero" style="padding:76px 0 40px;">
     <div class="container">
-      <span class="eyebrow">Daily Digest &amp; Contact</span>
+      <span class="eyebrow">Daily Digest, Newsletter &amp; Contact</span>
       <h1 style="font-size:clamp(32px,4.4vw,48px); margin-top:16px;">Stay connected.</h1>
-      <p class="lede">Get the daily signal digest, or contact CrystalWell with a question, comment, or collaboration idea.</p>
+      <p class="lede">Get the daily signal digest, the weekly research newsletter, or contact CrystalWell with a question, comment, or collaboration idea.</p>
     </div>
   </header>
 
@@ -106,6 +106,28 @@
             <div class="field-row" style="margin-top:14px;">
               <button class="btn btn-primary" type="submit">Send message</button>
             </div>
+            <p class="form-note" aria-live="polite"></p>
+          </form>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- WEEKLY NEWSLETTER -->
+  <section class="section paper-dim" id="newsletter">
+    <div class="container">
+      <div class="split-panel reveal" style="grid-template-columns:1fr; max-width:640px; margin:0 auto;">
+        <div class="panel panel-paper">
+          <span class="eyebrow">Weekly Newsletter</span>
+          <h3>New research, and the week ahead.</h3>
+          <p class="desc">Every Friday: our latest research article, plus a short look back at what mattered this week and what's on the calendar for the next.</p>
+          <form id="newsletter-form" action="https://formspree.io/f/xjgndovp" method="POST">
+            <input type="hidden" name="form-type" value="Weekly Newsletter signup">
+            <div class="field-row">
+              <input class="text-input" type="email" name="Email address" placeholder="you@email.com" required aria-label="Email address">
+              <button class="btn btn-primary" type="submit">Get the Weekly Newsletter</button>
+            </div>
+            <p class="fine-print">By subscribing, you agree to receive the weekly newsletter email from CrystalWell. Unsubscribe anytime.</p>
             <p class="form-note" aria-live="polite"></p>
           </form>
         </div>
