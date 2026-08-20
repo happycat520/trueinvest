@@ -596,6 +596,8 @@ textarea.text-input { width: 100%; min-height: 100px; resize: vertical; font-fam
 /* ---------- about ---------- */
 .about-grid { display: grid; grid-template-columns: 1fr 1.3fr; gap: 60px; align-items: start; }
 .about-grid p { margin-top: 18px; color: var(--ink-soft); font-size: 16px; line-height: 1.75; }
+.about-grid p a { color: var(--blue-600); text-decoration: underline; text-underline-offset: 3px; }
+.about-grid p a:hover { color: var(--blue-700); }
 .about-stat-list { display: grid; gap: 22px; }
 .about-stat { padding: 20px 0; border-bottom: 1px solid var(--line); }
 .about-stat .num { font-family: var(--font-mono); font-size: 26px; color: var(--blue-600); }
@@ -607,6 +609,8 @@ textarea.text-input { width: 100%; min-height: 100px; resize: vertical; font-fam
 .info-block { padding: 28px; border: 1px solid var(--line); background: var(--paper); }
 .info-block h3 { font-size: 16px; }
 .info-block p { margin-top: 12px; font-size: 14px; color: var(--ink-soft); line-height: 1.7; }
+.info-block p a { color: var(--blue-600); text-decoration: underline; text-underline-offset: 3px; }
+.info-block p a:hover { color: var(--blue-700); }
 @media (max-width: 780px) { .info-grid { grid-template-columns: 1fr; } }
 
 /* ---------- footer ---------- */
