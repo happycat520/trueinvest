@@ -1,6 +1,6 @@
 {
-  "updated": "Aug 19, 2026 08:05 AM PST",
-  "updated_iso": "2026-08-19T08:05:35.488117-07:00",
+  "updated": "Aug 20, 2026 08:11 AM PST",
+  "updated_iso": "2026-08-20T08:11:55.332724-07:00",
   "source": "SEC EDGAR (direct)",
   "buys": [
     {
@@ -444,6 +444,16 @@
       "value": 294600
     },
     {
+      "ticker": "ARE",
+      "company": "Alexandria Real Estate",
+      "insider": "MARCUS JOEL S",
+      "role": "Executive Chairman",
+      "date": "2026-08-17",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1035443/000121695526000019/0001216955-26-000019-index.htm",
+      "shares": 5000,
+      "value": 231400
+    },
+    {
       "ticker": "BSX",
       "company": "Boston Scientific",
       "insider": "LUDWIG EDWARD J",
@@ -614,6 +624,16 @@
       "value": 50084
     },
     {
+      "ticker": "LIN",
+      "company": "Linde",
+      "insider": "Reynolds Paula Rosput",
+      "role": "Director",
+      "date": "2026-08-18",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1707925/000162828026057911/0001628280-26-057911-index.htm",
+      "shares": 100,
+      "value": 47911
+    },
+    {
       "ticker": "NTRS",
       "company": "Northern Trust",
       "insider": "Moritz Robert Edward Jr.",
@@ -782,16 +802,6 @@
       "filing_url": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000439/0000070858-26-000439-index.htm",
       "shares": 322,
       "value": 3957
-    },
-    {
-      "ticker": "BAC",
-      "company": "Bank of America",
-      "insider": "BANK OF AMERICA CORP /DE/ / MERRILL LYNCH, PIERCE, FENNER & SMITH INC.",
-      "role": "10% Owner",
-      "date": "2026-07-17",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000357/0000070858-26-000357-index.htm",
-      "shares": 437,
-      "value": 2857
     },
     {
       "ticker": "CFG",
@@ -1304,6 +1314,30 @@
       "value": 7110772
     },
     {
+      "ticker": "CAH",
+      "company": "Cardinal Health",
+      "insider": "Hollar Jason M.",
+      "role": "Chief Executive Officer",
+      "date": "2026-08-18",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/721371/000168785826000003/0001687858-26-000003-index.htm",
+      "shares_sold": 29915,
+      "shares_remaining": 263810,
+      "expiry": null,
+      "value": 7045281
+    },
+    {
+      "ticker": "NUE",
+      "company": "Nucor",
+      "insider": "Topalian Leon J",
+      "role": "Chair and CEO",
+      "date": "2026-08-14",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/73309/000007330926000131/0000073309-26-000131-index.htm",
+      "shares_sold": 25898,
+      "shares_remaining": 138256,
+      "expiry": null,
+      "value": 6954079
+    },
+    {
       "ticker": "ANET",
       "company": "Arista Networks",
       "insider": "Ullal Jayshree",
@@ -1460,6 +1494,18 @@
       "value": 5066729
     },
     {
+      "ticker": "CAH",
+      "company": "Cardinal Health",
+      "insider": "Hollar Jason M.",
+      "role": "Chief Executive Officer",
+      "date": "2026-08-18",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/721371/000168785826000003/0001687858-26-000003-index.htm",
+      "shares_sold": 21407,
+      "shares_remaining": 293725,
+      "expiry": null,
+      "value": 5021225
+    },
+    {
       "ticker": "MSFT",
       "company": "Microsoft",
       "insider": "Althoff Judson",
@@ -1496,6 +1542,18 @@
       "value": 4397800
     },
     {
+      "ticker": "HAL",
+      "company": "Halliburton",
+      "insider": "Miller Jeffrey Allen",
+      "role": "Director, President & CEO",
+      "date": "2026-08-18",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/45012/000155866726000020/0001558667-26-000020-index.htm",
+      "shares_sold": 124483,
+      "shares_remaining": 889388,
+      "expiry": null,
+      "value": 4356905
+    },
+    {
       "ticker": "HII",
       "company": "Huntington Ingalls",
       "insider": "Kastner Christopher D",
@@ -1530,6 +1588,42 @@
       "shares_remaining": 45297,
       "expiry": null,
       "value": 4048147
+    },
+    {
+      "ticker": "SNA",
+      "company": "Snap-on",
+      "insider": "PINCHUK NICHOLAS T",
+      "role": "Chairman, President and CEO",
+      "date": "2026-08-18",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/91440/000009144026000159/0000091440-26-000159-index.htm",
+      "shares_sold": 9720,
+      "shares_remaining": 872872,
+      "expiry": null,
+      "value": 3884113
+    },
+    {
+      "ticker": "CAH",
+      "company": "Cardinal Health",
+      "insider": "Hollar Jason M.",
+      "role": "Chief Executive Officer",
+      "date": "2026-08-19",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/721371/000168785826000003/0001687858-26-000003-index.htm",
+      "shares_sold": 16187,
+      "shares_remaining": 196847,
+      "expiry": null,
+      "value": 3840042
+    },
+    {
+      "ticker": "CAH",
+      "company": "Cardinal Health",
+      "insider": "Hollar Jason M.",
+      "role": "Chief Executive Officer",
+      "date": "2026-08-18",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/721371/000168785826000003/0001687858-26-000003-index.htm",
+      "shares_sold": 16208,
+      "shares_remaining": 247602,
+      "expiry": null,
+      "value": 3833840
     },
     {
       "ticker": "EFX",
@@ -1578,6 +1672,42 @@
       "shares_remaining": 86145,
       "expiry": null,
       "value": 3195587
+    },
+    {
+      "ticker": "CAH",
+      "company": "Cardinal Health",
+      "insider": "Mason Stephen M",
+      "role": "CEO, GMPD Segment",
+      "date": "2026-08-18",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/721371/000178606526000003/0001786065-26-000003-index.htm",
+      "shares_sold": 12829,
+      "shares_remaining": 18061,
+      "expiry": null,
+      "value": 3043808
+    },
+    {
+      "ticker": "SNA",
+      "company": "Snap-on",
+      "insider": "PINCHUK NICHOLAS T",
+      "role": "Chairman, President and CEO",
+      "date": "2026-08-18",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/91440/000009144026000159/0000091440-26-000159-index.htm",
+      "shares_sold": 7475,
+      "shares_remaining": 882592,
+      "expiry": null,
+      "value": 2982624
+    },
+    {
+      "ticker": "CAH",
+      "company": "Cardinal Health",
+      "insider": "Hollar Jason M.",
+      "role": "Chief Executive Officer",
+      "date": "2026-08-18",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/721371/000168785826000003/0001687858-26-000003-index.htm",
+      "shares_sold": 12470,
+      "shares_remaining": 235132,
+      "expiry": null,
+      "value": 2958507
     },
     {
       "ticker": "WDC",
@@ -1638,6 +1768,18 @@
       "shares_remaining": 173979,
       "expiry": null,
       "value": 2627545
+    },
+    {
+      "ticker": "CAH",
+      "company": "Cardinal Health",
+      "insider": "Mason Stephen M",
+      "role": "CEO, GMPD Segment",
+      "date": "2026-08-18",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/721371/000178606526000003/0001786065-26-000003-index.htm",
+      "shares_sold": 10876,
+      "shares_remaining": 30890,
+      "expiry": null,
+      "value": 2572174
     },
     {
       "ticker": "TTWO",
@@ -1770,6 +1912,18 @@
       "shares_remaining": 178954,
       "expiry": null,
       "value": 2003422
+    },
+    {
+      "ticker": "CAH",
+      "company": "Cardinal Health",
+      "insider": "Mason Stephen M",
+      "role": "CEO, GMPD Segment",
+      "date": "2026-08-18",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/721371/000178606526000003/0001786065-26-000003-index.htm",
+      "shares_sold": 8195,
+      "shares_remaining": 41766,
+      "expiry": null,
+      "value": 1930905
     },
     {
       "ticker": "ANET",
@@ -1940,6 +2094,30 @@
       "value": 1607919
     },
     {
+      "ticker": "CAH",
+      "company": "Cardinal Health",
+      "insider": "Hollar Jason M.",
+      "role": "Chief Executive Officer",
+      "date": "2026-08-19",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/721371/000168785826000003/0001687858-26-000003-index.htm",
+      "shares_sold": 6731,
+      "shares_remaining": 213034,
+      "expiry": null,
+      "value": 1591612
+    },
+    {
+      "ticker": "CAH",
+      "company": "Cardinal Health",
+      "insider": "WEITZMAN DEBORAH",
+      "role": "CEO, PSS Segment",
+      "date": "2026-08-18",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/721371/000194263926000003/0001942639-26-000003-index.htm",
+      "shares_sold": 6665,
+      "shares_remaining": 78590,
+      "expiry": null,
+      "value": 1568274
+    },
+    {
       "ticker": "EMR",
       "company": "Emerson Electric",
       "insider": "Karsanbhai Surendralal Lanca",
@@ -2024,6 +2202,18 @@
       "value": 1488978
     },
     {
+      "ticker": "CAH",
+      "company": "Cardinal Health",
+      "insider": "Hollar Jason M.",
+      "role": "Chief Executive Officer",
+      "date": "2026-08-19",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/721371/000168785826000003/0001687858-26-000003-index.htm",
+      "shares_sold": 6244,
+      "shares_remaining": 190603,
+      "expiry": null,
+      "value": 1485322
+    },
+    {
       "ticker": "TMO",
       "company": "Thermo Fisher",
       "insider": "CASPER MARC N",
@@ -2048,6 +2238,30 @@
       "value": 1459633
     },
     {
+      "ticker": "CAH",
+      "company": "Cardinal Health",
+      "insider": "Hollar Jason M.",
+      "role": "Chief Executive Officer",
+      "date": "2026-08-19",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/721371/000168785826000003/0001687858-26-000003-index.htm",
+      "shares_sold": 6206,
+      "shares_remaining": 228926,
+      "expiry": null,
+      "value": 1447363
+    },
+    {
+      "ticker": "SNA",
+      "company": "Snap-on",
+      "insider": "PINCHUK NICHOLAS T",
+      "role": "Chairman, President and CEO",
+      "date": "2026-08-18",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/91440/000009144026000159/0000091440-26-000159-index.htm",
+      "shares_sold": 3454,
+      "shares_remaining": 869418,
+      "expiry": null,
+      "value": 1384113
+    },
+    {
       "ticker": "STX",
       "company": "Seagate Technology",
       "insider": "MOSLEY WILLIAM D",
@@ -2070,6 +2284,18 @@
       "shares_remaining": 299218,
       "expiry": null,
       "value": 1343421
+    },
+    {
+      "ticker": "CAH",
+      "company": "Cardinal Health",
+      "insider": "Hollar Jason M.",
+      "role": "Chief Executive Officer",
+      "date": "2026-08-19",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/721371/000168785826000003/0001687858-26-000003-index.htm",
+      "shares_sold": 5704,
+      "shares_remaining": 219765,
+      "expiry": null,
+      "value": 1342379
     },
     {
       "ticker": "STX",
@@ -2432,6 +2658,18 @@
       "value": 813126
     },
     {
+      "ticker": "CAH",
+      "company": "Cardinal Health",
+      "insider": "Hollar Jason M.",
+      "role": "Chief Executive Officer",
+      "date": "2026-08-19",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/721371/000168785826000003/0001687858-26-000003-index.htm",
+      "shares_sold": 3457,
+      "shares_remaining": 225469,
+      "expiry": null,
+      "value": 809940
+    },
+    {
       "ticker": "NEM",
       "company": "Newmont",
       "insider": "Viljoen Natascha",
@@ -2502,6 +2740,18 @@
       "shares_remaining": 5079829,
       "expiry": null,
       "value": 741777
+    },
+    {
+      "ticker": "CAH",
+      "company": "Cardinal Health",
+      "insider": "Mason Stephen M",
+      "role": "CEO, GMPD Segment",
+      "date": "2026-08-18",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/721371/000178606526000003/0001786065-26-000003-index.htm",
+      "shares_sold": 3100,
+      "shares_remaining": 49961,
+      "expiry": null,
+      "value": 727229
     },
     {
       "ticker": "EFX",
@@ -2586,6 +2836,18 @@
       "shares_remaining": 413539,
       "expiry": null,
       "value": 674355
+    },
+    {
+      "ticker": "SNA",
+      "company": "Snap-on",
+      "insider": "PINCHUK NICHOLAS T",
+      "role": "Chairman, President and CEO",
+      "date": "2026-08-18",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/91440/000009144026000159/0000091440-26-000159-index.htm",
+      "shares_sold": 1640,
+      "shares_remaining": 867778,
+      "expiry": null,
+      "value": 659157
     },
     {
       "ticker": "HON",
@@ -2826,6 +3088,18 @@
       "shares_remaining": 300,
       "expiry": null,
       "value": 508860
+    },
+    {
+      "ticker": "AMZN",
+      "company": "Amazon",
+      "insider": "Herrington Douglas J",
+      "role": "CEO Worldwide Amazon Stores",
+      "date": "2026-08-17",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1018724/000193600626000020/0001936006-26-000020-index.htm",
+      "shares_sold": 1900,
+      "shares_remaining": 467538,
+      "expiry": null,
+      "value": 499349
     },
     {
       "ticker": "ANET",
@@ -3128,6 +3402,18 @@
       "value": 395638
     },
     {
+      "ticker": "VRSN",
+      "company": "VeriSign",
+      "insider": "BIDZOS D JAMES",
+      "role": "Exec. Chairman, Pres, & CEO",
+      "date": "2026-08-18",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1014473/000120481626000036/0001204816-26-000036-index.htm",
+      "shares_sold": 1414,
+      "shares_remaining": 403274,
+      "expiry": null,
+      "value": 390830
+    },
+    {
       "ticker": "STX",
       "company": "Seagate Technology",
       "insider": "MOSLEY WILLIAM D",
@@ -3162,6 +3448,18 @@
       "shares_remaining": 8708,
       "expiry": null,
       "value": 377737
+    },
+    {
+      "ticker": "AMZN",
+      "company": "Amazon",
+      "insider": "Herrington Douglas J",
+      "role": "CEO Worldwide Amazon Stores",
+      "date": "2026-08-17",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1018724/000193600626000020/0001936006-26-000020-index.htm",
+      "shares_sold": 1441,
+      "shares_remaining": 469438,
+      "expiry": null,
+      "value": 377607
     },
     {
       "ticker": "EBAY",
@@ -3680,6 +3978,18 @@
       "value": 245134
     },
     {
+      "ticker": "SNA",
+      "company": "Snap-on",
+      "insider": "PINCHUK NICHOLAS T",
+      "role": "Chairman, President and CEO",
+      "date": "2026-08-18",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/91440/000009144026000159/0000091440-26-000159-index.htm",
+      "shares_sold": 600,
+      "shares_remaining": 890067,
+      "expiry": null,
+      "value": 238500
+    },
+    {
       "ticker": "SBUX",
       "company": "Starbucks",
       "insider": "BREWER BRADY",
@@ -3740,6 +4050,18 @@
       "value": 226141
     },
     {
+      "ticker": "VRSN",
+      "company": "VeriSign",
+      "insider": "BIDZOS D JAMES",
+      "role": "Exec. Chairman, Pres, & CEO",
+      "date": "2026-08-18",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1014473/000120481626000036/0001204816-26-000036-index.htm",
+      "shares_sold": 800,
+      "shares_remaining": 401388,
+      "expiry": null,
+      "value": 223800
+    },
+    {
       "ticker": "ANET",
       "company": "Arista Networks",
       "insider": "Ullal Jayshree",
@@ -3786,6 +4108,18 @@
       "shares_remaining": 16496,
       "expiry": null,
       "value": 205000
+    },
+    {
+      "ticker": "VRSN",
+      "company": "VeriSign",
+      "insider": "BIDZOS D JAMES",
+      "role": "Exec. Chairman, Pres, & CEO",
+      "date": "2026-08-18",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1014473/000120481626000036/0001204816-26-000036-index.htm",
+      "shares_sold": 700,
+      "shares_remaining": 402188,
+      "expiry": null,
+      "value": 195206
     },
     {
       "ticker": "WAB",
@@ -4148,6 +4482,18 @@
       "value": 108359
     },
     {
+      "ticker": "VRSN",
+      "company": "VeriSign",
+      "insider": "BIDZOS D JAMES",
+      "role": "Exec. Chairman, Pres, & CEO",
+      "date": "2026-08-18",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1014473/000120481626000036/0001204816-26-000036-index.htm",
+      "shares_sold": 386,
+      "shares_remaining": 402888,
+      "expiry": null,
+      "value": 107072
+    },
+    {
       "ticker": "ANET",
       "company": "Arista Networks",
       "insider": "Ullal Jayshree",
@@ -4170,6 +4516,18 @@
       "shares_remaining": 4999460,
       "expiry": null,
       "value": 106050
+    },
+    {
+      "ticker": "AMZN",
+      "company": "Amazon",
+      "insider": "Herrington Douglas J",
+      "role": "CEO Worldwide Amazon Stores",
+      "date": "2026-08-17",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1018724/000193600626000020/0001936006-26-000020-index.htm",
+      "shares_sold": 400,
+      "shares_remaining": 467138,
+      "expiry": null,
+      "value": 106037
     },
     {
       "ticker": "ANET",
@@ -4242,6 +4600,18 @@
       "shares_remaining": 121217,
       "expiry": null,
       "value": 99831
+    },
+    {
+      "ticker": "CAH",
+      "company": "Cardinal Health",
+      "insider": "WEITZMAN DEBORAH",
+      "role": "CEO, PSS Segment",
+      "date": "2026-08-18",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/721371/000194263926000003/0001942639-26-000003-index.htm",
+      "shares_sold": 408,
+      "shares_remaining": 78182,
+      "expiry": null,
+      "value": 96528
     },
     {
       "ticker": "STX",
@@ -4580,6 +4950,18 @@
       "value": 67038
     },
     {
+      "ticker": "CAH",
+      "company": "Cardinal Health",
+      "insider": "WEITZMAN DEBORAH",
+      "role": "CEO, PSS Segment",
+      "date": "2026-08-18",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/721371/000194263926000003/0001942639-26-000003-index.htm",
+      "shares_sold": 281,
+      "shares_remaining": 77901,
+      "expiry": null,
+      "value": 66720
+    },
+    {
       "ticker": "TMO",
       "company": "Thermo Fisher",
       "insider": "CASPER MARC N",
@@ -4698,6 +5080,18 @@
       "shares_remaining": 418039,
       "expiry": null,
       "value": 53726
+    },
+    {
+      "ticker": "VZ",
+      "company": "Verizon",
+      "insider": "Malady Kyle",
+      "role": "EVP and Group CEO-VZ Business",
+      "date": "2026-08-18",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/732712/000176058126000044/0001760581-26-000044-index.htm",
+      "shares_sold": 1100,
+      "shares_remaining": 109866,
+      "expiry": null,
+      "value": 53548
     },
     {
       "ticker": "ANET",
@@ -4926,6 +5320,18 @@
       "shares_remaining": 133480,
       "expiry": null,
       "value": 30197
+    },
+    {
+      "ticker": "NUE",
+      "company": "Nucor",
+      "insider": "Topalian Leon J",
+      "role": "Chair and CEO",
+      "date": "2026-08-14",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/73309/000007330926000131/0000073309-26-000131-index.htm",
+      "shares_sold": 102,
+      "shares_remaining": 138154,
+      "expiry": null,
+      "value": 27467
     },
     {
       "ticker": "VRSN",
@@ -5612,6 +6018,18 @@
       "value": 4063427
     },
     {
+      "ticker": "CAH",
+      "company": "Cardinal Health",
+      "insider": "Alt Aaron E",
+      "role": "Chief Financial Officer",
+      "date": "2026-08-18",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/721371/000174157626000006/0001741576-26-000006-index.htm",
+      "shares_sold": 13685,
+      "shares_remaining": 33467,
+      "expiry": null,
+      "value": 3237597
+    },
+    {
       "ticker": "MTD",
       "company": "Mettler-Toledo",
       "insider": "Vadala Shawn",
@@ -5622,6 +6040,30 @@
       "shares_remaining": 5579,
       "expiry": null,
       "value": 3207680
+    },
+    {
+      "ticker": "CAH",
+      "company": "Cardinal Health",
+      "insider": "Alt Aaron E",
+      "role": "Chief Financial Officer",
+      "date": "2026-08-18",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/721371/000174157626000006/0001741576-26-000006-index.htm",
+      "shares_sold": 12972,
+      "shares_remaining": 20495,
+      "expiry": null,
+      "value": 3077736
+    },
+    {
+      "ticker": "CAH",
+      "company": "Cardinal Health",
+      "insider": "Alt Aaron E",
+      "role": "Chief Financial Officer",
+      "date": "2026-08-18",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/721371/000174157626000006/0001741576-26-000006-index.htm",
+      "shares_sold": 12228,
+      "shares_remaining": 47152,
+      "expiry": null,
+      "value": 2880183
     },
     {
       "ticker": "GL",
@@ -5850,6 +6292,18 @@
       "shares_remaining": 25863,
       "expiry": null,
       "value": 749263
+    },
+    {
+      "ticker": "CAH",
+      "company": "Cardinal Health",
+      "insider": "Alt Aaron E",
+      "role": "Chief Financial Officer",
+      "date": "2026-08-18",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/721371/000174157626000006/0001741576-26-000006-index.htm",
+      "shares_sold": 3115,
+      "shares_remaining": 59380,
+      "expiry": null,
+      "value": 730623
     },
     {
       "ticker": "NFLX",
@@ -6824,6 +7278,18 @@
       "value": 67428
     },
     {
+      "ticker": "MCHP",
+      "company": "Microchip Technology",
+      "insider": "Bjornholt James Eric",
+      "role": "SENIOR CORPORATE VP AND CFO",
+      "date": "2026-08-17",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/827054/000145268126000033/0001452681-26-000033-index.htm",
+      "shares_sold": 837,
+      "shares_remaining": 30960,
+      "expiry": null,
+      "value": 67177
+    },
+    {
       "ticker": "STX",
       "company": "Seagate Technology",
       "insider": "Romano Gianluca",
@@ -7652,18 +8118,6 @@
       "value": 7638150
     },
     {
-      "ticker": "PLD",
-      "company": "Prologis",
-      "insider": "Moghadam Hamid",
-      "role": "Insider",
-      "date": "2026-07-16",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/1045609/000119312526309058/0001193125-26-309058-index.htm",
-      "shares_sold": 50000,
-      "shares_remaining": 969089,
-      "expiry": null,
-      "value": 7495500
-    },
-    {
       "ticker": "ILMN",
       "company": "Illumina",
       "insider": "Meister Keith A.",
@@ -8048,6 +8502,18 @@
       "value": 5005716
     },
     {
+      "ticker": "TDG",
+      "company": "TransDigm",
+      "insider": "Howley W Nicholas",
+      "role": "Insider",
+      "date": "2026-08-18",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1260221/000135257326000013/0001352573-26-000013-index.htm",
+      "shares_sold": 3980,
+      "shares_remaining": 23050,
+      "expiry": null,
+      "value": 4931914
+    },
+    {
       "ticker": "CVX",
       "company": "Chevron",
       "insider": "HESS JOHN B",
@@ -8058,6 +8524,18 @@
       "shares_remaining": 874376,
       "expiry": null,
       "value": 4916884
+    },
+    {
+      "ticker": "SHW",
+      "company": "Sherwin-Williams",
+      "insider": "Binns Justin T",
+      "role": "President, Glob. Architectural",
+      "date": "2026-08-17",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/89800/000183231626000007/0001832316-26-000007-index.htm",
+      "shares_sold": 13500,
+      "shares_remaining": 21937,
+      "expiry": null,
+      "value": 4761450
     },
     {
       "ticker": "SCHW",
@@ -8396,6 +8874,18 @@
       "value": 3393000
     },
     {
+      "ticker": "CVX",
+      "company": "Chevron",
+      "insider": "Walz Andrew Benjamin",
+      "role": "President, DM&C",
+      "date": "2026-08-17",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/93410/000009341026000175/0000093410-26-000175-index.htm",
+      "shares_sold": 16800,
+      "shares_remaining": 14,
+      "expiry": null,
+      "value": 3377833
+    },
+    {
       "ticker": "DAL",
       "company": "Delta Air Lines",
       "insider": "BELLEMARE ALAIN",
@@ -8492,6 +8982,18 @@
       "value": 3114213
     },
     {
+      "ticker": "CNC",
+      "company": "Centene",
+      "insider": "KOSTER CHRISTOPHER",
+      "role": "Secretary & General Counsel",
+      "date": "2026-08-18",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1071739/000107173926000167/0001071739-26-000167-index.htm",
+      "shares_sold": 47603,
+      "shares_remaining": 305353,
+      "expiry": null,
+      "value": 3111332
+    },
+    {
       "ticker": "CB",
       "company": "Chubb",
       "insider": "Wayland Joseph F",
@@ -8502,6 +9004,30 @@
       "shares_remaining": 33749,
       "expiry": null,
       "value": 3099319
+    },
+    {
+      "ticker": "RTX",
+      "company": "RTX Corp",
+      "insider": "Maharajh Ramsaran",
+      "role": "EVP and General Counsel",
+      "date": "2026-08-18",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/101829/000122520826007206/0001225208-26-007206-index.htm",
+      "shares_sold": 13655,
+      "shares_remaining": 13184,
+      "expiry": null,
+      "value": 3057563
+    },
+    {
+      "ticker": "AXP",
+      "company": "American Express",
+      "insider": "Herena Monique",
+      "role": "Chief Colleague Exp. Officer",
+      "date": "2026-08-18",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/4962/000000496226000348/0000004962-26-000348-index.htm",
+      "shares_sold": 8811,
+      "shares_remaining": 12444,
+      "expiry": null,
+      "value": 2972919
     },
     {
       "ticker": "MU",
@@ -8768,6 +9294,30 @@
       "value": 2615675
     },
     {
+      "ticker": "MPC",
+      "company": "Marathon Petroleum",
+      "insider": "Benson Molly R",
+      "role": "Insider",
+      "date": "2026-08-17",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1510295/000119312526356892/0001193125-26-356892-index.htm",
+      "shares_sold": 7196,
+      "shares_remaining": 30334,
+      "expiry": null,
+      "value": 2580269
+    },
+    {
+      "ticker": "CAH",
+      "company": "Cardinal Health",
+      "insider": "Mayer Jessica L",
+      "role": "Chief Legal/Compliance Officer",
+      "date": "2026-08-18",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/721371/000177138326000003/0001771383-26-000003-index.htm",
+      "shares_sold": 10864,
+      "shares_remaining": 33076,
+      "expiry": null,
+      "value": 2578135
+    },
+    {
       "ticker": "BKNG",
       "company": "Booking Holdings",
       "insider": "MILLONES PETER J",
@@ -8838,6 +9388,18 @@
       "shares_remaining": 24924,
       "expiry": null,
       "value": 2422582
+    },
+    {
+      "ticker": "CAH",
+      "company": "Cardinal Health",
+      "insider": "Mayer Jessica L",
+      "role": "Chief Legal/Compliance Officer",
+      "date": "2026-08-18",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/721371/000177138326000003/0001771383-26-000003-index.htm",
+      "shares_sold": 10246,
+      "shares_remaining": 48366,
+      "expiry": null,
+      "value": 2413035
     },
     {
       "ticker": "MU",
@@ -9320,18 +9882,6 @@
       "value": 1858440
     },
     {
-      "ticker": "CTAS",
-      "company": "Cintas",
-      "insider": "Barstad Melanie W.",
-      "role": "Director",
-      "date": "2026-07-16",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/723254/000095010326010838/0000950103-26-010838-index.htm",
-      "shares_sold": 9142,
-      "shares_remaining": 26592,
-      "expiry": null,
-      "value": 1855277
-    },
-    {
       "ticker": "BWA",
       "company": "BorgWarner",
       "insider": "CALAWAY TONIT M",
@@ -9426,6 +9976,30 @@
       "shares_remaining": 202891,
       "expiry": null,
       "value": 1794002
+    },
+    {
+      "ticker": "MPC",
+      "company": "Marathon Petroleum",
+      "insider": "Benson Molly R",
+      "role": "Insider",
+      "date": "2026-08-17",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1510295/000119312526356892/0001193125-26-356892-index.htm",
+      "shares_sold": 5000,
+      "shares_remaining": 30334,
+      "expiry": null,
+      "value": 1792850
+    },
+    {
+      "ticker": "MPC",
+      "company": "Marathon Petroleum",
+      "insider": "Benson Molly R",
+      "role": "Insider",
+      "date": "2026-08-17",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1510295/000119312526356892/0001193125-26-356892-index.htm",
+      "shares_sold": 5000,
+      "shares_remaining": 30334,
+      "expiry": null,
+      "value": 1792850
     },
     {
       "ticker": "BKNG",
@@ -9644,6 +10218,30 @@
       "value": 1678432
     },
     {
+      "ticker": "AFL",
+      "company": "Aflac",
+      "insider": "Japan Post Holdings Co., Ltd.",
+      "role": "10% Owner",
+      "date": "2026-08-18",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/4977/000110465926099029/0001104659-26-099029-index.htm",
+      "shares_sold": 13610,
+      "shares_remaining": 50831080,
+      "expiry": null,
+      "value": 1659195
+    },
+    {
+      "ticker": "TDG",
+      "company": "TransDigm",
+      "insider": "Howley W Nicholas",
+      "role": "Insider",
+      "date": "2026-08-18",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1260221/000135257326000013/0001352573-26-000013-index.htm",
+      "shares_sold": 1313,
+      "shares_remaining": 21737,
+      "expiry": null,
+      "value": 1628673
+    },
+    {
       "ticker": "ANET",
       "company": "Arista Networks",
       "insider": "BECHTOLSHEIM ANDREAS",
@@ -9834,6 +10432,18 @@
       "shares_remaining": 22582,
       "expiry": null,
       "value": 1515819
+    },
+    {
+      "ticker": "HSY",
+      "company": "Hershey",
+      "insider": "HERSHEY TRUST CO TRUSTEE IN TRUST FOR MILTON HERSHEY SCHOOL",
+      "role": "10% Owner",
+      "date": "2026-08-18",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/47111/000095014226002386/0000950142-26-002386-index.htm",
+      "shares_sold": 8184,
+      "shares_remaining": 986577,
+      "expiry": null,
+      "value": 1501810
     },
     {
       "ticker": "FANG",
@@ -10076,18 +10686,6 @@
       "value": 1350000
     },
     {
-      "ticker": "ICE",
-      "company": "Intercontinental Exchange",
-      "insider": "Martin Lynn C",
-      "role": "Insider",
-      "date": "2026-07-16",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/1571949/000119312526308983/0001193125-26-308983-index.htm",
-      "shares_sold": 9482,
-      "shares_remaining": 54620,
-      "expiry": null,
-      "value": 1343125
-    },
-    {
       "ticker": "MMM",
       "company": "3M",
       "insider": "Banovetz John Patrick",
@@ -10232,6 +10830,18 @@
       "value": 1302300
     },
     {
+      "ticker": "TDG",
+      "company": "TransDigm",
+      "insider": "Howley W Nicholas",
+      "role": "Insider",
+      "date": "2026-08-18",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1260221/000135257326000013/0001352573-26-000013-index.htm",
+      "shares_sold": 1055,
+      "shares_remaining": 28660,
+      "expiry": null,
+      "value": 1299774
+    },
+    {
       "ticker": "INCY",
       "company": "Incyte",
       "insider": "CAGNONI PABLO J",
@@ -10242,6 +10852,18 @@
       "shares_remaining": 194001,
       "expiry": null,
       "value": 1296792
+    },
+    {
+      "ticker": "PH",
+      "company": "Parker Hannifin",
+      "insider": "Scott Patrick",
+      "role": "VP & Pres-Fluid Conn. Grp.",
+      "date": "2026-08-17",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/76334/000007633426000101/0000076334-26-000101-index.htm",
+      "shares_sold": 1225,
+      "shares_remaining": 3728,
+      "expiry": null,
+      "value": 1294800
     },
     {
       "ticker": "MU",
@@ -10520,16 +11142,16 @@
       "value": 1173294
     },
     {
-      "ticker": "HSY",
-      "company": "Hershey",
-      "insider": "HERSHEY TRUST CO TRUSTEE IN TRUST FOR MILTON HERSHEY SCHOOL",
-      "role": "10% Owner",
-      "date": "2026-07-17",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/47111/000095014226002130/0000950142-26-002130-index.htm",
-      "shares_sold": 6807,
-      "shares_remaining": 1209131,
+      "ticker": "CAH",
+      "company": "Cardinal Health",
+      "insider": "Greene Michelle D.",
+      "role": "Chief Information Officer",
+      "date": "2026-08-18",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/721371/000194522826000005/0001945228-26-000005-index.htm",
+      "shares_sold": 4952,
+      "shares_remaining": 14528,
       "expiry": null,
-      "value": 1166641
+      "value": 1167087
     },
     {
       "ticker": "EMR",
@@ -10664,6 +11286,18 @@
       "value": 1100625
     },
     {
+      "ticker": "HAS",
+      "company": "Hasbro",
+      "insider": "Hight John",
+      "role": "President, WOTC",
+      "date": "2026-08-19",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/46080/000162828026057953/0001628280-26-057953-index.htm",
+      "shares_sold": 11593,
+      "shares_remaining": 38597,
+      "expiry": null,
+      "value": 1097045
+    },
+    {
       "ticker": "ICE",
       "company": "Intercontinental Exchange",
       "insider": "Foley Douglas",
@@ -10724,6 +11358,18 @@
       "value": 1067450
     },
     {
+      "ticker": "EQR",
+      "company": "Equity Residential",
+      "insider": "SCHULMAN EDWARD M",
+      "role": "EVP, Legal Affairs",
+      "date": "2026-08-18",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/906107/000090610726000070/0000906107-26-000070-index.htm",
+      "shares_sold": 16595,
+      "shares_remaining": 48776,
+      "expiry": null,
+      "value": 1066892
+    },
+    {
       "ticker": "ALL",
       "company": "Allstate",
       "insider": "Dugenske John E",
@@ -10782,6 +11428,18 @@
       "shares_remaining": 387111,
       "expiry": null,
       "value": 1047596
+    },
+    {
+      "ticker": "CAH",
+      "company": "Cardinal Health",
+      "insider": "Mayer Jessica L",
+      "role": "Chief Legal/Compliance Officer",
+      "date": "2026-08-18",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/721371/000177138326000003/0001771383-26-000003-index.htm",
+      "shares_sold": 4426,
+      "shares_remaining": 43940,
+      "expiry": null,
+      "value": 1046217
     },
     {
       "ticker": "NUE",
@@ -10892,6 +11550,18 @@
       "value": 1025287
     },
     {
+      "ticker": "TDG",
+      "company": "TransDigm",
+      "insider": "Howley W Nicholas",
+      "role": "Insider",
+      "date": "2026-08-18",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1260221/000135257326000013/0001352573-26-000013-index.htm",
+      "shares_sold": 830,
+      "shares_remaining": 29715,
+      "expiry": null,
+      "value": 1021828
+    },
+    {
       "ticker": "ZION",
       "company": "Zions Bancorporation",
       "insider": "MCLEAN SCOTT J",
@@ -10974,6 +11644,18 @@
       "shares_remaining": 29919,
       "expiry": null,
       "value": 1009137
+    },
+    {
+      "ticker": "EQR",
+      "company": "Equity Residential",
+      "insider": "Swanezy Susan",
+      "role": "Director",
+      "date": "2026-08-18",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/906107/000090610726000061/0000906107-26-000061-index.htm",
+      "shares_sold": 15700,
+      "shares_remaining": 28934,
+      "expiry": null,
+      "value": 1001660
     },
     {
       "ticker": "BKNG",
@@ -11096,18 +11778,6 @@
       "value": 967010
     },
     {
-      "ticker": "DPZ",
-      "company": "Domino's Pizza",
-      "insider": "JORDAN JOSEPH HUGH",
-      "role": "Insider",
-      "date": "2026-07-16",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/1286681/000180469526000010/0001804695-26-000010-index.htm",
-      "shares_sold": 3100,
-      "shares_remaining": 10905,
-      "expiry": null,
-      "value": 964999
-    },
-    {
       "ticker": "MA",
       "company": "Mastercard",
       "insider": "Kirkpatrick Linda Pistecchia",
@@ -11178,18 +11848,6 @@
       "shares_remaining": 0,
       "expiry": null,
       "value": 953466
-    },
-    {
-      "ticker": "HSY",
-      "company": "Hershey",
-      "insider": "HERSHEY TRUST CO TRUSTEE IN TRUST FOR MILTON HERSHEY SCHOOL",
-      "role": "10% Owner",
-      "date": "2026-07-16",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/47111/000095014226002130/0000950142-26-002130-index.htm",
-      "shares_sold": 5428,
-      "shares_remaining": 1217264,
-      "expiry": null,
-      "value": 947790
     },
     {
       "ticker": "ANET",
@@ -11298,6 +11956,18 @@
       "shares_remaining": 1097714,
       "expiry": null,
       "value": 919739
+    },
+    {
+      "ticker": "CAH",
+      "company": "Cardinal Health",
+      "insider": "Mayer Jessica L",
+      "role": "Chief Legal/Compliance Officer",
+      "date": "2026-08-18",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/721371/000177138326000003/0001771383-26-000003-index.htm",
+      "shares_sold": 3900,
+      "shares_remaining": 58612,
+      "expiry": null,
+      "value": 915096
     },
     {
       "ticker": "ALL",
@@ -11552,6 +12222,18 @@
       "value": 832864
     },
     {
+      "ticker": "CAH",
+      "company": "Cardinal Health",
+      "insider": "Greene Michelle D.",
+      "role": "Chief Information Officer",
+      "date": "2026-08-18",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/721371/000194522826000005/0001945228-26-000005-index.htm",
+      "shares_sold": 3512,
+      "shares_remaining": 11016,
+      "expiry": null,
+      "value": 829920
+    },
+    {
       "ticker": "TDG",
       "company": "TransDigm",
       "insider": "Reiss Joel",
@@ -11610,6 +12292,18 @@
       "shares_remaining": 21679,
       "expiry": null,
       "value": 818957
+    },
+    {
+      "ticker": "HSY",
+      "company": "Hershey",
+      "insider": "HERSHEY TRUST CO TRUSTEE IN TRUST FOR MILTON HERSHEY SCHOOL",
+      "role": "10% Owner",
+      "date": "2026-08-17",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/47111/000095014226002386/0000950142-26-002386-index.htm",
+      "shares_sold": 4492,
+      "shares_remaining": 999020,
+      "expiry": null,
+      "value": 813896
     },
     {
       "ticker": "MRK",
@@ -11996,18 +12690,6 @@
       "value": 732435
     },
     {
-      "ticker": "DPZ",
-      "company": "Domino's Pizza",
-      "insider": "JORDAN JOSEPH HUGH",
-      "role": "Insider",
-      "date": "2026-07-16",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/1286681/000180469526000010/0001804695-26-000010-index.htm",
-      "shares_sold": 2350,
-      "shares_remaining": 10905,
-      "expiry": null,
-      "value": 731531
-    },
-    {
       "ticker": "INCY",
       "company": "Incyte",
       "insider": "Mayes Patrick A",
@@ -12140,6 +12822,18 @@
       "value": 701217
     },
     {
+      "ticker": "TDG",
+      "company": "TransDigm",
+      "insider": "Howley W Nicholas",
+      "role": "Insider",
+      "date": "2026-08-18",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1260221/000135257326000013/0001352573-26-000013-index.htm",
+      "shares_sold": 570,
+      "shares_remaining": 30545,
+      "expiry": null,
+      "value": 701110
+    },
+    {
       "ticker": "VRSK",
       "company": "Verisk Analytics",
       "insider": "Shavel Lee",
@@ -12162,6 +12856,18 @@
       "shares_remaining": 0,
       "expiry": null,
       "value": 693809
+    },
+    {
+      "ticker": "HSY",
+      "company": "Hershey",
+      "insider": "HERSHEY TRUST CO TRUSTEE IN TRUST FOR MILTON HERSHEY SCHOOL",
+      "role": "10% Owner",
+      "date": "2026-08-19",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/47111/000095014226002386/0000950142-26-002386-index.htm",
+      "shares_sold": 3673,
+      "shares_remaining": 978145,
+      "expiry": null,
+      "value": 693248
     },
     {
       "ticker": "MU",
@@ -12332,6 +13038,18 @@
       "value": 648956
     },
     {
+      "ticker": "CDNS",
+      "company": "Cadence Design",
+      "insider": "Cunningham Paul",
+      "role": "Sr. Vice President",
+      "date": "2026-08-17",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/813672/000081367226000093/0000813672-26-000093-index.htm",
+      "shares_sold": 2000,
+      "shares_remaining": 124586,
+      "expiry": null,
+      "value": 646640
+    },
+    {
       "ticker": "MRK",
       "company": "Merck",
       "insider": "DeLuca Richard R.",
@@ -12342,6 +13060,18 @@
       "shares_remaining": 155787,
       "expiry": null,
       "value": 643993
+    },
+    {
+      "ticker": "TDG",
+      "company": "TransDigm",
+      "insider": "Howley W Nicholas",
+      "role": "Insider",
+      "date": "2026-08-18",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1260221/000135257326000013/0001352573-26-000013-index.htm",
+      "shares_sold": 520,
+      "shares_remaining": 27030,
+      "expiry": null,
+      "value": 643802
     },
     {
       "ticker": "ANET",
@@ -12668,6 +13398,18 @@
       "value": 591563
     },
     {
+      "ticker": "CAH",
+      "company": "Cardinal Health",
+      "insider": "Greene Michelle D.",
+      "role": "Chief Information Officer",
+      "date": "2026-08-18",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/721371/000194522826000005/0001945228-26-000005-index.htm",
+      "shares_sold": 2500,
+      "shares_remaining": 19480,
+      "expiry": null,
+      "value": 586425
+    },
+    {
       "ticker": "ACN",
       "company": "Accenture",
       "insider": "Unruch Joel",
@@ -12788,6 +13530,18 @@
       "value": 565831
     },
     {
+      "ticker": "HAL",
+      "company": "Halliburton",
+      "insider": "Slocum Jeffrey Shannon",
+      "role": "Director, EVP and COO",
+      "date": "2026-08-18",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/45012/000197035726000014/0001970357-26-000014-index.htm",
+      "shares_sold": 16121,
+      "shares_remaining": 171301,
+      "expiry": null,
+      "value": 565573
+    },
+    {
       "ticker": "TRV",
       "company": "Travelers",
       "insider": "Munson Paul E.",
@@ -12822,6 +13576,18 @@
       "shares_remaining": 70294,
       "expiry": null,
       "value": 560536
+    },
+    {
+      "ticker": "TDG",
+      "company": "TransDigm",
+      "insider": "Howley W Nicholas",
+      "role": "Insider",
+      "date": "2026-08-18",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1260221/000135257326000013/0001352573-26-000013-index.htm",
+      "shares_sold": 450,
+      "shares_remaining": 28210,
+      "expiry": null,
+      "value": 554987
     },
     {
       "ticker": "VRSK",
@@ -12906,6 +13672,18 @@
       "shares_remaining": 231593,
       "expiry": null,
       "value": 543391
+    },
+    {
+      "ticker": "EQR",
+      "company": "Equity Residential",
+      "insider": "Howard Christopher B.",
+      "role": "Director",
+      "date": "2026-08-18",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/906107/000090610726000058/0000906107-26-000058-index.htm",
+      "shares_sold": 8486,
+      "shares_remaining": 12730,
+      "expiry": null,
+      "value": 543104
     },
     {
       "ticker": "BKNG",
@@ -13052,6 +13830,18 @@
       "value": 521035
     },
     {
+      "ticker": "EQR",
+      "company": "Equity Residential",
+      "insider": "MUELLER CHARLES E JR",
+      "role": "Director",
+      "date": "2026-08-18",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/906107/000090610726000059/0000906107-26-000059-index.htm",
+      "shares_sold": 8000,
+      "shares_remaining": 16084,
+      "expiry": null,
+      "value": 511200
+    },
+    {
       "ticker": "TER",
       "company": "Teradyne",
       "insider": "MATZ MARILYN",
@@ -13122,6 +13912,18 @@
       "shares_remaining": 31299,
       "expiry": null,
       "value": 503408
+    },
+    {
+      "ticker": "EQR",
+      "company": "Equity Residential",
+      "insider": "Manelis Michael L",
+      "role": "Executive Vice President & COO",
+      "date": "2026-08-17",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/906107/000090610726000063/0000906107-26-000063-index.htm",
+      "shares_sold": 7825,
+      "shares_remaining": 44713,
+      "expiry": null,
+      "value": 503225
     },
     {
       "ticker": "MA",
@@ -13328,6 +14130,18 @@
       "value": 488097
     },
     {
+      "ticker": "JCI",
+      "company": "Johnson Controls",
+      "insider": "Cohade Pierre E",
+      "role": "Director",
+      "date": "2026-08-19",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/833444/000083344426000095/0000833444-26-000095-index.htm",
+      "shares_sold": 3300,
+      "shares_remaining": 10774,
+      "expiry": null,
+      "value": 487707
+    },
+    {
       "ticker": "BWA",
       "company": "BorgWarner",
       "insider": "McAlmont Shaun",
@@ -13338,6 +14152,18 @@
       "shares_remaining": 18070,
       "expiry": null,
       "value": 485548
+    },
+    {
+      "ticker": "HSY",
+      "company": "Hershey",
+      "insider": "HERSHEY TRUST CO TRUSTEE IN TRUST FOR MILTON HERSHEY SCHOOL",
+      "role": "10% Owner",
+      "date": "2026-08-19",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/47111/000095014226002386/0000950142-26-002386-index.htm",
+      "shares_sold": 2580,
+      "shares_remaining": 981818,
+      "expiry": null,
+      "value": 483407
     },
     {
       "ticker": "HSY",
@@ -13434,6 +14260,18 @@
       "shares_remaining": 70025,
       "expiry": null,
       "value": 474204
+    },
+    {
+      "ticker": "HSY",
+      "company": "Hershey",
+      "insider": "HERSHEY TRUST CO TRUSTEE IN TRUST FOR MILTON HERSHEY SCHOOL",
+      "role": "10% Owner",
+      "date": "2026-08-17",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/47111/000095014226002386/0000950142-26-002386-index.htm",
+      "shares_sold": 2607,
+      "shares_remaining": 1003512,
+      "expiry": null,
+      "value": 471138
     },
     {
       "ticker": "QCOM",
@@ -13566,18 +14404,6 @@
       "shares_remaining": 2028357,
       "expiry": null,
       "value": 454818
-    },
-    {
-      "ticker": "ICE",
-      "company": "Intercontinental Exchange",
-      "insider": "Martin Lynn C",
-      "role": "Insider",
-      "date": "2026-07-16",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/1571949/000119312526308983/0001193125-26-308983-index.htm",
-      "shares_sold": 3200,
-      "shares_remaining": 64102,
-      "expiry": null,
-      "value": 450891
     },
     {
       "ticker": "AAL",
@@ -13868,18 +14694,6 @@
       "value": 419442
     },
     {
-      "ticker": "ICE",
-      "company": "Intercontinental Exchange",
-      "insider": "Martin Lynn C",
-      "role": "Insider",
-      "date": "2026-07-16",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/1571949/000119312526308983/0001193125-26-308983-index.htm",
-      "shares_sold": 3000,
-      "shares_remaining": 67302,
-      "expiry": null,
-      "value": 419236
-    },
-    {
       "ticker": "HSY",
       "company": "Hershey",
       "insider": "HERSHEY TRUST CO TRUSTEE IN TRUST FOR MILTON HERSHEY SCHOOL",
@@ -14132,6 +14946,18 @@
       "value": 383614
     },
     {
+      "ticker": "HSY",
+      "company": "Hershey",
+      "insider": "HERSHEY TRUST CO TRUSTEE IN TRUST FOR MILTON HERSHEY SCHOOL",
+      "role": "10% Owner",
+      "date": "2026-08-19",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/47111/000095014226002386/0000950142-26-002386-index.htm",
+      "shares_sold": 2026,
+      "shares_remaining": 976119,
+      "expiry": null,
+      "value": 383320
+    },
+    {
       "ticker": "ANET",
       "company": "Arista Networks",
       "insider": "BECHTOLSHEIM ANDREAS",
@@ -14264,6 +15090,18 @@
       "value": 356494
     },
     {
+      "ticker": "TDG",
+      "company": "TransDigm",
+      "insider": "Howley W Nicholas",
+      "role": "Insider",
+      "date": "2026-08-18",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1260221/000135257326000013/0001352573-26-000013-index.htm",
+      "shares_sold": 290,
+      "shares_remaining": 31115,
+      "expiry": null,
+      "value": 356437
+    },
+    {
       "ticker": "HSY",
       "company": "Hershey",
       "insider": "HERSHEY TRUST CO TRUSTEE IN TRUST FOR MILTON HERSHEY SCHOOL",
@@ -14394,6 +15232,18 @@
       "shares_remaining": 36000,
       "expiry": null,
       "value": 334110
+    },
+    {
+      "ticker": "TDG",
+      "company": "TransDigm",
+      "insider": "Howley W Nicholas",
+      "role": "Insider",
+      "date": "2026-08-18",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1260221/000135257326000013/0001352573-26-000013-index.htm",
+      "shares_sold": 270,
+      "shares_remaining": 27940,
+      "expiry": null,
+      "value": 333365
     },
     {
       "ticker": "ANET",
@@ -14564,18 +15414,6 @@
       "value": 316731
     },
     {
-      "ticker": "HSY",
-      "company": "Hershey",
-      "insider": "HERSHEY TRUST CO TRUSTEE IN TRUST FOR MILTON HERSHEY SCHOOL",
-      "role": "10% Owner",
-      "date": "2026-07-16",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/47111/000095014226002130/0000950142-26-002130-index.htm",
-      "shares_sold": 1825,
-      "shares_remaining": 1222692,
-      "expiry": null,
-      "value": 316584
-    },
-    {
       "ticker": "TDG",
       "company": "TransDigm",
       "insider": "Howley W Nicholas",
@@ -14646,6 +15484,18 @@
       "shares_remaining": 201775,
       "expiry": null,
       "value": 310212
+    },
+    {
+      "ticker": "TDG",
+      "company": "TransDigm",
+      "insider": "Howley W Nicholas",
+      "role": "Insider",
+      "date": "2026-08-18",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1260221/000135257326000013/0001352573-26-000013-index.htm",
+      "shares_sold": 250,
+      "shares_remaining": 27550,
+      "expiry": null,
+      "value": 309223
     },
     {
       "ticker": "MTB",
@@ -14864,6 +15714,18 @@
       "value": 288779
     },
     {
+      "ticker": "HSY",
+      "company": "Hershey",
+      "insider": "HERSHEY TRUST CO TRUSTEE IN TRUST FOR MILTON HERSHEY SCHOOL",
+      "role": "10% Owner",
+      "date": "2026-08-19",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/47111/000095014226002386/0000950142-26-002386-index.htm",
+      "shares_sold": 1541,
+      "shares_remaining": 984398,
+      "expiry": null,
+      "value": 287882
+    },
+    {
       "ticker": "WAB",
       "company": "Wabtec",
       "insider": "Sbrocco Gregory",
@@ -15032,6 +15894,18 @@
       "value": 273645
     },
     {
+      "ticker": "HSY",
+      "company": "Hershey",
+      "insider": "HERSHEY TRUST CO TRUSTEE IN TRUST FOR MILTON HERSHEY SCHOOL",
+      "role": "10% Owner",
+      "date": "2026-08-17",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/47111/000095014226002386/0000950142-26-002386-index.htm",
+      "shares_sold": 1499,
+      "shares_remaining": 997521,
+      "expiry": null,
+      "value": 273521
+    },
+    {
       "ticker": "COF",
       "company": "Capital One",
       "insider": "Mouadeb Mark Daniel",
@@ -15090,18 +15964,6 @@
       "shares_remaining": 32889,
       "expiry": null,
       "value": 268390
-    },
-    {
-      "ticker": "HSY",
-      "company": "Hershey",
-      "insider": "HERSHEY TRUST CO TRUSTEE IN TRUST FOR MILTON HERSHEY SCHOOL",
-      "role": "10% Owner",
-      "date": "2026-07-17",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/47111/000095014226002130/0000950142-26-002130-index.htm",
-      "shares_sold": 1514,
-      "shares_remaining": 1206897,
-      "expiry": null,
-      "value": 263970
     },
     {
       "ticker": "AMP",
@@ -15260,6 +16122,30 @@
       "value": 250171
     },
     {
+      "ticker": "TDG",
+      "company": "TransDigm",
+      "insider": "Howley W Nicholas",
+      "role": "Insider",
+      "date": "2026-08-18",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1260221/000135257326000013/0001352573-26-000013-index.htm",
+      "shares_sold": 204,
+      "shares_remaining": 31475,
+      "expiry": null,
+      "value": 250022
+    },
+    {
+      "ticker": "HSY",
+      "company": "Hershey",
+      "insider": "HERSHEY TRUST CO TRUSTEE IN TRUST FOR MILTON HERSHEY SCHOOL",
+      "role": "10% Owner",
+      "date": "2026-08-17",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/47111/000095014226002386/0000950142-26-002386-index.htm",
+      "shares_sold": 1362,
+      "shares_remaining": 996159,
+      "expiry": null,
+      "value": 249852
+    },
+    {
       "ticker": "HSY",
       "company": "Hershey",
       "insider": "HERSHEY TRUST CO TRUSTEE IN TRUST FOR MILTON HERSHEY SCHOOL",
@@ -15318,6 +16204,18 @@
       "shares_remaining": 1173429,
       "expiry": null,
       "value": 242755
+    },
+    {
+      "ticker": "NTAP",
+      "company": "NetApp",
+      "insider": "CERNUDA CESAR",
+      "role": "Insider",
+      "date": "2026-08-17",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1002047/000119312526357081/0001193125-26-357081-index.htm",
+      "shares_sold": 1192,
+      "shares_remaining": 47946,
+      "expiry": null,
+      "value": 242726
     },
     {
       "ticker": "AON",
@@ -15390,6 +16288,18 @@
       "shares_remaining": 26354,
       "expiry": null,
       "value": 237176
+    },
+    {
+      "ticker": "TDG",
+      "company": "TransDigm",
+      "insider": "Howley W Nicholas",
+      "role": "Insider",
+      "date": "2026-08-18",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1260221/000135257326000013/0001352573-26-000013-index.htm",
+      "shares_sold": 190,
+      "shares_remaining": 21547,
+      "expiry": null,
+      "value": 235816
     },
     {
       "ticker": "ADP",
@@ -15620,18 +16530,6 @@
       "value": 216000
     },
     {
-      "ticker": "INCY",
-      "company": "Incyte",
-      "insider": "Stein Steven H",
-      "role": "CMO & Head of Late-Stage Dev.",
-      "date": "2026-07-16",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/879169/000167377626000019/0001673776-26-000019-index.htm",
-      "shares_sold": 1877,
-      "shares_remaining": 21118,
-      "expiry": null,
-      "value": 215348
-    },
-    {
       "ticker": "HSY",
       "company": "Hershey",
       "insider": "HERSHEY TRUST CO TRUSTEE IN TRUST FOR MILTON HERSHEY SCHOOL",
@@ -15812,6 +16710,18 @@
       "value": 204657
     },
     {
+      "ticker": "PYPL",
+      "company": "PayPal",
+      "insider": "Kereere Suzan",
+      "role": "President, Global Markets",
+      "date": "2026-08-18",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1633917/000189608626000012/0001896086-26-000012-index.htm",
+      "shares_sold": 3362,
+      "shares_remaining": 31783,
+      "expiry": null,
+      "value": 204598
+    },
+    {
       "ticker": "ANET",
       "company": "Arista Networks",
       "insider": "Giancarlo Charles H",
@@ -15834,6 +16744,18 @@
       "shares_remaining": 10270,
       "expiry": null,
       "value": 202090
+    },
+    {
+      "ticker": "BWA",
+      "company": "BorgWarner",
+      "insider": "Kulikowski Amy B.",
+      "role": "VP & Chief Accounting Officer",
+      "date": "2026-08-18",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/908255/000122520826007226/0001225208-26-007226-index.htm",
+      "shares_sold": 2900,
+      "shares_remaining": 9725,
+      "expiry": null,
+      "value": 198940
     },
     {
       "ticker": "IT",
@@ -15894,6 +16816,18 @@
       "shares_remaining": 27711,
       "expiry": null,
       "value": 193505
+    },
+    {
+      "ticker": "HSY",
+      "company": "Hershey",
+      "insider": "HERSHEY TRUST CO TRUSTEE IN TRUST FOR MILTON HERSHEY SCHOOL",
+      "role": "10% Owner",
+      "date": "2026-08-18",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/47111/000095014226002386/0000950142-26-002386-index.htm",
+      "shares_sold": 1056,
+      "shares_remaining": 994761,
+      "expiry": null,
+      "value": 192733
     },
     {
       "ticker": "CRL",
@@ -16054,6 +16988,18 @@
     {
       "ticker": "TDG",
       "company": "TransDigm",
+      "insider": "Howley W Nicholas",
+      "role": "Insider",
+      "date": "2026-08-18",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1260221/000135257326000013/0001352573-26-000013-index.htm",
+      "shares_sold": 140,
+      "shares_remaining": 27800,
+      "expiry": null,
+      "value": 173057
+    },
+    {
+      "ticker": "TDG",
+      "company": "TransDigm",
       "insider": "Reiss Joel",
       "role": "Insider",
       "date": "2026-08-17",
@@ -16062,18 +17008,6 @@
       "shares_remaining": 7360,
       "expiry": null,
       "value": 172594
-    },
-    {
-      "ticker": "HSY",
-      "company": "Hershey",
-      "insider": "HERSHEY TRUST CO TRUSTEE IN TRUST FOR MILTON HERSHEY SCHOOL",
-      "role": "10% Owner",
-      "date": "2026-07-16",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/47111/000095014226002130/0000950142-26-002130-index.htm",
-      "shares_sold": 979,
-      "shares_remaining": 1216285,
-      "expiry": null,
-      "value": 171785
     },
     {
       "ticker": "TDG",
@@ -16112,6 +17046,18 @@
       "value": 170640
     },
     {
+      "ticker": "NTAP",
+      "company": "NetApp",
+      "insider": "CERNUDA CESAR",
+      "role": "Insider",
+      "date": "2026-08-17",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1002047/000119312526357081/0001193125-26-357081-index.htm",
+      "shares_sold": 821,
+      "shares_remaining": 46630,
+      "expiry": null,
+      "value": 168764
+    },
+    {
       "ticker": "ALLE",
       "company": "Allegion",
       "insider": "Wenos Vincent",
@@ -16136,18 +17082,6 @@
       "value": 168113
     },
     {
-      "ticker": "HSY",
-      "company": "Hershey",
-      "insider": "HERSHEY TRUST CO TRUSTEE IN TRUST FOR MILTON HERSHEY SCHOOL",
-      "role": "10% Owner",
-      "date": "2026-07-16",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/47111/000095014226002130/0000950142-26-002130-index.htm",
-      "shares_sold": 969,
-      "shares_remaining": 1224517,
-      "expiry": null,
-      "value": 167098
-    },
-    {
       "ticker": "CRL",
       "company": "Charles River Labs",
       "insider": "Knell Michael Gunnar",
@@ -16170,6 +17104,18 @@
       "shares_remaining": 21223,
       "expiry": null,
       "value": 163156
+    },
+    {
+      "ticker": "CAH",
+      "company": "Cardinal Health",
+      "insider": "Greene Michelle D.",
+      "role": "Chief Information Officer",
+      "date": "2026-08-18",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/721371/000194522826000005/0001945228-26-000005-index.htm",
+      "shares_sold": 686,
+      "shares_remaining": 10330,
+      "expiry": null,
+      "value": 162753
     },
     {
       "ticker": "NFLX",
@@ -16880,18 +17826,6 @@
       "value": 125903
     },
     {
-      "ticker": "INCY",
-      "company": "Incyte",
-      "insider": "Issa Mohamed Khairie",
-      "role": "EVP, Head of U.S. Commercial",
-      "date": "2026-07-16",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/879169/000205003526000011/0002050035-26-000011-index.htm",
-      "shares_sold": 1093,
-      "shares_remaining": 63940,
-      "expiry": null,
-      "value": 125705
-    },
-    {
       "ticker": "TDG",
       "company": "TransDigm",
       "insider": "Reiss Joel",
@@ -17000,18 +17934,6 @@
       "value": 115265
     },
     {
-      "ticker": "HSY",
-      "company": "Hershey",
-      "insider": "HERSHEY TRUST CO TRUSTEE IN TRUST FOR MILTON HERSHEY SCHOOL",
-      "role": "10% Owner",
-      "date": "2026-07-17",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/47111/000095014226002130/0000950142-26-002130-index.htm",
-      "shares_sold": 667,
-      "shares_remaining": 1208464,
-      "expiry": null,
-      "value": 115087
-    },
-    {
       "ticker": "WDC",
       "company": "Western Digital",
       "insider": "Cole Martin I",
@@ -17106,18 +18028,6 @@
       "shares_remaining": 3824,
       "expiry": null,
       "value": 109961
-    },
-    {
-      "ticker": "HSY",
-      "company": "Hershey",
-      "insider": "HERSHEY TRUST CO TRUSTEE IN TRUST FOR MILTON HERSHEY SCHOOL",
-      "role": "10% Owner",
-      "date": "2026-07-16",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/47111/000095014226002130/0000950142-26-002130-index.htm",
-      "shares_sold": 633,
-      "shares_remaining": 1225486,
-      "expiry": null,
-      "value": 108612
     },
     {
       "ticker": "KLAC",
@@ -17274,6 +18184,18 @@
       "shares_remaining": 230693,
       "expiry": null,
       "value": 101351
+    },
+    {
+      "ticker": "NTAP",
+      "company": "NetApp",
+      "insider": "CERNUDA CESAR",
+      "role": "Insider",
+      "date": "2026-08-17",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1002047/000119312526357081/0001193125-26-357081-index.htm",
+      "shares_sold": 495,
+      "shares_remaining": 47451,
+      "expiry": null,
+      "value": 101158
     },
     {
       "ticker": "TDG",
@@ -17552,6 +18474,18 @@
       "value": 88693
     },
     {
+      "ticker": "ALLE",
+      "company": "Allegion",
+      "insider": "Ilardi David S.",
+      "role": "President-Amer & SVP-Allegion",
+      "date": "2026-08-18",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1579241/000191504026000012/0001915040-26-000012-index.htm",
+      "shares_sold": 549,
+      "shares_remaining": 13752,
+      "expiry": null,
+      "value": 88438
+    },
+    {
       "ticker": "ANET",
       "company": "Arista Networks",
       "insider": "Giancarlo Charles H",
@@ -17574,6 +18508,18 @@
       "shares_remaining": 113325,
       "expiry": null,
       "value": 86933
+    },
+    {
+      "ticker": "TDG",
+      "company": "TransDigm",
+      "insider": "Howley W Nicholas",
+      "role": "Insider",
+      "date": "2026-08-18",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1260221/000135257326000013/0001352573-26-000013-index.htm",
+      "shares_sold": 70,
+      "shares_remaining": 31405,
+      "expiry": null,
+      "value": 85933
     },
     {
       "ticker": "IFF",
@@ -17610,6 +18556,18 @@
       "shares_remaining": 4562,
       "expiry": null,
       "value": 84800
+    },
+    {
+      "ticker": "HSY",
+      "company": "Hershey",
+      "insider": "HERSHEY TRUST CO TRUSTEE IN TRUST FOR MILTON HERSHEY SCHOOL",
+      "role": "10% Owner",
+      "date": "2026-08-18",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/47111/000095014226002386/0000950142-26-002386-index.htm",
+      "shares_sold": 458,
+      "shares_remaining": 986119,
+      "expiry": null,
+      "value": 84284
     },
     {
       "ticker": "PFE",
@@ -17852,6 +18810,18 @@
       "value": 72576
     },
     {
+      "ticker": "AFL",
+      "company": "Aflac",
+      "insider": "Japan Post Holdings Co., Ltd.",
+      "role": "10% Owner",
+      "date": "2026-08-18",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/4977/000110465926099029/0001104659-26-099029-index.htm",
+      "shares_sold": 590,
+      "shares_remaining": 50830490,
+      "expiry": null,
+      "value": 72363
+    },
+    {
       "ticker": "HSY",
       "company": "Hershey",
       "insider": "HERSHEY TRUST CO TRUSTEE IN TRUST FOR MILTON HERSHEY SCHOOL",
@@ -17886,18 +18856,6 @@
       "shares_remaining": 190791,
       "expiry": null,
       "value": 71134
-    },
-    {
-      "ticker": "HSY",
-      "company": "Hershey",
-      "insider": "HERSHEY TRUST CO TRUSTEE IN TRUST FOR MILTON HERSHEY SCHOOL",
-      "role": "10% Owner",
-      "date": "2026-07-17",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/47111/000095014226002130/0000950142-26-002130-index.htm",
-      "shares_sold": 401,
-      "shares_remaining": 1206119,
-      "expiry": null,
-      "value": 71071
     },
     {
       "ticker": "MPWR",
@@ -18152,18 +19110,6 @@
       "value": 60547
     },
     {
-      "ticker": "HSY",
-      "company": "Hershey",
-      "insider": "HERSHEY TRUST CO TRUSTEE IN TRUST FOR MILTON HERSHEY SCHOOL",
-      "role": "10% Owner",
-      "date": "2026-07-17",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/47111/000095014226002130/0000950142-26-002130-index.htm",
-      "shares_sold": 341,
-      "shares_remaining": 1206520,
-      "expiry": null,
-      "value": 60157
-    },
-    {
       "ticker": "ICE",
       "company": "Intercontinental Exchange",
       "insider": "Kapani Mayur",
@@ -18294,6 +19240,30 @@
       "shares_remaining": 18620,
       "expiry": null,
       "value": 55322
+    },
+    {
+      "ticker": "HSY",
+      "company": "Hershey",
+      "insider": "HERSHEY TRUST CO TRUSTEE IN TRUST FOR MILTON HERSHEY SCHOOL",
+      "role": "10% Owner",
+      "date": "2026-08-18",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/47111/000095014226002386/0000950142-26-002386-index.htm",
+      "shares_sold": 302,
+      "shares_remaining": 995817,
+      "expiry": null,
+      "value": 54814
+    },
+    {
+      "ticker": "SBAC",
+      "company": "SBA Communications",
+      "insider": "Krouse George R Jr",
+      "role": "Insider",
+      "date": "2026-08-17",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1034054/000147395526000008/0001473955-26-000008-index.htm",
+      "shares_sold": 300,
+      "shares_remaining": 8511,
+      "expiry": null,
+      "value": 54802
     },
     {
       "ticker": "HSY",
@@ -18440,18 +19410,6 @@
       "value": 50612
     },
     {
-      "ticker": "KMI",
-      "company": "Kinder Morgan",
-      "insider": "Garthwaite Michael P.",
-      "role": "VP (Pres., Products Pipelines)",
-      "date": "2026-07-16",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/1506307/000150630726000059/0001506307-26-000059-index.htm",
-      "shares_sold": 1550,
-      "shares_remaining": 40193,
-      "expiry": null,
-      "value": 50399
-    },
-    {
       "ticker": "NWS",
       "company": "News Corp B",
       "insider": "Delany Julian",
@@ -18534,6 +19492,18 @@
       "shares_remaining": 25158,
       "expiry": null,
       "value": 49229
+    },
+    {
+      "ticker": "PYPL",
+      "company": "PayPal",
+      "insider": "Kereere Suzan",
+      "role": "President, Global Markets",
+      "date": "2026-08-18",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1633917/000189608626000012/0001896086-26-000012-index.htm",
+      "shares_sold": 800,
+      "shares_remaining": 30983,
+      "expiry": null,
+      "value": 49124
     },
     {
       "ticker": "BX",
@@ -18992,18 +19962,6 @@
       "value": 30947
     },
     {
-      "ticker": "HSY",
-      "company": "Hershey",
-      "insider": "HERSHEY TRUST CO TRUSTEE IN TRUST FOR MILTON HERSHEY SCHOOL",
-      "role": "10% Owner",
-      "date": "2026-07-17",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/47111/000095014226002130/0000950142-26-002130-index.htm",
-      "shares_sold": 181,
-      "shares_remaining": 1215938,
-      "expiry": null,
-      "value": 30939
-    },
-    {
       "ticker": "SYY",
       "company": "Sysco",
       "insider": "Phillips Ronald L",
@@ -19026,6 +19984,42 @@
       "shares_remaining": 11357,
       "expiry": null,
       "value": 30490
+    },
+    {
+      "ticker": "ISRG",
+      "company": "Intuitive Surgical",
+      "insider": "Brosius Mark",
+      "role": "EVP & Chief Mfg and Supply Cha",
+      "date": "2026-08-19",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1035267/000201030026000027/0002010300-26-000027-index.htm",
+      "shares_sold": 77,
+      "shares_remaining": 1035,
+      "expiry": null,
+      "value": 30358
+    },
+    {
+      "ticker": "ISRG",
+      "company": "Intuitive Surgical",
+      "insider": "Brosius Mark",
+      "role": "EVP & Chief Mfg and Supply Cha",
+      "date": "2026-08-18",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1035267/000201030026000027/0002010300-26-000027-index.htm",
+      "shares_sold": 77,
+      "shares_remaining": 1112,
+      "expiry": null,
+      "value": 30338
+    },
+    {
+      "ticker": "ISRG",
+      "company": "Intuitive Surgical",
+      "insider": "Brosius Mark",
+      "role": "EVP & Chief Mfg and Supply Cha",
+      "date": "2026-08-17",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1035267/000201030026000027/0002010300-26-000027-index.htm",
+      "shares_sold": 77,
+      "shares_remaining": 1189,
+      "expiry": null,
+      "value": 30081
     },
     {
       "ticker": "MHK",
@@ -19052,18 +20046,6 @@
       "value": 29343
     },
     {
-      "ticker": "HSY",
-      "company": "Hershey",
-      "insider": "HERSHEY TRUST CO TRUSTEE IN TRUST FOR MILTON HERSHEY SCHOOL",
-      "role": "10% Owner",
-      "date": "2026-07-16",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/47111/000095014226002130/0000950142-26-002130-index.htm",
-      "shares_sold": 166,
-      "shares_remaining": 1216119,
-      "expiry": null,
-      "value": 29247
-    },
-    {
       "ticker": "ADI",
       "company": "Analog Devices",
       "insider": "STATA RAY",
@@ -19074,18 +20056,6 @@
       "shares_remaining": 114435,
       "expiry": null,
       "value": 28547
-    },
-    {
-      "ticker": "ICE",
-      "company": "Intercontinental Exchange",
-      "insider": "Martin Lynn C",
-      "role": "Insider",
-      "date": "2026-07-16",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/1571949/000119312526308983/0001193125-26-308983-index.htm",
-      "shares_sold": 200,
-      "shares_remaining": 54420,
-      "expiry": null,
-      "value": 28460
     },
     {
       "ticker": "ADI",
@@ -19472,6 +20442,18 @@
       "value": 21358
     },
     {
+      "ticker": "NTAP",
+      "company": "NetApp",
+      "insider": "CERNUDA CESAR",
+      "role": "Insider",
+      "date": "2026-08-17",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1002047/000119312526357081/0001193125-26-357081-index.htm",
+      "shares_sold": 100,
+      "shares_remaining": 46530,
+      "expiry": null,
+      "value": 20640
+    },
+    {
       "ticker": "ADI",
       "company": "Analog Devices",
       "insider": "STATA RAY",
@@ -19494,6 +20476,30 @@
       "shares_remaining": 184333,
       "expiry": null,
       "value": 19007
+    },
+    {
+      "ticker": "ETSY",
+      "company": "Etsy",
+      "insider": "Buckley Merilee",
+      "role": "Insider",
+      "date": "2026-08-17",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1370637/000181376126000009/0001813761-26-000009-index.htm",
+      "shares_sold": 238,
+      "shares_remaining": 167,
+      "expiry": null,
+      "value": 18849
+    },
+    {
+      "ticker": "HSY",
+      "company": "Hershey",
+      "insider": "HERSHEY TRUST CO TRUSTEE IN TRUST FOR MILTON HERSHEY SCHOOL",
+      "role": "10% Owner",
+      "date": "2026-08-19",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/47111/000095014226002386/0000950142-26-002386-index.htm",
+      "shares_sold": 100,
+      "shares_remaining": 986019,
+      "expiry": null,
+      "value": 18465
     },
     {
       "ticker": "HSY",
@@ -19530,6 +20536,18 @@
       "shares_remaining": 23993,
       "expiry": null,
       "value": 17527
+    },
+    {
+      "ticker": "ETSY",
+      "company": "Etsy",
+      "insider": "Blow Marla J",
+      "role": "Insider",
+      "date": "2026-08-17",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1370637/000173174626000005/0001731746-26-000005-index.htm",
+      "shares_sold": 217,
+      "shares_remaining": 13107,
+      "expiry": null,
+      "value": 17216
     },
     {
       "ticker": "NOC",
@@ -19578,6 +20596,18 @@
       "shares_remaining": 11586,
       "expiry": null,
       "value": 16260
+    },
+    {
+      "ticker": "EQR",
+      "company": "Equity Residential",
+      "insider": "Willson Sean Thomas",
+      "role": "Senior Vice President & CAO",
+      "date": "2026-08-19",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/906107/000090610726000071/0000906107-26-000071-index.htm",
+      "shares_sold": 250,
+      "shares_remaining": 18288,
+      "expiry": null,
+      "value": 16080
     },
     {
       "ticker": "GS",
@@ -19638,6 +20668,18 @@
       "shares_remaining": 1006119,
       "expiry": null,
       "value": 14814
+    },
+    {
+      "ticker": "HSY",
+      "company": "Hershey",
+      "insider": "HERSHEY TRUST CO TRUSTEE IN TRUST FOR MILTON HERSHEY SCHOOL",
+      "role": "10% Owner",
+      "date": "2026-08-19",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/47111/000095014226002386/0000950142-26-002386-index.htm",
+      "shares_sold": 80,
+      "shares_remaining": 985939,
+      "expiry": null,
+      "value": 14800
     },
     {
       "ticker": "GS",
@@ -19772,6 +20814,18 @@
       "value": 13500
     },
     {
+      "ticker": "ETSY",
+      "company": "Etsy",
+      "insider": "Buckley Merilee",
+      "role": "Insider",
+      "date": "2026-08-17",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1370637/000181376126000009/0001813761-26-000009-index.htm",
+      "shares_sold": 166,
+      "shares_remaining": 1,
+      "expiry": null,
+      "value": 13266
+    },
+    {
       "ticker": "EW",
       "company": "Edwards Lifesciences",
       "insider": "Markowitz Wayne",
@@ -19782,6 +20836,18 @@
       "shares_remaining": 21533,
       "expiry": null,
       "value": 12587
+    },
+    {
+      "ticker": "GEN",
+      "company": "Gen Digital",
+      "insider": "Witteveen Travis Michael",
+      "role": "Head of Products and Portfolio",
+      "date": "2026-08-17",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/849399/000162828026058007/0001628280-26-058007-index.htm",
+      "shares_sold": 440,
+      "shares_remaining": 496545,
+      "expiry": null,
+      "value": 12346
     },
     {
       "ticker": "ACN",
@@ -19854,6 +20920,18 @@
       "shares_remaining": 113095,
       "expiry": null,
       "value": 10736
+    },
+    {
+      "ticker": "PH",
+      "company": "Parker Hannifin",
+      "insider": "Scott Patrick",
+      "role": "VP & Pres-Fluid Conn. Grp.",
+      "date": "2026-08-17",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/76334/000007633426000101/0000076334-26-000101-index.htm",
+      "shares_sold": 10,
+      "shares_remaining": 3718,
+      "expiry": null,
+      "value": 10589
     },
     {
       "ticker": "INCY",
@@ -20036,18 +21114,6 @@
       "value": 9252
     },
     {
-      "ticker": "HSY",
-      "company": "Hershey",
-      "insider": "HERSHEY TRUST CO TRUSTEE IN TRUST FOR MILTON HERSHEY SCHOOL",
-      "role": "10% Owner",
-      "date": "2026-07-17",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/47111/000095014226002130/0000950142-26-002130-index.htm",
-      "shares_sold": 53,
-      "shares_remaining": 1208411,
-      "expiry": null,
-      "value": 9190
-    },
-    {
       "ticker": "GS",
       "company": "Goldman Sachs",
       "insider": "GOLDMAN SACHS GROUP INC / GOLDMAN SACHS & CO. LLC / GOLDMAN SACHS ASSET MANAGEMENT, L.P. / Broad Street Principal Investments, L.L.C. / WSLS OFFSHORE INVESTMENTS, SLP / West Street Life Sciences I, L.P. / WSLS EMP OFFSHORE INVESTMENTS, L.P. / WSLS EMP ONSHORE INVESTMENTS, L.P.",
@@ -20072,6 +21138,18 @@
       "value": 8513
     },
     {
+      "ticker": "MPWR",
+      "company": "Monolithic Power",
+      "insider": "DEAN ROBERT W II",
+      "role": "Insider",
+      "date": "2026-08-17",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1280452/000121465926010630/0001214659-26-010630-index.htm",
+      "shares_sold": 6,
+      "shares_remaining": 7126,
+      "expiry": null,
+      "value": 8481
+    },
+    {
       "ticker": "SNA",
       "company": "Snap-on",
       "insider": "Chambers Timothy L",
@@ -20082,6 +21160,18 @@
       "shares_remaining": 21223,
       "expiry": null,
       "value": 8400
+    },
+    {
+      "ticker": "HSY",
+      "company": "Hershey",
+      "insider": "HERSHEY TRUST CO TRUSTEE IN TRUST FOR MILTON HERSHEY SCHOOL",
+      "role": "10% Owner",
+      "date": "2026-08-17",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/47111/000095014226002386/0000950142-26-002386-index.htm",
+      "shares_sold": 40,
+      "shares_remaining": 996119,
+      "expiry": null,
+      "value": 7360
     },
     {
       "ticker": "HBAN",
@@ -20130,18 +21220,6 @@
       "shares_remaining": 1031168,
       "expiry": null,
       "value": 6378
-    },
-    {
-      "ticker": "HSY",
-      "company": "Hershey",
-      "insider": "HERSHEY TRUST CO TRUSTEE IN TRUST FOR MILTON HERSHEY SCHOOL",
-      "role": "10% Owner",
-      "date": "2026-07-17",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/47111/000095014226002130/0000950142-26-002130-index.htm",
-      "shares_sold": 36,
-      "shares_remaining": 1206861,
-      "expiry": null,
-      "value": 6318
     },
     {
       "ticker": "GS",
@@ -20214,6 +21292,18 @@
       "shares_remaining": 4409,
       "expiry": null,
       "value": 5483
+    },
+    {
+      "ticker": "ETSY",
+      "company": "Etsy",
+      "insider": "Blow Marla J",
+      "role": "Insider",
+      "date": "2026-08-17",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1370637/000173174626000005/0001731746-26-000005-index.htm",
+      "shares_sold": 68,
+      "shares_remaining": 13039,
+      "expiry": null,
+      "value": 5433
     },
     {
       "ticker": "HSY",
@@ -20396,18 +21486,6 @@
       "value": 3039
     },
     {
-      "ticker": "BAC",
-      "company": "Bank of America",
-      "insider": "BANK OF AMERICA CORP /DE/ / MERRILL LYNCH, PIERCE, FENNER & SMITH INC.",
-      "role": "10% Owner",
-      "date": "2026-07-16",
-      "filing_url": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000357/0000070858-26-000357-index.htm",
-      "shares_sold": 437,
-      "shares_remaining": 0,
-      "expiry": null,
-      "value": 2856
-    },
-    {
       "ticker": "HSY",
       "company": "Hershey",
       "insider": "HERSHEY TRUST CO TRUSTEE IN TRUST FOR MILTON HERSHEY SCHOOL",
@@ -20466,6 +21544,18 @@
       "shares_remaining": 62374,
       "expiry": null,
       "value": 2199
+    },
+    {
+      "ticker": "ETSY",
+      "company": "Etsy",
+      "insider": "Blow Marla J",
+      "role": "Insider",
+      "date": "2026-08-17",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1370637/000173174626000005/0001731746-26-000005-index.htm",
+      "shares_sold": 15,
+      "shares_remaining": 13024,
+      "expiry": null,
+      "value": 1218
     },
     {
       "ticker": "NOC",
@@ -20598,6 +21688,18 @@
       "shares_remaining": 0,
       "expiry": null,
       "value": 91
+    },
+    {
+      "ticker": "ETSY",
+      "company": "Etsy",
+      "insider": "Buckley Merilee",
+      "role": "Insider",
+      "date": "2026-08-17",
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1370637/000181376126000009/0001813761-26-000009-index.htm",
+      "shares_sold": 1,
+      "shares_remaining": 0,
+      "expiry": null,
+      "value": 81
     },
     {
       "ticker": "BAC",

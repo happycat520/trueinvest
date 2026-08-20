@@ -1,0 +1,300 @@
+{
+  "digest_date": "2026-08-20",
+  "data_freshness": {
+    "insider": "Aug 20, 2026 08:11 AM PST",
+    "key_dates": "Aug 20, 2026 08:18 AM PST",
+    "price_movement": "Aug 20, 2026 08:24 AM PST"
+  },
+  "signal_count": 4,
+  "signals": [
+    {
+      "rule_id": "buying_ahead_of_catalyst",
+      "label": "Buying Ahead of a Catalyst",
+      "ticker": "CNP",
+      "company": "CenterPoint Energy",
+      "facts": [
+        "1 insider buy(s) in the trailing 7 days ($40,700 combined)",
+        "Dividend Ex Date scheduled 2026-08-20 (0 days out)"
+      ]
+    },
+    {
+      "rule_id": "cluster_sell_ahead_of_catalyst",
+      "label": "Cluster Sell Ahead of a Catalyst",
+      "ticker": "EXPE",
+      "company": "Expedia",
+      "facts": [
+        "2 distinct insiders sold in the trailing 7 days ($1,690,250 combined)",
+        "Dividend Ex Date scheduled 2026-08-27 (7 days out)"
+      ]
+    },
+    {
+      "rule_id": "cluster_sell_ahead_of_catalyst",
+      "label": "Cluster Sell Ahead of a Catalyst",
+      "ticker": "JNJ",
+      "company": "Johnson & Johnson",
+      "facts": [
+        "2 distinct insiders sold in the trailing 7 days ($36,150,327 combined)",
+        "Dividend Ex Date scheduled 2026-08-25 (5 days out)"
+      ]
+    },
+    {
+      "rule_id": "buying_into_strength",
+      "label": "Buying Into Strength",
+      "ticker": "LIN",
+      "company": "Linde",
+      "facts": [
+        "1 insider buy(s) in the trailing 7 days ($47,911 combined)",
+        "3-day price streak: +3.07% (Weak Rally: Up streak on light volume. Low conviction \u2014 may stall or reverse.)"
+      ]
+    }
+  ],
+  "summary": {
+    "latest_event_date": "2026-08-19",
+    "total_events_on_latest_date": 16,
+    "largest_transaction": {
+      "ticker": "CAH",
+      "insider_name": "Hollar Jason M.",
+      "role": "Chief Executive Officer",
+      "transaction_type": "sell",
+      "value_usd": 3840042.0
+    },
+    "upcoming_this_week": [
+      {
+        "ticker": "AMAT",
+        "catalyst_type": "dividend_ex_date",
+        "catalyst_date": "2026-08-20"
+      },
+      {
+        "ticker": "CNP",
+        "catalyst_type": "dividend_ex_date",
+        "catalyst_date": "2026-08-20"
+      },
+      {
+        "ticker": "LKQ",
+        "catalyst_type": "dividend_ex_date",
+        "catalyst_date": "2026-08-20"
+      },
+      {
+        "ticker": "MAR",
+        "catalyst_type": "dividend_ex_date",
+        "catalyst_date": "2026-08-20"
+      },
+      {
+        "ticker": "MSFT",
+        "catalyst_type": "dividend_ex_date",
+        "catalyst_date": "2026-08-20"
+      },
+      {
+        "ticker": "RMD",
+        "catalyst_type": "dividend_ex_date",
+        "catalyst_date": "2026-08-20"
+      },
+      {
+        "ticker": "SBAC",
+        "catalyst_type": "dividend_ex_date",
+        "catalyst_date": "2026-08-20"
+      },
+      {
+        "ticker": "AAP",
+        "catalyst_type": "earnings",
+        "catalyst_date": "2026-08-20"
+      },
+      {
+        "ticker": "DE",
+        "catalyst_type": "earnings",
+        "catalyst_date": "2026-08-20"
+      },
+      {
+        "ticker": "ROST",
+        "catalyst_type": "earnings",
+        "catalyst_date": "2026-08-20"
+      },
+      {
+        "ticker": "WMT",
+        "catalyst_type": "earnings",
+        "catalyst_date": "2026-08-20"
+      },
+      {
+        "ticker": "AMGN",
+        "catalyst_type": "dividend_ex_date",
+        "catalyst_date": "2026-08-21"
+      },
+      {
+        "ticker": "BBWI",
+        "catalyst_type": "dividend_ex_date",
+        "catalyst_date": "2026-08-21"
+      },
+      {
+        "ticker": "CMI",
+        "catalyst_type": "dividend_ex_date",
+        "catalyst_date": "2026-08-21"
+      },
+      {
+        "ticker": "HLT",
+        "catalyst_type": "dividend_ex_date",
+        "catalyst_date": "2026-08-21"
+      },
+      {
+        "ticker": "J",
+        "catalyst_type": "dividend_ex_date",
+        "catalyst_date": "2026-08-21"
+      },
+      {
+        "ticker": "SHW",
+        "catalyst_type": "dividend_ex_date",
+        "catalyst_date": "2026-08-21"
+      },
+      {
+        "ticker": "TEL",
+        "catalyst_type": "dividend_ex_date",
+        "catalyst_date": "2026-08-21"
+      },
+      {
+        "ticker": "VTRS",
+        "catalyst_type": "dividend_ex_date",
+        "catalyst_date": "2026-08-21"
+      },
+      {
+        "ticker": "WMT",
+        "catalyst_type": "dividend_ex_date",
+        "catalyst_date": "2026-08-21"
+      },
+      {
+        "ticker": "ATO",
+        "catalyst_type": "dividend_ex_date",
+        "catalyst_date": "2026-08-24"
+      },
+      {
+        "ticker": "LYB",
+        "catalyst_type": "dividend_ex_date",
+        "catalyst_date": "2026-08-24"
+      },
+      {
+        "ticker": "MAS",
+        "catalyst_type": "dividend_ex_date",
+        "catalyst_date": "2026-08-24"
+      },
+      {
+        "ticker": "MCHP",
+        "catalyst_type": "dividend_ex_date",
+        "catalyst_date": "2026-08-24"
+      },
+      {
+        "ticker": "MMM",
+        "catalyst_type": "dividend_ex_date",
+        "catalyst_date": "2026-08-24"
+      },
+      {
+        "ticker": "PAYC",
+        "catalyst_type": "dividend_ex_date",
+        "catalyst_date": "2026-08-24"
+      },
+      {
+        "ticker": "TECH",
+        "catalyst_type": "dividend_ex_date",
+        "catalyst_date": "2026-08-24"
+      },
+      {
+        "ticker": "TSCO",
+        "catalyst_type": "dividend_ex_date",
+        "catalyst_date": "2026-08-24"
+      },
+      {
+        "ticker": "CDW",
+        "catalyst_type": "dividend_ex_date",
+        "catalyst_date": "2026-08-25"
+      },
+      {
+        "ticker": "JNJ",
+        "catalyst_type": "dividend_ex_date",
+        "catalyst_date": "2026-08-25"
+      },
+      {
+        "ticker": "PRU",
+        "catalyst_type": "dividend_ex_date",
+        "catalyst_date": "2026-08-25"
+      },
+      {
+        "ticker": "INTU",
+        "catalyst_type": "earnings",
+        "catalyst_date": "2026-08-25"
+      },
+      {
+        "ticker": "SPGI",
+        "catalyst_type": "dividend_ex_date",
+        "catalyst_date": "2026-08-26"
+      },
+      {
+        "ticker": "HPQ",
+        "catalyst_type": "earnings",
+        "catalyst_date": "2026-08-26"
+      },
+      {
+        "ticker": "SJM",
+        "catalyst_type": "earnings",
+        "catalyst_date": "2026-08-26"
+      },
+      {
+        "ticker": "BBWI",
+        "catalyst_type": "earnings",
+        "catalyst_date": "2026-08-26"
+      },
+      {
+        "ticker": "SNPS",
+        "catalyst_type": "earnings",
+        "catalyst_date": "2026-08-26"
+      },
+      {
+        "ticker": "A",
+        "catalyst_type": "earnings",
+        "catalyst_date": "2026-08-26"
+      },
+      {
+        "ticker": "CRM",
+        "catalyst_type": "earnings",
+        "catalyst_date": "2026-08-26"
+      },
+      {
+        "ticker": "NVDA",
+        "catalyst_type": "earnings",
+        "catalyst_date": "2026-08-26"
+      },
+      {
+        "ticker": "EXPE",
+        "catalyst_type": "dividend_ex_date",
+        "catalyst_date": "2026-08-27"
+      },
+      {
+        "ticker": "XYL",
+        "catalyst_type": "dividend_ex_date",
+        "catalyst_date": "2026-08-27"
+      },
+      {
+        "ticker": "HRL",
+        "catalyst_type": "earnings",
+        "catalyst_date": "2026-08-27"
+      },
+      {
+        "ticker": "BBY",
+        "catalyst_type": "earnings",
+        "catalyst_date": "2026-08-27"
+      },
+      {
+        "ticker": "ADSK",
+        "catalyst_type": "earnings",
+        "catalyst_date": "2026-08-27"
+      },
+      {
+        "ticker": "DLTR",
+        "catalyst_type": "earnings",
+        "catalyst_date": "2026-08-27"
+      },
+      {
+        "ticker": "DG",
+        "catalyst_type": "earnings",
+        "catalyst_date": "2026-08-27"
+      }
+    ],
+    "notable_streaks": []
+  }
+}
