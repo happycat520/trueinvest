@@ -1,20 +1,20 @@
 {
   "digest_date": "2026-08-21",
   "data_freshness": {
-    "insider": "Aug 21, 2026 08:07 AM PST",
-    "key_dates": "Aug 21, 2026 08:13 AM PST",
-    "price_movement": "Aug 21, 2026 08:19 AM PST"
+    "insider": "Aug 21, 2026 03:32 PM PST",
+    "key_dates": "Aug 21, 2026 03:39 PM PST",
+    "price_movement": "Aug 21, 2026 03:44 PM PST"
   },
   "signal_count": 3,
   "signals": [
     {
       "rule_id": "buying_into_strength",
       "label": "Buying Into Strength",
-      "ticker": "CE",
-      "company": "Celanese",
+      "ticker": "ARE",
+      "company": "Alexandria Real Estate",
       "facts": [
-        "3 insider buy(s) in the trailing 7 days ($104,696 combined)",
-        "3-day price streak: +6.50% (Weak Rally: Up streak on light volume. Low conviction \u2014 may stall or reverse.)"
+        "1 insider buy(s) in the trailing 7 days ($231,400 combined)",
+        "3-day price streak: +16.04% (Uptrend: Up streak with normal volume. No strong signal yet.)"
       ]
     },
     {
@@ -34,19 +34,19 @@
       "company": "Linde",
       "facts": [
         "1 insider buy(s) in the trailing 7 days ($47,911 combined)",
-        "3-day price streak: +2.27% (Weak Rally: Up streak on light volume. Low conviction \u2014 may stall or reverse.)"
+        "3-day price streak: +1.84% (Uptrend: Up streak with normal volume. No strong signal yet.)"
       ]
     }
   ],
   "summary": {
-    "latest_event_date": "2026-08-20",
-    "total_events_on_latest_date": 3,
+    "latest_event_date": "2026-08-21",
+    "total_events_on_latest_date": 1,
     "largest_transaction": {
-      "ticker": "MA",
-      "insider_name": "SACHIN J. MEHRA",
-      "role": "Chief Business Officer",
+      "ticker": "QCOM",
+      "insider_name": "Grech Patricia Y",
+      "role": "SVP, Chief Accounting Officer",
       "transaction_type": "sell",
-      "value_usd": 572070.0
+      "value_usd": 101781.0
     },
     "upcoming_this_week": [
       {
@@ -269,23 +269,51 @@
       {
         "ticker": "WMT",
         "direction": "down",
-        "total_move_pct": -11.31,
-        "signal_name": "Strong Bottom",
+        "total_move_pct": -10.07,
+        "signal_name": "Breakdown",
         "signal_strength": 3
       },
       {
         "ticker": "TJX",
         "direction": "down",
-        "total_move_pct": -7.05,
-        "signal_name": "Strong Bottom",
+        "total_move_pct": -6.96,
+        "signal_name": "Breakdown",
+        "signal_strength": 3
+      },
+      {
+        "ticker": "AEP",
+        "direction": "down",
+        "total_move_pct": -4.3,
+        "signal_name": "Breakdown",
         "signal_strength": 3
       },
       {
         "ticker": "PEG",
         "direction": "down",
-        "total_move_pct": -2.85,
+        "total_move_pct": -3.99,
         "signal_name": "Strong Bottom",
         "signal_strength": 3
+      },
+      {
+        "ticker": "HIG",
+        "direction": "down",
+        "total_move_pct": -2.07,
+        "signal_name": "Breakdown",
+        "signal_strength": 3
+      },
+      {
+        "ticker": "A",
+        "direction": "up",
+        "total_move_pct": 7.0,
+        "signal_name": "Strong Peak",
+        "signal_strength": 3
+      },
+      {
+        "ticker": "DVA",
+        "direction": "down",
+        "total_move_pct": -2.32,
+        "signal_name": "Near Bottom",
+        "signal_strength": 2
       }
     ]
   }

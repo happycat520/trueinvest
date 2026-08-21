@@ -3,9 +3,9 @@ Friday, August 21, 2026
 
 CROSS-SIGNAL COMBINATIONS
 ----------------------------------------
-CE — Buying Into Strength (Celanese)
-  - 3 insider buy(s) in the trailing 7 days ($104,696 combined)
-  - 3-day price streak: +6.50% (Weak Rally: Up streak on light volume. Low conviction — may stall or reverse.)
+ARE — Buying Into Strength (Alexandria Real Estate)
+  - 1 insider buy(s) in the trailing 7 days ($231,400 combined)
+  - 3-day price streak: +16.04% (Uptrend: Up streak with normal volume. No strong signal yet.)
 
 EXPE — Cluster Sell Ahead of a Catalyst (Expedia)
   - 2 distinct insiders sold in the trailing 7 days ($1,570,456 combined)
@@ -13,12 +13,12 @@ EXPE — Cluster Sell Ahead of a Catalyst (Expedia)
 
 LIN — Buying Into Strength (Linde)
   - 1 insider buy(s) in the trailing 7 days ($47,911 combined)
-  - 3-day price streak: +2.27% (Weak Rally: Up streak on light volume. Low conviction — may stall or reverse.)
+  - 3-day price streak: +1.84% (Uptrend: Up streak with normal volume. No strong signal yet.)
 
 LATEST INSIDER ACTIVITY
 ----------------------------------------
-3 insider transaction(s) dated 2026-08-20 (most recent available in the data).
-Largest: MA — SACHIN J. MEHRA (Chief Business Officer), sell $572,070.
+1 insider transaction(s) dated 2026-08-21 (most recent available in the data).
+Largest: QCOM — Grech Patricia Y (SVP, Chief Accounting Officer), sell $101,781.
 
 UPCOMING KEY DATES (7 DAYS)
 ----------------------------------------
@@ -35,11 +35,15 @@ ATO dividend ex date on 2026-08-24
 
 NOTABLE PRICE STREAKS
 ----------------------------------------
-WMT — Walmart: DOWN -11.31% (Strong Bottom)
-TJX — TJX Companies: DOWN -7.05% (Strong Bottom)
-PEG — Public Service Enterprise: DOWN -2.85% (Strong Bottom)
+WMT — Walmart: DOWN -10.07% (Breakdown)
+TJX — TJX Companies: DOWN -6.96% (Breakdown)
+AEP — American Electric Power: DOWN -4.30% (Breakdown)
+PEG — Public Service Enterprise: DOWN -3.99% (Strong Bottom)
+HIG — Hartford Financial: DOWN -2.07% (Breakdown)
+A — Agilent Technologies: UP +7.00% (Strong Peak)
+DVA — DaVita: DOWN -2.32% (Near Bottom)
 
 ----------------------------------------
-Data as of — Insider: Aug 21, 2026 08:07 AM PST · Key Dates: Aug 21, 2026 08:13 AM PST · Price Movement: Aug 21, 2026 08:19 AM PST
+Data as of — Insider: Aug 21, 2026 03:32 PM PST · Key Dates: Aug 21, 2026 03:39 PM PST · Price Movement: Aug 21, 2026 03:44 PM PST
 
 CrystalWell Analytics delivers signals derived from public SEC filings and market data. This email is informational only and is not investment advice or a recommendation to buy or sell any security.
