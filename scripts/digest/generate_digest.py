@@ -472,7 +472,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
       {disclaimer}<br><br>
       <a href="https://crystalwellanalytics.com/dashboard.html">View full dashboards</a>
       &nbsp;·&nbsp;
-      <a href="https://crystalwellanalytics.com/unsubscribe">Unsubscribe</a>
+      <a href="{{{{unsubscribe}}}}">Unsubscribe</a>
     </div>
   </div>
 </body>

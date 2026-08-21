@@ -51,9 +51,11 @@ jobs:
           git diff --staged --quiet || git commit -m "Data refresh + digest: $(date -u +%Y-%m-%d)"
           git push
 
-      # --- SEND STEP: not yet wired up - see scripts/digest/DESIGN.md section 7 ---
-      # - name: Send digest email
-      #   env:
-      #     SENDER_GMAIL: ${{ secrets.SENDER_GMAIL }}
-      #     SENDER_GMAIL_APP_PASS: ${{ secrets.SENDER_GMAIL_APP_PASS }}
-      #   run: python scripts/digest/send_digest_email.py
+      # --- SEND STEP: internal-list testing only via Brevo Campaigns API.
+      # Do NOT point BREVO_LIST_ID at a real subscriber list until the
+      # securities-law consult clears - see scripts/digest/DESIGN.md section 7/8. ---
+      - name: Send digest email
+        env:
+          BREVO_API_KEY: ${{ secrets.BREVO_API_KEY }}
+          BREVO_LIST_ID: ${{ secrets.BREVO_LIST_ID }}
+        run: python scripts/digest/send_digest_email.py
